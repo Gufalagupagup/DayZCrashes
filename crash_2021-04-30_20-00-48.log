@@ -1,0 +1,163 @@
+---------------------------------------------
+Log C:\DayZ\OmegaManager\servers\Terminus\profiles\crash_2021-04-30_20-00-48.log started at 30.04. 20:11:08
+
+
+
+------------------------------------
+NS3190111, 30.04 2021 20:11:08
+
+[wpnfsm] SurvivorM_Cyril:034 warning - pending event already posted, curr_event={ WpnEv id=LOAD1_BULLET pl=SurvivorM_Cyril:034 mag=Ammo_12gaPellets:048098 } new_event={ WpnEv id=LOAD1_BULLET pl=SurvivorM_Cyril:034 mag=Ammo_12gaPellets:048098 }
+Class:      'DayZPlayerInventory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:44
+scripts/4_World/systems\inventory\dayzplayerinventory.c:245
+scripts/4_World/classes\weapons\weaponmanager.c:743
+scripts/4_World/classes\weapons\weaponmanager.c:683
+scripts/4_World/classes\weapons\weaponmanager.c:356
+scripts/4_World/classes\useractionscomponent\actions\weapons\firearmactionloadmultibullet.c:166
+scripts/4_World/classes\useractionscomponent\actionmanagerserver.c:320
+scripts/4_World/entities\manbase\playerbase.c:2430
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @ArmA 2 ACR Weapon Pack;@RealNames;@Advanced Weapon Scopes;@[Remastered] Arma Weapon Pack;@DisableGardenPlots;@Vehicle3PP;@FlipTransport;@Cl0ud's Military Gear;@Notes;@NoMuffle;@WindstridesClothingPack;@GoreZ;@Mass'sManyItemOverhaul;@CleanChat;@DayZ-Expansion-Licensed;@DayZ-Expansion-Vehicles;@DayZ-Expansion-Core;@DayZ-Expansion;@Community-Online-Tools;@CF;@Unknown Ghillie Mod;@Saline Bag+;@Morphine Fixes Broken Legs;@MuchStuffPack;@Cheytac M200 from ArmA 2 Port;@[CrSk] BMW 525i E34;@Terminus GPlay Server Mod; serverMod @CFDZPlugin;@CFDZAddIn-Expansion; 
+
+
+------------------------------------
+NS3190111, 30.04 2021 20:11:09
+
+[wpnfsm] SurvivorM_Cyril:034 failed to perform weaponevent { WpnEv id=LOAD1_BULLET pl=SurvivorM_Cyril:034 mag=Ammo_12gaPellets:048098 } on SawedoffIzh43Shotgun:048101 which is in state DoubleBarrelLoadedLoaded<88c35a20> with physical state: J: false | Chamber_0: B(true) F(true) E(false) | Magazine_0: NULL | Chamber_1: B(true) F(true) E(false) | Magazine_1: NULL
+Class:      'DayZPlayerInventory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:44
+scripts/4_World/systems\inventory\dayzplayerinventory.c:269
+scripts/3_Game/tools\tools.c:600
+scripts/3_Game/tools\tools.c:289
+scripts/3_Game/tools\tools.c:404
+scripts/3_Game/dayzgame.c:2420
+CFTools/3_Game/game.c:72
+DayZExpansion/Core/3_Game/dayzexpansion_core\dayzgame.c:220
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @ArmA 2 ACR Weapon Pack;@RealNames;@Advanced Weapon Scopes;@[Remastered] Arma Weapon Pack;@DisableGardenPlots;@Vehicle3PP;@FlipTransport;@Cl0ud's Military Gear;@Notes;@NoMuffle;@WindstridesClothingPack;@GoreZ;@Mass'sManyItemOverhaul;@CleanChat;@DayZ-Expansion-Licensed;@DayZ-Expansion-Vehicles;@DayZ-Expansion-Core;@DayZ-Expansion;@Community-Online-Tools;@CF;@Unknown Ghillie Mod;@Saline Bag+;@Morphine Fixes Broken Legs;@MuchStuffPack;@Cheytac M200 from ArmA 2 Port;@[CrSk] BMW 525i E34;@Terminus GPlay Server Mod; serverMod @CFDZPlugin;@CFDZAddIn-Expansion; 
+
+
+------------------------------------
+NS3190111, 30.04 2021 20:11:10
+
+[wpnfsm] SurvivorM_Cyril:034 warning - pending event already posted, curr_event={ WpnEv id=LOAD1_BULLET pl=SurvivorM_Cyril:034 mag=Ammo_12gaPellets:048098 } new_event={ WpnEv id=MECHANISM pl=SurvivorM_Cyril:034 mag=null }
+Class:      'DayZPlayerInventory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:44
+scripts/4_World/systems\inventory\dayzplayerinventory.c:245
+scripts/4_World/classes\weapons\weaponmanager.c:758
+scripts/4_World/classes\weapons\weaponmanager.c:683
+scripts/4_World/classes\weapons\weaponmanager.c:393
+scripts/4_World/classes\useractionscomponent\actions\weapons\firearmactionmechanicmanipulate.c:42
+scripts/4_World/classes\useractionscomponent\actionmanagerserver.c:320
+scripts/4_World/entities\manbase\playerbase.c:2430
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @ArmA 2 ACR Weapon Pack;@RealNames;@Advanced Weapon Scopes;@[Remastered] Arma Weapon Pack;@DisableGardenPlots;@Vehicle3PP;@FlipTransport;@Cl0ud's Military Gear;@Notes;@NoMuffle;@WindstridesClothingPack;@GoreZ;@Mass'sManyItemOverhaul;@CleanChat;@DayZ-Expansion-Licensed;@DayZ-Expansion-Vehicles;@DayZ-Expansion-Core;@DayZ-Expansion;@Community-Online-Tools;@CF;@Unknown Ghillie Mod;@Saline Bag+;@Morphine Fixes Broken Legs;@MuchStuffPack;@Cheytac M200 from ArmA 2 Port;@[CrSk] BMW 525i E34;@Terminus GPlay Server Mod; serverMod @CFDZPlugin;@CFDZAddIn-Expansion; 
+
+
+------------------------------------
+NS3190111, 30.04 2021 20:11:10
+
+[wpnfsm] SurvivorM_Cyril:034 warning - pending event already posted, curr_event={ WpnEv id=LOAD1_BULLET pl=SurvivorM_Cyril:034 mag=Ammo_12gaPellets:048098 } new_event={ WpnEv id=MECHANISM pl=SurvivorM_Cyril:034 mag=null }
+Class:      'DayZPlayerInventory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:44
+scripts/4_World/systems\inventory\dayzplayerinventory.c:245
+scripts/4_World/classes\weapons\weaponmanager.c:758
+scripts/4_World/classes\weapons\weaponmanager.c:683
+scripts/4_World/classes\weapons\weaponmanager.c:393
+scripts/4_World/classes\useractionscomponent\actions\weapons\firearmactionmechanicmanipulate.c:42
+scripts/4_World/classes\useractionscomponent\actionmanagerserver.c:320
+scripts/4_World/entities\manbase\playerbase.c:2430
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @ArmA 2 ACR Weapon Pack;@RealNames;@Advanced Weapon Scopes;@[Remastered] Arma Weapon Pack;@DisableGardenPlots;@Vehicle3PP;@FlipTransport;@Cl0ud's Military Gear;@Notes;@NoMuffle;@WindstridesClothingPack;@GoreZ;@Mass'sManyItemOverhaul;@CleanChat;@DayZ-Expansion-Licensed;@DayZ-Expansion-Vehicles;@DayZ-Expansion-Core;@DayZ-Expansion;@Community-Online-Tools;@CF;@Unknown Ghillie Mod;@Saline Bag+;@Morphine Fixes Broken Legs;@MuchStuffPack;@Cheytac M200 from ArmA 2 Port;@[CrSk] BMW 525i E34;@Terminus GPlay Server Mod; serverMod @CFDZPlugin;@CFDZAddIn-Expansion; 
+
+
+------------------------------------
+NS3190111, 30.04 2021 20:11:10
+
+[wpnfsm] SurvivorM_Cyril:034 warning - pending event already posted, curr_event={ WpnEv id=LOAD1_BULLET pl=SurvivorM_Cyril:034 mag=Ammo_12gaPellets:048098 } new_event={ WpnEv id=MECHANISM pl=SurvivorM_Cyril:034 mag=null }
+Class:      'DayZPlayerInventory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:44
+scripts/4_World/systems\inventory\dayzplayerinventory.c:245
+scripts/4_World/classes\weapons\weaponmanager.c:758
+scripts/4_World/classes\weapons\weaponmanager.c:683
+scripts/4_World/classes\weapons\weaponmanager.c:393
+scripts/4_World/classes\useractionscomponent\actions\weapons\firearmactionmechanicmanipulate.c:42
+scripts/4_World/classes\useractionscomponent\actionmanagerserver.c:320
+scripts/4_World/entities\manbase\playerbase.c:2430
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @ArmA 2 ACR Weapon Pack;@RealNames;@Advanced Weapon Scopes;@[Remastered] Arma Weapon Pack;@DisableGardenPlots;@Vehicle3PP;@FlipTransport;@Cl0ud's Military Gear;@Notes;@NoMuffle;@WindstridesClothingPack;@GoreZ;@Mass'sManyItemOverhaul;@CleanChat;@DayZ-Expansion-Licensed;@DayZ-Expansion-Vehicles;@DayZ-Expansion-Core;@DayZ-Expansion;@Community-Online-Tools;@CF;@Unknown Ghillie Mod;@Saline Bag+;@Morphine Fixes Broken Legs;@MuchStuffPack;@Cheytac M200 from ArmA 2 Port;@[CrSk] BMW 525i E34;@Terminus GPlay Server Mod; serverMod @CFDZPlugin;@CFDZAddIn-Expansion; 
+
+
+------------------------------------
+NS3190111, 30.04 2021 20:11:11
+
+[wpnfsm] SurvivorM_Cyril:034 warning - pending event already posted, curr_event={ WpnEv id=LOAD1_BULLET pl=SurvivorM_Cyril:034 mag=Ammo_12gaPellets:048098 } new_event={ WpnEv id=MECHANISM pl=SurvivorM_Cyril:034 mag=null }
+Class:      'DayZPlayerInventory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:44
+scripts/4_World/systems\inventory\dayzplayerinventory.c:245
+scripts/4_World/classes\weapons\weaponmanager.c:758
+scripts/4_World/classes\weapons\weaponmanager.c:683
+scripts/4_World/classes\weapons\weaponmanager.c:393
+scripts/4_World/classes\useractionscomponent\actions\weapons\firearmactionmechanicmanipulate.c:42
+scripts/4_World/classes\useractionscomponent\actionmanagerserver.c:320
+scripts/4_World/entities\manbase\playerbase.c:2430
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @ArmA 2 ACR Weapon Pack;@RealNames;@Advanced Weapon Scopes;@[Remastered] Arma Weapon Pack;@DisableGardenPlots;@Vehicle3PP;@FlipTransport;@Cl0ud's Military Gear;@Notes;@NoMuffle;@WindstridesClothingPack;@GoreZ;@Mass'sManyItemOverhaul;@CleanChat;@DayZ-Expansion-Licensed;@DayZ-Expansion-Vehicles;@DayZ-Expansion-Core;@DayZ-Expansion;@Community-Online-Tools;@CF;@Unknown Ghillie Mod;@Saline Bag+;@Morphine Fixes Broken Legs;@MuchStuffPack;@Cheytac M200 from ArmA 2 Port;@[CrSk] BMW 525i E34;@Terminus GPlay Server Mod; serverMod @CFDZPlugin;@CFDZAddIn-Expansion; 
+
+
+------------------------------------
+NS3190111, 30.04 2021 20:11:13
+
+[wpnfsm] SurvivorM_Cyril:034 failed to perform weaponevent { WpnEv id=LOAD1_BULLET pl=SurvivorM_Cyril:034 mag=Ammo_12gaPellets:048098 } on SawedoffIzh43Shotgun:048101 which is in state DoubleBarrelLoadedLoaded<88c35a20> with physical state: J: false | Chamber_0: B(true) F(true) E(false) | Magazine_0: NULL | Chamber_1: B(true) F(true) E(false) | Magazine_1: NULL
+Class:      'DayZPlayerInventory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:44
+scripts/4_World/systems\inventory\dayzplayerinventory.c:269
+scripts/3_Game/tools\tools.c:600
+scripts/3_Game/tools\tools.c:289
+scripts/3_Game/tools\tools.c:404
+scripts/3_Game/dayzgame.c:2420
+CFTools/3_Game/game.c:72
+DayZExpansion/Core/3_Game/dayzexpansion_core\dayzgame.c:220
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @ArmA 2 ACR Weapon Pack;@RealNames;@Advanced Weapon Scopes;@[Remastered] Arma Weapon Pack;@DisableGardenPlots;@Vehicle3PP;@FlipTransport;@Cl0ud's Military Gear;@Notes;@NoMuffle;@WindstridesClothingPack;@GoreZ;@Mass'sManyItemOverhaul;@CleanChat;@DayZ-Expansion-Licensed;@DayZ-Expansion-Vehicles;@DayZ-Expansion-Core;@DayZ-Expansion;@Community-Online-Tools;@CF;@Unknown Ghillie Mod;@Saline Bag+;@Morphine Fixes Broken Legs;@MuchStuffPack;@Cheytac M200 from ArmA 2 Port;@[CrSk] BMW 525i E34;@Terminus GPlay Server Mod; serverMod @CFDZPlugin;@CFDZAddIn-Expansion; 
+
+
+------------------------------------
+NS3190111, 30.04 2021 20:11:14
+
+[wpnfsm] SurvivorM_Cyril:034 warning - pending event already posted, curr_event={ WpnEv id=LOAD1_BULLET pl=SurvivorM_Cyril:034 mag=Ammo_12gaPellets:048098 } new_event={ WpnEv id=LOAD1_BULLET pl=SurvivorM_Cyril:034 mag=Ammo_12gaPellets:048098 }
+Class:      'DayZPlayerInventory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:44
+scripts/4_World/systems\inventory\dayzplayerinventory.c:245
+scripts/4_World/classes\weapons\weaponmanager.c:743
+scripts/4_World/classes\weapons\weaponmanager.c:683
+scripts/4_World/classes\weapons\weaponmanager.c:356
+scripts/4_World/classes\useractionscomponent\actions\weapons\firearmactionloadmultibullet.c:166
+scripts/4_World/classes\useractionscomponent\actionmanagerserver.c:320
+scripts/4_World/entities\manbase\playerbase.c:2430
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @ArmA 2 ACR Weapon Pack;@RealNames;@Advanced Weapon Scopes;@[Remastered] Arma Weapon Pack;@DisableGardenPlots;@Vehicle3PP;@FlipTransport;@Cl0ud's Military Gear;@Notes;@NoMuffle;@WindstridesClothingPack;@GoreZ;@Mass'sManyItemOverhaul;@CleanChat;@DayZ-Expansion-Licensed;@DayZ-Expansion-Vehicles;@DayZ-Expansion-Core;@DayZ-Expansion;@Community-Online-Tools;@CF;@Unknown Ghillie Mod;@Saline Bag+;@Morphine Fixes Broken Legs;@MuchStuffPack;@Cheytac M200 from ArmA 2 Port;@[CrSk] BMW 525i E34;@Terminus GPlay Server Mod; serverMod @CFDZPlugin;@CFDZAddIn-Expansion; 

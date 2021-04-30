@@ -1,0 +1,2255 @@
+﻿20:00:53 BattlEye Server: Initialized (v1.218)
+20:00:53 SUCCESS: SteamGameServer_Init(0,8766,2302,2305,3,1.12.153891)
+20:00:53 BattlEye Server: Config entry: RConPassword 4b34fcb4485a96e5b24f0b74282779e6
+20:00:53 BattlEye Server: Config entry: RestrictRCon 0
+20:00:53 Roles assigned.
+20:00:53 Reading mission ...
+20:01:01 [CE][Hive] :: Initializing OFFLINE
+20:01:01 [CE][Hive] :: Loading core data ... 
+20:01:01 [CE][CoreData] :: 7 root classes, 18 defaults, 0 updaters...
+20:01:04 [CE][TypeSetup] :: 444 classes setuped...
+20:01:04 [CE][TypeSetup] :: 40 classes setuped...
+20:01:05 [CE][RegisterBind] :: 0 classes binded...
+20:01:05 [CE][RegisterConfig] :: 10823 config classes registered, 1 sub-counters...
+20:01:05 [CE][Hive] :: Loading map data ... 
+20:01:05 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:01:05 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:01:05 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:01:05 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:01:05 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:01:05 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:01:05 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:01:05 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:01:05 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:01:05 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:01:05 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:01:05 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:01:05 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:01:05 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:01:05 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:01:05 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:01:05 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:01:05 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:01:05 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:01:05 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:01:05 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:01:05 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:01:05 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:01:05 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:01:05 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:01:05 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:01:05 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:01:05 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:01:05 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:01:05 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:01:05 [CE][LoadPrototype] :: loaded 344 prototypes
+20:01:05   730 containers, 9437 points
+20:01:05   30 dispatches, 110 proxies
+20:01:05 !!! [CE][LoadPrototype] 12 groups have no points...
+20:01:05 !!! [CE][LoadPrototype] 1 Errors during XML parse...
+20:01:05 [CE][LoadPrototype] :: last group name: Land_Wreck_truck01_aban2_orange...
+20:01:05 [CE][LoadPrototype] :: loaded 0 prototypes
+20:01:05   0 containers, 0 points
+20:01:05   0 dispatches, 0 proxies
+20:01:05 [CE][LoadPrototype] :: last group name: Rail9...
+20:01:05 [CE][LoadMap] "Group" :: loaded 11755 groups, largest group range: 34.2
+20:01:05 [CE][LoadMap] "Dirt" :: loaded 0 groups, largest group range: 34.2
+20:01:05 [CE][LoadClusters] "Cluster" :: Loading files...
+20:01:05 [CE][LoadClusters] :: file: "mapgroupcluster.xml", 9 types, 50000 instances
+20:01:05 [CE][LoadClusters] :: file: "mapgroupcluster01", 9 types, 50000 instances
+20:01:06 [CE][LoadClusters] :: file: "mapgroupcluster02", 9 types, 50000 instances
+20:01:06 [CE][LoadClusters] :: file: "mapgroupcluster03", 9 types, 50000 instances
+20:01:06 [CE][LoadClusters] :: file: "mapgroupcluster04", 9 types, 17345 instances
+20:01:06 [CE][Storage] ver:21 stamp:31483, valid:yes, name:"mpmissions\Expansion.ChernarusPlusGloom\storage_1\data\types.bin"
+20:01:06 [CE][Storage] ver:21 stamp:31481, valid:yes, name:"mpmissions\Expansion.ChernarusPlusGloom\storage_1\data\types.001"
+20:01:06 [CE][Storage] ver:21 stamp:31482, valid:yes, name:"mpmissions\Expansion.ChernarusPlusGloom\storage_1\data\types.002"
+20:01:06 [CE][Storage] Restoring file "mpmissions\Expansion.ChernarusPlusGloom\storage_1\data\types.bin".
+20:01:06 !!! [CE][offlineDB] :: No Shutdown message present.
+20:01:06 [CE][offlineDB] :: Loaded 40 dynamic events 200 total types 0 total positions.
+20:01:06 [CE][offlineDB] :: Loaded 54 dynamic events 236 total types 0 total positions.
+20:01:06 [CE][Storage] ver:21 stamp:31483, valid:yes, name:"mpmissions\Expansion.ChernarusPlusGloom\storage_1\data\events.bin"
+20:01:06 [CE][Storage] ver:21 stamp:31481, valid:yes, name:"mpmissions\Expansion.ChernarusPlusGloom\storage_1\data\events.001"
+20:01:06 [CE][Storage] ver:21 stamp:31482, valid:yes, name:"mpmissions\Expansion.ChernarusPlusGloom\storage_1\data\events.002"
+20:01:06 [CE][Storage] Restoring file "mpmissions\Expansion.ChernarusPlusGloom\storage_1\data\events.bin".
+20:01:06 [CE][DynamicEvent] Load  Events:[54] Primary spawners: 54 Secondary spawners: 1
+20:01:06 [CE][Storage] ver:25 stamp:31484, valid:yes, name:"mpmissions\Expansion.ChernarusPlusGloom\storage_1\data\dynamic_000.bin"
+20:01:06 [CE][Storage] ver:25 stamp:31481, valid:yes, name:"mpmissions\Expansion.ChernarusPlusGloom\storage_1\data\dynamic_000.001"
+20:01:06 [CE][Storage] ver:25 stamp:31482, valid:yes, name:"mpmissions\Expansion.ChernarusPlusGloom\storage_1\data\dynamic_000.002"
+20:01:06 [CE][Storage] Restoring file "mpmissions\Expansion.ChernarusPlusGloom\storage_1\data\dynamic_000.bin" 1176 items.
+20:01:08   1176 items loaded.
+20:01:08 [CE][Storage] ver:25 stamp:31484, valid:yes, name:"mpmissions\Expansion.ChernarusPlusGloom\storage_1\data\dynamic_001.bin"
+20:01:08 [CE][Storage] ver:25 stamp:31481, valid:yes, name:"mpmissions\Expansion.ChernarusPlusGloom\storage_1\data\dynamic_001.001"
+20:01:08 [CE][Storage] ver:25 stamp:31482, valid:yes, name:"mpmissions\Expansion.ChernarusPlusGloom\storage_1\data\dynamic_001.002"
+20:01:08 [CE][Storage] Restoring file "mpmissions\Expansion.ChernarusPlusGloom\storage_1\data\dynamic_001.bin" 1601 items.
+20:01:09   1601 items loaded.
+20:01:09 [CE][Storage] ver:25 stamp:31484, valid:yes, name:"mpmissions\Expansion.ChernarusPlusGloom\storage_1\data\dynamic_002.bin"
+20:01:09 [CE][Storage] ver:25 stamp:31481, valid:yes, name:"mpmissions\Expansion.ChernarusPlusGloom\storage_1\data\dynamic_002.001"
+20:01:09 [CE][Storage] ver:25 stamp:31482, valid:yes, name:"mpmissions\Expansion.ChernarusPlusGloom\storage_1\data\dynamic_002.002"
+20:01:09 [CE][Storage] Restoring file "mpmissions\Expansion.ChernarusPlusGloom\storage_1\data\dynamic_002.bin" 2705 items.
+20:01:11 [Disconnect]: Client 1079242108 disconnecting
+20:01:11 [Disconnect]: Client 1079242108 early disconnect
+20:01:11   2705 items loaded.
+20:01:11 [CE][Storage] ver:25 stamp:31484, valid:yes, name:"mpmissions\Expansion.ChernarusPlusGloom\storage_1\data\dynamic_003.bin"
+20:01:11 [CE][Storage] ver:25 stamp:31481, valid:yes, name:"mpmissions\Expansion.ChernarusPlusGloom\storage_1\data\dynamic_003.001"
+20:01:11 [CE][Storage] ver:25 stamp:31482, valid:yes, name:"mpmissions\Expansion.ChernarusPlusGloom\storage_1\data\dynamic_003.002"
+20:01:11 [CE][Storage] Restoring file "mpmissions\Expansion.ChernarusPlusGloom\storage_1\data\dynamic_003.bin" 1966 items.
+20:01:12   1966 items loaded.
+20:01:12 [CE][Storage] ver:25 stamp:31484, valid:yes, name:"mpmissions\Expansion.ChernarusPlusGloom\storage_1\data\dynamic_004.bin"
+20:01:12 [CE][Storage] ver:25 stamp:31481, valid:yes, name:"mpmissions\Expansion.ChernarusPlusGloom\storage_1\data\dynamic_004.001"
+20:01:12 [CE][Storage] ver:25 stamp:31482, valid:yes, name:"mpmissions\Expansion.ChernarusPlusGloom\storage_1\data\dynamic_004.002"
+20:01:12 [CE][Storage] Restoring file "mpmissions\Expansion.ChernarusPlusGloom\storage_1\data\dynamic_004.bin" 1573 items.
+20:01:13   1573 items loaded.
+20:01:13 [CE][Storage] ver:25 stamp:31484, valid:yes, name:"mpmissions\Expansion.ChernarusPlusGloom\storage_1\data\dynamic_005.bin"
+20:01:13 [CE][Storage] ver:25 stamp:31481, valid:yes, name:"mpmissions\Expansion.ChernarusPlusGloom\storage_1\data\dynamic_005.001"
+20:01:13 [CE][Storage] ver:25 stamp:31482, valid:yes, name:"mpmissions\Expansion.ChernarusPlusGloom\storage_1\data\dynamic_005.002"
+20:01:13 [CE][Storage] Restoring file "mpmissions\Expansion.ChernarusPlusGloom\storage_1\data\dynamic_005.bin" 2103 items.
+20:01:15   2103 items loaded.
+20:01:15 [CE][Storage] ver:25 stamp:31484, valid:yes, name:"mpmissions\Expansion.ChernarusPlusGloom\storage_1\data\dynamic_006.bin"
+20:01:15 [CE][Storage] ver:25 stamp:31481, valid:yes, name:"mpmissions\Expansion.ChernarusPlusGloom\storage_1\data\dynamic_006.001"
+20:01:15 [CE][Storage] ver:25 stamp:31482, valid:yes, name:"mpmissions\Expansion.ChernarusPlusGloom\storage_1\data\dynamic_006.002"
+20:01:15 [CE][Storage] Restoring file "mpmissions\Expansion.ChernarusPlusGloom\storage_1\data\dynamic_006.bin" 0 items.
+20:01:15   0 items loaded.
+20:01:15 [CE][Storage] ver:25 stamp:31483, valid:yes, name:"mpmissions\Expansion.ChernarusPlusGloom\storage_1\data\dynamic_007.bin"
+20:01:15 [CE][Storage] ver:25 stamp:31484, valid:yes, name:"mpmissions\Expansion.ChernarusPlusGloom\storage_1\data\dynamic_007.001"
+20:01:15 [CE][Storage] ver:25 stamp:31482, valid:yes, name:"mpmissions\Expansion.ChernarusPlusGloom\storage_1\data\dynamic_007.002"
+20:01:15 [CE][Storage] Restoring file "mpmissions\Expansion.ChernarusPlusGloom\storage_1\data\dynamic_007.001" 0 items.
+20:01:15   0 items loaded.
+20:01:15 [CE][Storage] ver:25 stamp:31483, valid:yes, name:"mpmissions\Expansion.ChernarusPlusGloom\storage_1\data\dynamic_008.bin"
+20:01:15 [CE][Storage] ver:25 stamp:31484, valid:yes, name:"mpmissions\Expansion.ChernarusPlusGloom\storage_1\data\dynamic_008.001"
+20:01:15 [CE][Storage] ver:25 stamp:31482, valid:yes, name:"mpmissions\Expansion.ChernarusPlusGloom\storage_1\data\dynamic_008.002"
+20:01:15 [CE][Storage] Restoring file "mpmissions\Expansion.ChernarusPlusGloom\storage_1\data\dynamic_008.001" 1997 items.
+20:01:16 [Disconnect]: Client 130401764 disconnecting
+20:01:16 [Disconnect]: Client 130401764 early disconnect
+20:01:16   1997 items loaded.
+20:01:16 [CE][Storage] ver:25 stamp:31483, valid:yes, name:"mpmissions\Expansion.ChernarusPlusGloom\storage_1\data\dynamic_009.bin"
+20:01:16 [CE][Storage] ver:25 stamp:31484, valid:yes, name:"mpmissions\Expansion.ChernarusPlusGloom\storage_1\data\dynamic_009.001"
+20:01:16 [CE][Storage] ver:25 stamp:31482, valid:yes, name:"mpmissions\Expansion.ChernarusPlusGloom\storage_1\data\dynamic_009.002"
+20:01:16 [CE][Storage] Restoring file "mpmissions\Expansion.ChernarusPlusGloom\storage_1\data\dynamic_009.001" 2395 items.
+20:01:18   2395 items loaded.
+20:01:18 [CE][Storage] ver:25 stamp:31483, valid:yes, name:"mpmissions\Expansion.ChernarusPlusGloom\storage_1\data\dynamic_010.bin"
+20:01:18 [CE][Storage] ver:25 stamp:31484, valid:yes, name:"mpmissions\Expansion.ChernarusPlusGloom\storage_1\data\dynamic_010.001"
+20:01:18 [CE][Storage] ver:25 stamp:31482, valid:yes, name:"mpmissions\Expansion.ChernarusPlusGloom\storage_1\data\dynamic_010.002"
+20:01:18 [CE][Storage] Restoring file "mpmissions\Expansion.ChernarusPlusGloom\storage_1\data\dynamic_010.001" 1302 items.
+20:01:19   1302 items loaded.
+20:01:19 [CE][Storage] ver:25 stamp:31483, valid:yes, name:"mpmissions\Expansion.ChernarusPlusGloom\storage_1\data\dynamic_011.bin"
+20:01:19 [CE][Storage] ver:25 stamp:31484, valid:yes, name:"mpmissions\Expansion.ChernarusPlusGloom\storage_1\data\dynamic_011.001"
+20:01:19 [CE][Storage] ver:25 stamp:31482, valid:yes, name:"mpmissions\Expansion.ChernarusPlusGloom\storage_1\data\dynamic_011.002"
+20:01:19 [CE][Storage] Restoring file "mpmissions\Expansion.ChernarusPlusGloom\storage_1\data\dynamic_011.001" 157 items.
+20:01:19   157 items loaded.
+20:01:19 [CE][Storage] ver:26 stamp:31483, valid:yes, name:"mpmissions\Expansion.ChernarusPlusGloom\storage_1\data\building.bin"
+20:01:19 [CE][Storage] ver:26 stamp:31481, valid:yes, name:"mpmissions\Expansion.ChernarusPlusGloom\storage_1\data\building.001"
+20:01:19 [CE][Storage] ver:26 stamp:31482, valid:yes, name:"mpmissions\Expansion.ChernarusPlusGloom\storage_1\data\building.002"
+20:01:19 [CE][Storage] Restoring file "mpmissions\Expansion.ChernarusPlusGloom\storage_1\data\building.bin" 42 items.
+20:01:19   42 items loaded.
+20:01:19 [CE][Storage] ver:25 stamp:31484, valid:yes, name:"mpmissions\Expansion.ChernarusPlusGloom\storage_1\data\vehicles.bin"
+20:01:19 [CE][Storage] ver:25 stamp:31481, valid:yes, name:"mpmissions\Expansion.ChernarusPlusGloom\storage_1\data\vehicles.001"
+20:01:19 [CE][Storage] ver:25 stamp:31482, valid:yes, name:"mpmissions\Expansion.ChernarusPlusGloom\storage_1\data\vehicles.002"
+20:01:19 [CE][Storage] Restoring file "mpmissions\Expansion.ChernarusPlusGloom\storage_1\data\vehicles.bin" 89 items.
+20:01:20   89 items loaded.
+20:01:20 [CE][Hive] :: Storage load took:14.00 seconds, recovery stamp:31484
+20:01:20   entity: 40248, building: 42
+20:01:20   no lifetime: 65
+20:01:20   pathgraph's: 2501
+20:01:20 [CE][Hive] :: Initializing ... 
+20:01:20 [CE][InitializeMap] :: initialized: 10
+20:01:20 [CE][Hive] :: Initializing spawners ... 
+20:01:21 [CE][LootRespawner] (PRIDummy) :: Initially (re)spawned:0, Nominal:18746, Total in Map: 17142 at 0 (sec)
+20:01:21   tests:0, repeats:0 fails:0, overtime:0
+20:01:21 [CE][DynEvent] :: 54 types
+20:01:21 [00] AmbientHen
+20:01:21   Primary Spawner: "Ambient", active: yes, repeat: 1
+20:01:21 [01] AnimalBear
+20:01:21   Primary Spawner: "Animal", active: yes, repeat: 1
+20:01:21 [02] AnimalCow
+20:01:21   Primary Spawner: "Animal", active: yes, repeat: 1
+20:01:21 [03] AnimalDeer
+20:01:21   Primary Spawner: "Animal", active: yes, repeat: 1
+20:01:21 [04] AnimalGoat
+20:01:21   Primary Spawner: "Animal", active: yes, repeat: 1
+20:01:21 [05] AnimalPig
+20:01:21   Primary Spawner: "Animal", active: yes, repeat: 1
+20:01:21 [06] AnimalRoeDeer
+20:01:21   Primary Spawner: "Animal", active: yes, repeat: 1
+20:01:21 [07] AnimalSheep
+20:01:21   Primary Spawner: "Animal", active: yes, repeat: 1
+20:01:21 [08] AnimalWildBoar
+20:01:21   Primary Spawner: "Animal", active: yes, repeat: 1
+20:01:21 [09] AnimalWolf
+20:01:21   Primary Spawner: "Animal", active: yes, repeat: 1
+20:01:21 [10] InfectedArmy
+20:01:21   Primary Spawner: "Infected", active: yes, repeat: 1
+20:01:21 [11] InfectedCity
+20:01:21   Primary Spawner: "Infected", active: yes, repeat: 1
+20:01:21 [12] InfectedCityTier1
+20:01:21   Primary Spawner: "Infected", active: yes, repeat: 1
+20:01:21 [13] InfectedFirefighter
+20:01:21   Primary Spawner: "Infected", active: yes, repeat: 1
+20:01:21 [14] InfectedIndustrial
+20:01:21   Primary Spawner: "Infected", active: yes, repeat: 1
+20:01:21 [15] InfectedMedic
+20:01:21   Primary Spawner: "Infected", active: yes, repeat: 1
+20:01:21 [16] InfectedPolice
+20:01:21   Primary Spawner: "Infected", active: yes, repeat: 1
+20:01:21 [17] InfectedPrisoner
+20:01:21   Primary Spawner: "Infected", active: yes, repeat: 1
+20:01:21 [18] InfectedReligious
+20:01:21   Primary Spawner: "Infected", active: yes, repeat: 1
+20:01:21 [19] InfectedSolitude
+20:01:21   Primary Spawner: "Infected", active: yes, repeat: 1
+20:01:21 [20] InfectedVillage
+20:01:21   Primary Spawner: "Infected", active: yes, repeat: 1
+20:01:21 [21] InfectedVillageTier1
+20:01:21   Primary Spawner: "Infected", active: yes, repeat: 1
+20:01:21 [22] ItemPlanks
+20:01:21   Primary Spawner: "Item", active: yes, repeat: 1
+20:01:21 [23] Loot
+20:01:21   Primary Spawner: "Loot", active: yes, repeat: 2
+20:01:21 [24] StaticHeliCrash
+20:01:21   Primary Spawner: "Vehicle", active: yes, repeat: 1
+20:01:21   Secondary Spawner: "Infected", active: yes, repeat: 1
+20:01:21 [25] StaticPoliceCar
+20:01:21   Primary Spawner: "Vehicle", active: yes, repeat: 1
+20:01:21 [26] TrajectoryApple
+20:01:21   Primary Spawner: "Trajectory", active: yes, repeat: 1
+20:01:21 [27] TrajectoryCanina
+20:01:21   Primary Spawner: "Trajectory", active: yes, repeat: 1
+20:01:21 [28] TrajectoryConiferous
+20:01:21   Primary Spawner: "Trajectory", active: yes, repeat: 1
+20:01:21 [29] TrajectoryDeciduous
+20:01:21   Primary Spawner: "Trajectory", active: yes, repeat: 1
+20:01:21 [30] TrajectoryHumus
+20:01:21   Primary Spawner: "Trajectory", active: yes, repeat: 1
+20:01:21 [31] TrajectoryPear
+20:01:21   Primary Spawner: "Trajectory", active: yes, repeat: 1
+20:01:21 [32] TrajectoryPlum
+20:01:21   Primary Spawner: "Trajectory", active: yes, repeat: 1
+20:01:21 [33] TrajectorySambucus
+20:01:21   Primary Spawner: "Trajectory", active: yes, repeat: 1
+20:01:21 [34] TrajectoryStones
+20:01:21   Primary Spawner: "Trajectory", active: yes, repeat: 1
+20:01:21 [35] VehicleCrSk_BMW_525i_E34
+20:01:21   Primary Spawner: "Vehicle", active: yes, repeat: 1
+20:01:21 [36] VehicleCrSk_BMW_525i_E34_Red
+20:01:21   Primary Spawner: "Vehicle", active: yes, repeat: 1
+20:01:21 [37] VehicleCrSk_BMW_525i_E34_Black
+20:01:21   Primary Spawner: "Vehicle", active: yes, repeat: 1
+20:01:21 [38] VehicleCrSk_BMW_525i_E34_Beater
+20:01:21   Primary Spawner: "Vehicle", active: yes, repeat: 1
+20:01:21 [39] VehicleCrSk_BMW_525i_E34_Purple
+20:01:21   Primary Spawner: "Vehicle", active: yes, repeat: 1
+20:01:21 [40] VehicleCivilianSedan
+20:01:21   Primary Spawner: "Vehicle", active: yes, repeat: 1
+20:01:21 [41] VehicleHatchback02
+20:01:21   Primary Spawner: "Vehicle", active: yes, repeat: 1
+20:01:21 [42] VehicleOffroadHatchback
+20:01:21   Primary Spawner: "Vehicle", active: yes, repeat: 1
+20:01:21 [43] VehicleSedan02
+20:01:21   Primary Spawner: "Vehicle", active: yes, repeat: 1
+20:01:21 [44] VehicleTruck01
+20:01:21   Primary Spawner: "Vehicle", active: yes, repeat: 1
+20:01:21 [45] VehicleUAZ
+20:01:21   Primary Spawner: "Vehicle", active: yes, repeat: 1
+20:01:21 [46] VehicleVodnik
+20:01:21   Primary Spawner: "Vehicle", active: yes, repeat: 1
+20:01:21 [47] VehicleBus
+20:01:21   Primary Spawner: "Vehicle", active: yes, repeat: 1
+20:01:21 [48] VehicleMH6Helicopter
+20:01:21   Primary Spawner: "Vehicle", active: yes, repeat: 1
+20:01:21 [49] VehicleMerlinHelicopter
+20:01:21   Primary Spawner: "Vehicle", active: yes, repeat: 1
+20:01:21 [50] VehicleUh1hHelicopter
+20:01:21   Primary Spawner: "Vehicle", active: yes, repeat: 1
+20:01:21 [51] VehicleUtilityBoat
+20:01:21   Primary Spawner: "Vehicle", active: yes, repeat: 1
+20:01:21 [52] VehicleZodiacBoat
+20:01:21   Primary Spawner: "Vehicle", active: yes, repeat: 1
+20:01:21 [53] AmbientHare
+20:01:21   Primary Spawner: "Ambient", active: yes, repeat: 1
+20:01:21 [CE][Hive] :: Initializing of spawners done.
+20:01:21 [CE][Hive] :: Init sequence finished.
+20:01:22 [IdleMode] Entering IN - save processed
+20:01:23 BattlEye Server: Player #0 (UKSF)Liggy117 (51.19.91.46:2304) connected
+20:01:23 Player (UKSF)Liggy117 connecting.
+20:01:23 [StateMachine]: Player (UKSF)Liggy117 (dpnid 1729163709 uid ) Entering WaitAuthPlayerLoginState
+20:01:23 BattlEye Server: Player #1 Spexed (81.225.200.7:2304) connected
+20:01:23 Player Spexed connecting.
+20:01:23 [StateMachine]: Player Spexed (dpnid 239193938 uid ) Entering WaitAuthPlayerLoginState
+20:01:23 BattlEye Server: Player #2 Survivor (83.247.53.78:2304) connected
+20:01:23 Player Survivor connecting.
+20:01:23 [StateMachine]: Player Survivor (dpnid 1124798131 uid ) Entering WaitAuthPlayerLoginState
+20:01:23 BattlEye Server: Connected to BE Master
+20:01:23 BattlEye Server: Player #3 |BWA| DieHappy* (94.43.246.6:2304) connected
+20:01:23 Player |BWA| DieHappy* connecting.
+20:01:23 [StateMachine]: Player |BWA| DieHappy* (dpnid 1689326781 uid ) Entering WaitAuthPlayerLoginState
+20:01:23 BattlEye Server: Player #4 imhyprr (70.174.20.13:2304) connected
+20:01:23 Player imhyprr connecting.
+20:01:23 [StateMachine]: Player imhyprr (dpnid 67377475 uid ) Entering WaitAuthPlayerLoginState
+20:01:23 [IdleMode] Leaving OUT
+20:01:24 BattlEye Server: Player #0 (UKSF)Liggy117 - BE GUID: a8c7493e762cd03edd55ba90217c9fe4
+20:01:24 [Login]: Adding player McNugget (1574057254) to login queue at position 8
+20:01:24 BattlEye Server: Player #2 Survivor - BE GUID: aed7bb1a6247b6768bd348941736f7eb
+20:01:24 BattlEye Server: Player #1 Spexed - BE GUID: c9b382fe3b28948414d0ede86d256aa9
+20:01:24 BattlEye Server: Verified GUID (a8c7493e762cd03edd55ba90217c9fe4) of player #0 (UKSF)Liggy117
+20:01:24 Player (UKSF)Liggy117 connected (id=jB_bOEJyq9mvxR8JFgT_HcJvTp5Ia8yUrdy9ee9TBak=).
+20:01:24 Player "(UKSF)Liggy117" is connected (steamID=76561198207985320)
+20:01:24 BattlEye Server: Verified GUID (aed7bb1a6247b6768bd348941736f7eb) of player #2 Survivor
+20:01:24 Player Survivor connected (id=X36VI23vs-8vFWd46RFQixHQ06CgdyeM0Aodesa-I7Y=).
+20:01:24 Player "Survivor" is connected (steamID=76561198062643573)
+20:01:24 BattlEye Server: Player #4 imhyprr - BE GUID: 0a3e33bb462cf8f1480bce1971ca62f9
+20:01:24 BattlEye Server: Verified GUID (c9b382fe3b28948414d0ede86d256aa9) of player #1 Spexed
+20:01:24 Player Spexed connected (id=OUDxO02um_kuOJaRRzT0FmbHEtKZgjPJBptBu6L53wk=).
+20:01:24 Player "Spexed" is connected (steamID=76561198086292422)
+20:01:24 BattlEye Server: Player #3 |BWA| DieHappy* - BE GUID: 452424e3c2ed7cedba347fa28f8b2f64
+20:01:24 BattlEye Server: Verified GUID (0a3e33bb462cf8f1480bce1971ca62f9) of player #4 imhyprr
+20:01:24 Player imhyprr connected (id=HAJJVBThGTHWWvl6Zq0-6FYwGZCEYK-XImVzxQY81pw=).
+20:01:24 Player "imhyprr" is connected (steamID=76561198386699258)
+20:01:25 BattlEye Server: Verified GUID (452424e3c2ed7cedba347fa28f8b2f64) of player #3 |BWA| DieHappy*
+20:01:25 Player |BWA| DieHappy* connected (id=uEktker4HmGzb7oPb6kYDEdZanzgm_1F8HgLLGlJh6A=).
+20:01:25 Player "|BWA| DieHappy*" is connected (steamID=76561198121255388)
+20:01:25 [Login]: Adding player Jared (1438395202) to login queue at position 9
+20:01:25 [Login]: Adding player Bullebengt (1152201041) to login queue at position 10
+20:01:27 [Login]: Adding player RPR Bert (1305097590) to login queue at position 11
+20:01:27 [Login]: Adding player Chicken__Wing (1935168659) to login queue at position 12
+20:01:29 [StateMachine]: Player (UKSF)Liggy117 (dpnid 1729163709 uid jB_bOEJyq9mvxR8JFgT_HcJvTp5Ia8yUrdy9ee9TBak=) Entering DBGetLoginTimeLoginState
+20:01:29 [StateMachine]: Player (UKSF)Liggy117 (dpnid 1729163709 uid jB_bOEJyq9mvxR8JFgT_HcJvTp5Ia8yUrdy9ee9TBak=) Entering DBWaitLoginTimeLoginState
+20:01:30 [StateMachine]: Player Survivor (dpnid 1124798131 uid X36VI23vs-8vFWd46RFQixHQ06CgdyeM0Aodesa-I7Y=) Entering DBGetLoginTimeLoginState
+20:01:30 [StateMachine]: Player Survivor (dpnid 1124798131 uid X36VI23vs-8vFWd46RFQixHQ06CgdyeM0Aodesa-I7Y=) Entering DBWaitLoginTimeLoginState
+20:01:31 [Login]: Adding player Berti477 (770252021) to login queue at position 13
+20:01:31 [Login]: Adding player |BWA| Dudu (845407147) to login queue at position 14
+20:01:31 [StateMachine]: Player Spexed (dpnid 239193938 uid OUDxO02um_kuOJaRRzT0FmbHEtKZgjPJBptBu6L53wk=) Entering DBGetLoginTimeLoginState
+20:01:31 [StateMachine]: Player Spexed (dpnid 239193938 uid OUDxO02um_kuOJaRRzT0FmbHEtKZgjPJBptBu6L53wk=) Entering DBWaitLoginTimeLoginState
+20:01:31 [Login]: Adding player Kalamuchta (774533766) to login queue at position 15
+20:01:32 [StateMachine]: Player imhyprr (dpnid 67377475 uid HAJJVBThGTHWWvl6Zq0-6FYwGZCEYK-XImVzxQY81pw=) Entering DBGetLoginTimeLoginState
+20:01:32 [StateMachine]: Player imhyprr (dpnid 67377475 uid HAJJVBThGTHWWvl6Zq0-6FYwGZCEYK-XImVzxQY81pw=) Entering DBWaitLoginTimeLoginState
+20:01:34 [Login]: Adding player Frenz (30091404) to login queue at position 16
+20:01:35 [StateMachine]: Player |BWA| DieHappy* (dpnid 1689326781 uid uEktker4HmGzb7oPb6kYDEdZanzgm_1F8HgLLGlJh6A=) Entering DBGetLoginTimeLoginState
+20:01:35 [StateMachine]: Player |BWA| DieHappy* (dpnid 1689326781 uid uEktker4HmGzb7oPb6kYDEdZanzgm_1F8HgLLGlJh6A=) Entering DBWaitLoginTimeLoginState
+20:01:35 [Login]: Adding player Manjarno (1631521522) to login queue at position 17
+20:01:44 [StateMachine]: Player (UKSF)Liggy117 (dpnid 1729163709 uid jB_bOEJyq9mvxR8JFgT_HcJvTp5Ia8yUrdy9ee9TBak=) Entering DBGetCharacterLoginState
+20:01:44 [StateMachine]: Player (UKSF)Liggy117 (dpnid 1729163709 uid jB_bOEJyq9mvxR8JFgT_HcJvTp5Ia8yUrdy9ee9TBak=) Entering CreateNetObjectsLoginState
+20:01:44 Player (UKSF)Liggy117 dpid=1729163709 at pos (4821.0, 342.6, 10245.1) 
+20:01:44 [StateMachine]: Player (UKSF)Liggy117 (dpnid 1729163709 uid jB_bOEJyq9mvxR8JFgT_HcJvTp5Ia8yUrdy9ee9TBak=) Entering PreloadCamLoginState
+20:01:44 [StateMachine]: Player (UKSF)Liggy117 (dpnid 1729163709 uid jB_bOEJyq9mvxR8JFgT_HcJvTp5Ia8yUrdy9ee9TBak=) Entering WaitPreloadCamLoginState
+20:01:45 [StateMachine]: Player Survivor (dpnid 1124798131 uid X36VI23vs-8vFWd46RFQixHQ06CgdyeM0Aodesa-I7Y=) Entering DBGetCharacterLoginState
+20:01:45 [StateMachine]: Player Survivor (dpnid 1124798131 uid X36VI23vs-8vFWd46RFQixHQ06CgdyeM0Aodesa-I7Y=) Entering CreateNetObjectsLoginState
+20:01:45 Player Survivor dpid=1124798131 at pos (1966.5, 120.4, 3405.8) 
+20:01:45 [StateMachine]: Player Survivor (dpnid 1124798131 uid X36VI23vs-8vFWd46RFQixHQ06CgdyeM0Aodesa-I7Y=) Entering PreloadCamLoginState
+20:01:45 [StateMachine]: Player Survivor (dpnid 1124798131 uid X36VI23vs-8vFWd46RFQixHQ06CgdyeM0Aodesa-I7Y=) Entering WaitPreloadCamLoginState
+20:01:46 [StateMachine]: Player Spexed (dpnid 239193938 uid OUDxO02um_kuOJaRRzT0FmbHEtKZgjPJBptBu6L53wk=) Entering DBGetCharacterLoginState
+20:01:46 [StateMachine]: Player Spexed (dpnid 239193938 uid OUDxO02um_kuOJaRRzT0FmbHEtKZgjPJBptBu6L53wk=) Entering CreateNetObjectsLoginState
+20:01:46 Player Spexed dpid=239193938 at pos (4578.4, 319.1, 8236.9) 
+20:01:46 [StateMachine]: Player Spexed (dpnid 239193938 uid OUDxO02um_kuOJaRRzT0FmbHEtKZgjPJBptBu6L53wk=) Entering PreloadCamLoginState
+20:01:46 [StateMachine]: Player Spexed (dpnid 239193938 uid OUDxO02um_kuOJaRRzT0FmbHEtKZgjPJBptBu6L53wk=) Entering WaitPreloadCamLoginState
+20:01:47 [StateMachine]: Player imhyprr (dpnid 67377475 uid HAJJVBThGTHWWvl6Zq0-6FYwGZCEYK-XImVzxQY81pw=) Entering DBGetCharacterLoginState
+20:01:47 [StateMachine]: Player imhyprr (dpnid 67377475 uid HAJJVBThGTHWWvl6Zq0-6FYwGZCEYK-XImVzxQY81pw=) Entering CreateNetObjectsLoginState
+20:01:47 Player imhyprr dpid=67377475 at pos (8668.9, 195.0, 13986.3) 
+20:01:47 [StateMachine]: Player imhyprr (dpnid 67377475 uid HAJJVBThGTHWWvl6Zq0-6FYwGZCEYK-XImVzxQY81pw=) Entering PreloadCamLoginState
+20:01:47 [StateMachine]: Player imhyprr (dpnid 67377475 uid HAJJVBThGTHWWvl6Zq0-6FYwGZCEYK-XImVzxQY81pw=) Entering WaitPreloadCamLoginState
+20:01:50 [StateMachine]: Player |BWA| DieHappy* (dpnid 1689326781 uid uEktker4HmGzb7oPb6kYDEdZanzgm_1F8HgLLGlJh6A=) Entering DBGetCharacterLoginState
+20:01:50 [StateMachine]: Player |BWA| DieHappy* (dpnid 1689326781 uid uEktker4HmGzb7oPb6kYDEdZanzgm_1F8HgLLGlJh6A=) Entering CreateNetObjectsLoginState
+20:01:50 Player |BWA| DieHappy* dpid=1689326781 at pos (1230.6, 364.4, 12294.0) 
+20:01:50 [StateMachine]: Player |BWA| DieHappy* (dpnid 1689326781 uid uEktker4HmGzb7oPb6kYDEdZanzgm_1F8HgLLGlJh6A=) Entering PreloadCamLoginState
+20:01:50 [StateMachine]: Player |BWA| DieHappy* (dpnid 1689326781 uid uEktker4HmGzb7oPb6kYDEdZanzgm_1F8HgLLGlJh6A=) Entering WaitPreloadCamLoginState
+20:01:51 [Login]: Adding player RPR Robby (15148455) to login queue at position 18
+20:01:52 [Login]: Adding player PikkuMika (27378181) to login queue at position 19
+20:01:55 [Login]: Adding player TerryFox (25081423) to login queue at position 20
+20:01:57 [Login]: Adding player Frank (22718353) to login queue at position 21
+20:01:57 [Login]: Adding player EddY Eddson (17854499) to login queue at position 22
+20:01:59 [StateMachine]: Player (UKSF)Liggy117 (dpnid 1729163709 uid jB_bOEJyq9mvxR8JFgT_HcJvTp5Ia8yUrdy9ee9TBak=) Entering GetLoadedCharLoginState
+20:02:01 <LOAD EXISTING CHAR>:
+    charID 58
+    playerID 58
+    dpnid 1729163709
+    uid jB_bOEJyq9mvxR8JFgT_HcJvTp5Ia8yUrdy9ee9TBak=
+20:02:01 [LoginMachine]: Add player Kukifix (145508643)
+20:02:01 [StateMachine]: Player Kukifix (dpnid 145508643 uid ) Entering AuthPlayerLoginState
+20:02:01 [StateMachine]: Player Survivor (dpnid 1124798131 uid X36VI23vs-8vFWd46RFQixHQ06CgdyeM0Aodesa-I7Y=) Entering GetLoadedCharLoginState
+20:02:01 <LOAD EXISTING CHAR>:
+    charID 242
+    playerID 242
+    dpnid 1124798131
+    uid X36VI23vs-8vFWd46RFQixHQ06CgdyeM0Aodesa-I7Y=
+20:02:01 [LoginMachine]: Add player AndyLT (820906156)
+20:02:01 [StateMachine]: Player AndyLT (dpnid 820906156 uid ) Entering AuthPlayerLoginState
+20:02:02 [Login]: Adding player Flux (45542583) to login queue at position 21
+20:02:03 BattlEye Server: Player #5 Kukifix (151.177.18.151:2304) connected
+20:02:03 Player Kukifix connecting.
+20:02:03 [StateMachine]: Player Kukifix (dpnid 145508643 uid ) Entering WaitAuthPlayerLoginState
+20:02:03 BattlEye Server: Player #6 AndyLT (82.32.112.182:2304) connected
+20:02:03 Player AndyLT connecting.
+20:02:03 [StateMachine]: Player AndyLT (dpnid 820906156 uid ) Entering WaitAuthPlayerLoginState
+20:02:03 BattlEye Server: RCon admin #0: (To Survivor) Survivor, welcome to Terminus! Enjoy your stay. 
+20:02:03 BattlEye Server: RCon admin #0: (To (UKSF)Liggy117) (UKSF)Liggy117, welcome to Terminus! Enjoy your stay. 
+20:02:03 [StateMachine]: Player imhyprr (dpnid 67377475 uid HAJJVBThGTHWWvl6Zq0-6FYwGZCEYK-XImVzxQY81pw=) Entering GetLoadedCharLoginState
+20:02:03 <LOAD EXISTING CHAR>:
+    charID 353
+    playerID 353
+    dpnid 67377475
+    uid HAJJVBThGTHWWvl6Zq0-6FYwGZCEYK-XImVzxQY81pw=
+20:02:03 [LoginMachine]: Add player |BWA| SoSoO (124539722)
+20:02:03 [StateMachine]: Player |BWA| SoSoO (dpnid 124539722 uid ) Entering AuthPlayerLoginState
+20:02:04 BattlEye Server: Player #5 Kukifix - BE GUID: db58bedcb84bea6a176e45d67336b9d3
+20:02:04 BattlEye Server: Player #6 AndyLT - BE GUID: 9099b947f94840794fc86eb7784fbcf4
+20:02:04 BattlEye Server: Verified GUID (db58bedcb84bea6a176e45d67336b9d3) of player #5 Kukifix
+20:02:04 Player Kukifix connected (id=JZkjY6_Bx9U3-TFLWwEcYYgLhALZoeLA_fzJAN5QRHo=).
+20:02:04 Player "Kukifix" is connected (steamID=76561198091212202)
+20:02:04 BattlEye Server: Verified GUID (9099b947f94840794fc86eb7784fbcf4) of player #6 AndyLT
+20:02:04 Player AndyLT connected (id=XNFrXPdJgzoHVgB8T4ArFJFZ-u3heBZdVFlNWdS1mrw=).
+20:02:04 Player "AndyLT" is connected (steamID=76561198124707610)
+20:02:05 [StateMachine]: Player Spexed (dpnid 239193938 uid OUDxO02um_kuOJaRRzT0FmbHEtKZgjPJBptBu6L53wk=) Entering GetLoadedCharLoginState
+20:02:05 <LOAD EXISTING CHAR>:
+    charID 853
+    playerID 853
+    dpnid 239193938
+    uid OUDxO02um_kuOJaRRzT0FmbHEtKZgjPJBptBu6L53wk=
+20:02:05 [LoginMachine]: Add player Rhino Ket (1494052746)
+20:02:05 [StateMachine]: Player Rhino Ket (dpnid 1494052746 uid ) Entering AuthPlayerLoginState
+20:02:05 BattlEye Server: Player #7 |BWA| SoSoO (95.104.43.138:2304) connected
+20:02:05 Player |BWA| SoSoO connecting.
+20:02:05 [StateMachine]: Player |BWA| SoSoO (dpnid 124539722 uid ) Entering WaitAuthPlayerLoginState
+20:02:06 BattlEye Server: Player #7 |BWA| SoSoO - BE GUID: feeccce405e548f0bb3acc22b7d958d2
+20:02:06 BattlEye Server: Player #8 Rhino Ket (86.139.133.223:2304) connected
+20:02:06 Player Rhino Ket connecting.
+20:02:06 [StateMachine]: Player Rhino Ket (dpnid 1494052746 uid ) Entering WaitAuthPlayerLoginState
+20:02:06 BattlEye Server: Verified GUID (feeccce405e548f0bb3acc22b7d958d2) of player #7 |BWA| SoSoO
+20:02:06 Player |BWA| SoSoO connected (id=eT97_abyXtAOZQfqIWJU_7k9fWF0WHrg0aBUl-_ArTE=).
+20:02:06 Player "|BWA| SoSoO" is connected (steamID=76561198125994793)
+20:02:07 BattlEye Server: Player #8 Rhino Ket - BE GUID: b15764feba95181cab914bdf6ab17427
+20:02:07 [Login]: Adding player Muty (1582169015) to login queue at position 20
+20:02:07 BattlEye Server: Verified GUID (b15764feba95181cab914bdf6ab17427) of player #8 Rhino Ket
+20:02:07 Player Rhino Ket connected (id=dt0IeWRNhlfG4Cm-_mUrzB2E-BMVva8PeXRDK3X8K3A=).
+20:02:07 Player "Rhino Ket" is connected (steamID=76561198144595912)
+20:02:08 [StateMachine]: Player |BWA| DieHappy* (dpnid 1689326781 uid uEktker4HmGzb7oPb6kYDEdZanzgm_1F8HgLLGlJh6A=) Entering GetLoadedCharLoginState
+20:02:08 <LOAD EXISTING CHAR>:
+    charID 738
+    playerID 738
+    dpnid 1689326781
+    uid uEktker4HmGzb7oPb6kYDEdZanzgm_1F8HgLLGlJh6A=
+20:02:08 [LoginMachine]: Add player Amikaze (171572614)
+20:02:08 [StateMachine]: Player Amikaze (dpnid 171572614 uid ) Entering AuthPlayerLoginState
+20:02:08 BattlEye Server: RCon admin #0: (To imhyprr) imhyprr, welcome to Terminus! Enjoy your stay. 
+20:02:08 BattlEye Server: RCon admin #0: (To Spexed) Spexed, welcome to Terminus! Enjoy your stay. 
+20:02:09 BattlEye Server: Player #9 Amikaze (86.60.225.158:2304) connected
+20:02:09 Player Amikaze connecting.
+20:02:09 [StateMachine]: Player Amikaze (dpnid 171572614 uid ) Entering WaitAuthPlayerLoginState
+20:02:10 BattlEye Server: Player #9 Amikaze - BE GUID: ad66666d724614de2787bc3dbb4c1cf0
+20:02:10 [StateMachine]: Player |BWA| SoSoO (dpnid 124539722 uid eT97_abyXtAOZQfqIWJU_7k9fWF0WHrg0aBUl-_ArTE=) Entering DBGetLoginTimeLoginState
+20:02:10 [StateMachine]: Player |BWA| SoSoO (dpnid 124539722 uid eT97_abyXtAOZQfqIWJU_7k9fWF0WHrg0aBUl-_ArTE=) Entering DBWaitLoginTimeLoginState
+20:02:10 [StateMachine]: Player Kukifix (dpnid 145508643 uid JZkjY6_Bx9U3-TFLWwEcYYgLhALZoeLA_fzJAN5QRHo=) Entering DBGetLoginTimeLoginState
+20:02:10 [StateMachine]: Player Kukifix (dpnid 145508643 uid JZkjY6_Bx9U3-TFLWwEcYYgLhALZoeLA_fzJAN5QRHo=) Entering DBWaitLoginTimeLoginState
+20:02:10 BattlEye Server: Verified GUID (ad66666d724614de2787bc3dbb4c1cf0) of player #9 Amikaze
+20:02:10 Player Amikaze connected (id=LYmgjGa-2_06yKdFqcuW8uhaTt5PdqDcx23-T8YU4Qc=).
+20:02:10 Player "Amikaze" is connected (steamID=76561198012978619)
+20:02:12 [StateMachine]: Player AndyLT (dpnid 820906156 uid XNFrXPdJgzoHVgB8T4ArFJFZ-u3heBZdVFlNWdS1mrw=) Entering DBGetLoginTimeLoginState
+20:02:12 [StateMachine]: Player AndyLT (dpnid 820906156 uid XNFrXPdJgzoHVgB8T4ArFJFZ-u3heBZdVFlNWdS1mrw=) Entering DBWaitLoginTimeLoginState
+20:02:13 [StateMachine]: Player Rhino Ket (dpnid 1494052746 uid dt0IeWRNhlfG4Cm-_mUrzB2E-BMVva8PeXRDK3X8K3A=) Entering DBGetLoginTimeLoginState
+20:02:13 [StateMachine]: Player Rhino Ket (dpnid 1494052746 uid dt0IeWRNhlfG4Cm-_mUrzB2E-BMVva8PeXRDK3X8K3A=) Entering DBWaitLoginTimeLoginState
+20:02:17 [StateMachine]: Player Amikaze (dpnid 171572614 uid LYmgjGa-2_06yKdFqcuW8uhaTt5PdqDcx23-T8YU4Qc=) Entering DBGetLoginTimeLoginState
+20:02:17 [StateMachine]: Player Amikaze (dpnid 171572614 uid LYmgjGa-2_06yKdFqcuW8uhaTt5PdqDcx23-T8YU4Qc=) Entering DBWaitLoginTimeLoginState
+20:02:17 [CE][SpawnRandomLoot] (StaticPoliceCar) :: ChildType: Land_Wreck_sed01_aban2_police, lootmin: 3, lootmax: 5, wanted: 3
+20:02:17 [CE][SpawnRandomLoot] (StaticPoliceCar) :: ChildType: Land_Wreck_sed01_aban1_police, lootmin: 3, lootmax: 5, wanted: 3
+20:02:17 [CE][SpawnRandomLoot] (StaticPoliceCar) :: ChildType: Land_Wreck_sed01_aban1_police, lootmin: 3, lootmax: 5, wanted: 4
+20:02:17 [CE][SpawnRandomLoot] (StaticPoliceCar) :: ChildType: Land_Wreck_sed01_aban1_police, lootmin: 3, lootmax: 5, wanted: 3
+20:02:17 [CE][SpawnRandomLoot] (StaticPoliceCar) :: ChildType: Land_Wreck_sed01_aban1_police, lootmin: 3, lootmax: 5, wanted: 4
+20:02:17 [CE][SpawnRandomLoot] (StaticPoliceCar) :: ChildType: Land_Wreck_sed01_aban1_police, lootmin: 3, lootmax: 5, wanted: 3
+20:02:17 [CE][SpawnRandomLoot] (StaticPoliceCar) :: ChildType: Land_Wreck_sed01_aban2_police, lootmin: 3, lootmax: 5, wanted: 3
+20:02:17 [CE][SpawnRandomLoot] (StaticPoliceCar) :: ChildType: Land_Wreck_sed01_aban2_police, lootmin: 3, lootmax: 5, wanted: 4
+20:02:17 [CE][SpawnRandomLoot] (StaticPoliceCar) :: ChildType: Land_Wreck_sed01_aban2_police, lootmin: 3, lootmax: 5, wanted: 4
+20:02:17 [CE][SpawnRandomLoot] (StaticPoliceCar) :: ChildType: Land_Wreck_sed01_aban2_police, lootmin: 3, lootmax: 5, wanted: 3
+20:02:20 BattlEye Server: RCon admin #0: (To |BWA| DieHappy*) |BWA| DieHappy*, welcome to Terminus! Enjoy your stay. 
+20:02:22 [Login]: Adding player MayneKeen (24524979) to login queue at position 20
+20:02:25 [StateMachine]: Player |BWA| SoSoO (dpnid 124539722 uid eT97_abyXtAOZQfqIWJU_7k9fWF0WHrg0aBUl-_ArTE=) Entering DBGetCharacterLoginState
+20:02:25 [StateMachine]: Player |BWA| SoSoO (dpnid 124539722 uid eT97_abyXtAOZQfqIWJU_7k9fWF0WHrg0aBUl-_ArTE=) Entering CreateNetObjectsLoginState
+20:02:25 Player |BWA| SoSoO dpid=124539722 at pos (1541.4, 276.0, 12051.0) 
+20:02:25 [StateMachine]: Player |BWA| SoSoO (dpnid 124539722 uid eT97_abyXtAOZQfqIWJU_7k9fWF0WHrg0aBUl-_ArTE=) Entering PreloadCamLoginState
+20:02:25 [StateMachine]: Player |BWA| SoSoO (dpnid 124539722 uid eT97_abyXtAOZQfqIWJU_7k9fWF0WHrg0aBUl-_ArTE=) Entering WaitPreloadCamLoginState
+20:02:25 [StateMachine]: Player Kukifix (dpnid 145508643 uid JZkjY6_Bx9U3-TFLWwEcYYgLhALZoeLA_fzJAN5QRHo=) Entering DBGetCharacterLoginState
+20:02:25 [StateMachine]: Player Kukifix (dpnid 145508643 uid JZkjY6_Bx9U3-TFLWwEcYYgLhALZoeLA_fzJAN5QRHo=) Entering CreateNetObjectsLoginState
+20:02:25 Player Kukifix dpid=145508643 at pos (4107.4, 339.0, 10588.1) 
+20:02:25 [StateMachine]: Player Kukifix (dpnid 145508643 uid JZkjY6_Bx9U3-TFLWwEcYYgLhALZoeLA_fzJAN5QRHo=) Entering PreloadCamLoginState
+20:02:25 [StateMachine]: Player Kukifix (dpnid 145508643 uid JZkjY6_Bx9U3-TFLWwEcYYgLhALZoeLA_fzJAN5QRHo=) Entering WaitPreloadCamLoginState
+20:02:27 [StateMachine]: Player AndyLT (dpnid 820906156 uid XNFrXPdJgzoHVgB8T4ArFJFZ-u3heBZdVFlNWdS1mrw=) Entering DBGetCharacterLoginState
+20:02:27 [StateMachine]: Player AndyLT (dpnid 820906156 uid XNFrXPdJgzoHVgB8T4ArFJFZ-u3heBZdVFlNWdS1mrw=) Entering CreateNetObjectsLoginState
+20:02:27 Player AndyLT dpid=820906156 at pos (1961.9, 123.0, 3520.4) 
+20:02:27 [StateMachine]: Player AndyLT (dpnid 820906156 uid XNFrXPdJgzoHVgB8T4ArFJFZ-u3heBZdVFlNWdS1mrw=) Entering PreloadCamLoginState
+20:02:27 [StateMachine]: Player AndyLT (dpnid 820906156 uid XNFrXPdJgzoHVgB8T4ArFJFZ-u3heBZdVFlNWdS1mrw=) Entering WaitPreloadCamLoginState
+20:02:28 [Login]: Adding player RPR DE_LICIOUS (29286677) to login queue at position 21
+20:02:28 [StateMachine]: Player Rhino Ket (dpnid 1494052746 uid dt0IeWRNhlfG4Cm-_mUrzB2E-BMVva8PeXRDK3X8K3A=) Entering DBGetCharacterLoginState
+20:02:28 [StateMachine]: Player Rhino Ket (dpnid 1494052746 uid dt0IeWRNhlfG4Cm-_mUrzB2E-BMVva8PeXRDK3X8K3A=) Entering CreateNetObjectsLoginState
+20:02:28 Player Rhino Ket dpid=1494052746 at pos (1964.7, 122.9, 3518.0) 
+20:02:28 [StateMachine]: Player Rhino Ket (dpnid 1494052746 uid dt0IeWRNhlfG4Cm-_mUrzB2E-BMVva8PeXRDK3X8K3A=) Entering PreloadCamLoginState
+20:02:28 [StateMachine]: Player Rhino Ket (dpnid 1494052746 uid dt0IeWRNhlfG4Cm-_mUrzB2E-BMVva8PeXRDK3X8K3A=) Entering WaitPreloadCamLoginState
+20:02:32 [StateMachine]: Player Amikaze (dpnid 171572614 uid LYmgjGa-2_06yKdFqcuW8uhaTt5PdqDcx23-T8YU4Qc=) Entering DBGetCharacterLoginState
+20:02:32 [StateMachine]: Player Amikaze (dpnid 171572614 uid LYmgjGa-2_06yKdFqcuW8uhaTt5PdqDcx23-T8YU4Qc=) Entering CreateNetObjectsLoginState
+20:02:32 Player Amikaze dpid=171572614 at pos (824.3, 49.3, 2507.1) 
+20:02:32 [StateMachine]: Player Amikaze (dpnid 171572614 uid LYmgjGa-2_06yKdFqcuW8uhaTt5PdqDcx23-T8YU4Qc=) Entering PreloadCamLoginState
+20:02:32 [StateMachine]: Player Amikaze (dpnid 171572614 uid LYmgjGa-2_06yKdFqcuW8uhaTt5PdqDcx23-T8YU4Qc=) Entering WaitPreloadCamLoginState
+20:02:33 [Login]: Adding player starberry (1330331871) to login queue at position 22
+20:02:41 [StateMachine]: Player Kukifix (dpnid 145508643 uid JZkjY6_Bx9U3-TFLWwEcYYgLhALZoeLA_fzJAN5QRHo=) Entering GetLoadedCharLoginState
+20:02:41 <LOAD EXISTING CHAR>:
+    charID 851
+    playerID 851
+    dpnid 145508643
+    uid JZkjY6_Bx9U3-TFLWwEcYYgLhALZoeLA_fzJAN5QRHo=
+20:02:41 [LoginMachine]: Add player Mermaider (60209249)
+20:02:41 [StateMachine]: Player Mermaider (dpnid 60209249 uid ) Entering AuthPlayerLoginState
+20:02:42 [StateMachine]: Player |BWA| SoSoO (dpnid 124539722 uid eT97_abyXtAOZQfqIWJU_7k9fWF0WHrg0aBUl-_ArTE=) Entering GetLoadedCharLoginState
+20:02:42 <LOAD EXISTING CHAR>:
+    charID 747
+    playerID 747
+    dpnid 124539722
+    uid eT97_abyXtAOZQfqIWJU_7k9fWF0WHrg0aBUl-_ArTE=
+20:02:42 [LoginMachine]: Add player |BWA|bekeka (656130962)
+20:02:42 [StateMachine]: Player |BWA|bekeka (dpnid 656130962 uid ) Entering AuthPlayerLoginState
+20:02:42 BattlEye Server: Player #10 Mermaider (5.18.189.225:3255) connected
+20:02:42 Player Mermaider connecting.
+20:02:42 [StateMachine]: Player Mermaider (dpnid 60209249 uid ) Entering WaitAuthPlayerLoginState
+20:02:43 BattlEye Server: RCon admin #0: (To |BWA| SoSoO) |BWA| SoSoO, welcome to Terminus! Enjoy your stay. 
+20:02:43 BattlEye Server: RCon admin #0: (To Kukifix) Kukifix, welcome to Terminus! Enjoy your stay. 
+20:02:43 BattlEye Server: Player #11 |BWA|bekeka (46.49.72.164:2304) connected
+20:02:43 Player |BWA|bekeka connecting.
+20:02:43 [StateMachine]: Player |BWA|bekeka (dpnid 656130962 uid ) Entering WaitAuthPlayerLoginState
+20:02:43 [StateMachine]: Player AndyLT (dpnid 820906156 uid XNFrXPdJgzoHVgB8T4ArFJFZ-u3heBZdVFlNWdS1mrw=) Entering GetLoadedCharLoginState
+20:02:44 <LOAD EXISTING CHAR>:
+    charID 395
+    playerID 395
+    dpnid 820906156
+    uid XNFrXPdJgzoHVgB8T4ArFJFZ-u3heBZdVFlNWdS1mrw=
+20:02:44 [LoginMachine]: Add player JuicyApple (16071324)
+20:02:44 [StateMachine]: Player JuicyApple (dpnid 16071324 uid ) Entering AuthPlayerLoginState
+20:02:44 [StateMachine]: Player Rhino Ket (dpnid 1494052746 uid dt0IeWRNhlfG4Cm-_mUrzB2E-BMVva8PeXRDK3X8K3A=) Entering GetLoadedCharLoginState
+20:02:44 <LOAD EXISTING CHAR>:
+    charID 396
+    playerID 396
+    dpnid 1494052746
+    uid dt0IeWRNhlfG4Cm-_mUrzB2E-BMVva8PeXRDK3X8K3A=
+20:02:44 [LoginMachine]: Add player McNugget (1574057254)
+20:02:44 [StateMachine]: Player McNugget (dpnid 1574057254 uid ) Entering AuthPlayerLoginState
+20:02:44 BattlEye Server: Player #10 Mermaider - BE GUID: ae02005e46f40f3aae7c34d58df572d2
+20:02:44 BattlEye Server: Verified GUID (ae02005e46f40f3aae7c34d58df572d2) of player #10 Mermaider
+20:02:44 Player Mermaider connected (id=ncI6qs60Kx1rQkocDjWbCuPnXO5lkCrDpbXV4-ciguc=).
+20:02:44 Player "Mermaider" is connected (steamID=76561198015167345)
+20:02:45 BattlEye Server: Player #11 |BWA|bekeka - BE GUID: 5b83adea592597ea1d1cc42c9cc4f973
+20:02:45 BattlEye Server: Player #12 JuicyApple (81.232.66.64:2304) connected
+20:02:45 Player JuicyApple connecting.
+20:02:45 [StateMachine]: Player JuicyApple (dpnid 16071324 uid ) Entering WaitAuthPlayerLoginState
+20:02:45 BattlEye Server: Verified GUID (5b83adea592597ea1d1cc42c9cc4f973) of player #11 |BWA|bekeka
+20:02:45 Player |BWA|bekeka connected (id=wrbBr47_7QOlbknQTc7Tkt2xm0Orr_Olu_2sLt7OkXQ=).
+20:02:45 Player "|BWA|bekeka" is connected (steamID=76561198153367661)
+20:02:46 BattlEye Server: Player #12 JuicyApple - BE GUID: cb364f59bef75f122cf19b87a4079fdf
+20:02:46 BattlEye Server: Verified GUID (cb364f59bef75f122cf19b87a4079fdf) of player #12 JuicyApple
+20:02:46 Player JuicyApple connected (id=8lg1r66OdEIEjrYmWM_1EyxHiMIwTPZ78JYNWIiGZxg=).
+20:02:46 Player "JuicyApple" is connected (steamID=76561198074360321)
+20:02:46 BattlEye Server: Player #13 McNugget (37.201.146.66:50842) connected
+20:02:46 Player McNugget connecting.
+20:02:46 [StateMachine]: Player McNugget (dpnid 1574057254 uid ) Entering WaitAuthPlayerLoginState
+20:02:47 [StateMachine]: Player Mermaider (dpnid 60209249 uid ncI6qs60Kx1rQkocDjWbCuPnXO5lkCrDpbXV4-ciguc=) Entering DBGetLoginTimeLoginState
+20:02:47 [StateMachine]: Player Mermaider (dpnid 60209249 uid ncI6qs60Kx1rQkocDjWbCuPnXO5lkCrDpbXV4-ciguc=) Entering DBWaitLoginTimeLoginState
+20:02:47 [StateMachine]: Player JuicyApple (dpnid 16071324 uid 8lg1r66OdEIEjrYmWM_1EyxHiMIwTPZ78JYNWIiGZxg=) Entering DBGetLoginTimeLoginState
+20:02:47 [StateMachine]: Player JuicyApple (dpnid 16071324 uid 8lg1r66OdEIEjrYmWM_1EyxHiMIwTPZ78JYNWIiGZxg=) Entering DBWaitLoginTimeLoginState
+20:02:48 BattlEye Server: Player #13 McNugget - BE GUID: 8f099f6c53b6a5e6a454db2e72f1d069
+20:02:48 BattlEye Server: Verified GUID (8f099f6c53b6a5e6a454db2e72f1d069) of player #13 McNugget
+20:02:48 Player McNugget connected (id=NxUrm_UJ0n0CZMNjIxR_yvKrCzMz2vFzvnjFIGZ6QR8=).
+20:02:48 Player "McNugget" is connected (steamID=76561198038916205)
+20:02:48 [StateMachine]: Player Amikaze (dpnid 171572614 uid LYmgjGa-2_06yKdFqcuW8uhaTt5PdqDcx23-T8YU4Qc=) Entering GetLoadedCharLoginState
+20:02:48 <LOAD EXISTING CHAR>:
+    charID 475
+    playerID 475
+    dpnid 171572614
+    uid LYmgjGa-2_06yKdFqcuW8uhaTt5PdqDcx23-T8YU4Qc=
+20:02:48 [LoginMachine]: Add player Jared (1438395202)
+20:02:48 [StateMachine]: Player Jared (dpnid 1438395202 uid ) Entering AuthPlayerLoginState
+20:02:49 BattlEye Server: RCon admin #0: (To Rhino Ket) Rhino Ket, welcome to Terminus! Enjoy your stay. 
+20:02:49 BattlEye Server: RCon admin #0: (To AndyLT) AndyLT, welcome to Terminus! Enjoy your stay. 
+20:02:49 BattlEye Server: Player #14 Jared (174.57.163.236:2304) connected
+20:02:49 Player Jared connecting.
+20:02:49 [StateMachine]: Player Jared (dpnid 1438395202 uid ) Entering WaitAuthPlayerLoginState
+20:02:51 BattlEye Server: Player #14 Jared - BE GUID: af3b2c306cb8fe22a878d7122e7ab63d
+20:02:51 BattlEye Server: Verified GUID (af3b2c306cb8fe22a878d7122e7ab63d) of player #14 Jared
+20:02:51 Player Jared connected (id=k1v-TVzHZ_uGPS5-QJtps9IPopXsZ9JcYlgvYXiEbCw=).
+20:02:51 Player "Jared" is connected (steamID=76561199044968651)
+20:02:53 BattlEye Server: RCon admin #0: (To Amikaze) Amikaze, welcome to Terminus! Enjoy your stay. 
+20:02:54 [StateMachine]: Player McNugget (dpnid 1574057254 uid NxUrm_UJ0n0CZMNjIxR_yvKrCzMz2vFzvnjFIGZ6QR8=) Entering DBGetLoginTimeLoginState
+20:02:54 [StateMachine]: Player McNugget (dpnid 1574057254 uid NxUrm_UJ0n0CZMNjIxR_yvKrCzMz2vFzvnjFIGZ6QR8=) Entering DBWaitLoginTimeLoginState
+20:02:55 [StateMachine]: Player |BWA|bekeka (dpnid 656130962 uid wrbBr47_7QOlbknQTc7Tkt2xm0Orr_Olu_2sLt7OkXQ=) Entering DBGetLoginTimeLoginState
+20:02:55 [StateMachine]: Player |BWA|bekeka (dpnid 656130962 uid wrbBr47_7QOlbknQTc7Tkt2xm0Orr_Olu_2sLt7OkXQ=) Entering DBWaitLoginTimeLoginState
+20:02:58 [StateMachine]: Player Jared (dpnid 1438395202 uid k1v-TVzHZ_uGPS5-QJtps9IPopXsZ9JcYlgvYXiEbCw=) Entering DBGetLoginTimeLoginState
+20:02:58 [StateMachine]: Player Jared (dpnid 1438395202 uid k1v-TVzHZ_uGPS5-QJtps9IPopXsZ9JcYlgvYXiEbCw=) Entering DBWaitLoginTimeLoginState
+20:03:00 [Login]: Adding player Jeffery (1720958115) to login queue at position 18
+20:03:02 [StateMachine]: Player Mermaider (dpnid 60209249 uid ncI6qs60Kx1rQkocDjWbCuPnXO5lkCrDpbXV4-ciguc=) Entering DBGetCharacterLoginState
+20:03:02 [StateMachine]: Player Mermaider (dpnid 60209249 uid ncI6qs60Kx1rQkocDjWbCuPnXO5lkCrDpbXV4-ciguc=) Entering CreateNetObjectsLoginState
+20:03:02 Player Mermaider dpid=60209249 at pos (11470.2, 222.2, 7523.0) 
+20:03:02 [StateMachine]: Player Mermaider (dpnid 60209249 uid ncI6qs60Kx1rQkocDjWbCuPnXO5lkCrDpbXV4-ciguc=) Entering PreloadCamLoginState
+20:03:02 [StateMachine]: Player Mermaider (dpnid 60209249 uid ncI6qs60Kx1rQkocDjWbCuPnXO5lkCrDpbXV4-ciguc=) Entering WaitPreloadCamLoginState
+20:03:02 [StateMachine]: Player JuicyApple (dpnid 16071324 uid 8lg1r66OdEIEjrYmWM_1EyxHiMIwTPZ78JYNWIiGZxg=) Entering DBGetCharacterLoginState
+20:03:02 [StateMachine]: Player JuicyApple (dpnid 16071324 uid 8lg1r66OdEIEjrYmWM_1EyxHiMIwTPZ78JYNWIiGZxg=) Entering CreateNetObjectsLoginState
+20:03:02 Player JuicyApple dpid=16071324 at pos (4870.0, 339.1, 10219.5) 
+20:03:02 [StateMachine]: Player JuicyApple (dpnid 16071324 uid 8lg1r66OdEIEjrYmWM_1EyxHiMIwTPZ78JYNWIiGZxg=) Entering PreloadCamLoginState
+20:03:02 [StateMachine]: Player JuicyApple (dpnid 16071324 uid 8lg1r66OdEIEjrYmWM_1EyxHiMIwTPZ78JYNWIiGZxg=) Entering WaitPreloadCamLoginState
+20:03:09 [StateMachine]: Player McNugget (dpnid 1574057254 uid NxUrm_UJ0n0CZMNjIxR_yvKrCzMz2vFzvnjFIGZ6QR8=) Entering DBGetCharacterLoginState
+20:03:09 [StateMachine]: Player McNugget (dpnid 1574057254 uid NxUrm_UJ0n0CZMNjIxR_yvKrCzMz2vFzvnjFIGZ6QR8=) Entering CreateNetObjectsLoginState
+20:03:09 Player McNugget dpid=1574057254 at pos (3704.9, 402.1, 5946.8) 
+20:03:09 [StateMachine]: Player McNugget (dpnid 1574057254 uid NxUrm_UJ0n0CZMNjIxR_yvKrCzMz2vFzvnjFIGZ6QR8=) Entering PreloadCamLoginState
+20:03:09 [StateMachine]: Player McNugget (dpnid 1574057254 uid NxUrm_UJ0n0CZMNjIxR_yvKrCzMz2vFzvnjFIGZ6QR8=) Entering WaitPreloadCamLoginState
+20:03:10 [Login]: Adding player kapci (1806549412) to login queue at position 19
+20:03:10 [StateMachine]: Player |BWA|bekeka (dpnid 656130962 uid wrbBr47_7QOlbknQTc7Tkt2xm0Orr_Olu_2sLt7OkXQ=) Entering DBGetCharacterLoginState
+20:03:10 [StateMachine]: Player |BWA|bekeka (dpnid 656130962 uid wrbBr47_7QOlbknQTc7Tkt2xm0Orr_Olu_2sLt7OkXQ=) Entering CreateNetObjectsLoginState
+20:03:10 Player |BWA|bekeka dpid=656130962 at pos (1562.6, 277.5, 11958.3) 
+20:03:10 [StateMachine]: Player |BWA|bekeka (dpnid 656130962 uid wrbBr47_7QOlbknQTc7Tkt2xm0Orr_Olu_2sLt7OkXQ=) Entering PreloadCamLoginState
+20:03:10 [StateMachine]: Player |BWA|bekeka (dpnid 656130962 uid wrbBr47_7QOlbknQTc7Tkt2xm0Orr_Olu_2sLt7OkXQ=) Entering WaitPreloadCamLoginState
+20:03:13 [StateMachine]: Player Jared (dpnid 1438395202 uid k1v-TVzHZ_uGPS5-QJtps9IPopXsZ9JcYlgvYXiEbCw=) Entering DBGetCharacterLoginState
+20:03:13 [StateMachine]: Player Jared (dpnid 1438395202 uid k1v-TVzHZ_uGPS5-QJtps9IPopXsZ9JcYlgvYXiEbCw=) Entering CreateNetObjectsLoginState
+20:03:13 Player Jared dpid=1438395202 at pos (11255.1, 313.4, 4270.6) 
+20:03:13 [StateMachine]: Player Jared (dpnid 1438395202 uid k1v-TVzHZ_uGPS5-QJtps9IPopXsZ9JcYlgvYXiEbCw=) Entering PreloadCamLoginState
+20:03:13 [StateMachine]: Player Jared (dpnid 1438395202 uid k1v-TVzHZ_uGPS5-QJtps9IPopXsZ9JcYlgvYXiEbCw=) Entering WaitPreloadCamLoginState
+20:03:19 [StateMachine]: Player Mermaider (dpnid 60209249 uid ncI6qs60Kx1rQkocDjWbCuPnXO5lkCrDpbXV4-ciguc=) Entering GetLoadedCharLoginState
+20:03:19 <LOAD EXISTING CHAR>:
+    charID 381
+    playerID 381
+    dpnid 60209249
+    uid ncI6qs60Kx1rQkocDjWbCuPnXO5lkCrDpbXV4-ciguc=
+20:03:19 [LoginMachine]: Add player Bullebengt (1152201041)
+20:03:19 [StateMachine]: Player Bullebengt (dpnid 1152201041 uid ) Entering AuthPlayerLoginState
+20:03:20 BattlEye Server: Player #15 Bullebengt (188.151.223.233:2304) connected
+20:03:20 Player Bullebengt connecting.
+20:03:20 [StateMachine]: Player Bullebengt (dpnid 1152201041 uid ) Entering WaitAuthPlayerLoginState
+20:03:22 [StateMachine]: Player JuicyApple (dpnid 16071324 uid 8lg1r66OdEIEjrYmWM_1EyxHiMIwTPZ78JYNWIiGZxg=) Entering GetLoadedCharLoginState
+20:03:22 <LOAD EXISTING CHAR>:
+    charID 377
+    playerID 377
+    dpnid 16071324
+    uid 8lg1r66OdEIEjrYmWM_1EyxHiMIwTPZ78JYNWIiGZxg=
+20:03:22 [LoginMachine]: Add player RPR Bert (1305097590)
+20:03:22 [StateMachine]: Player RPR Bert (dpnid 1305097590 uid ) Entering AuthPlayerLoginState
+20:03:22 BattlEye Server: Player #15 Bullebengt - BE GUID: f2852c42f2db290ca441255f85ec2b40
+20:03:22 BattlEye Server: Verified GUID (f2852c42f2db290ca441255f85ec2b40) of player #15 Bullebengt
+20:03:22 Player Bullebengt connected (id=GgXxc6zzCpzUzqB3hW29RepmgR5m0ag-d72Zc0VRxGY=).
+20:03:22 Player "Bullebengt" is connected (steamID=76561198070147751)
+20:03:23 BattlEye Server: RCon admin #0: (To JuicyApple) JuicyApple, welcome to Terminus! Enjoy your stay. 
+20:03:23 BattlEye Server: RCon admin #0: (To Mermaider) Mermaider, welcome to Terminus! Enjoy your stay. 
+20:03:24 BattlEye Server: Player #16 RPR Bert (78.21.156.166:2304) connected
+20:03:24 Player RPR Bert connecting.
+20:03:24 [StateMachine]: Player RPR Bert (dpnid 1305097590 uid ) Entering WaitAuthPlayerLoginState
+20:03:25 [StateMachine]: Player McNugget (dpnid 1574057254 uid NxUrm_UJ0n0CZMNjIxR_yvKrCzMz2vFzvnjFIGZ6QR8=) Entering GetLoadedCharLoginState
+20:03:25 <LOAD EXISTING CHAR>:
+    charID 743
+    playerID 743
+    dpnid 1574057254
+    uid NxUrm_UJ0n0CZMNjIxR_yvKrCzMz2vFzvnjFIGZ6QR8=
+20:03:25 [LoginMachine]: Add player Chicken__Wing (1935168659)
+20:03:25 [StateMachine]: Player Chicken__Wing (dpnid 1935168659 uid ) Entering AuthPlayerLoginState
+20:03:25 BattlEye Server: Player #16 RPR Bert - BE GUID: f67e633a6892aa4d4acf253e8322b838
+20:03:25 BattlEye Server: Verified GUID (f67e633a6892aa4d4acf253e8322b838) of player #16 RPR Bert
+20:03:25 Player RPR Bert connected (id=2p1gom4qX6Rpn2I4ZvG5G0zjCMC1SosKZnJZDNeqVdQ=).
+20:03:25 Player "RPR Bert" is connected (steamID=76561198239475434)
+20:03:25 [Disconnect]: Client 16071324 disconnecting
+20:03:25 [Disconnect]: Client 16071324 early disconnect
+20:03:25 [Disconnect]: Start script disconnect 16071324 (dbCharacterId 377 dbPlayerId 377) logoutTime 15
+20:03:26 BattlEye Server: Player #17 Chicken__Wing (95.140.187.152:35741) connected
+20:03:26 Player Chicken__Wing connecting.
+20:03:26 [StateMachine]: Player Chicken__Wing (dpnid 1935168659 uid ) Entering WaitAuthPlayerLoginState
+20:03:27 BattlEye Server: Player #17 Chicken__Wing - BE GUID: 92ef94dc92745d7bd8727055856ac54d
+20:03:28 BattlEye Server: Verified GUID (92ef94dc92745d7bd8727055856ac54d) of player #17 Chicken__Wing
+20:03:28 Player Chicken__Wing connected (id=E5UTtfn1dT7qHGK1eplot2pEGsCAbEtwEOeT_5xcta8=).
+20:03:28 Player "Chicken__Wing" is connected (steamID=76561198129189680)
+20:03:28 [StateMachine]: Player |BWA|bekeka (dpnid 656130962 uid wrbBr47_7QOlbknQTc7Tkt2xm0Orr_Olu_2sLt7OkXQ=) Entering GetLoadedCharLoginState
+20:03:28 <LOAD EXISTING CHAR>:
+    charID 745
+    playerID 745
+    dpnid 656130962
+    uid wrbBr47_7QOlbknQTc7Tkt2xm0Orr_Olu_2sLt7OkXQ=
+20:03:28 [LoginMachine]: Add player Berti477 (770252021)
+20:03:28 [StateMachine]: Player Berti477 (dpnid 770252021 uid ) Entering AuthPlayerLoginState
+20:03:28 BattlEye Server: RCon admin #0: (To McNugget) McNugget, welcome to Terminus! Enjoy your stay. 
+20:03:28 BattlEye Server: RCon admin #0: (To |BWA|bekeka) |BWA|bekeka, welcome to Terminus! Enjoy your stay. 
+20:03:29 BattlEye Server: Player #18 Berti477 (87.187.218.146:2304) connected
+20:03:29 Player Berti477 connecting.
+20:03:29 [StateMachine]: Player Berti477 (dpnid 770252021 uid ) Entering WaitAuthPlayerLoginState
+20:03:29 [Login]: Adding player BigDog (44106434) to login queue at position 16
+20:03:30 [StateMachine]: Player Bullebengt (dpnid 1152201041 uid GgXxc6zzCpzUzqB3hW29RepmgR5m0ag-d72Zc0VRxGY=) Entering DBGetLoginTimeLoginState
+20:03:30 [StateMachine]: Player Bullebengt (dpnid 1152201041 uid GgXxc6zzCpzUzqB3hW29RepmgR5m0ag-d72Zc0VRxGY=) Entering DBWaitLoginTimeLoginState
+20:03:30 [StateMachine]: Player Jared (dpnid 1438395202 uid k1v-TVzHZ_uGPS5-QJtps9IPopXsZ9JcYlgvYXiEbCw=) Entering GetLoadedCharLoginState
+20:03:30 <LOAD EXISTING CHAR>:
+    charID 858
+    playerID 858
+    dpnid 1438395202
+    uid k1v-TVzHZ_uGPS5-QJtps9IPopXsZ9JcYlgvYXiEbCw=
+20:03:30 [LoginMachine]: Add player |BWA| Dudu (845407147)
+20:03:30 [StateMachine]: Player |BWA| Dudu (dpnid 845407147 uid ) Entering AuthPlayerLoginState
+20:03:30 BattlEye Server: Player #18 Berti477 - BE GUID: 883391359f361796f846e1812352809f
+20:03:30 [StateMachine]: Player RPR Bert (dpnid 1305097590 uid 2p1gom4qX6Rpn2I4ZvG5G0zjCMC1SosKZnJZDNeqVdQ=) Entering DBGetLoginTimeLoginState
+20:03:30 [StateMachine]: Player RPR Bert (dpnid 1305097590 uid 2p1gom4qX6Rpn2I4ZvG5G0zjCMC1SosKZnJZDNeqVdQ=) Entering DBWaitLoginTimeLoginState
+20:03:31 BattlEye Server: Verified GUID (883391359f361796f846e1812352809f) of player #18 Berti477
+20:03:31 Player Berti477 connected (id=Q6MFSYfEtitQtnu9Iq0OcwAqGt7pSanel1C63dFeg2E=).
+20:03:31 Player "Berti477" is connected (steamID=76561198124449004)
+20:03:32 BattlEye Server: Player #19 |BWA| Dudu (212.58.102.127:8298) connected
+20:03:32 Player |BWA| Dudu connecting.
+20:03:32 [StateMachine]: Player |BWA| Dudu (dpnid 845407147 uid ) Entering WaitAuthPlayerLoginState
+20:03:33 BattlEye Server: Player #19 |BWA| Dudu - BE GUID: 2c33a8cd15577b48e2cc6dbecd9af2eb
+20:03:33 BattlEye Server: Verified GUID (2c33a8cd15577b48e2cc6dbecd9af2eb) of player #19 |BWA| Dudu
+20:03:33 Player |BWA| Dudu connected (id=hrS-MIh0L86lTMNh0wfO6pDymkh23kVaYuuYOKaicAs=).
+20:03:33 Player "|BWA| Dudu" is connected (steamID=76561199121935240)
+20:03:33 BattlEye Server: RCon admin #0: (To Jared) Jared, welcome to Terminus! Enjoy your stay. 
+20:03:34 [StateMachine]: Player Chicken__Wing (dpnid 1935168659 uid E5UTtfn1dT7qHGK1eplot2pEGsCAbEtwEOeT_5xcta8=) Entering DBGetLoginTimeLoginState
+20:03:34 [StateMachine]: Player Chicken__Wing (dpnid 1935168659 uid E5UTtfn1dT7qHGK1eplot2pEGsCAbEtwEOeT_5xcta8=) Entering DBWaitLoginTimeLoginState
+20:03:36 [Disconnect]: No packets from 16071324
+20:03:36 [Disconnect]: Already in progress 16071324 
+20:03:39 [StateMachine]: Player Berti477 (dpnid 770252021 uid Q6MFSYfEtitQtnu9Iq0OcwAqGt7pSanel1C63dFeg2E=) Entering DBGetLoginTimeLoginState
+20:03:39 [StateMachine]: Player Berti477 (dpnid 770252021 uid Q6MFSYfEtitQtnu9Iq0OcwAqGt7pSanel1C63dFeg2E=) Entering DBWaitLoginTimeLoginState
+20:03:40 [Disconnect]: Finish script disconnect 16071324
+20:03:40 [Disconnect]: DisconnectPlayerFinish 16071324
+20:03:40 [Disconnect]: Remove player info 16071324
+20:03:40 [Disconnect]: Player destroy 16071324 
+20:03:40 Player JuicyApple disconnected.
+20:03:40 BattlEye Server: Player #12 JuicyApple disconnected
+20:03:40 [StateMachine]: Player |BWA| Dudu (dpnid 845407147 uid hrS-MIh0L86lTMNh0wfO6pDymkh23kVaYuuYOKaicAs=) Entering DBGetLoginTimeLoginState
+20:03:40 [StateMachine]: Player |BWA| Dudu (dpnid 845407147 uid hrS-MIh0L86lTMNh0wfO6pDymkh23kVaYuuYOKaicAs=) Entering DBWaitLoginTimeLoginState
+20:03:43 [Login]: Adding player JuicyApple (163379156) to login queue at position 16
+20:03:44 [Login]: Adding player wyrafinowana suczka (1995147696) to login queue at position 17
+20:03:45 [StateMachine]: Player Bullebengt (dpnid 1152201041 uid GgXxc6zzCpzUzqB3hW29RepmgR5m0ag-d72Zc0VRxGY=) Entering DBGetCharacterLoginState
+20:03:45 [StateMachine]: Player Bullebengt (dpnid 1152201041 uid GgXxc6zzCpzUzqB3hW29RepmgR5m0ag-d72Zc0VRxGY=) Entering CreateNetObjectsLoginState
+20:03:45 Player Bullebengt dpid=1152201041 at pos (4128.7, 343.9, 10569.2) 
+20:03:45 [StateMachine]: Player Bullebengt (dpnid 1152201041 uid GgXxc6zzCpzUzqB3hW29RepmgR5m0ag-d72Zc0VRxGY=) Entering PreloadCamLoginState
+20:03:45 [StateMachine]: Player Bullebengt (dpnid 1152201041 uid GgXxc6zzCpzUzqB3hW29RepmgR5m0ag-d72Zc0VRxGY=) Entering WaitPreloadCamLoginState
+20:03:45 [StateMachine]: Player RPR Bert (dpnid 1305097590 uid 2p1gom4qX6Rpn2I4ZvG5G0zjCMC1SosKZnJZDNeqVdQ=) Entering DBGetCharacterLoginState
+20:03:45 [StateMachine]: Player RPR Bert (dpnid 1305097590 uid 2p1gom4qX6Rpn2I4ZvG5G0zjCMC1SosKZnJZDNeqVdQ=) Entering CreateNetObjectsLoginState
+20:03:45 Player RPR Bert dpid=1305097590 at pos (12353.7, 138.4, 14927.5) 
+20:03:45 [StateMachine]: Player RPR Bert (dpnid 1305097590 uid 2p1gom4qX6Rpn2I4ZvG5G0zjCMC1SosKZnJZDNeqVdQ=) Entering PreloadCamLoginState
+20:03:45 [StateMachine]: Player RPR Bert (dpnid 1305097590 uid 2p1gom4qX6Rpn2I4ZvG5G0zjCMC1SosKZnJZDNeqVdQ=) Entering WaitPreloadCamLoginState
+20:03:49 [StateMachine]: Player Chicken__Wing (dpnid 1935168659 uid E5UTtfn1dT7qHGK1eplot2pEGsCAbEtwEOeT_5xcta8=) Entering DBGetCharacterLoginState
+20:03:49 [StateMachine]: Player Chicken__Wing (dpnid 1935168659 uid E5UTtfn1dT7qHGK1eplot2pEGsCAbEtwEOeT_5xcta8=) Entering CreateNetObjectsLoginState
+20:03:49 Player Chicken__Wing dpid=1935168659 at pos (4135.6, 343.9, 10577.4) 
+20:03:49 [StateMachine]: Player Chicken__Wing (dpnid 1935168659 uid E5UTtfn1dT7qHGK1eplot2pEGsCAbEtwEOeT_5xcta8=) Entering PreloadCamLoginState
+20:03:49 [StateMachine]: Player Chicken__Wing (dpnid 1935168659 uid E5UTtfn1dT7qHGK1eplot2pEGsCAbEtwEOeT_5xcta8=) Entering WaitPreloadCamLoginState
+20:03:54 [StateMachine]: Player Berti477 (dpnid 770252021 uid Q6MFSYfEtitQtnu9Iq0OcwAqGt7pSanel1C63dFeg2E=) Entering DBGetCharacterLoginState
+20:03:54 [StateMachine]: Player Berti477 (dpnid 770252021 uid Q6MFSYfEtitQtnu9Iq0OcwAqGt7pSanel1C63dFeg2E=) Entering CreateNetObjectsLoginState
+20:03:54 Player Berti477 dpid=770252021 at pos (12154.5, 18.4, 9754.3) 
+20:03:54 [StateMachine]: Player Berti477 (dpnid 770252021 uid Q6MFSYfEtitQtnu9Iq0OcwAqGt7pSanel1C63dFeg2E=) Entering PreloadCamLoginState
+20:03:54 [StateMachine]: Player Berti477 (dpnid 770252021 uid Q6MFSYfEtitQtnu9Iq0OcwAqGt7pSanel1C63dFeg2E=) Entering WaitPreloadCamLoginState
+20:03:55 [StateMachine]: Player |BWA| Dudu (dpnid 845407147 uid hrS-MIh0L86lTMNh0wfO6pDymkh23kVaYuuYOKaicAs=) Entering DBGetCharacterLoginState
+20:03:55 [StateMachine]: Player |BWA| Dudu (dpnid 845407147 uid hrS-MIh0L86lTMNh0wfO6pDymkh23kVaYuuYOKaicAs=) Entering CreateNetObjectsLoginState
+20:03:55 Player |BWA| Dudu dpid=845407147 at pos (1416.9, 287.1, 11944.0) 
+20:03:55 [StateMachine]: Player |BWA| Dudu (dpnid 845407147 uid hrS-MIh0L86lTMNh0wfO6pDymkh23kVaYuuYOKaicAs=) Entering PreloadCamLoginState
+20:03:55 [StateMachine]: Player |BWA| Dudu (dpnid 845407147 uid hrS-MIh0L86lTMNh0wfO6pDymkh23kVaYuuYOKaicAs=) Entering WaitPreloadCamLoginState
+20:04:00 [StateMachine]: Player Bullebengt (dpnid 1152201041 uid GgXxc6zzCpzUzqB3hW29RepmgR5m0ag-d72Zc0VRxGY=) Entering GetLoadedCharLoginState
+20:04:00 <LOAD EXISTING CHAR>:
+    charID 914
+    playerID 914
+    dpnid 1152201041
+    uid GgXxc6zzCpzUzqB3hW29RepmgR5m0ag-d72Zc0VRxGY=
+20:04:00 [LoginMachine]: Add player Kalamuchta (774533766)
+20:04:00 [StateMachine]: Player Kalamuchta (dpnid 774533766 uid ) Entering AuthPlayerLoginState
+20:04:02 [StateMachine]: Player RPR Bert (dpnid 1305097590 uid 2p1gom4qX6Rpn2I4ZvG5G0zjCMC1SosKZnJZDNeqVdQ=) Entering GetLoadedCharLoginState
+20:04:02 <LOAD EXISTING CHAR>:
+    charID 884
+    playerID 884
+    dpnid 1305097590
+    uid 2p1gom4qX6Rpn2I4ZvG5G0zjCMC1SosKZnJZDNeqVdQ=
+20:04:02 [LoginMachine]: Add player Frenz (30091404)
+20:04:02 [StateMachine]: Player Frenz (dpnid 30091404 uid ) Entering AuthPlayerLoginState
+20:04:02 BattlEye Server: Player #20 Kalamuchta (91.137.126.38:2304) connected
+20:04:02 Player Kalamuchta connecting.
+20:04:02 [StateMachine]: Player Kalamuchta (dpnid 774533766 uid ) Entering WaitAuthPlayerLoginState
+20:04:03 BattlEye Server: Player #20 Kalamuchta - BE GUID: b926e190b281f2339e0786aa806a88d0
+20:04:03 BattlEye Server: RCon admin #0: (To RPR Bert) RPR Bert, welcome to Terminus! Enjoy your stay. 
+20:04:03 BattlEye Server: Verified GUID (b926e190b281f2339e0786aa806a88d0) of player #20 Kalamuchta
+20:04:03 Player Kalamuchta connected (id=JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw=).
+20:04:03 Player "Kalamuchta" is connected (steamID=76561198172727866)
+20:04:04 BattlEye Server: RCon admin #0: (To Bullebengt) Bullebengt, welcome to Terminus! Enjoy your stay. 
+20:04:04 BattlEye Server: Player #21 Frenz (213.114.80.97:2304) connected
+20:04:04 Player Frenz connecting.
+20:04:04 [StateMachine]: Player Frenz (dpnid 30091404 uid ) Entering WaitAuthPlayerLoginState
+20:04:05 [CE][SpawnRandomLoot] (StaticHeliCrash) :: ChildType: Wreck_UH1Y, lootmin: 10, lootmax: 20, wanted: 11
+20:04:05 BattlEye Server: Player #21 Frenz - BE GUID: d658013de15693f7dd9a3a1f003f3b2e
+20:04:05 BattlEye Server: Verified GUID (d658013de15693f7dd9a3a1f003f3b2e) of player #21 Frenz
+20:04:05 Player Frenz connected (id=2pnnQXvny6a7Huh8Sv2gCj6bNUfVW-sHj7NFeMcv-Oo=).
+20:04:05 Player "Frenz" is connected (steamID=76561199157284171)
+20:04:05 [StateMachine]: Player Chicken__Wing (dpnid 1935168659 uid E5UTtfn1dT7qHGK1eplot2pEGsCAbEtwEOeT_5xcta8=) Entering GetLoadedCharLoginState
+20:04:05 <LOAD EXISTING CHAR>:
+    charID 852
+    playerID 852
+    dpnid 1935168659
+    uid E5UTtfn1dT7qHGK1eplot2pEGsCAbEtwEOeT_5xcta8=
+20:04:05 [LoginMachine]: Add player Manjarno (1631521522)
+20:04:05 [StateMachine]: Player Manjarno (dpnid 1631521522 uid ) Entering AuthPlayerLoginState
+20:04:07 [StateMachine]: Player Frenz (dpnid 30091404 uid 2pnnQXvny6a7Huh8Sv2gCj6bNUfVW-sHj7NFeMcv-Oo=) Entering DBGetLoginTimeLoginState
+20:04:07 [StateMachine]: Player Frenz (dpnid 30091404 uid 2pnnQXvny6a7Huh8Sv2gCj6bNUfVW-sHj7NFeMcv-Oo=) Entering DBWaitLoginTimeLoginState
+20:04:07 BattlEye Server: Player #22 Manjarno (91.15.209.249:2304) connected
+20:04:07 Player Manjarno connecting.
+20:04:07 [StateMachine]: Player Manjarno (dpnid 1631521522 uid ) Entering WaitAuthPlayerLoginState
+20:04:08 BattlEye Server: Player #22 Manjarno - BE GUID: 7f25a690f8da5e1514b13f8420879414
+20:04:08 BattlEye Server: Verified GUID (7f25a690f8da5e1514b13f8420879414) of player #22 Manjarno
+20:04:08 Player Manjarno connected (id=TjvNBpE-3PV8pWLY5BjihP5sWxOXGpNSLA2i3d_uPfk=).
+20:04:08 Player "Manjarno" is connected (steamID=76561198057041589)
+20:04:08 BattlEye Server: RCon admin #0: (To Chicken__Wing) Chicken__Wing, welcome to Terminus! Enjoy your stay. 
+20:04:10 [Login]: Adding player Richy (76387763) to login queue at position 15
+20:04:12 [StateMachine]: Player Manjarno (dpnid 1631521522 uid TjvNBpE-3PV8pWLY5BjihP5sWxOXGpNSLA2i3d_uPfk=) Entering DBGetLoginTimeLoginState
+20:04:12 [StateMachine]: Player Manjarno (dpnid 1631521522 uid TjvNBpE-3PV8pWLY5BjihP5sWxOXGpNSLA2i3d_uPfk=) Entering DBWaitLoginTimeLoginState
+20:04:13 [Disconnect]: Client 76387763 disconnecting
+20:04:13 [Disconnect]: Client 76387763 early disconnect
+20:04:13 [Login]: Remove 76387763 from login queue (index 15)
+20:04:13 [Disconnect]: DisconnectPlayerFinish 76387763
+20:04:13 [Disconnect]: Remove player info 76387763
+20:04:13 [Disconnect]: Player destroy 76387763 
+20:04:13 [StateMachine]: Player |BWA| Dudu (dpnid 845407147 uid hrS-MIh0L86lTMNh0wfO6pDymkh23kVaYuuYOKaicAs=) Entering GetLoadedCharLoginState
+20:04:13 <LOAD EXISTING CHAR>:
+    charID 841
+    playerID 841
+    dpnid 845407147
+    uid hrS-MIh0L86lTMNh0wfO6pDymkh23kVaYuuYOKaicAs=
+20:04:13 [LoginMachine]: Add player RPR Robby (15148455)
+20:04:13 [StateMachine]: Player RPR Robby (dpnid 15148455 uid ) Entering AuthPlayerLoginState
+20:04:15 BattlEye Server: Player #23 RPR Robby (212.233.14.111:2304) connected
+20:04:15 Player RPR Robby connecting.
+20:04:15 [StateMachine]: Player RPR Robby (dpnid 15148455 uid ) Entering WaitAuthPlayerLoginState
+20:04:15 [StateMachine]: Player Kalamuchta (dpnid 774533766 uid JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw=) Entering DBGetLoginTimeLoginState
+20:04:15 [StateMachine]: Player Kalamuchta (dpnid 774533766 uid JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw=) Entering DBWaitLoginTimeLoginState
+20:04:16 BattlEye Server: Player #23 RPR Robby - BE GUID: 04409ceee992b7c4c6aca62fe6717908
+20:04:16 BattlEye Server: Verified GUID (04409ceee992b7c4c6aca62fe6717908) of player #23 RPR Robby
+20:04:16 Player RPR Robby connected (id=nQvnhzxYJOhiM10q8sKUYsXsJBVKYPIVKFK5WaYGuOE=).
+20:04:16 Player "RPR Robby" is connected (steamID=76561198254458020)
+20:04:17 [StateMachine]: Player RPR Robby (dpnid 15148455 uid nQvnhzxYJOhiM10q8sKUYsXsJBVKYPIVKFK5WaYGuOE=) Entering DBGetLoginTimeLoginState
+20:04:17 [StateMachine]: Player RPR Robby (dpnid 15148455 uid nQvnhzxYJOhiM10q8sKUYsXsJBVKYPIVKFK5WaYGuOE=) Entering DBWaitLoginTimeLoginState
+20:04:17 [StateMachine]: Player Berti477 (dpnid 770252021 uid Q6MFSYfEtitQtnu9Iq0OcwAqGt7pSanel1C63dFeg2E=) Entering GetLoadedCharLoginState
+20:04:17 <LOAD EXISTING CHAR>:
+    charID 25
+    playerID 25
+    dpnid 770252021
+    uid Q6MFSYfEtitQtnu9Iq0OcwAqGt7pSanel1C63dFeg2E=
+20:04:17 [LoginMachine]: Add player PikkuMika (27378181)
+20:04:17 [StateMachine]: Player PikkuMika (dpnid 27378181 uid ) Entering AuthPlayerLoginState
+20:04:18 BattlEye Server: RCon admin #0: (To |BWA| Dudu) |BWA| Dudu, welcome to Terminus! Enjoy your stay. 
+20:04:19 BattlEye Server: RCon admin #0: (To Berti477) Berti477, welcome to Terminus! Enjoy your stay. 
+20:04:19 BattlEye Server: Player #24 PikkuMika (80.220.104.149:2304) connected
+20:04:19 Player PikkuMika connecting.
+20:04:19 [StateMachine]: Player PikkuMika (dpnid 27378181 uid ) Entering WaitAuthPlayerLoginState
+20:04:20 BattlEye Server: Player #24 PikkuMika - BE GUID: d42ee735afa56ad9bc302f6a11870c9e
+20:04:20 BattlEye Server: Verified GUID (d42ee735afa56ad9bc302f6a11870c9e) of player #24 PikkuMika
+20:04:20 Player PikkuMika connected (id=ukD_k45i9WqrgrRFfzvAUrGdgMfaOgjGzngMe-204AE=).
+20:04:20 Player "PikkuMika" is connected (steamID=76561197968895992)
+20:04:22 [StateMachine]: Player PikkuMika (dpnid 27378181 uid ukD_k45i9WqrgrRFfzvAUrGdgMfaOgjGzngMe-204AE=) Entering DBGetLoginTimeLoginState
+20:04:22 [StateMachine]: Player PikkuMika (dpnid 27378181 uid ukD_k45i9WqrgrRFfzvAUrGdgMfaOgjGzngMe-204AE=) Entering DBWaitLoginTimeLoginState
+20:04:22 [StateMachine]: Player Frenz (dpnid 30091404 uid 2pnnQXvny6a7Huh8Sv2gCj6bNUfVW-sHj7NFeMcv-Oo=) Entering DBGetCharacterLoginState
+20:04:22 [StateMachine]: Player Frenz (dpnid 30091404 uid 2pnnQXvny6a7Huh8Sv2gCj6bNUfVW-sHj7NFeMcv-Oo=) Entering CreateNetObjectsLoginState
+20:04:22 Player Frenz dpid=30091404 at pos (4871.1, 339.1, 10220.9) 
+20:04:22 [StateMachine]: Player Frenz (dpnid 30091404 uid 2pnnQXvny6a7Huh8Sv2gCj6bNUfVW-sHj7NFeMcv-Oo=) Entering PreloadCamLoginState
+20:04:22 [StateMachine]: Player Frenz (dpnid 30091404 uid 2pnnQXvny6a7Huh8Sv2gCj6bNUfVW-sHj7NFeMcv-Oo=) Entering WaitPreloadCamLoginState
+20:04:27 [StateMachine]: Player Manjarno (dpnid 1631521522 uid TjvNBpE-3PV8pWLY5BjihP5sWxOXGpNSLA2i3d_uPfk=) Entering DBGetCharacterLoginState
+20:04:27 [StateMachine]: Player Manjarno (dpnid 1631521522 uid TjvNBpE-3PV8pWLY5BjihP5sWxOXGpNSLA2i3d_uPfk=) Entering CreateNetObjectsLoginState
+20:04:27 Player Manjarno dpid=1631521522 at pos (3684.7, 402.0, 5969.8) 
+20:04:27 [StateMachine]: Player Manjarno (dpnid 1631521522 uid TjvNBpE-3PV8pWLY5BjihP5sWxOXGpNSLA2i3d_uPfk=) Entering PreloadCamLoginState
+20:04:27 [StateMachine]: Player Manjarno (dpnid 1631521522 uid TjvNBpE-3PV8pWLY5BjihP5sWxOXGpNSLA2i3d_uPfk=) Entering WaitPreloadCamLoginState
+20:04:30 [StateMachine]: Player Kalamuchta (dpnid 774533766 uid JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw=) Entering DBGetCharacterLoginState
+20:04:30 [StateMachine]: Player Kalamuchta (dpnid 774533766 uid JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw=) Entering CreateNetObjectsLoginState
+20:04:30 Player Kalamuchta dpid=774533766 at pos (12149.7, 15.3, 9750.4) 
+20:04:30 [StateMachine]: Player Kalamuchta (dpnid 774533766 uid JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw=) Entering PreloadCamLoginState
+20:04:30 [StateMachine]: Player Kalamuchta (dpnid 774533766 uid JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw=) Entering WaitPreloadCamLoginState
+20:04:32 [StateMachine]: Player RPR Robby (dpnid 15148455 uid nQvnhzxYJOhiM10q8sKUYsXsJBVKYPIVKFK5WaYGuOE=) Entering DBGetCharacterLoginState
+20:04:32 [StateMachine]: Player RPR Robby (dpnid 15148455 uid nQvnhzxYJOhiM10q8sKUYsXsJBVKYPIVKFK5WaYGuOE=) Entering CreateNetObjectsLoginState
+20:04:32 Player RPR Robby dpid=15148455 at pos (12845.0, 58.6, 15015.7) 
+20:04:32 [StateMachine]: Player RPR Robby (dpnid 15148455 uid nQvnhzxYJOhiM10q8sKUYsXsJBVKYPIVKFK5WaYGuOE=) Entering PreloadCamLoginState
+20:04:32 [StateMachine]: Player RPR Robby (dpnid 15148455 uid nQvnhzxYJOhiM10q8sKUYsXsJBVKYPIVKFK5WaYGuOE=) Entering WaitPreloadCamLoginState
+20:04:37 [StateMachine]: Player PikkuMika (dpnid 27378181 uid ukD_k45i9WqrgrRFfzvAUrGdgMfaOgjGzngMe-204AE=) Entering DBGetCharacterLoginState
+20:04:37 [StateMachine]: Player PikkuMika (dpnid 27378181 uid ukD_k45i9WqrgrRFfzvAUrGdgMfaOgjGzngMe-204AE=) Entering CreateNetObjectsLoginState
+20:04:37 Player PikkuMika dpid=27378181 at pos (13990.3, 179.5, 15300.7) 
+20:04:37 [StateMachine]: Player PikkuMika (dpnid 27378181 uid ukD_k45i9WqrgrRFfzvAUrGdgMfaOgjGzngMe-204AE=) Entering PreloadCamLoginState
+20:04:37 [StateMachine]: Player PikkuMika (dpnid 27378181 uid ukD_k45i9WqrgrRFfzvAUrGdgMfaOgjGzngMe-204AE=) Entering WaitPreloadCamLoginState
+20:04:42 [StateMachine]: Player Manjarno (dpnid 1631521522 uid TjvNBpE-3PV8pWLY5BjihP5sWxOXGpNSLA2i3d_uPfk=) Entering GetLoadedCharLoginState
+20:04:42 <LOAD EXISTING CHAR>:
+    charID 742
+    playerID 742
+    dpnid 1631521522
+    uid TjvNBpE-3PV8pWLY5BjihP5sWxOXGpNSLA2i3d_uPfk=
+20:04:42 [LoginMachine]: Add player TerryFox (25081423)
+20:04:42 [StateMachine]: Player TerryFox (dpnid 25081423 uid ) Entering AuthPlayerLoginState
+20:04:44 BattlEye Server: RCon admin #0: (To Manjarno) Manjarno, welcome to Terminus! Enjoy your stay. 
+20:04:44 BattlEye Server: Player #25 TerryFox (176.193.167.194:2304) connected
+20:04:44 Player TerryFox connecting.
+20:04:44 [StateMachine]: Player TerryFox (dpnid 25081423 uid ) Entering WaitAuthPlayerLoginState
+20:04:46 BattlEye Server: Player #25 TerryFox - BE GUID: e338eee16e3859661f6960ce577d68e7
+20:04:46 BattlEye Server: Verified GUID (e338eee16e3859661f6960ce577d68e7) of player #25 TerryFox
+20:04:46 Player TerryFox connected (id=h-sXG2lbLnhahv3UEgEdxGIPq6w0pZqwHKDvWooNGlw=).
+20:04:46 Player "TerryFox" is connected (steamID=76561197980250512)
+20:04:47 [StateMachine]: Player TerryFox (dpnid 25081423 uid h-sXG2lbLnhahv3UEgEdxGIPq6w0pZqwHKDvWooNGlw=) Entering DBGetLoginTimeLoginState
+20:04:47 [StateMachine]: Player TerryFox (dpnid 25081423 uid h-sXG2lbLnhahv3UEgEdxGIPq6w0pZqwHKDvWooNGlw=) Entering DBWaitLoginTimeLoginState
+20:04:51 [Login]: Adding player Richy (117110500) to login queue at position 12
+20:04:52 [StateMachine]: Player RPR Robby (dpnid 15148455 uid nQvnhzxYJOhiM10q8sKUYsXsJBVKYPIVKFK5WaYGuOE=) Entering GetLoadedCharLoginState
+20:04:52 <LOAD EXISTING CHAR>:
+    charID 883
+    playerID 883
+    dpnid 15148455
+    uid nQvnhzxYJOhiM10q8sKUYsXsJBVKYPIVKFK5WaYGuOE=
+20:04:52 [LoginMachine]: Add player Frank (22718353)
+20:04:52 [StateMachine]: Player Frank (dpnid 22718353 uid ) Entering AuthPlayerLoginState
+20:04:53 [StateMachine]: Player Frenz (dpnid 30091404 uid 2pnnQXvny6a7Huh8Sv2gCj6bNUfVW-sHj7NFeMcv-Oo=) Entering GetLoadedCharLoginState
+20:04:53 <LOAD EXISTING CHAR>:
+    charID 378
+    playerID 378
+    dpnid 30091404
+    uid 2pnnQXvny6a7Huh8Sv2gCj6bNUfVW-sHj7NFeMcv-Oo=
+20:04:53 [LoginMachine]: Add player EddY Eddson (17854499)
+20:04:53 [StateMachine]: Player EddY Eddson (dpnid 17854499 uid ) Entering AuthPlayerLoginState
+20:04:53 [StateMachine]: Player Kalamuchta (dpnid 774533766 uid JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw=) Entering GetLoadedCharLoginState
+20:04:53 <LOAD EXISTING CHAR>:
+    charID 42
+    playerID 42
+    dpnid 774533766
+    uid JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw=
+20:04:53 [LoginMachine]: Add player Flux (45542583)
+20:04:53 [StateMachine]: Player Flux (dpnid 45542583 uid ) Entering AuthPlayerLoginState
+20:04:53 [StateMachine]: Player PikkuMika (dpnid 27378181 uid ukD_k45i9WqrgrRFfzvAUrGdgMfaOgjGzngMe-204AE=) Entering GetLoadedCharLoginState
+20:04:53 <LOAD EXISTING CHAR>:
+    charID 76
+    playerID 76
+    dpnid 27378181
+    uid ukD_k45i9WqrgrRFfzvAUrGdgMfaOgjGzngMe-204AE=
+20:04:53 [LoginMachine]: Add player Muty (1582169015)
+20:04:53 [StateMachine]: Player Muty (dpnid 1582169015 uid ) Entering AuthPlayerLoginState
+20:04:53 BattlEye Server: Player #26 Frank (84.196.216.178:2304) connected
+20:04:53 Player Frank connecting.
+20:04:53 [StateMachine]: Player Frank (dpnid 22718353 uid ) Entering WaitAuthPlayerLoginState
+20:04:54 BattlEye Server: RCon admin #0: (To RPR Robby) RPR Robby, welcome to Terminus! Enjoy your stay. 
+20:04:54 BattlEye Server: Player #27 EddY Eddson (37.201.146.45:42018) connected
+20:04:54 Player EddY Eddson connecting.
+20:04:54 [StateMachine]: Player EddY Eddson (dpnid 17854499 uid ) Entering WaitAuthPlayerLoginState
+20:04:55 BattlEye Server: Player #26 Frank - BE GUID: 02ab7b274dd1103db41a9cdde823b284
+20:04:55 BattlEye Server: Verified GUID (02ab7b274dd1103db41a9cdde823b284) of player #26 Frank
+20:04:55 Player Frank connected (id=ptM2eUX76QXDK9lOwUUTxnA-rhxyCuqTU6yiggBCKHo=).
+20:04:55 Player "Frank" is connected (steamID=76561198155197571)
+20:04:55 BattlEye Server: Player #27 EddY Eddson - BE GUID: 9a872ee59f79b7c77f5cd4350f65f8f5
+20:04:56 BattlEye Server: Verified GUID (9a872ee59f79b7c77f5cd4350f65f8f5) of player #27 EddY Eddson
+20:04:56 Player EddY Eddson connected (id=nHKsTmLT8V4NPmrdRohimsKJA301SEwdt_Ejf5JhB4k=).
+20:04:56 Player "EddY Eddson" is connected (steamID=76561198062429826)
+20:04:56 BattlEye Server: Player #28 Flux (150.143.16.78:2304) connected
+20:04:56 Player Flux connecting.
+20:04:56 [StateMachine]: Player Flux (dpnid 45542583 uid ) Entering WaitAuthPlayerLoginState
+20:04:56 [StateMachine]: Player Frank (dpnid 22718353 uid ptM2eUX76QXDK9lOwUUTxnA-rhxyCuqTU6yiggBCKHo=) Entering DBGetLoginTimeLoginState
+20:04:56 [StateMachine]: Player Frank (dpnid 22718353 uid ptM2eUX76QXDK9lOwUUTxnA-rhxyCuqTU6yiggBCKHo=) Entering DBWaitLoginTimeLoginState
+20:04:56 BattlEye Server: Player #29 Muty (31.215.129.126:2304) connected
+20:04:56 Player Muty connecting.
+20:04:56 [StateMachine]: Player Muty (dpnid 1582169015 uid ) Entering WaitAuthPlayerLoginState
+20:04:57 [StateMachine]: Player EddY Eddson (dpnid 17854499 uid nHKsTmLT8V4NPmrdRohimsKJA301SEwdt_Ejf5JhB4k=) Entering DBGetLoginTimeLoginState
+20:04:57 [StateMachine]: Player EddY Eddson (dpnid 17854499 uid nHKsTmLT8V4NPmrdRohimsKJA301SEwdt_Ejf5JhB4k=) Entering DBWaitLoginTimeLoginState
+20:04:57 BattlEye Server: Player #28 Flux - BE GUID: 283cd70c3e1763a709f7b8cdb96f0462
+20:04:58 BattlEye Server: Verified GUID (283cd70c3e1763a709f7b8cdb96f0462) of player #28 Flux
+20:04:58 Player Flux connected (id=LXOlA4G9UF2SzD-Z3l0ly4QOUurVoMHpR3nmO4EQkDM=).
+20:04:58 Player "Flux" is connected (steamID=76561198099056153)
+20:04:58 BattlEye Server: Player #29 Muty - BE GUID: 56d1bc58fd89b6c2666221a32c83fce3
+20:04:58 BattlEye Server: Verified GUID (56d1bc58fd89b6c2666221a32c83fce3) of player #29 Muty
+20:04:58 Player Muty connected (id=b76oXEmUFV6AfI8L4ccXA1oeWplq5bAKHyfbjou6Gjc=).
+20:04:58 Player "Muty" is connected (steamID=76561198086862358)
+20:04:59 BattlEye Server: RCon admin #0: (To Frenz) Frenz, welcome to Terminus! Enjoy your stay. 
+20:04:59 BattlEye Server: RCon admin #0: (To Kalamuchta) Kalamuchta, welcome to Terminus! Enjoy your stay. 
+20:04:59 [StateMachine]: Player Flux (dpnid 45542583 uid LXOlA4G9UF2SzD-Z3l0ly4QOUurVoMHpR3nmO4EQkDM=) Entering DBGetLoginTimeLoginState
+20:04:59 [StateMachine]: Player Flux (dpnid 45542583 uid LXOlA4G9UF2SzD-Z3l0ly4QOUurVoMHpR3nmO4EQkDM=) Entering DBWaitLoginTimeLoginState
+20:05:02 [StateMachine]: Player TerryFox (dpnid 25081423 uid h-sXG2lbLnhahv3UEgEdxGIPq6w0pZqwHKDvWooNGlw=) Entering DBGetCharacterLoginState
+20:05:02 [StateMachine]: Player TerryFox (dpnid 25081423 uid h-sXG2lbLnhahv3UEgEdxGIPq6w0pZqwHKDvWooNGlw=) Entering CreateNetObjectsLoginState
+20:05:02 Player TerryFox dpid=25081423 at pos (2996.7, 312.8, 7868.7) 
+20:05:02 [StateMachine]: Player TerryFox (dpnid 25081423 uid h-sXG2lbLnhahv3UEgEdxGIPq6w0pZqwHKDvWooNGlw=) Entering PreloadCamLoginState
+20:05:02 [StateMachine]: Player TerryFox (dpnid 25081423 uid h-sXG2lbLnhahv3UEgEdxGIPq6w0pZqwHKDvWooNGlw=) Entering WaitPreloadCamLoginState
+20:05:04 BattlEye Server: RCon admin #0: (To PikkuMika) PikkuMika, welcome to Terminus! Enjoy your stay. 
+20:05:04 [Login]: Adding player RUFUS THE GREAT (28860711) to login queue at position 9
+20:05:06 [StateMachine]: Player Muty (dpnid 1582169015 uid b76oXEmUFV6AfI8L4ccXA1oeWplq5bAKHyfbjou6Gjc=) Entering DBGetLoginTimeLoginState
+20:05:06 [StateMachine]: Player Muty (dpnid 1582169015 uid b76oXEmUFV6AfI8L4ccXA1oeWplq5bAKHyfbjou6Gjc=) Entering DBWaitLoginTimeLoginState
+20:05:11 [StateMachine]: Player Frank (dpnid 22718353 uid ptM2eUX76QXDK9lOwUUTxnA-rhxyCuqTU6yiggBCKHo=) Entering DBGetCharacterLoginState
+20:05:11 [StateMachine]: Player Frank (dpnid 22718353 uid ptM2eUX76QXDK9lOwUUTxnA-rhxyCuqTU6yiggBCKHo=) Entering CreateNetObjectsLoginState
+20:05:11 Player Frank dpid=22718353 at pos (12465.1, 123.3, 14865.1) 
+20:05:11 [StateMachine]: Player Frank (dpnid 22718353 uid ptM2eUX76QXDK9lOwUUTxnA-rhxyCuqTU6yiggBCKHo=) Entering PreloadCamLoginState
+20:05:11 [StateMachine]: Player Frank (dpnid 22718353 uid ptM2eUX76QXDK9lOwUUTxnA-rhxyCuqTU6yiggBCKHo=) Entering WaitPreloadCamLoginState
+20:05:12 [StateMachine]: Player EddY Eddson (dpnid 17854499 uid nHKsTmLT8V4NPmrdRohimsKJA301SEwdt_Ejf5JhB4k=) Entering DBGetCharacterLoginState
+20:05:12 [StateMachine]: Player EddY Eddson (dpnid 17854499 uid nHKsTmLT8V4NPmrdRohimsKJA301SEwdt_Ejf5JhB4k=) Entering CreateNetObjectsLoginState
+20:05:12 Player EddY Eddson dpid=17854499 at pos (3683.6, 402.0, 5968.9) 
+20:05:12 [StateMachine]: Player EddY Eddson (dpnid 17854499 uid nHKsTmLT8V4NPmrdRohimsKJA301SEwdt_Ejf5JhB4k=) Entering PreloadCamLoginState
+20:05:12 [StateMachine]: Player EddY Eddson (dpnid 17854499 uid nHKsTmLT8V4NPmrdRohimsKJA301SEwdt_Ejf5JhB4k=) Entering WaitPreloadCamLoginState
+20:05:14 [StateMachine]: Player Flux (dpnid 45542583 uid LXOlA4G9UF2SzD-Z3l0ly4QOUurVoMHpR3nmO4EQkDM=) Entering DBGetCharacterLoginState
+20:05:14 [StateMachine]: Player Flux (dpnid 45542583 uid LXOlA4G9UF2SzD-Z3l0ly4QOUurVoMHpR3nmO4EQkDM=) Entering CreateNetObjectsLoginState
+20:05:14 Player Flux dpid=45542583 at pos (753.3, 6.1, 1862.9) 
+20:05:14 [StateMachine]: Player Flux (dpnid 45542583 uid LXOlA4G9UF2SzD-Z3l0ly4QOUurVoMHpR3nmO4EQkDM=) Entering PreloadCamLoginState
+20:05:14 [StateMachine]: Player Flux (dpnid 45542583 uid LXOlA4G9UF2SzD-Z3l0ly4QOUurVoMHpR3nmO4EQkDM=) Entering WaitPreloadCamLoginState
+20:05:21 [StateMachine]: Player Muty (dpnid 1582169015 uid b76oXEmUFV6AfI8L4ccXA1oeWplq5bAKHyfbjou6Gjc=) Entering DBGetCharacterLoginState
+20:05:21 [StateMachine]: Player Muty (dpnid 1582169015 uid b76oXEmUFV6AfI8L4ccXA1oeWplq5bAKHyfbjou6Gjc=) Entering CreateNetObjectsLoginState
+20:05:21 Player Muty dpid=1582169015 at pos (7067.3, 297.8, 7724.4) 
+20:05:21 [StateMachine]: Player Muty (dpnid 1582169015 uid b76oXEmUFV6AfI8L4ccXA1oeWplq5bAKHyfbjou6Gjc=) Entering PreloadCamLoginState
+20:05:21 [StateMachine]: Player Muty (dpnid 1582169015 uid b76oXEmUFV6AfI8L4ccXA1oeWplq5bAKHyfbjou6Gjc=) Entering WaitPreloadCamLoginState
+20:05:23 [StateMachine]: Player TerryFox (dpnid 25081423 uid h-sXG2lbLnhahv3UEgEdxGIPq6w0pZqwHKDvWooNGlw=) Entering GetLoadedCharLoginState
+20:05:23 <LOAD EXISTING CHAR>:
+    charID 24
+    playerID 24
+    dpnid 25081423
+    uid h-sXG2lbLnhahv3UEgEdxGIPq6w0pZqwHKDvWooNGlw=
+20:05:23 [LoginMachine]: Add player MayneKeen (24524979)
+20:05:23 [StateMachine]: Player MayneKeen (dpnid 24524979 uid ) Entering AuthPlayerLoginState
+20:05:24 BattlEye Server: Player #30 MayneKeen (31.134.191.180:2304) connected
+20:05:24 Player MayneKeen connecting.
+20:05:24 [StateMachine]: Player MayneKeen (dpnid 24524979 uid ) Entering WaitAuthPlayerLoginState
+20:05:25 BattlEye Server: Player #30 MayneKeen - BE GUID: b05d7631c175c108ba2f3948cbe4edb1
+20:05:26 BattlEye Server: Verified GUID (b05d7631c175c108ba2f3948cbe4edb1) of player #30 MayneKeen
+20:05:26 Player MayneKeen connected (id=fYEA1U9Nn53QK6SPMKzYvTjYqPaBE8vAmDBkm4JUJn0=).
+20:05:26 Player "MayneKeen" is connected (steamID=76561198041791902)
+20:05:27 [StateMachine]: Player MayneKeen (dpnid 24524979 uid fYEA1U9Nn53QK6SPMKzYvTjYqPaBE8vAmDBkm4JUJn0=) Entering DBGetLoginTimeLoginState
+20:05:27 [StateMachine]: Player MayneKeen (dpnid 24524979 uid fYEA1U9Nn53QK6SPMKzYvTjYqPaBE8vAmDBkm4JUJn0=) Entering DBWaitLoginTimeLoginState
+20:05:28 [StateMachine]: Player EddY Eddson (dpnid 17854499 uid nHKsTmLT8V4NPmrdRohimsKJA301SEwdt_Ejf5JhB4k=) Entering GetLoadedCharLoginState
+20:05:28 <LOAD EXISTING CHAR>:
+    charID 610
+    playerID 610
+    dpnid 17854499
+    uid nHKsTmLT8V4NPmrdRohimsKJA301SEwdt_Ejf5JhB4k=
+20:05:28 [LoginMachine]: Add player RPR DE_LICIOUS (29286677)
+20:05:28 [StateMachine]: Player RPR DE_LICIOUS (dpnid 29286677 uid ) Entering AuthPlayerLoginState
+20:05:29 BattlEye Server: RCon admin #0: (To TerryFox) TerryFox, welcome to Terminus! Enjoy your stay. 
+20:05:29 BattlEye Server: Player #31 RPR DE_LICIOUS (81.82.80.225:2304) connected
+20:05:29 Player RPR DE_LICIOUS connecting.
+20:05:29 [StateMachine]: Player RPR DE_LICIOUS (dpnid 29286677 uid ) Entering WaitAuthPlayerLoginState
+20:05:31 BattlEye Server: Player #31 RPR DE_LICIOUS - BE GUID: cfc9ab69a13ecca4305e393396d656b1
+20:05:31 BattlEye Server: Verified GUID (cfc9ab69a13ecca4305e393396d656b1) of player #31 RPR DE_LICIOUS
+20:05:31 Player RPR DE_LICIOUS connected (id=im7U8A_9rfW201fZALD-FEzYOrQNQF6ALYKQ7T84itY=).
+20:05:31 Player "RPR DE_LICIOUS" is connected (steamID=76561198203333679)
+20:05:32 [Login]: Adding prioritized player The_13abyKnight (43182399) to login queue at position 0
+20:05:33 [StateMachine]: Player RPR DE_LICIOUS (dpnid 29286677 uid im7U8A_9rfW201fZALD-FEzYOrQNQF6ALYKQ7T84itY=) Entering DBGetLoginTimeLoginState
+20:05:33 [StateMachine]: Player RPR DE_LICIOUS (dpnid 29286677 uid im7U8A_9rfW201fZALD-FEzYOrQNQF6ALYKQ7T84itY=) Entering DBWaitLoginTimeLoginState
+20:05:34 BattlEye Server: RCon admin #0: (To EddY Eddson) EddY Eddson, welcome to Terminus! Enjoy your stay. 
+20:05:37 [StateMachine]: Player Frank (dpnid 22718353 uid ptM2eUX76QXDK9lOwUUTxnA-rhxyCuqTU6yiggBCKHo=) Entering GetLoadedCharLoginState
+20:05:37 <LOAD EXISTING CHAR>:
+    charID 928
+    playerID 928
+    dpnid 22718353
+    uid ptM2eUX76QXDK9lOwUUTxnA-rhxyCuqTU6yiggBCKHo=
+20:05:37 [LoginMachine]: Add player The_13abyKnight (43182399)
+20:05:37 [StateMachine]: Player The_13abyKnight (dpnid 43182399 uid ) Entering AuthPlayerLoginState
+20:05:38 [StateMachine]: Player Muty (dpnid 1582169015 uid b76oXEmUFV6AfI8L4ccXA1oeWplq5bAKHyfbjou6Gjc=) Entering GetLoadedCharLoginState
+20:05:38 <LOAD EXISTING CHAR>:
+    charID 90
+    playerID 90
+    dpnid 1582169015
+    uid b76oXEmUFV6AfI8L4ccXA1oeWplq5bAKHyfbjou6Gjc=
+20:05:38 [LoginMachine]: Add player starberry (1330331871)
+20:05:38 [StateMachine]: Player starberry (dpnid 1330331871 uid ) Entering AuthPlayerLoginState
+20:05:38 BattlEye Server: Player #32 The_13abyKnight (86.52.46.207:2304) connected
+20:05:38 Player The_13abyKnight connecting.
+20:05:38 [StateMachine]: Player The_13abyKnight (dpnid 43182399 uid ) Entering WaitAuthPlayerLoginState
+20:05:39 BattlEye Server: RCon admin #0: (To Frank) Frank, welcome to Terminus! Enjoy your stay. 
+20:05:39 [Login]: Adding player Show it (18193563) to login queue at position 7
+20:05:39 [Disconnect]: Client 17854499 disconnecting
+20:05:39 [Disconnect]: Client 17854499 early disconnect
+20:05:39 [Disconnect]: Start script disconnect 17854499 (dbCharacterId 610 dbPlayerId 610) logoutTime 15
+20:05:39 BattlEye Server: Player #33 starberry (46.223.129.29:16012) connected
+20:05:39 Player starberry connecting.
+20:05:39 [StateMachine]: Player starberry (dpnid 1330331871 uid ) Entering WaitAuthPlayerLoginState
+20:05:40 BattlEye Server: Player #32 The_13abyKnight - BE GUID: 4b1d7caa0b192850e522818a902d66c0
+20:05:40 BattlEye Server: Verified GUID (4b1d7caa0b192850e522818a902d66c0) of player #32 The_13abyKnight
+20:05:40 Player The_13abyKnight connected (id=bpjzcK1rblJfT43vXuPThs6k3G5SpN25Kv_Tg_RuDVg=).
+20:05:40 Player "The_13abyKnight" is connected (steamID=76561198003255542)
+20:05:40 BattlEye Server: Player #33 starberry - BE GUID: ea776886d557317634cd8961458f41d4
+20:05:41 BattlEye Server: Verified GUID (ea776886d557317634cd8961458f41d4) of player #33 starberry
+20:05:41 Player starberry connected (id=U9Yblbhn6I5SjOGmPMYTzi_d4tUTrnxNye4IlecKRTo=).
+20:05:41 Player "starberry" is connected (steamID=76561198085909616)
+20:05:42 [StateMachine]: Player MayneKeen (dpnid 24524979 uid fYEA1U9Nn53QK6SPMKzYvTjYqPaBE8vAmDBkm4JUJn0=) Entering DBGetCharacterLoginState
+20:05:42 [StateMachine]: Player MayneKeen (dpnid 24524979 uid fYEA1U9Nn53QK6SPMKzYvTjYqPaBE8vAmDBkm4JUJn0=) Entering CreateNetObjectsLoginState
+20:05:42 Player MayneKeen dpid=24524979 at pos (11441.9, 225.5, 7477.8) 
+20:05:42 [StateMachine]: Player MayneKeen (dpnid 24524979 uid fYEA1U9Nn53QK6SPMKzYvTjYqPaBE8vAmDBkm4JUJn0=) Entering PreloadCamLoginState
+20:05:42 [StateMachine]: Player MayneKeen (dpnid 24524979 uid fYEA1U9Nn53QK6SPMKzYvTjYqPaBE8vAmDBkm4JUJn0=) Entering WaitPreloadCamLoginState
+20:05:44 BattlEye Server: RCon admin #0: (To Muty) Muty, welcome to Terminus! Enjoy your stay. 
+20:05:47 [StateMachine]: Player starberry (dpnid 1330331871 uid U9Yblbhn6I5SjOGmPMYTzi_d4tUTrnxNye4IlecKRTo=) Entering DBGetLoginTimeLoginState
+20:05:47 [StateMachine]: Player starberry (dpnid 1330331871 uid U9Yblbhn6I5SjOGmPMYTzi_d4tUTrnxNye4IlecKRTo=) Entering DBWaitLoginTimeLoginState
+20:05:48 [StateMachine]: Player RPR DE_LICIOUS (dpnid 29286677 uid im7U8A_9rfW201fZALD-FEzYOrQNQF6ALYKQ7T84itY=) Entering DBGetCharacterLoginState
+20:05:48 [StateMachine]: Player RPR DE_LICIOUS (dpnid 29286677 uid im7U8A_9rfW201fZALD-FEzYOrQNQF6ALYKQ7T84itY=) Entering CreateNetObjectsLoginState
+20:05:48 Player RPR DE_LICIOUS dpid=29286677 at pos (12490.9, 0.0, 3557.6) 
+20:05:48 [StateMachine]: Player RPR DE_LICIOUS (dpnid 29286677 uid im7U8A_9rfW201fZALD-FEzYOrQNQF6ALYKQ7T84itY=) Entering PreloadCamLoginState
+20:05:48 [StateMachine]: Player RPR DE_LICIOUS (dpnid 29286677 uid im7U8A_9rfW201fZALD-FEzYOrQNQF6ALYKQ7T84itY=) Entering WaitPreloadCamLoginState
+20:05:49 [StateMachine]: Player The_13abyKnight (dpnid 43182399 uid bpjzcK1rblJfT43vXuPThs6k3G5SpN25Kv_Tg_RuDVg=) Entering DBGetLoginTimeLoginState
+20:05:49 [StateMachine]: Player The_13abyKnight (dpnid 43182399 uid bpjzcK1rblJfT43vXuPThs6k3G5SpN25Kv_Tg_RuDVg=) Entering DBWaitLoginTimeLoginState
+20:05:50 [Disconnect]: No packets from 17854499
+20:05:50 [Disconnect]: Already in progress 17854499 
+20:05:54 !!! [CE][Point] Removing 12344.193359, 14897.175781 from PiceaAbies_2d
+20:05:54 [Disconnect]: Finish script disconnect 17854499
+20:05:54 [Disconnect]: DisconnectPlayerFinish 17854499
+20:05:54 [Disconnect]: Remove player info 17854499
+20:05:54 [Disconnect]: Player destroy 17854499 
+20:05:54 Player EddY Eddson disconnected.
+20:05:54 BattlEye Server: Player #27 EddY Eddson disconnected
+20:05:56 [Login]: Adding player Norton (1839698399) to login queue at position 8
+20:06:02 [StateMachine]: Player starberry (dpnid 1330331871 uid U9Yblbhn6I5SjOGmPMYTzi_d4tUTrnxNye4IlecKRTo=) Entering DBGetCharacterLoginState
+20:06:02 [StateMachine]: Player starberry (dpnid 1330331871 uid U9Yblbhn6I5SjOGmPMYTzi_d4tUTrnxNye4IlecKRTo=) Entering CreateNetObjectsLoginState
+20:06:02 Player starberry dpid=1330331871 at pos (2676.7, 204.0, 5239.5) 
+20:06:02 [StateMachine]: Player starberry (dpnid 1330331871 uid U9Yblbhn6I5SjOGmPMYTzi_d4tUTrnxNye4IlecKRTo=) Entering PreloadCamLoginState
+20:06:02 [StateMachine]: Player starberry (dpnid 1330331871 uid U9Yblbhn6I5SjOGmPMYTzi_d4tUTrnxNye4IlecKRTo=) Entering WaitPreloadCamLoginState
+20:06:04 [StateMachine]: Player The_13abyKnight (dpnid 43182399 uid bpjzcK1rblJfT43vXuPThs6k3G5SpN25Kv_Tg_RuDVg=) Entering DBGetCharacterLoginState
+20:06:04 [StateMachine]: Player The_13abyKnight (dpnid 43182399 uid bpjzcK1rblJfT43vXuPThs6k3G5SpN25Kv_Tg_RuDVg=) Entering CreateNetObjectsLoginState
+20:06:04 Player The_13abyKnight dpid=43182399 at pos (3773.3, 311.0, 8851.4) 
+20:06:04 [StateMachine]: Player The_13abyKnight (dpnid 43182399 uid bpjzcK1rblJfT43vXuPThs6k3G5SpN25Kv_Tg_RuDVg=) Entering PreloadCamLoginState
+20:06:04 [StateMachine]: Player The_13abyKnight (dpnid 43182399 uid bpjzcK1rblJfT43vXuPThs6k3G5SpN25Kv_Tg_RuDVg=) Entering WaitPreloadCamLoginState
+20:06:07 Respawn: Add player (UKSF)Liggy117 (1729163709) to respawn machine
+20:06:07 [StateMachine]: Player (UKSF)Liggy117 (dpnid 1729163709 uid ) Entering GetCharacterRespawnState
+20:06:07 [StateMachine]: Player (UKSF)Liggy117 (dpnid 1729163709 uid ) Entering PreloadCamRespawnState
+20:06:07 Player (UKSF)Liggy117 dpid=1729163709 at pos (8304.8, 0.0, 2905.4) 
+20:06:07 [StateMachine]: Player (UKSF)Liggy117 (dpnid 1729163709 uid ) Entering WaitPreloadCamRespawnState
+20:06:08 BattlEye Server: RCon admin #1 (159.69.65.244:47504) logged in
+20:06:08 [StateMachine]: Player RPR DE_LICIOUS (dpnid 29286677 uid im7U8A_9rfW201fZALD-FEzYOrQNQF6ALYKQ7T84itY=) Entering GetNewCharLoginState
+20:06:08 <CREATE NEW CHAR>:
+    charID 929
+    playerID 929
+    dpnid 29286677
+    uid im7U8A_9rfW201fZALD-FEzYOrQNQF6ALYKQ7T84itY=
+20:06:08 [LoginMachine]: Add player Jeffery (1720958115)
+20:06:08 [StateMachine]: Player Jeffery (dpnid 1720958115 uid ) Entering AuthPlayerLoginState
+20:06:08 [StateMachine]: Player MayneKeen (dpnid 24524979 uid fYEA1U9Nn53QK6SPMKzYvTjYqPaBE8vAmDBkm4JUJn0=) Entering GetLoadedCharLoginState
+20:06:08 <LOAD EXISTING CHAR>:
+    charID 380
+    playerID 380
+    dpnid 24524979
+    uid fYEA1U9Nn53QK6SPMKzYvTjYqPaBE8vAmDBkm4JUJn0=
+20:06:08 [LoginMachine]: Add player kapci (1806549412)
+20:06:08 [StateMachine]: Player kapci (dpnid 1806549412 uid ) Entering AuthPlayerLoginState
+20:06:09 BattlEye Server: Player #34 Jeffery (82.27.230.196:2304) connected
+20:06:09 Player Jeffery connecting.
+20:06:09 [StateMachine]: Player Jeffery (dpnid 1720958115 uid ) Entering WaitAuthPlayerLoginState
+20:06:10 BattlEye Server: Player #35 kapci (41.47.85.100:2304) connected
+20:06:10 Player kapci connecting.
+20:06:10 [StateMachine]: Player kapci (dpnid 1806549412 uid ) Entering WaitAuthPlayerLoginState
+20:06:11 BattlEye Server: Player #34 Jeffery - BE GUID: fe0ab5d38a2bf99c9ae2a7949b0a982e
+20:06:11 BattlEye Server: Verified GUID (fe0ab5d38a2bf99c9ae2a7949b0a982e) of player #34 Jeffery
+20:06:11 Player Jeffery connected (id=6Y3vQEXv5e5g-XmHLnIeP5QSbwlJf-00GYAMbxfcXqU=).
+20:06:11 Player "Jeffery" is connected (steamID=76561198219004883)
+20:06:11 BattlEye Server: Player #35 kapci - BE GUID: daf7e841b85b20aaab41afea96d4ae58
+20:06:12 [Login]: Adding player Ward (1511267517) to login queue at position 7
+20:06:12 BattlEye Server: Verified GUID (daf7e841b85b20aaab41afea96d4ae58) of player #35 kapci
+20:06:12 Player kapci connected (id=PKAvgADMoiDK0iZCTCXowSMw5h0OgtXYFRmRghuev94=).
+20:06:12 Player "kapci" is connected (steamID=76561198150251204)
+20:06:14 BattlEye Server: RCon admin #0: (To RPR DE_LICIOUS) RPR DE_LICIOUS, welcome to Terminus! Enjoy your stay. 
+20:06:14 BattlEye Server: RCon admin #0: (To MayneKeen) MayneKeen, welcome to Terminus! Enjoy your stay. 
+20:06:18 [Disconnect]: Client 1839698399 disconnecting
+20:06:18 [Disconnect]: Client 1839698399 early disconnect
+20:06:18 [Login]: Remove 1839698399 from login queue (index 6)
+20:06:18 [Disconnect]: DisconnectPlayerFinish 1839698399
+20:06:18 [Disconnect]: Remove player info 1839698399
+20:06:18 [Disconnect]: Player destroy 1839698399 
+20:06:18 [StateMachine]: Player Jeffery (dpnid 1720958115 uid 6Y3vQEXv5e5g-XmHLnIeP5QSbwlJf-00GYAMbxfcXqU=) Entering DBGetLoginTimeLoginState
+20:06:18 [StateMachine]: Player Jeffery (dpnid 1720958115 uid 6Y3vQEXv5e5g-XmHLnIeP5QSbwlJf-00GYAMbxfcXqU=) Entering DBWaitLoginTimeLoginState
+20:06:18 [StateMachine]: Player kapci (dpnid 1806549412 uid PKAvgADMoiDK0iZCTCXowSMw5h0OgtXYFRmRghuev94=) Entering DBGetLoginTimeLoginState
+20:06:18 [StateMachine]: Player kapci (dpnid 1806549412 uid PKAvgADMoiDK0iZCTCXowSMw5h0OgtXYFRmRghuev94=) Entering DBWaitLoginTimeLoginState
+20:06:18 [StateMachine]: Player starberry (dpnid 1330331871 uid U9Yblbhn6I5SjOGmPMYTzi_d4tUTrnxNye4IlecKRTo=) Entering GetLoadedCharLoginState
+20:06:18 <LOAD EXISTING CHAR>:
+    charID 397
+    playerID 397
+    dpnid 1330331871
+    uid U9Yblbhn6I5SjOGmPMYTzi_d4tUTrnxNye4IlecKRTo=
+20:06:18 [LoginMachine]: Add player BigDog (44106434)
+20:06:18 [StateMachine]: Player BigDog (dpnid 44106434 uid ) Entering AuthPlayerLoginState
+20:06:20 [Login]: Adding player Incredible  (289674929) to login queue at position 6
+20:06:20 BattlEye Server: Player #36 BigDog (176.193.167.194:1024) connected
+20:06:20 Player BigDog connecting.
+20:06:20 [StateMachine]: Player BigDog (dpnid 44106434 uid ) Entering WaitAuthPlayerLoginState
+20:06:22 [Login]: Adding player Survivor (1862587112) to login queue at position 7
+20:06:22 [StateMachine]: Player Flux (dpnid 45542583 uid LXOlA4G9UF2SzD-Z3l0ly4QOUurVoMHpR3nmO4EQkDM=) Entering GetLoadedCharLoginState
+20:06:22 <LOAD EXISTING CHAR>:
+    charID 926
+    playerID 926
+    dpnid 45542583
+    uid LXOlA4G9UF2SzD-Z3l0ly4QOUurVoMHpR3nmO4EQkDM=
+20:06:22 [LoginMachine]: Add player JuicyApple (163379156)
+20:06:22 [StateMachine]: Player JuicyApple (dpnid 163379156 uid ) Entering AuthPlayerLoginState
+20:06:22 [StateMachine]: Player (UKSF)Liggy117 (dpnid 1729163709 uid ) Entering GetNewCharRespawnState
+20:06:22 <RESPAWN NEW CHAR>:
+    charID 58
+    playerID 58
+    dpnid 1729163709
+    uid jB_bOEJyq9mvxR8JFgT_HcJvTp5Ia8yUrdy9ee9TBak=
+20:06:24 BattlEye Server: Player #37 JuicyApple (81.232.66.64:2304) connected
+20:06:24 Player JuicyApple connecting.
+20:06:24 [StateMachine]: Player JuicyApple (dpnid 163379156 uid ) Entering WaitAuthPlayerLoginState
+20:06:24 BattlEye Server: RCon admin #0: (To starberry) starberry, welcome to Terminus! Enjoy your stay. 
+20:06:25 BattlEye Server: Player #37 JuicyApple - BE GUID: cb364f59bef75f122cf19b87a4079fdf
+20:06:25 BattlEye Server: Verified GUID (cb364f59bef75f122cf19b87a4079fdf) of player #37 JuicyApple
+20:06:25 Player JuicyApple connected (id=8lg1r66OdEIEjrYmWM_1EyxHiMIwTPZ78JYNWIiGZxg=).
+20:06:25 Player "JuicyApple" is connected (steamID=76561198074360321)
+20:06:25 BattlEye Server: Player #36 BigDog - BE GUID: 1e8c145321e492fda8091b6b37479256
+20:06:25 BattlEye Server: Verified GUID (1e8c145321e492fda8091b6b37479256) of player #36 BigDog
+20:06:25 Player BigDog connected (id=E26YqVBUc4-BgscX8pDFhvv8mR1aUzK4rDTppguh1wI=).
+20:06:25 Player "BigDog" is connected (steamID=76561198124823902)
+20:06:26 [Login]: Adding player EddY Eddson (17664023) to login queue at position 7
+20:06:26 [StateMachine]: Player The_13abyKnight (dpnid 43182399 uid bpjzcK1rblJfT43vXuPThs6k3G5SpN25Kv_Tg_RuDVg=) Entering GetLoadedCharLoginState
+20:06:26 <LOAD EXISTING CHAR>:
+    charID 15
+    playerID 15
+    dpnid 43182399
+    uid bpjzcK1rblJfT43vXuPThs6k3G5SpN25Kv_Tg_RuDVg=
+20:06:26 [LoginMachine]: Add player wyrafinowana suczka (1995147696)
+20:06:26 [StateMachine]: Player wyrafinowana suczka (dpnid 1995147696 uid ) Entering AuthPlayerLoginState
+20:06:27 [StateMachine]: Player JuicyApple (dpnid 163379156 uid 8lg1r66OdEIEjrYmWM_1EyxHiMIwTPZ78JYNWIiGZxg=) Entering DBGetLoginTimeLoginState
+20:06:27 [StateMachine]: Player JuicyApple (dpnid 163379156 uid 8lg1r66OdEIEjrYmWM_1EyxHiMIwTPZ78JYNWIiGZxg=) Entering DBWaitLoginTimeLoginState
+20:06:27 [StateMachine]: Player BigDog (dpnid 44106434 uid E26YqVBUc4-BgscX8pDFhvv8mR1aUzK4rDTppguh1wI=) Entering DBGetLoginTimeLoginState
+20:06:27 [StateMachine]: Player BigDog (dpnid 44106434 uid E26YqVBUc4-BgscX8pDFhvv8mR1aUzK4rDTppguh1wI=) Entering DBWaitLoginTimeLoginState
+20:06:28 BattlEye Server: Player #38 wyrafinowana suczka (77.46.74.47:2304) connected
+20:06:28 Player wyrafinowana suczka connecting.
+20:06:28 [StateMachine]: Player wyrafinowana suczka (dpnid 1995147696 uid ) Entering WaitAuthPlayerLoginState
+20:06:29 BattlEye Server: RCon admin #0: (To The_13abyKnight) The_13abyKnight, welcome to Terminus! Enjoy your stay. 
+20:06:29 BattlEye Server: RCon admin #0: (To Flux) Flux, welcome to Terminus! Enjoy your stay. 
+20:06:30 BattlEye Server: Player #38 wyrafinowana suczka - BE GUID: 1b6fc8fdd8e230faa59e3011ba31287e
+20:06:30 BattlEye Server: Verified GUID (1b6fc8fdd8e230faa59e3011ba31287e) of player #38 wyrafinowana suczka
+20:06:30 Player wyrafinowana suczka connected (id=dWPukiDepgxKiAsBH5RHnu_JT9C00w84OtYfLlZ53pw=).
+20:06:30 Player "wyrafinowana suczka" is connected (steamID=76561197973212992)
+20:06:31 [Login]: Adding player Danny (1526530544) to login queue at position 7
+20:06:33 [StateMachine]: Player Jeffery (dpnid 1720958115 uid 6Y3vQEXv5e5g-XmHLnIeP5QSbwlJf-00GYAMbxfcXqU=) Entering DBGetCharacterLoginState
+20:06:33 [StateMachine]: Player Jeffery (dpnid 1720958115 uid 6Y3vQEXv5e5g-XmHLnIeP5QSbwlJf-00GYAMbxfcXqU=) Entering CreateNetObjectsLoginState
+20:06:33 Player Jeffery dpid=1720958115 at pos (7119.5, 294.9, 7715.0) 
+20:06:33 [StateMachine]: Player Jeffery (dpnid 1720958115 uid 6Y3vQEXv5e5g-XmHLnIeP5QSbwlJf-00GYAMbxfcXqU=) Entering PreloadCamLoginState
+20:06:33 [StateMachine]: Player kapci (dpnid 1806549412 uid PKAvgADMoiDK0iZCTCXowSMw5h0OgtXYFRmRghuev94=) Entering DBGetCharacterLoginState
+20:06:33 [StateMachine]: Player Jeffery (dpnid 1720958115 uid 6Y3vQEXv5e5g-XmHLnIeP5QSbwlJf-00GYAMbxfcXqU=) Entering WaitPreloadCamLoginState
+20:06:33 [StateMachine]: Player kapci (dpnid 1806549412 uid PKAvgADMoiDK0iZCTCXowSMw5h0OgtXYFRmRghuev94=) Entering CreateNetObjectsLoginState
+20:06:33 Player kapci dpid=1806549412 at pos (9874.0, 8.2, 1857.1) 
+20:06:33 [StateMachine]: Player kapci (dpnid 1806549412 uid PKAvgADMoiDK0iZCTCXowSMw5h0OgtXYFRmRghuev94=) Entering PreloadCamLoginState
+20:06:33 [StateMachine]: Player kapci (dpnid 1806549412 uid PKAvgADMoiDK0iZCTCXowSMw5h0OgtXYFRmRghuev94=) Entering WaitPreloadCamLoginState
+20:06:42 [StateMachine]: Player JuicyApple (dpnid 163379156 uid 8lg1r66OdEIEjrYmWM_1EyxHiMIwTPZ78JYNWIiGZxg=) Entering DBGetCharacterLoginState
+20:06:42 [StateMachine]: Player JuicyApple (dpnid 163379156 uid 8lg1r66OdEIEjrYmWM_1EyxHiMIwTPZ78JYNWIiGZxg=) Entering CreateNetObjectsLoginState
+20:06:42 Player JuicyApple dpid=163379156 at pos (4870.0, 339.1, 10219.5) 
+20:06:42 [StateMachine]: Player JuicyApple (dpnid 163379156 uid 8lg1r66OdEIEjrYmWM_1EyxHiMIwTPZ78JYNWIiGZxg=) Entering PreloadCamLoginState
+20:06:42 [StateMachine]: Player JuicyApple (dpnid 163379156 uid 8lg1r66OdEIEjrYmWM_1EyxHiMIwTPZ78JYNWIiGZxg=) Entering WaitPreloadCamLoginState
+20:06:42 [StateMachine]: Player BigDog (dpnid 44106434 uid E26YqVBUc4-BgscX8pDFhvv8mR1aUzK4rDTppguh1wI=) Entering DBGetCharacterLoginState
+20:06:42 [StateMachine]: Player BigDog (dpnid 44106434 uid E26YqVBUc4-BgscX8pDFhvv8mR1aUzK4rDTppguh1wI=) Entering CreateNetObjectsLoginState
+20:06:42 Player BigDog dpid=44106434 at pos (3050.5, 311.8, 7865.1) 
+20:06:42 [StateMachine]: Player BigDog (dpnid 44106434 uid E26YqVBUc4-BgscX8pDFhvv8mR1aUzK4rDTppguh1wI=) Entering PreloadCamLoginState
+20:06:42 [StateMachine]: Player BigDog (dpnid 44106434 uid E26YqVBUc4-BgscX8pDFhvv8mR1aUzK4rDTppguh1wI=) Entering WaitPreloadCamLoginState
+20:06:47 [StateMachine]: Player wyrafinowana suczka (dpnid 1995147696 uid dWPukiDepgxKiAsBH5RHnu_JT9C00w84OtYfLlZ53pw=) Entering DBGetLoginTimeLoginState
+20:06:47 [StateMachine]: Player wyrafinowana suczka (dpnid 1995147696 uid dWPukiDepgxKiAsBH5RHnu_JT9C00w84OtYfLlZ53pw=) Entering DBWaitLoginTimeLoginState
+20:06:49 [StateMachine]: Player Jeffery (dpnid 1720958115 uid 6Y3vQEXv5e5g-XmHLnIeP5QSbwlJf-00GYAMbxfcXqU=) Entering GetLoadedCharLoginState
+20:06:49 <LOAD EXISTING CHAR>:
+    charID 289
+    playerID 289
+    dpnid 1720958115
+    uid 6Y3vQEXv5e5g-XmHLnIeP5QSbwlJf-00GYAMbxfcXqU=
+20:06:49 [LoginMachine]: Add player Richy (117110500)
+20:06:49 [StateMachine]: Player Richy (dpnid 117110500 uid ) Entering AuthPlayerLoginState
+20:06:49 [StateMachine]: Player kapci (dpnid 1806549412 uid PKAvgADMoiDK0iZCTCXowSMw5h0OgtXYFRmRghuev94=) Entering GetLoadedCharLoginState
+20:06:49 <LOAD EXISTING CHAR>:
+    charID 917
+    playerID 917
+    dpnid 1806549412
+    uid PKAvgADMoiDK0iZCTCXowSMw5h0OgtXYFRmRghuev94=
+20:06:49 [LoginMachine]: Add player RUFUS THE GREAT (28860711)
+20:06:49 [StateMachine]: Player RUFUS THE GREAT (dpnid 28860711 uid ) Entering AuthPlayerLoginState
+20:06:50 BattlEye Server: Player #39 Richy (86.15.138.143:2304) connected
+20:06:50 Player Richy connecting.
+20:06:50 [StateMachine]: Player Richy (dpnid 117110500 uid ) Entering WaitAuthPlayerLoginState
+20:06:50 [Login]: Adding player riczi (15592323) to login queue at position 6
+20:06:51 BattlEye Server: Player #40 RUFUS THE GREAT (91.141.2.162:42978) connected
+20:06:51 Player RUFUS THE GREAT connecting.
+20:06:51 [StateMachine]: Player RUFUS THE GREAT (dpnid 28860711 uid ) Entering WaitAuthPlayerLoginState
+20:06:51 BattlEye Server: Player #39 Richy - BE GUID: 64d957928bfa301a2cb57a1835358880
+20:06:52 Player Richy kicked off by BattlEye: Admin Kick (You are banned: Aim/ESP Cheat)
+20:06:52 Player Richy (117110500) kicked from server: 240 ( (Admin Kick (You are banned: Aim/ESP Cheat)))
+20:06:52 [Disconnect]: Client 117110500 early disconnect
+20:06:52 [Disconnect]: No player -> remove player info 117110500 
+20:06:52 [LoginMachine]: Force remove player Richy (117110500)
+20:06:52 [Disconnect]: DisconnectPlayerFinish 117110500
+20:06:52 [Disconnect]: Remove player info 117110500
+20:06:52 [Disconnect]: Player destroy 117110500 
+20:06:52 Player Richy disconnected.
+20:06:52 [LoginMachine]: Add player Show it (18193563)
+20:06:52 [StateMachine]: Player Show it (dpnid 18193563 uid ) Entering AuthPlayerLoginState
+20:06:52 BattlEye Server: Player #40 RUFUS THE GREAT - BE GUID: c7e25b12f4c37d3c33f92129c1f14294
+20:06:53 BattlEye Server: Verified GUID (c7e25b12f4c37d3c33f92129c1f14294) of player #40 RUFUS THE GREAT
+20:06:53 Player RUFUS THE GREAT connected (id=eAgSpgok7k5hHt4ccZZ7DGr-TQEZCnaexb1qSNAsm2w=).
+20:06:53 Player "RUFUS THE GREAT" is connected (steamID=76561198068534478)
+20:06:53 BattlEye Server: Player #41 Show it (89.177.75.146:2304) connected
+20:06:53 Player Show it connecting.
+20:06:53 [StateMachine]: Player Show it (dpnid 18193563 uid ) Entering WaitAuthPlayerLoginState
+20:06:53 [Login]: Adding player Yarden (891269885) to login queue at position 6
+20:06:54 [StateMachine]: Player RUFUS THE GREAT (dpnid 28860711 uid eAgSpgok7k5hHt4ccZZ7DGr-TQEZCnaexb1qSNAsm2w=) Entering DBGetLoginTimeLoginState
+20:06:54 [StateMachine]: Player RUFUS THE GREAT (dpnid 28860711 uid eAgSpgok7k5hHt4ccZZ7DGr-TQEZCnaexb1qSNAsm2w=) Entering DBWaitLoginTimeLoginState
+20:06:54 BattlEye Server: RCon admin #0: (To kapci) kapci, welcome to Terminus! Enjoy your stay. 
+20:06:54 BattlEye Server: Player #41 Show it - BE GUID: ccb5a642b841ded5cdf054a93ea7752d
+20:06:54 BattlEye Server: RCon admin #0: (To Jeffery) Jeffery, welcome to Terminus! Enjoy your stay. 
+20:06:54 BattlEye Server: Verified GUID (ccb5a642b841ded5cdf054a93ea7752d) of player #41 Show it
+20:06:54 Player Show it connected (id=DJNf5F1nFw371JlwUajNJrkqjMAmH5vs7POosXwk8_w=).
+20:06:54 Player "Show it" is connected (steamID=76561197994609324)
+20:06:55 [StateMachine]: Player Show it (dpnid 18193563 uid DJNf5F1nFw371JlwUajNJrkqjMAmH5vs7POosXwk8_w=) Entering DBGetLoginTimeLoginState
+20:06:55 [StateMachine]: Player Show it (dpnid 18193563 uid DJNf5F1nFw371JlwUajNJrkqjMAmH5vs7POosXwk8_w=) Entering DBWaitLoginTimeLoginState
+20:06:56 [Login]: Adding player TRixiNO (2116425073) to login queue at position 7
+20:07:00 [StateMachine]: Player JuicyApple (dpnid 163379156 uid 8lg1r66OdEIEjrYmWM_1EyxHiMIwTPZ78JYNWIiGZxg=) Entering GetLoadedCharLoginState
+20:07:00 <LOAD EXISTING CHAR>:
+    charID 377
+    playerID 377
+    dpnid 163379156
+    uid 8lg1r66OdEIEjrYmWM_1EyxHiMIwTPZ78JYNWIiGZxg=
+20:07:00 [LoginMachine]: Add player Ward (1511267517)
+20:07:00 [StateMachine]: Player Ward (dpnid 1511267517 uid ) Entering AuthPlayerLoginState
+20:07:01 BattlEye Server: Player #42 Ward (37.207.102.66:13797) connected
+20:07:01 Player Ward connecting.
+20:07:01 [StateMachine]: Player Ward (dpnid 1511267517 uid ) Entering WaitAuthPlayerLoginState
+20:07:02 [StateMachine]: Player wyrafinowana suczka (dpnid 1995147696 uid dWPukiDepgxKiAsBH5RHnu_JT9C00w84OtYfLlZ53pw=) Entering DBGetCharacterLoginState
+20:07:02 [StateMachine]: Player wyrafinowana suczka (dpnid 1995147696 uid dWPukiDepgxKiAsBH5RHnu_JT9C00w84OtYfLlZ53pw=) Entering CreateNetObjectsLoginState
+20:07:02 Player wyrafinowana suczka dpid=1995147696 at pos (8661.6, 105.1, 12786.9) 
+20:07:02 [StateMachine]: Player wyrafinowana suczka (dpnid 1995147696 uid dWPukiDepgxKiAsBH5RHnu_JT9C00w84OtYfLlZ53pw=) Entering PreloadCamLoginState
+20:07:02 [StateMachine]: Player wyrafinowana suczka (dpnid 1995147696 uid dWPukiDepgxKiAsBH5RHnu_JT9C00w84OtYfLlZ53pw=) Entering WaitPreloadCamLoginState
+20:07:02 BattlEye Server: Player #42 Ward - BE GUID: 7fbb53f6b3c1fbba859401f081142fcd
+20:07:02 BattlEye Server: Verified GUID (7fbb53f6b3c1fbba859401f081142fcd) of player #42 Ward
+20:07:02 Player Ward connected (id=oxFQHPUc5RynAjyhBBFNXwLsHkEK7czqulPJXNLTH4E=).
+20:07:02 Player "Ward" is connected (steamID=76561197966124598)
+20:07:03 [Disconnect]: Start script disconnect 24524979 (dbCharacterId 380 dbPlayerId 380) logoutTime 15
+20:07:04 BattlEye Server: RCon admin #0: (To JuicyApple) JuicyApple, welcome to Terminus! Enjoy your stay. 
+20:07:05 [Disconnect]: Client 24524979 disconnecting
+20:07:05 [Disconnect]: Client 24524979 early disconnect
+20:07:05 [Disconnect]: Start script disconnect 24524979 (dbCharacterId 380 dbPlayerId 380) logoutTime 15
+20:07:06 [StateMachine]: Player Ward (dpnid 1511267517 uid oxFQHPUc5RynAjyhBBFNXwLsHkEK7czqulPJXNLTH4E=) Entering DBGetLoginTimeLoginState
+20:07:06 [StateMachine]: Player Ward (dpnid 1511267517 uid oxFQHPUc5RynAjyhBBFNXwLsHkEK7czqulPJXNLTH4E=) Entering DBWaitLoginTimeLoginState
+20:07:09 [StateMachine]: Player RUFUS THE GREAT (dpnid 28860711 uid eAgSpgok7k5hHt4ccZZ7DGr-TQEZCnaexb1qSNAsm2w=) Entering DBGetCharacterLoginState
+20:07:09 [StateMachine]: Player RUFUS THE GREAT (dpnid 28860711 uid eAgSpgok7k5hHt4ccZZ7DGr-TQEZCnaexb1qSNAsm2w=) Entering CreateNetObjectsLoginState
+20:07:09 Player RUFUS THE GREAT dpid=28860711 at pos (2371.3, 188.7, 5126.8) 
+20:07:09 [StateMachine]: Player RUFUS THE GREAT (dpnid 28860711 uid eAgSpgok7k5hHt4ccZZ7DGr-TQEZCnaexb1qSNAsm2w=) Entering PreloadCamLoginState
+20:07:09 [StateMachine]: Player RUFUS THE GREAT (dpnid 28860711 uid eAgSpgok7k5hHt4ccZZ7DGr-TQEZCnaexb1qSNAsm2w=) Entering WaitPreloadCamLoginState
+20:07:10 [StateMachine]: Player Show it (dpnid 18193563 uid DJNf5F1nFw371JlwUajNJrkqjMAmH5vs7POosXwk8_w=) Entering DBGetCharacterLoginState
+20:07:10 [StateMachine]: Player Show it (dpnid 18193563 uid DJNf5F1nFw371JlwUajNJrkqjMAmH5vs7POosXwk8_w=) Entering CreateNetObjectsLoginState
+20:07:10 Player Show it dpid=18193563 at pos (5870.6, 136.0, 4847.9) 
+20:07:10 [StateMachine]: Player Show it (dpnid 18193563 uid DJNf5F1nFw371JlwUajNJrkqjMAmH5vs7POosXwk8_w=) Entering PreloadCamLoginState
+20:07:10 [StateMachine]: Player Show it (dpnid 18193563 uid DJNf5F1nFw371JlwUajNJrkqjMAmH5vs7POosXwk8_w=) Entering WaitPreloadCamLoginState
+20:07:13 [CE][LootRespawner] (PRIDummy) :: Item [0] causing search overtime: "Truck_01_WheelDouble"
+20:07:16 [Disconnect]: No packets from 24524979
+20:07:16 [Disconnect]: Already in progress 24524979 
+20:07:18 [Disconnect]: Finish script disconnect 24524979
+20:07:18 [Disconnect]: DisconnectPlayerFinish 24524979
+20:07:18 [Disconnect]: Remove player info 24524979
+20:07:18 [Disconnect]: Player destroy 24524979 
+20:07:18 Player MayneKeen disconnected.
+20:07:18 BattlEye Server: Player #30 MayneKeen disconnected
+20:07:19 [StateMachine]: Player wyrafinowana suczka (dpnid 1995147696 uid dWPukiDepgxKiAsBH5RHnu_JT9C00w84OtYfLlZ53pw=) Entering GetLoadedCharLoginState
+20:07:19 <LOAD EXISTING CHAR>:
+    charID 48
+    playerID 48
+    dpnid 1995147696
+    uid dWPukiDepgxKiAsBH5RHnu_JT9C00w84OtYfLlZ53pw=
+20:07:19 [LoginMachine]: Add player Incredible  (289674929)
+20:07:19 [StateMachine]: Player Incredible  (dpnid 289674929 uid ) Entering AuthPlayerLoginState
+20:07:21 BattlEye Server: Player #43 Incredible  (37.146.63.167:1422) connected
+20:07:21 Player Incredible  connecting.
+20:07:21 [StateMachine]: Player Incredible  (dpnid 289674929 uid ) Entering WaitAuthPlayerLoginState
+20:07:21 [StateMachine]: Player Ward (dpnid 1511267517 uid oxFQHPUc5RynAjyhBBFNXwLsHkEK7czqulPJXNLTH4E=) Entering DBGetCharacterLoginState
+20:07:21 [StateMachine]: Player Ward (dpnid 1511267517 uid oxFQHPUc5RynAjyhBBFNXwLsHkEK7czqulPJXNLTH4E=) Entering CreateNetObjectsLoginState
+20:07:21 Player Ward dpid=1511267517 at pos (13116.4, 114.5, 13116.8) 
+20:07:21 [StateMachine]: Player Ward (dpnid 1511267517 uid oxFQHPUc5RynAjyhBBFNXwLsHkEK7czqulPJXNLTH4E=) Entering PreloadCamLoginState
+20:07:21 [StateMachine]: Player Ward (dpnid 1511267517 uid oxFQHPUc5RynAjyhBBFNXwLsHkEK7czqulPJXNLTH4E=) Entering WaitPreloadCamLoginState
+20:07:21 [Login]: Adding player AlexSK (19649568) to login queue at position 6
+20:07:22 BattlEye Server: Player #43 Incredible  - BE GUID: 5ef4e1d8b70dd2985ee8d08776768f27
+20:07:22 BattlEye Server: Verified GUID (5ef4e1d8b70dd2985ee8d08776768f27) of player #43 Incredible 
+20:07:22 Player Incredible  connected (id=7MwFfIp7YhMHoiPmAqD0-UB9QUmEAyB5mwCcbRzlL6Q=).
+20:07:22 Player "Incredible " is connected (steamID=76561198144369722)
+20:07:23 [StateMachine]: Player BigDog (dpnid 44106434 uid E26YqVBUc4-BgscX8pDFhvv8mR1aUzK4rDTppguh1wI=) Entering GetLoadedCharLoginState
+20:07:23 <LOAD EXISTING CHAR>:
+    charID 239
+    playerID 239
+    dpnid 44106434
+    uid E26YqVBUc4-BgscX8pDFhvv8mR1aUzK4rDTppguh1wI=
+20:07:23 [LoginMachine]: Add player Survivor (1862587112)
+20:07:23 [StateMachine]: Player Survivor (dpnid 1862587112 uid ) Entering AuthPlayerLoginState
+20:07:24 BattlEye Server: RCon admin #0: (To wyrafinowana suczka) wyrafinowana suczka, welcome to Terminus! Enjoy your stay. 
+20:07:24 BattlEye Server: RCon admin #0: (To BigDog) BigDog, welcome to Terminus! Enjoy your stay. 
+20:07:24 BattlEye Server: Player #44 Survivor (2) (78.17.119.156:2304) connected
+20:07:24 Player Survivor (2) connecting.
+20:07:24 [StateMachine]: Player Survivor (dpnid 1862587112 uid ) Entering WaitAuthPlayerLoginState
+20:07:25 [Login]: Adding prioritized player Celerity (1552457536) to login queue at position 0
+20:07:26 BattlEye Server: Player #44 Survivor (2) - BE GUID: 4ef74e8a8138e6e3b04452e3ba03e4fd
+20:07:26 BattlEye Server: Verified GUID (4ef74e8a8138e6e3b04452e3ba03e4fd) of player #44 Survivor (2)
+20:07:26 Player Survivor (2) connected (id=aNFc1OKQoOOfiL7qW9ZL6y5NyWTXBDszE23X5EwGj1A=).
+20:07:26 Player "Survivor (2)" is connected (steamID=76561198255953762)
+20:07:26 [StateMachine]: Player Show it (dpnid 18193563 uid DJNf5F1nFw371JlwUajNJrkqjMAmH5vs7POosXwk8_w=) Entering GetLoadedCharLoginState
+20:07:26 <LOAD EXISTING CHAR>:
+    charID 730
+    playerID 730
+    dpnid 18193563
+    uid DJNf5F1nFw371JlwUajNJrkqjMAmH5vs7POosXwk8_w=
+20:07:26 [LoginMachine]: Add player Celerity (1552457536)
+20:07:26 [StateMachine]: Player Celerity (dpnid 1552457536 uid ) Entering AuthPlayerLoginState
+20:07:28 BattlEye Server: Player #45 Celerity (74.137.124.91:2304) connected
+20:07:28 Player Celerity connecting.
+20:07:28 [StateMachine]: Player Celerity (dpnid 1552457536 uid ) Entering WaitAuthPlayerLoginState
+20:07:29 BattlEye Server: Player #45 Celerity - BE GUID: f26543ba7ee4b7386fef075a625e2660
+20:07:29 BattlEye Server: Verified GUID (f26543ba7ee4b7386fef075a625e2660) of player #45 Celerity
+20:07:29 Player Celerity connected (id=7YhJQi5h4yyJWEUUqBrgPDtbYT7QsPs3U7hhYiZsdrc=).
+20:07:29 Player "Celerity" is connected (steamID=76561198184891046)
+20:07:30 [StateMachine]: Player Incredible  (dpnid 289674929 uid 7MwFfIp7YhMHoiPmAqD0-UB9QUmEAyB5mwCcbRzlL6Q=) Entering DBGetLoginTimeLoginState
+20:07:30 [StateMachine]: Player Incredible  (dpnid 289674929 uid 7MwFfIp7YhMHoiPmAqD0-UB9QUmEAyB5mwCcbRzlL6Q=) Entering DBWaitLoginTimeLoginState
+20:07:31 [Login]: Adding prioritized player Mihaela (971287316) to login queue at position 0
+20:07:33 [StateMachine]: Player Survivor (dpnid 1862587112 uid aNFc1OKQoOOfiL7qW9ZL6y5NyWTXBDszE23X5EwGj1A=) Entering DBGetLoginTimeLoginState
+20:07:33 [StateMachine]: Player Survivor (dpnid 1862587112 uid aNFc1OKQoOOfiL7qW9ZL6y5NyWTXBDszE23X5EwGj1A=) Entering DBWaitLoginTimeLoginState
+20:07:34 BattlEye Server: RCon admin #0: (To Show it) Show it, welcome to Terminus! Enjoy your stay. 
+20:07:36 [StateMachine]: Player Celerity (dpnid 1552457536 uid 7YhJQi5h4yyJWEUUqBrgPDtbYT7QsPs3U7hhYiZsdrc=) Entering DBGetLoginTimeLoginState
+20:07:36 [StateMachine]: Player Celerity (dpnid 1552457536 uid 7YhJQi5h4yyJWEUUqBrgPDtbYT7QsPs3U7hhYiZsdrc=) Entering DBWaitLoginTimeLoginState
+20:07:37 [StateMachine]: Player Ward (dpnid 1511267517 uid oxFQHPUc5RynAjyhBBFNXwLsHkEK7czqulPJXNLTH4E=) Entering GetLoadedCharLoginState
+20:07:37 <LOAD EXISTING CHAR>:
+    charID 918
+    playerID 918
+    dpnid 1511267517
+    uid oxFQHPUc5RynAjyhBBFNXwLsHkEK7czqulPJXNLTH4E=
+20:07:37 [LoginMachine]: Add player Mihaela (971287316)
+20:07:37 [StateMachine]: Player Mihaela (dpnid 971287316 uid ) Entering AuthPlayerLoginState
+20:07:37 [StateMachine]: Player RUFUS THE GREAT (dpnid 28860711 uid eAgSpgok7k5hHt4ccZZ7DGr-TQEZCnaexb1qSNAsm2w=) Entering GetLoadedCharLoginState
+20:07:37 <LOAD EXISTING CHAR>:
+    charID 893
+    playerID 893
+    dpnid 28860711
+    uid eAgSpgok7k5hHt4ccZZ7DGr-TQEZCnaexb1qSNAsm2w=
+20:07:37 [LoginMachine]: Add player EddY Eddson (17664023)
+20:07:37 [StateMachine]: Player EddY Eddson (dpnid 17664023 uid ) Entering AuthPlayerLoginState
+20:07:38 BattlEye Server: Player #46 Mihaela (82.77.225.181:2304) connected
+20:07:38 Player Mihaela connecting.
+20:07:38 [StateMachine]: Player Mihaela (dpnid 971287316 uid ) Entering WaitAuthPlayerLoginState
+20:07:39 BattlEye Server: Player #47 EddY Eddson (37.201.146.45:42018) connected
+20:07:39 Player EddY Eddson connecting.
+20:07:39 [StateMachine]: Player EddY Eddson (dpnid 17664023 uid ) Entering WaitAuthPlayerLoginState
+20:07:39 BattlEye Server: RCon admin #0: (To Ward) Ward, welcome to Terminus! Enjoy your stay. 
+20:07:39 BattlEye Server: RCon admin #0: (To RUFUS THE GREAT) RUFUS THE GREAT, welcome to Terminus! Enjoy your stay. 
+20:07:39 BattlEye Server: Player #46 Mihaela - BE GUID: e2e0dfdc3c5c415a485b0643f13c0e67
+20:07:40 BattlEye Server: Player #47 EddY Eddson - BE GUID: 9a872ee59f79b7c77f5cd4350f65f8f5
+20:07:40 BattlEye Server: Verified GUID (e2e0dfdc3c5c415a485b0643f13c0e67) of player #46 Mihaela
+20:07:40 Player Mihaela connected (id=INX-qeJ2ikqEcrOoUZa8opXP6TFtZpXGicdg-GHp-fg=).
+20:07:40 Player "Mihaela" is connected (steamID=76561198160047093)
+20:07:40 BattlEye Server: Verified GUID (9a872ee59f79b7c77f5cd4350f65f8f5) of player #47 EddY Eddson
+20:07:40 Player EddY Eddson connected (id=nHKsTmLT8V4NPmrdRohimsKJA301SEwdt_Ejf5JhB4k=).
+20:07:40 Player "EddY Eddson" is connected (steamID=76561198062429826)
+20:07:40 Respawn: Add player Amikaze (171572614) to respawn machine
+20:07:40 [StateMachine]: Player Amikaze (dpnid 171572614 uid ) Entering GetCharacterRespawnState
+20:07:40 [StateMachine]: Player Amikaze (dpnid 171572614 uid ) Entering PreloadCamRespawnState
+20:07:40 Player Amikaze dpid=171572614 at pos (13617.3, 0.0, 11212.6) 
+20:07:40 [StateMachine]: Player Amikaze (dpnid 171572614 uid ) Entering WaitPreloadCamRespawnState
+20:07:41 [StateMachine]: Player EddY Eddson (dpnid 17664023 uid nHKsTmLT8V4NPmrdRohimsKJA301SEwdt_Ejf5JhB4k=) Entering DBGetLoginTimeLoginState
+20:07:41 [StateMachine]: Player EddY Eddson (dpnid 17664023 uid nHKsTmLT8V4NPmrdRohimsKJA301SEwdt_Ejf5JhB4k=) Entering DBWaitLoginTimeLoginState
+20:07:42 [StateMachine]: Player Mihaela (dpnid 971287316 uid INX-qeJ2ikqEcrOoUZa8opXP6TFtZpXGicdg-GHp-fg=) Entering DBGetLoginTimeLoginState
+20:07:42 [StateMachine]: Player Mihaela (dpnid 971287316 uid INX-qeJ2ikqEcrOoUZa8opXP6TFtZpXGicdg-GHp-fg=) Entering DBWaitLoginTimeLoginState
+20:07:45 [StateMachine]: Player Incredible  (dpnid 289674929 uid 7MwFfIp7YhMHoiPmAqD0-UB9QUmEAyB5mwCcbRzlL6Q=) Entering DBGetCharacterLoginState
+20:07:45 [StateMachine]: Player Incredible  (dpnid 289674929 uid 7MwFfIp7YhMHoiPmAqD0-UB9QUmEAyB5mwCcbRzlL6Q=) Entering CreateNetObjectsLoginState
+20:07:45 Player Incredible  dpid=289674929 at pos (10638.9, 64.5, 14309.5) 
+20:07:46 [StateMachine]: Player Incredible  (dpnid 289674929 uid 7MwFfIp7YhMHoiPmAqD0-UB9QUmEAyB5mwCcbRzlL6Q=) Entering PreloadCamLoginState
+20:07:46 [StateMachine]: Player Incredible  (dpnid 289674929 uid 7MwFfIp7YhMHoiPmAqD0-UB9QUmEAyB5mwCcbRzlL6Q=) Entering WaitPreloadCamLoginState
+20:07:48 [StateMachine]: Player Survivor (dpnid 1862587112 uid aNFc1OKQoOOfiL7qW9ZL6y5NyWTXBDszE23X5EwGj1A=) Entering DBGetCharacterLoginState
+20:07:48 [StateMachine]: Player Survivor (dpnid 1862587112 uid aNFc1OKQoOOfiL7qW9ZL6y5NyWTXBDszE23X5EwGj1A=) Entering CreateNetObjectsLoginState
+20:07:48 Player Survivor dpid=1862587112 at pos (11402.3, 59.8, 14883.5) 
+20:07:48 [StateMachine]: Player Survivor (dpnid 1862587112 uid aNFc1OKQoOOfiL7qW9ZL6y5NyWTXBDszE23X5EwGj1A=) Entering PreloadCamLoginState
+20:07:48 [StateMachine]: Player Survivor (dpnid 1862587112 uid aNFc1OKQoOOfiL7qW9ZL6y5NyWTXBDszE23X5EwGj1A=) Entering WaitPreloadCamLoginState
+20:07:51 [StateMachine]: Player Celerity (dpnid 1552457536 uid 7YhJQi5h4yyJWEUUqBrgPDtbYT7QsPs3U7hhYiZsdrc=) Entering DBGetCharacterLoginState
+20:07:51 [StateMachine]: Player Celerity (dpnid 1552457536 uid 7YhJQi5h4yyJWEUUqBrgPDtbYT7QsPs3U7hhYiZsdrc=) Entering CreateNetObjectsLoginState
+20:07:51 Player Celerity dpid=1552457536 at pos (11909.4, 6.1, 3552.1) 
+20:07:51 [StateMachine]: Player Celerity (dpnid 1552457536 uid 7YhJQi5h4yyJWEUUqBrgPDtbYT7QsPs3U7hhYiZsdrc=) Entering PreloadCamLoginState
+20:07:51 [StateMachine]: Player Celerity (dpnid 1552457536 uid 7YhJQi5h4yyJWEUUqBrgPDtbYT7QsPs3U7hhYiZsdrc=) Entering WaitPreloadCamLoginState
+20:07:53 [Login]: Adding player MayneKeen (24444500) to login queue at position 5
+20:07:56 [StateMachine]: Player EddY Eddson (dpnid 17664023 uid nHKsTmLT8V4NPmrdRohimsKJA301SEwdt_Ejf5JhB4k=) Entering DBGetCharacterLoginState
+20:07:56 [StateMachine]: Player EddY Eddson (dpnid 17664023 uid nHKsTmLT8V4NPmrdRohimsKJA301SEwdt_Ejf5JhB4k=) Entering CreateNetObjectsLoginState
+20:07:56 Player EddY Eddson dpid=17664023 at pos (3684.6, 402.0, 5968.8) 
+20:07:56 [StateMachine]: Player EddY Eddson (dpnid 17664023 uid nHKsTmLT8V4NPmrdRohimsKJA301SEwdt_Ejf5JhB4k=) Entering PreloadCamLoginState
+20:07:56 [StateMachine]: Player EddY Eddson (dpnid 17664023 uid nHKsTmLT8V4NPmrdRohimsKJA301SEwdt_Ejf5JhB4k=) Entering WaitPreloadCamLoginState
+20:07:56 [StateMachine]: Player Amikaze (dpnid 171572614 uid ) Entering GetNewCharRespawnState
+20:07:56 <RESPAWN NEW CHAR>:
+    charID 475
+    playerID 475
+    dpnid 171572614
+    uid LYmgjGa-2_06yKdFqcuW8uhaTt5PdqDcx23-T8YU4Qc=
+20:07:57 [StateMachine]: Player Mihaela (dpnid 971287316 uid INX-qeJ2ikqEcrOoUZa8opXP6TFtZpXGicdg-GHp-fg=) Entering DBGetCharacterLoginState
+20:07:57 [StateMachine]: Player Mihaela (dpnid 971287316 uid INX-qeJ2ikqEcrOoUZa8opXP6TFtZpXGicdg-GHp-fg=) Entering CreateNetObjectsLoginState
+20:07:57 Player Mihaela dpid=971287316 at pos (81.7, 441.7, 15297.2) 
+20:07:57 [StateMachine]: Player Mihaela (dpnid 971287316 uid INX-qeJ2ikqEcrOoUZa8opXP6TFtZpXGicdg-GHp-fg=) Entering PreloadCamLoginState
+20:07:57 [StateMachine]: Player Mihaela (dpnid 971287316 uid INX-qeJ2ikqEcrOoUZa8opXP6TFtZpXGicdg-GHp-fg=) Entering WaitPreloadCamLoginState
+20:07:58 candrei98 uses modified data file
+20:07:58 [Login]: Adding player candrei98 (22338118) to login queue at position 6
+20:08:03 [StateMachine]: Player Incredible  (dpnid 289674929 uid 7MwFfIp7YhMHoiPmAqD0-UB9QUmEAyB5mwCcbRzlL6Q=) Entering GetLoadedCharLoginState
+20:08:03 <LOAD EXISTING CHAR>:
+    charID 910
+    playerID 910
+    dpnid 289674929
+    uid 7MwFfIp7YhMHoiPmAqD0-UB9QUmEAyB5mwCcbRzlL6Q=
+20:08:03 [LoginMachine]: Add player Danny (1526530544)
+20:08:03 [StateMachine]: Player Danny (dpnid 1526530544 uid ) Entering AuthPlayerLoginState
+20:08:04 BattlEye Server: Player #48 Danny (86.40.140.182:2304) connected
+20:08:04 Player Danny connecting.
+20:08:04 [StateMachine]: Player Danny (dpnid 1526530544 uid ) Entering WaitAuthPlayerLoginState
+20:08:05 [StateMachine]: Player Survivor (dpnid 1862587112 uid aNFc1OKQoOOfiL7qW9ZL6y5NyWTXBDszE23X5EwGj1A=) Entering GetLoadedCharLoginState
+20:08:05 <LOAD EXISTING CHAR>:
+    charID 916
+    playerID 916
+    dpnid 1862587112
+    uid aNFc1OKQoOOfiL7qW9ZL6y5NyWTXBDszE23X5EwGj1A=
+20:08:05 [LoginMachine]: Add player riczi (15592323)
+20:08:05 [StateMachine]: Player riczi (dpnid 15592323 uid ) Entering AuthPlayerLoginState
+20:08:06 BattlEye Server: Player #48 Danny - BE GUID: 7c57cd67f4414a5b40fbae92a89f54df
+20:08:06 BattlEye Server: Player #49 riczi (94.172.68.28:2304) connected
+20:08:06 Player riczi connecting.
+20:08:06 [StateMachine]: Player riczi (dpnid 15592323 uid ) Entering WaitAuthPlayerLoginState
+20:08:06 BattlEye Server: Verified GUID (7c57cd67f4414a5b40fbae92a89f54df) of player #48 Danny
+20:08:06 Player Danny connected (id=eL1JK3NVsJhoo-n2dXh8Rp8wm94FvEnKFdzJwwQg9I4=).
+20:08:06 Player "Danny" is connected (steamID=76561198121022195)
+20:08:07 BattlEye Server: Player #49 riczi - BE GUID: 2f82363c2300a6356712c1b3ab02ef5e
+20:08:07 BattlEye Server: Verified GUID (2f82363c2300a6356712c1b3ab02ef5e) of player #49 riczi
+20:08:07 Player riczi connected (id=dJYqnVS2wbUdDl6pu7418NoLYHDfgVJdrRnDopXespM=).
+20:08:07 Player "riczi" is connected (steamID=76561198079314670)
+20:08:07 [StateMachine]: Player Celerity (dpnid 1552457536 uid 7YhJQi5h4yyJWEUUqBrgPDtbYT7QsPs3U7hhYiZsdrc=) Entering GetLoadedCharLoginState
+20:08:07 <LOAD EXISTING CHAR>:
+    charID 81
+    playerID 81
+    dpnid 1552457536
+    uid 7YhJQi5h4yyJWEUUqBrgPDtbYT7QsPs3U7hhYiZsdrc=
+20:08:07 [LoginMachine]: Add player Yarden (891269885)
+20:08:07 [StateMachine]: Player Yarden (dpnid 891269885 uid ) Entering AuthPlayerLoginState
+20:08:07 [StateMachine]: Player riczi (dpnid 15592323 uid dJYqnVS2wbUdDl6pu7418NoLYHDfgVJdrRnDopXespM=) Entering DBGetLoginTimeLoginState
+20:08:07 [StateMachine]: Player riczi (dpnid 15592323 uid dJYqnVS2wbUdDl6pu7418NoLYHDfgVJdrRnDopXespM=) Entering DBWaitLoginTimeLoginState
+20:08:09 BattlEye Server: Player #50 Yarden (79.178.166.34:2304) connected
+20:08:09 Player Yarden connecting.
+20:08:09 [StateMachine]: Player Yarden (dpnid 891269885 uid ) Entering WaitAuthPlayerLoginState
+20:08:09 BattlEye Server: RCon admin #0: (To Celerity) Celerity, welcome to Terminus! Enjoy your stay. 
+20:08:09 BattlEye Server: RCon admin #0: (To Survivor (2)) Survivor (2), welcome to Terminus! Enjoy your stay. 
+20:08:09 BattlEye Server: RCon admin #0: (To Incredible ) Incredible , welcome to Terminus! Enjoy your stay. 
+20:08:10 BattlEye Server: Player #50 Yarden - BE GUID: f05ad574036e8b57b278cf9c7c1fcaba
+20:08:11 BattlEye Server: Verified GUID (f05ad574036e8b57b278cf9c7c1fcaba) of player #50 Yarden
+20:08:11 Player Yarden connected (id=TK8cfnzoE0WIIsRgdGkxHDsSyI6QguXDqQNtJYfoxPs=).
+20:08:11 Player "Yarden" is connected (steamID=76561197993009533)
+20:08:12 [StateMachine]: Player EddY Eddson (dpnid 17664023 uid nHKsTmLT8V4NPmrdRohimsKJA301SEwdt_Ejf5JhB4k=) Entering GetLoadedCharLoginState
+20:08:12 <LOAD EXISTING CHAR>:
+    charID 610
+    playerID 610
+    dpnid 17664023
+    uid nHKsTmLT8V4NPmrdRohimsKJA301SEwdt_Ejf5JhB4k=
+20:08:12 [LoginMachine]: Add player TRixiNO (2116425073)
+20:08:12 [StateMachine]: Player TRixiNO (dpnid 2116425073 uid ) Entering AuthPlayerLoginState
+20:08:12 [Disconnect]: Start script disconnect 289674929 (dbCharacterId 910 dbPlayerId 910) logoutTime 15
+20:08:13 [StateMachine]: Player Mihaela (dpnid 971287316 uid INX-qeJ2ikqEcrOoUZa8opXP6TFtZpXGicdg-GHp-fg=) Entering GetLoadedCharLoginState
+20:08:13 <LOAD EXISTING CHAR>:
+    charID 5
+    playerID 5
+    dpnid 971287316
+    uid INX-qeJ2ikqEcrOoUZa8opXP6TFtZpXGicdg-GHp-fg=
+20:08:13 [LoginMachine]: Add player AlexSK (19649568)
+20:08:13 [StateMachine]: Player AlexSK (dpnid 19649568 uid ) Entering AuthPlayerLoginState
+20:08:13 BattlEye Server: Player #51 TRixiNO (31.30.173.13:5502) connected
+20:08:13 Player TRixiNO connecting.
+20:08:13 [StateMachine]: Player TRixiNO (dpnid 2116425073 uid ) Entering WaitAuthPlayerLoginState
+20:08:14 [StateMachine]: Player Danny (dpnid 1526530544 uid eL1JK3NVsJhoo-n2dXh8Rp8wm94FvEnKFdzJwwQg9I4=) Entering DBGetLoginTimeLoginState
+20:08:14 [StateMachine]: Player Danny (dpnid 1526530544 uid eL1JK3NVsJhoo-n2dXh8Rp8wm94FvEnKFdzJwwQg9I4=) Entering DBWaitLoginTimeLoginState
+20:08:14 BattlEye Server: Player #52 AlexSK (88.212.36.187:2304) connected
+20:08:14 Player AlexSK connecting.
+20:08:14 [StateMachine]: Player AlexSK (dpnid 19649568 uid ) Entering WaitAuthPlayerLoginState
+20:08:14 BattlEye Server: RCon admin #0: (To EddY Eddson) EddY Eddson, welcome to Terminus! Enjoy your stay. 
+20:08:14 BattlEye Server: RCon admin #0: (To Mihaela) Mihaela, welcome to Terminus! Enjoy your stay. 
+20:08:14 BattlEye Server: Player #51 TRixiNO - BE GUID: 524244ec2c4589e4bdc316e5b51ae14b
+20:08:15 BattlEye Server: Verified GUID (524244ec2c4589e4bdc316e5b51ae14b) of player #51 TRixiNO
+20:08:15 Player TRixiNO connected (id=Flt76r47hPTB1vQoQmann2ov29XrHuKlynbn9nbRUdU=).
+20:08:15 Player "TRixiNO" is connected (steamID=76561198012247544)
+20:08:15 BattlEye Server: Player #52 AlexSK - BE GUID: d12c95a02e23dbe82e1aea8454a13d67
+20:08:15 BattlEye Server: Verified GUID (d12c95a02e23dbe82e1aea8454a13d67) of player #52 AlexSK
+20:08:15 Player AlexSK connected (id=uyHNLQr6QhNjys2C4h76v2t5JQXm2fX3COrZVXl4tcs=).
+20:08:15 Player "AlexSK" is connected (steamID=76561198136854116)
+20:08:16 [Disconnect]: Client 17664023 disconnecting
+20:08:16 [Disconnect]: Client 17664023 early disconnect
+20:08:16 [Disconnect]: Start script disconnect 17664023 (dbCharacterId 610 dbPlayerId 610) logoutTime 15
+20:08:16 [StateMachine]: Player AlexSK (dpnid 19649568 uid uyHNLQr6QhNjys2C4h76v2t5JQXm2fX3COrZVXl4tcs=) Entering DBGetLoginTimeLoginState
+20:08:16 [StateMachine]: Player AlexSK (dpnid 19649568 uid uyHNLQr6QhNjys2C4h76v2t5JQXm2fX3COrZVXl4tcs=) Entering DBWaitLoginTimeLoginState
+20:08:18 [StateMachine]: Player Yarden (dpnid 891269885 uid TK8cfnzoE0WIIsRgdGkxHDsSyI6QguXDqQNtJYfoxPs=) Entering DBGetLoginTimeLoginState
+20:08:18 [StateMachine]: Player Yarden (dpnid 891269885 uid TK8cfnzoE0WIIsRgdGkxHDsSyI6QguXDqQNtJYfoxPs=) Entering DBWaitLoginTimeLoginState
+20:08:22 [StateMachine]: Player riczi (dpnid 15592323 uid dJYqnVS2wbUdDl6pu7418NoLYHDfgVJdrRnDopXespM=) Entering DBGetCharacterLoginState
+20:08:22 [StateMachine]: Player riczi (dpnid 15592323 uid dJYqnVS2wbUdDl6pu7418NoLYHDfgVJdrRnDopXespM=) Entering CreateNetObjectsLoginState
+20:08:22 Player riczi dpid=15592323 at pos (264.0, 187.9, 6592.5) 
+20:08:23 [StateMachine]: Player riczi (dpnid 15592323 uid dJYqnVS2wbUdDl6pu7418NoLYHDfgVJdrRnDopXespM=) Entering PreloadCamLoginState
+20:08:23 [StateMachine]: Player riczi (dpnid 15592323 uid dJYqnVS2wbUdDl6pu7418NoLYHDfgVJdrRnDopXespM=) Entering WaitPreloadCamLoginState
+20:08:23 [StateMachine]: Player TRixiNO (dpnid 2116425073 uid Flt76r47hPTB1vQoQmann2ov29XrHuKlynbn9nbRUdU=) Entering DBGetLoginTimeLoginState
+20:08:23 [StateMachine]: Player TRixiNO (dpnid 2116425073 uid Flt76r47hPTB1vQoQmann2ov29XrHuKlynbn9nbRUdU=) Entering DBWaitLoginTimeLoginState
+20:08:26 [Disconnect]: No packets from 17664023
+20:08:26 [Disconnect]: Already in progress 17664023 
+20:08:27 [Disconnect]: Finish script disconnect 289674929
+20:08:27 [Disconnect]: DisconnectPlayerFinish 289674929
+20:08:27 [Disconnect]: Remove player info 289674929
+20:08:27 [Disconnect]: Player destroy 289674929 
+20:08:27 Player Incredible  disconnected.
+20:08:27 BattlEye Server: Player #43 Incredible  disconnected
+20:08:29 [StateMachine]: Player Danny (dpnid 1526530544 uid eL1JK3NVsJhoo-n2dXh8Rp8wm94FvEnKFdzJwwQg9I4=) Entering DBGetCharacterLoginState
+20:08:29 [StateMachine]: Player Danny (dpnid 1526530544 uid eL1JK3NVsJhoo-n2dXh8Rp8wm94FvEnKFdzJwwQg9I4=) Entering CreateNetObjectsLoginState
+20:08:29 Player Danny dpid=1526530544 at pos (13124.2, 117.2, 13115.2) 
+20:08:29 [StateMachine]: Player Danny (dpnid 1526530544 uid eL1JK3NVsJhoo-n2dXh8Rp8wm94FvEnKFdzJwwQg9I4=) Entering PreloadCamLoginState
+20:08:29 [StateMachine]: Player Danny (dpnid 1526530544 uid eL1JK3NVsJhoo-n2dXh8Rp8wm94FvEnKFdzJwwQg9I4=) Entering WaitPreloadCamLoginState
+20:08:31 [Disconnect]: Finish script disconnect 17664023
+20:08:31 [Disconnect]: DisconnectPlayerFinish 17664023
+20:08:31 [Disconnect]: Remove player info 17664023
+20:08:31 [Disconnect]: Player destroy 17664023 
+20:08:31 Player EddY Eddson disconnected.
+20:08:31 BattlEye Server: Player #47 EddY Eddson disconnected
+20:08:31 [StateMachine]: Player AlexSK (dpnid 19649568 uid uyHNLQr6QhNjys2C4h76v2t5JQXm2fX3COrZVXl4tcs=) Entering DBGetCharacterLoginState
+20:08:31 [StateMachine]: Player AlexSK (dpnid 19649568 uid uyHNLQr6QhNjys2C4h76v2t5JQXm2fX3COrZVXl4tcs=) Entering CreateNetObjectsLoginState
+20:08:31 Player AlexSK dpid=19649568 at pos (5784.1, 151.2, 4918.5) 
+20:08:31 [StateMachine]: Player AlexSK (dpnid 19649568 uid uyHNLQr6QhNjys2C4h76v2t5JQXm2fX3COrZVXl4tcs=) Entering PreloadCamLoginState
+20:08:31 [StateMachine]: Player AlexSK (dpnid 19649568 uid uyHNLQr6QhNjys2C4h76v2t5JQXm2fX3COrZVXl4tcs=) Entering WaitPreloadCamLoginState
+20:08:32 [Login]: Adding player EddY Eddson (144057435) to login queue at position 2
+20:08:33 [StateMachine]: Player Yarden (dpnid 891269885 uid TK8cfnzoE0WIIsRgdGkxHDsSyI6QguXDqQNtJYfoxPs=) Entering DBGetCharacterLoginState
+20:08:33 [StateMachine]: Player Yarden (dpnid 891269885 uid TK8cfnzoE0WIIsRgdGkxHDsSyI6QguXDqQNtJYfoxPs=) Entering CreateNetObjectsLoginState
+20:08:33 Player Yarden dpid=891269885 at pos (1104.1, 74.5, 3308.7) 
+20:08:33 [StateMachine]: Player Yarden (dpnid 891269885 uid TK8cfnzoE0WIIsRgdGkxHDsSyI6QguXDqQNtJYfoxPs=) Entering PreloadCamLoginState
+20:08:33 [StateMachine]: Player Yarden (dpnid 891269885 uid TK8cfnzoE0WIIsRgdGkxHDsSyI6QguXDqQNtJYfoxPs=) Entering WaitPreloadCamLoginState
+20:08:38 [StateMachine]: Player TRixiNO (dpnid 2116425073 uid Flt76r47hPTB1vQoQmann2ov29XrHuKlynbn9nbRUdU=) Entering DBGetCharacterLoginState
+20:08:38 [StateMachine]: Player TRixiNO (dpnid 2116425073 uid Flt76r47hPTB1vQoQmann2ov29XrHuKlynbn9nbRUdU=) Entering CreateNetObjectsLoginState
+20:08:38 Player TRixiNO dpid=2116425073 at pos (5848.0, 133.2, 4872.2) 
+20:08:38 [StateMachine]: Player TRixiNO (dpnid 2116425073 uid Flt76r47hPTB1vQoQmann2ov29XrHuKlynbn9nbRUdU=) Entering PreloadCamLoginState
+20:08:38 [StateMachine]: Player TRixiNO (dpnid 2116425073 uid Flt76r47hPTB1vQoQmann2ov29XrHuKlynbn9nbRUdU=) Entering WaitPreloadCamLoginState
+20:08:38 [StateMachine]: Player riczi (dpnid 15592323 uid dJYqnVS2wbUdDl6pu7418NoLYHDfgVJdrRnDopXespM=) Entering GetLoadedCharLoginState
+20:08:38 <LOAD EXISTING CHAR>:
+    charID 70
+    playerID 70
+    dpnid 15592323
+    uid dJYqnVS2wbUdDl6pu7418NoLYHDfgVJdrRnDopXespM=
+20:08:38 [LoginMachine]: Add player MayneKeen (24444500)
+20:08:38 [StateMachine]: Player MayneKeen (dpnid 24444500 uid ) Entering AuthPlayerLoginState
+20:08:40 BattlEye Server: Player #53 MayneKeen (31.134.191.180:2304) connected
+20:08:40 Player MayneKeen connecting.
+20:08:40 [StateMachine]: Player MayneKeen (dpnid 24444500 uid ) Entering WaitAuthPlayerLoginState
+20:08:41 BattlEye Server: Player #53 MayneKeen - BE GUID: b05d7631c175c108ba2f3948cbe4edb1
+20:08:41 BattlEye Server: Verified GUID (b05d7631c175c108ba2f3948cbe4edb1) of player #53 MayneKeen
+20:08:41 Player MayneKeen connected (id=fYEA1U9Nn53QK6SPMKzYvTjYqPaBE8vAmDBkm4JUJn0=).
+20:08:41 Player "MayneKeen" is connected (steamID=76561198041791902)
+20:08:43 [StateMachine]: Player MayneKeen (dpnid 24444500 uid fYEA1U9Nn53QK6SPMKzYvTjYqPaBE8vAmDBkm4JUJn0=) Entering DBGetLoginTimeLoginState
+20:08:43 [StateMachine]: Player MayneKeen (dpnid 24444500 uid fYEA1U9Nn53QK6SPMKzYvTjYqPaBE8vAmDBkm4JUJn0=) Entering DBWaitLoginTimeLoginState
+20:08:44 BattlEye Server: RCon admin #0: (To riczi) riczi, welcome to Terminus! Enjoy your stay. 
+20:08:46 [StateMachine]: Player Danny (dpnid 1526530544 uid eL1JK3NVsJhoo-n2dXh8Rp8wm94FvEnKFdzJwwQg9I4=) Entering GetLoadedCharLoginState
+20:08:46 <LOAD EXISTING CHAR>:
+    charID 919
+    playerID 919
+    dpnid 1526530544
+    uid eL1JK3NVsJhoo-n2dXh8Rp8wm94FvEnKFdzJwwQg9I4=
+20:08:46 [LoginMachine]: Add player candrei98 (22338118)
+20:08:46 [StateMachine]: Player candrei98 (dpnid 22338118 uid ) Entering AuthPlayerLoginState
+20:08:46 [StateMachine]: Player candrei98 (dpnid 22338118 uid ) State Error (AuthPlayerLoginState)
+20:08:46 Player Unknown (22338118) kicked from server: 115 (Client is missing a mod which is on the server. (Terminus GPlay Server Mod; Unknown Ghillie Mod)  (Missing PBO. (@Terminus GPlay Server Mod\addons\schanamodcompass.pbo)))
+20:08:46 [StateMachine]: Kick player candrei98 (dpnid 22338118 uid ) State AuthPlayerLoginState
+20:08:46 [LoginMachine]: Add player EddY Eddson (144057435)
+20:08:46 [StateMachine]: Player EddY Eddson (dpnid 144057435 uid ) Entering AuthPlayerLoginState
+20:08:46 [Disconnect]: Client 22338118 early disconnect
+20:08:46 [Disconnect]: No identity -> remove player info 22338118 
+20:08:46 [Disconnect]: DisconnectPlayerFinish 22338118
+20:08:46 [Disconnect]: Remove player info 22338118
+20:08:46 [Disconnect]: Player destroy 22338118 
+20:08:46 Player candrei98 disconnected.
+20:08:48 BattlEye Server: Player #54 EddY Eddson (37.201.146.45:42018) connected
+20:08:48 Player EddY Eddson connecting.
+20:08:48 [StateMachine]: Player EddY Eddson (dpnid 144057435 uid ) Entering WaitAuthPlayerLoginState
+20:08:49 BattlEye Server: Player #54 EddY Eddson - BE GUID: 9a872ee59f79b7c77f5cd4350f65f8f5
+20:08:49 BattlEye Server: Verified GUID (9a872ee59f79b7c77f5cd4350f65f8f5) of player #54 EddY Eddson
+20:08:49 Player EddY Eddson connected (id=nHKsTmLT8V4NPmrdRohimsKJA301SEwdt_Ejf5JhB4k=).
+20:08:49 Player "EddY Eddson" is connected (steamID=76561198062429826)
+20:08:49 [StateMachine]: Player Yarden (dpnid 891269885 uid TK8cfnzoE0WIIsRgdGkxHDsSyI6QguXDqQNtJYfoxPs=) Entering GetLoadedCharLoginState
+20:08:49 <LOAD EXISTING CHAR>:
+    charID 464
+    playerID 464
+    dpnid 891269885
+    uid TK8cfnzoE0WIIsRgdGkxHDsSyI6QguXDqQNtJYfoxPs=
+20:08:49 BattlEye Server: RCon admin #0: (To Danny) Danny, welcome to Terminus! Enjoy your stay. 
+20:08:51 [Login]: Adding player Crispy (43067199) to login queue at position 0
+20:08:51 [LoginMachine]: Add player Crispy (43067199)
+20:08:51 [StateMachine]: Player Crispy (dpnid 43067199 uid ) Entering AuthPlayerLoginState
+20:08:51 [StateMachine]: Player EddY Eddson (dpnid 144057435 uid nHKsTmLT8V4NPmrdRohimsKJA301SEwdt_Ejf5JhB4k=) Entering DBGetLoginTimeLoginState
+20:08:51 [StateMachine]: Player EddY Eddson (dpnid 144057435 uid nHKsTmLT8V4NPmrdRohimsKJA301SEwdt_Ejf5JhB4k=) Entering DBWaitLoginTimeLoginState
+20:08:51 BattlEye Server: (Global) Bullebengt: ss
+20:08:52 [StateMachine]: Player AlexSK (dpnid 19649568 uid uyHNLQr6QhNjys2C4h76v2t5JQXm2fX3COrZVXl4tcs=) Entering GetLoadedCharLoginState
+20:08:53 <LOAD EXISTING CHAR>:
+    charID 731
+    playerID 731
+    dpnid 19649568
+    uid uyHNLQr6QhNjys2C4h76v2t5JQXm2fX3COrZVXl4tcs=
+20:08:53 BattlEye Server: Player #55 Crispy (176.24.134.68:2304) connected
+20:08:53 Player Crispy connecting.
+20:08:53 [StateMachine]: Player Crispy (dpnid 43067199 uid ) Entering WaitAuthPlayerLoginState
+20:08:54 BattlEye Server: RCon admin #0: (To AlexSK) AlexSK, welcome to Terminus! Enjoy your stay. 
+20:08:54 BattlEye Server: RCon admin #0: (To Yarden) Yarden, welcome to Terminus! Enjoy your stay. 
+20:08:55 BattlEye Server: Player #55 Crispy - BE GUID: 16d1ec5bf0ac8c8f71bfebc8147e8832
+20:08:55 BattlEye Server: Verified GUID (16d1ec5bf0ac8c8f71bfebc8147e8832) of player #55 Crispy
+20:08:55 Player Crispy connected (id=Co-jmbeHMOdqaEpeE_Pfm0JDRV4JwwmqJaOzb13rLNU=).
+20:08:55 Player "Crispy" is connected (steamID=76561198880861252)
+20:08:55 [StateMachine]: Player TRixiNO (dpnid 2116425073 uid Flt76r47hPTB1vQoQmann2ov29XrHuKlynbn9nbRUdU=) Entering GetLoadedCharLoginState
+20:08:55 <LOAD EXISTING CHAR>:
+    charID 734
+    playerID 734
+    dpnid 2116425073
+    uid Flt76r47hPTB1vQoQmann2ov29XrHuKlynbn9nbRUdU=
+20:08:56 [StateMachine]: Player Crispy (dpnid 43067199 uid Co-jmbeHMOdqaEpeE_Pfm0JDRV4JwwmqJaOzb13rLNU=) Entering DBGetLoginTimeLoginState
+20:08:56 [StateMachine]: Player Crispy (dpnid 43067199 uid Co-jmbeHMOdqaEpeE_Pfm0JDRV4JwwmqJaOzb13rLNU=) Entering DBWaitLoginTimeLoginState
+20:08:57 [Disconnect]: Start script disconnect 44106434 (dbCharacterId 239 dbPlayerId 239) logoutTime 15
+20:08:58 [StateMachine]: Player MayneKeen (dpnid 24444500 uid fYEA1U9Nn53QK6SPMKzYvTjYqPaBE8vAmDBkm4JUJn0=) Entering DBGetCharacterLoginState
+20:08:58 [StateMachine]: Player MayneKeen (dpnid 24444500 uid fYEA1U9Nn53QK6SPMKzYvTjYqPaBE8vAmDBkm4JUJn0=) Entering CreateNetObjectsLoginState
+20:08:58 Player MayneKeen dpid=24444500 at pos (11444.8, 225.7, 7480.8) 
+20:08:58 [StateMachine]: Player MayneKeen (dpnid 24444500 uid fYEA1U9Nn53QK6SPMKzYvTjYqPaBE8vAmDBkm4JUJn0=) Entering PreloadCamLoginState
+20:08:58 [StateMachine]: Player MayneKeen (dpnid 24444500 uid fYEA1U9Nn53QK6SPMKzYvTjYqPaBE8vAmDBkm4JUJn0=) Entering WaitPreloadCamLoginState
+20:08:59 [Disconnect]: Client 44106434 disconnecting
+20:08:59 [Disconnect]: Client 44106434 early disconnect
+20:08:59 [Disconnect]: Start script disconnect 44106434 (dbCharacterId 239 dbPlayerId 239) logoutTime 15
+20:08:59 BattlEye Server: RCon admin #0: (To TRixiNO) TRixiNO, welcome to Terminus! Enjoy your stay. 
+20:08:59 [Disconnect]: Remove player info 44106434
+20:08:59 [Disconnect]: Player destroy 44106434 
+20:08:59 Player BigDog disconnected.
+20:08:59 BattlEye Server: Player #36 BigDog disconnected
+20:09:06 [StateMachine]: Player EddY Eddson (dpnid 144057435 uid nHKsTmLT8V4NPmrdRohimsKJA301SEwdt_Ejf5JhB4k=) Entering DBGetCharacterLoginState
+20:09:06 [StateMachine]: Player EddY Eddson (dpnid 144057435 uid nHKsTmLT8V4NPmrdRohimsKJA301SEwdt_Ejf5JhB4k=) Entering CreateNetObjectsLoginState
+20:09:06 Player EddY Eddson dpid=144057435 at pos (3683.7, 402.0, 5967.4) 
+20:09:06 [StateMachine]: Player EddY Eddson (dpnid 144057435 uid nHKsTmLT8V4NPmrdRohimsKJA301SEwdt_Ejf5JhB4k=) Entering PreloadCamLoginState
+20:09:06 [StateMachine]: Player EddY Eddson (dpnid 144057435 uid nHKsTmLT8V4NPmrdRohimsKJA301SEwdt_Ejf5JhB4k=) Entering WaitPreloadCamLoginState
+20:09:08 BattlEye Server: RCon admin #1 (159.69.65.244:38923) logged in
+20:09:10 [Login]: Adding player EnvyBby (79655961) to login queue at position 0
+20:09:10 [LoginMachine]: Add player EnvyBby (79655961)
+20:09:10 [StateMachine]: Player EnvyBby (dpnid 79655961 uid ) Entering AuthPlayerLoginState
+20:09:11 [StateMachine]: Player Crispy (dpnid 43067199 uid Co-jmbeHMOdqaEpeE_Pfm0JDRV4JwwmqJaOzb13rLNU=) Entering DBGetCharacterLoginState
+20:09:11 [StateMachine]: Player Crispy (dpnid 43067199 uid Co-jmbeHMOdqaEpeE_Pfm0JDRV4JwwmqJaOzb13rLNU=) Entering CreateNetObjectsLoginState
+20:09:11 Player Crispy dpid=43067199 at pos (12914.7, 0.0, 8593.3) 
+20:09:11 [StateMachine]: Player Crispy (dpnid 43067199 uid Co-jmbeHMOdqaEpeE_Pfm0JDRV4JwwmqJaOzb13rLNU=) Entering PreloadCamLoginState
+20:09:11 [StateMachine]: Player Crispy (dpnid 43067199 uid Co-jmbeHMOdqaEpeE_Pfm0JDRV4JwwmqJaOzb13rLNU=) Entering WaitPreloadCamLoginState
+20:09:12 [Disconnect]: Finish script disconnect -1
+20:09:14 BattlEye Server: Player #56 EnvyBby (83.84.125.192:2304) connected
+20:09:14 Player EnvyBby connecting.
+20:09:14 [StateMachine]: Player EnvyBby (dpnid 79655961 uid ) Entering WaitAuthPlayerLoginState
+20:09:15 BattlEye Server: Player #56 EnvyBby - BE GUID: ee443ffd4db2bd39114be259dfddf984
+20:09:16 BattlEye Server: Verified GUID (ee443ffd4db2bd39114be259dfddf984) of player #56 EnvyBby
+20:09:16 Player EnvyBby connected (id=BxOBDwU7cxEYxPM1c2hDb3vPvaU3QLxMXOfPLm9lkPs=).
+20:09:16 Player "EnvyBby" is connected (steamID=76561198298938290)
+20:09:18 [StateMachine]: Player EnvyBby (dpnid 79655961 uid BxOBDwU7cxEYxPM1c2hDb3vPvaU3QLxMXOfPLm9lkPs=) Entering DBGetLoginTimeLoginState
+20:09:18 [StateMachine]: Player EnvyBby (dpnid 79655961 uid BxOBDwU7cxEYxPM1c2hDb3vPvaU3QLxMXOfPLm9lkPs=) Entering DBWaitLoginTimeLoginState
+20:09:22 [StateMachine]: Player EddY Eddson (dpnid 144057435 uid nHKsTmLT8V4NPmrdRohimsKJA301SEwdt_Ejf5JhB4k=) Entering GetLoadedCharLoginState
+20:09:22 <LOAD EXISTING CHAR>:
+    charID 610
+    playerID 610
+    dpnid 144057435
+    uid nHKsTmLT8V4NPmrdRohimsKJA301SEwdt_Ejf5JhB4k=
+20:09:23 [StateMachine]: Player MayneKeen (dpnid 24444500 uid fYEA1U9Nn53QK6SPMKzYvTjYqPaBE8vAmDBkm4JUJn0=) Entering GetLoadedCharLoginState
+20:09:23 <LOAD EXISTING CHAR>:
+    charID 380
+    playerID 380
+    dpnid 24444500
+    uid fYEA1U9Nn53QK6SPMKzYvTjYqPaBE8vAmDBkm4JUJn0=
+20:09:24 BattlEye Server: RCon admin #0: (To EddY Eddson) EddY Eddson, welcome to Terminus! Enjoy your stay. 
+20:09:24 BattlEye Server: RCon admin #0: (To MayneKeen) MayneKeen, welcome to Terminus! Enjoy your stay. 
+20:09:25 [Disconnect]: No packets from 1862587112
+20:09:25 [Disconnect]: Start script disconnect 1862587112 (dbCharacterId 916 dbPlayerId 916) logoutTime 15
+20:09:26 [Login]: Adding player Crusader (3425289) to login queue at position 0
+20:09:26 [LoginMachine]: Add player Crusader (3425289)
+20:09:26 [StateMachine]: Player Crusader (dpnid 3425289 uid ) Entering AuthPlayerLoginState
+20:09:28 BattlEye Server: Player #57 Crusader (94.228.207.38:2304) connected
+20:09:28 Player Crusader connecting.
+20:09:28 [StateMachine]: Player Crusader (dpnid 3425289 uid ) Entering WaitAuthPlayerLoginState
+20:09:29 BattlEye Server: Player #57 Crusader - BE GUID: ea628632800b7911290f412f68d74369
+20:09:29 BattlEye Server: Verified GUID (ea628632800b7911290f412f68d74369) of player #57 Crusader
+20:09:29 Player Crusader connected (id=YoLURG6x_jA4CzYQv4Q-D51y8B44HF06yW7XUVw5dTU=).
+20:09:29 Player "Crusader" is connected (steamID=76561198207336427)
+20:09:32 BattlEye Server: RCon admin #1 (159.69.65.244:43006) logged in
+20:09:33 [StateMachine]: Player EnvyBby (dpnid 79655961 uid BxOBDwU7cxEYxPM1c2hDb3vPvaU3QLxMXOfPLm9lkPs=) Entering DBGetCharacterLoginState
+20:09:33 [StateMachine]: Player EnvyBby (dpnid 79655961 uid BxOBDwU7cxEYxPM1c2hDb3vPvaU3QLxMXOfPLm9lkPs=) Entering CreateNetObjectsLoginState
+20:09:33 Player EnvyBby dpid=79655961 at pos (12983.9, 5.1, 9737.8) 
+20:09:33 [StateMachine]: Player EnvyBby (dpnid 79655961 uid BxOBDwU7cxEYxPM1c2hDb3vPvaU3QLxMXOfPLm9lkPs=) Entering PreloadCamLoginState
+20:09:33 [StateMachine]: Player EnvyBby (dpnid 79655961 uid BxOBDwU7cxEYxPM1c2hDb3vPvaU3QLxMXOfPLm9lkPs=) Entering WaitPreloadCamLoginState
+20:09:34 [StateMachine]: Player Crusader (dpnid 3425289 uid YoLURG6x_jA4CzYQv4Q-D51y8B44HF06yW7XUVw5dTU=) Entering DBGetLoginTimeLoginState
+20:09:34 [StateMachine]: Player Crusader (dpnid 3425289 uid YoLURG6x_jA4CzYQv4Q-D51y8B44HF06yW7XUVw5dTU=) Entering DBWaitLoginTimeLoginState
+20:09:38 [Login]: Adding player BigDog (412449841) to login queue at position 0
+20:09:38 [LoginMachine]: Add player BigDog (412449841)
+20:09:38 [StateMachine]: Player BigDog (dpnid 412449841 uid ) Entering AuthPlayerLoginState
+20:09:40 BattlEye Server: Player #58 BigDog (176.193.167.194:1024) connected
+20:09:40 Player BigDog connecting.
+20:09:40 [StateMachine]: Player BigDog (dpnid 412449841 uid ) Entering WaitAuthPlayerLoginState
+20:09:40 [Disconnect]: Finish script disconnect 1862587112
+20:09:40 [Disconnect]: DisconnectPlayerFinish 1862587112
+20:09:40 [Disconnect]: Remove player info 1862587112
+20:09:40 [Disconnect]: Player destroy 1862587112 
+20:09:40 Player Survivor (2) disconnected.
+20:09:40 BattlEye Server: Player #44 Survivor (2) disconnected
+20:09:45 BattlEye Server: Player #58 BigDog - BE GUID: 1e8c145321e492fda8091b6b37479256
+20:09:45 BattlEye Server: Verified GUID (1e8c145321e492fda8091b6b37479256) of player #58 BigDog
+20:09:45 Player BigDog connected (id=E26YqVBUc4-BgscX8pDFhvv8mR1aUzK4rDTppguh1wI=).
+20:09:45 Player "BigDog" is connected (steamID=76561198124823902)
+20:09:49 [StateMachine]: Player Crusader (dpnid 3425289 uid YoLURG6x_jA4CzYQv4Q-D51y8B44HF06yW7XUVw5dTU=) Entering DBGetCharacterLoginState
+20:09:49 [StateMachine]: Player Crusader (dpnid 3425289 uid YoLURG6x_jA4CzYQv4Q-D51y8B44HF06yW7XUVw5dTU=) Entering CreateNetObjectsLoginState
+20:09:49 Player Crusader dpid=3425289 at pos (3048.0, 319.4, 7808.8) 
+20:09:49 [StateMachine]: Player Crusader (dpnid 3425289 uid YoLURG6x_jA4CzYQv4Q-D51y8B44HF06yW7XUVw5dTU=) Entering PreloadCamLoginState
+20:09:49 [StateMachine]: Player Crusader (dpnid 3425289 uid YoLURG6x_jA4CzYQv4Q-D51y8B44HF06yW7XUVw5dTU=) Entering WaitPreloadCamLoginState
+20:09:50 [StateMachine]: Player BigDog (dpnid 412449841 uid E26YqVBUc4-BgscX8pDFhvv8mR1aUzK4rDTppguh1wI=) Entering DBGetLoginTimeLoginState
+20:09:50 [StateMachine]: Player BigDog (dpnid 412449841 uid E26YqVBUc4-BgscX8pDFhvv8mR1aUzK4rDTppguh1wI=) Entering DBWaitLoginTimeLoginState
+20:09:53 [CE][LootRespawner] (PRIDummy) :: Item [0] is hard to place, performance drops: "MilitaryGear_FieldJacket_CADPAT"
+20:09:58 [Login]: Adding player [BWA] Lazy (177392436) to login queue at position 0
+20:09:58 [LoginMachine]: Add player [BWA] Lazy (177392436)
+20:09:58 [StateMachine]: Player [BWA] Lazy (dpnid 177392436 uid ) Entering AuthPlayerLoginState
+20:10:00 [Login]: Adding player Jamie (23274329) to login queue at position 0
+20:10:02 BattlEye Server: Player #59 [BWA] Lazy (85.114.227.58:2304) connected
+20:10:02 Player [BWA] Lazy connecting.
+20:10:02 [StateMachine]: Player [BWA] Lazy (dpnid 177392436 uid ) Entering WaitAuthPlayerLoginState
+20:10:04 BattlEye Server: Player #59 [BWA] Lazy - BE GUID: ddec0e9859c441932340e28b52c3b97a
+20:10:05 BattlEye Server: Verified GUID (ddec0e9859c441932340e28b52c3b97a) of player #59 [BWA] Lazy
+20:10:05 Player [BWA] Lazy connected (id=h72nIc7JktTUZNZwfB5KqxWXfC2YmH7BAvpa8cmJz8g=).
+20:10:05 Player "[BWA] Lazy" is connected (steamID=76561199093352013)
+20:10:05 [StateMachine]: Player BigDog (dpnid 412449841 uid E26YqVBUc4-BgscX8pDFhvv8mR1aUzK4rDTppguh1wI=) Entering DBGetCharacterLoginState
+20:10:05 [StateMachine]: Player BigDog (dpnid 412449841 uid E26YqVBUc4-BgscX8pDFhvv8mR1aUzK4rDTppguh1wI=) Entering CreateNetObjectsLoginState
+20:10:05 Player BigDog dpid=412449841 at pos (3029.1, 312.0, 7867.1) 
+20:10:05 [StateMachine]: Player BigDog (dpnid 412449841 uid E26YqVBUc4-BgscX8pDFhvv8mR1aUzK4rDTppguh1wI=) Entering PreloadCamLoginState
+20:10:05 [StateMachine]: Player BigDog (dpnid 412449841 uid E26YqVBUc4-BgscX8pDFhvv8mR1aUzK4rDTppguh1wI=) Entering WaitPreloadCamLoginState
+20:10:07 [StateMachine]: Player [BWA] Lazy (dpnid 177392436 uid h72nIc7JktTUZNZwfB5KqxWXfC2YmH7BAvpa8cmJz8g=) Entering DBGetLoginTimeLoginState
+20:10:07 [StateMachine]: Player [BWA] Lazy (dpnid 177392436 uid h72nIc7JktTUZNZwfB5KqxWXfC2YmH7BAvpa8cmJz8g=) Entering DBWaitLoginTimeLoginState
+20:10:07 [StateMachine]: Player Crusader (dpnid 3425289 uid YoLURG6x_jA4CzYQv4Q-D51y8B44HF06yW7XUVw5dTU=) Entering GetLoadedCharLoginState
+20:10:07 <LOAD EXISTING CHAR>:
+    charID 96
+    playerID 96
+    dpnid 3425289
+    uid YoLURG6x_jA4CzYQv4Q-D51y8B44HF06yW7XUVw5dTU=
+20:10:07 [LoginMachine]: Add player Jamie (23274329)
+20:10:07 [StateMachine]: Player Jamie (dpnid 23274329 uid ) Entering AuthPlayerLoginState
+20:10:09 BattlEye Server: Player #60 Jamie (78.17.119.156:2304) connected
+20:10:09 Player Jamie connecting.
+20:10:09 [StateMachine]: Player Jamie (dpnid 23274329 uid ) Entering WaitAuthPlayerLoginState
+20:10:09 [StateMachine]: Player Crispy (dpnid 43067199 uid Co-jmbeHMOdqaEpeE_Pfm0JDRV4JwwmqJaOzb13rLNU=) Entering GetNewCharLoginState
+20:10:09 <CREATE NEW CHAR>:
+    charID 930
+    playerID 930
+    dpnid 43067199
+    uid Co-jmbeHMOdqaEpeE_Pfm0JDRV4JwwmqJaOzb13rLNU=
+20:10:10 BattlEye Server: RCon admin #0: (To Crusader) Crusader, welcome to Terminus! Enjoy your stay. 
+20:10:10 BattlEye Server: Player #60 Jamie - BE GUID: 4ef74e8a8138e6e3b04452e3ba03e4fd
+20:10:10 [Login]: Adding player Mixxa (30987004) to login queue at position 0
+20:10:10 [LoginMachine]: Add player Mixxa (30987004)
+20:10:10 [StateMachine]: Player Mixxa (dpnid 30987004 uid ) Entering AuthPlayerLoginState
+20:10:10 BattlEye Server: Verified GUID (4ef74e8a8138e6e3b04452e3ba03e4fd) of player #60 Jamie
+20:10:10 Player Jamie connected (id=aNFc1OKQoOOfiL7qW9ZL6y5NyWTXBDszE23X5EwGj1A=).
+20:10:10 Player "Jamie" is connected (steamID=76561198255953762)
+20:10:11 [StateMachine]: Player Jamie (dpnid 23274329 uid aNFc1OKQoOOfiL7qW9ZL6y5NyWTXBDszE23X5EwGj1A=) Entering DBGetLoginTimeLoginState
+20:10:11 [StateMachine]: Player Jamie (dpnid 23274329 uid aNFc1OKQoOOfiL7qW9ZL6y5NyWTXBDszE23X5EwGj1A=) Entering DBWaitLoginTimeLoginState
+20:10:12 BattlEye Server: Player #61 Mixxa (81.175.201.104:2304) connected
+20:10:12 Player Mixxa connecting.
+20:10:12 [StateMachine]: Player Mixxa (dpnid 30987004 uid ) Entering WaitAuthPlayerLoginState
+20:10:14 [Disconnect]: Client 971287316 disconnecting
+20:10:14 [Disconnect]: Client 971287316 early disconnect
+20:10:14 [Disconnect]: Start script disconnect 971287316 (dbCharacterId 5 dbPlayerId 5) logoutTime 15
+20:10:14 BattlEye Server: Player #61 Mixxa - BE GUID: d68a82f3675d3da8d562f9a52d3d65ca
+20:10:14 BattlEye Server: Verified GUID (d68a82f3675d3da8d562f9a52d3d65ca) of player #61 Mixxa
+20:10:14 Player Mixxa connected (id=0qp_4D1AATmzr2Y-HoRLYoluRexbq0-jk-sYgxiCl7I=).
+20:10:14 Player "Mixxa" is connected (steamID=76561197984709779)
+20:10:15 [StateMachine]: Player Mixxa (dpnid 30987004 uid 0qp_4D1AATmzr2Y-HoRLYoluRexbq0-jk-sYgxiCl7I=) Entering DBGetLoginTimeLoginState
+20:10:15 [StateMachine]: Player Mixxa (dpnid 30987004 uid 0qp_4D1AATmzr2Y-HoRLYoluRexbq0-jk-sYgxiCl7I=) Entering DBWaitLoginTimeLoginState
+20:10:20 [CE][LootRespawner] (PRIDummy) :: Item [1] is hard to place, performance drops: "MilitaryGear_TacticalPants_Woodland"
+20:10:20 [CE][LootRespawner] (PRIDummy) :: Item [2] is hard to place, performance drops: "MilitaryGear_TacticalPants_Woodland"
+20:10:20 [CE][LootRespawner] (PRIDummy) :: Item [3] is hard to place, performance drops: "MilitaryGear_TacticalPants_Woodland"
+20:10:22 [StateMachine]: Player [BWA] Lazy (dpnid 177392436 uid h72nIc7JktTUZNZwfB5KqxWXfC2YmH7BAvpa8cmJz8g=) Entering DBGetCharacterLoginState
+20:10:22 [StateMachine]: Player [BWA] Lazy (dpnid 177392436 uid h72nIc7JktTUZNZwfB5KqxWXfC2YmH7BAvpa8cmJz8g=) Entering CreateNetObjectsLoginState
+20:10:22 Player [BWA] Lazy dpid=177392436 at pos (7522.1, 214.0, 5126.0) 
+20:10:22 [StateMachine]: Player [BWA] Lazy (dpnid 177392436 uid h72nIc7JktTUZNZwfB5KqxWXfC2YmH7BAvpa8cmJz8g=) Entering PreloadCamLoginState
+20:10:22 [StateMachine]: Player [BWA] Lazy (dpnid 177392436 uid h72nIc7JktTUZNZwfB5KqxWXfC2YmH7BAvpa8cmJz8g=) Entering WaitPreloadCamLoginState
+20:10:22 BattlEye Server: (Global) PikkuMika: !kd
+20:10:22 BattlEye Server: RCon admin #0: (To PikkuMika) Kills / deaths : 2/4
+20:10:22 [StateMachine]: Player BigDog (dpnid 412449841 uid E26YqVBUc4-BgscX8pDFhvv8mR1aUzK4rDTppguh1wI=) Entering GetLoadedCharLoginState
+20:10:23 <LOAD EXISTING CHAR>:
+    charID 239
+    playerID 239
+    dpnid 412449841
+    uid E26YqVBUc4-BgscX8pDFhvv8mR1aUzK4rDTppguh1wI=
+20:10:24 [Disconnect]: No packets from 971287316
+20:10:24 [Disconnect]: Already in progress 971287316 
+20:10:25 BattlEye Server: RCon admin #0: (To BigDog) BigDog, welcome to Terminus! Enjoy your stay. 
+20:10:25 BattlEye Server: RCon admin #0: (To Crispy) Crispy, welcome to Terminus! Enjoy your stay. 
+20:10:26 [StateMachine]: Player Jamie (dpnid 23274329 uid aNFc1OKQoOOfiL7qW9ZL6y5NyWTXBDszE23X5EwGj1A=) Entering DBGetCharacterLoginState
+20:10:26 [StateMachine]: Player Jamie (dpnid 23274329 uid aNFc1OKQoOOfiL7qW9ZL6y5NyWTXBDszE23X5EwGj1A=) Entering CreateNetObjectsLoginState
+20:10:26 Player Jamie dpid=23274329 at pos (11617.4, 93.6, 14954.4) 
+20:10:26 [StateMachine]: Player Jamie (dpnid 23274329 uid aNFc1OKQoOOfiL7qW9ZL6y5NyWTXBDszE23X5EwGj1A=) Entering PreloadCamLoginState
+20:10:26 [StateMachine]: Player Jamie (dpnid 23274329 uid aNFc1OKQoOOfiL7qW9ZL6y5NyWTXBDszE23X5EwGj1A=) Entering WaitPreloadCamLoginState
+20:10:29 [Disconnect]: Finish script disconnect 971287316
+20:10:29 [Disconnect]: DisconnectPlayerFinish 971287316
+20:10:29 [Disconnect]: Remove player info 971287316
+20:10:29 [Disconnect]: Player destroy 971287316 
+20:10:29 Player Mihaela disconnected.
+20:10:29 BattlEye Server: Player #46 Mihaela disconnected
+20:10:30 [StateMachine]: Player Mixxa (dpnid 30987004 uid 0qp_4D1AATmzr2Y-HoRLYoluRexbq0-jk-sYgxiCl7I=) Entering DBGetCharacterLoginState
+20:10:30 [StateMachine]: Player Mixxa (dpnid 30987004 uid 0qp_4D1AATmzr2Y-HoRLYoluRexbq0-jk-sYgxiCl7I=) Entering CreateNetObjectsLoginState
+20:10:30 Player Mixxa dpid=30987004 at pos (1231.7, 279.4, 8716.0) 
+20:10:30 [StateMachine]: Player Mixxa (dpnid 30987004 uid 0qp_4D1AATmzr2Y-HoRLYoluRexbq0-jk-sYgxiCl7I=) Entering PreloadCamLoginState
+20:10:30 [StateMachine]: Player Mixxa (dpnid 30987004 uid 0qp_4D1AATmzr2Y-HoRLYoluRexbq0-jk-sYgxiCl7I=) Entering WaitPreloadCamLoginState
+20:10:37 [Disconnect]: Client 412449841 disconnecting
+20:10:37 [Disconnect]: Client 412449841 early disconnect
+20:10:37 [Disconnect]: Start script disconnect 412449841 (dbCharacterId 239 dbPlayerId 239) logoutTime 15
+20:10:37 [Disconnect]: Remove player info 412449841
+20:10:37 [Disconnect]: Player destroy 412449841 
+20:10:37 Player BigDog disconnected.
+20:10:37 BattlEye Server: Player #58 BigDog disconnected
+20:10:52 [Disconnect]: Finish script disconnect -1
+20:10:52 [StateMachine]: Player Jamie (dpnid 23274329 uid aNFc1OKQoOOfiL7qW9ZL6y5NyWTXBDszE23X5EwGj1A=) Entering GetLoadedCharLoginState
+20:10:53 <LOAD EXISTING CHAR>:
+    charID 916
+    playerID 916
+    dpnid 23274329
+    uid aNFc1OKQoOOfiL7qW9ZL6y5NyWTXBDszE23X5EwGj1A=
+20:10:53 [StateMachine]: Player Mixxa (dpnid 30987004 uid 0qp_4D1AATmzr2Y-HoRLYoluRexbq0-jk-sYgxiCl7I=) Entering GetLoadedCharLoginState
+20:10:53 <LOAD EXISTING CHAR>:
+    charID 47
+    playerID 47
+    dpnid 30987004
+    uid 0qp_4D1AATmzr2Y-HoRLYoluRexbq0-jk-sYgxiCl7I=
+20:10:53 [StateMachine]: Player EnvyBby (dpnid 79655961 uid BxOBDwU7cxEYxPM1c2hDb3vPvaU3QLxMXOfPLm9lkPs=) Entering GetLoadedCharLoginState
+20:10:53 <LOAD EXISTING CHAR>:
+    charID 915
+    playerID 915
+    dpnid 79655961
+    uid BxOBDwU7cxEYxPM1c2hDb3vPvaU3QLxMXOfPLm9lkPs=
+20:10:55 BattlEye Server: RCon admin #0: (To Jamie) Jamie, welcome to Terminus! Enjoy your stay. 
+20:10:55 BattlEye Server: RCon admin #0: (Global) You can find crafting recipes, basebuilding tutorials and more on our Discord server! https://discord.io/Terminus-GPlay
+20:10:55 BattlEye Server: RCon admin #0: (Global) Ingame commands: !time, !players, !kd, !ping
+20:10:55 BattlEye Server: RCon admin #0: (Global) Server restarts (CET): 02:00, 05:00, 8:00, 11:00, 14:00, 17:00, 20:00, 23:00
+20:10:55 BattlEye Server: RCon admin #0: (Global) Don't forget to raise your flag!
+20:10:59 BattlEye Server: RCon admin #0: (To EnvyBby) EnvyBby, welcome to Terminus! Enjoy your stay. 
+20:11:05 BattlEye Server: RCon admin #0: (To Mixxa) Mixxa, welcome to Terminus! Enjoy your stay. 
+20:11:14 [Disconnect]: Client 770252021 disconnecting
+20:11:14 [Disconnect]: Client 770252021 early disconnect
+20:11:14 [Disconnect]: Start script disconnect 770252021 (dbCharacterId 25 dbPlayerId 25) logoutTime 15
+20:11:14 [Disconnect]: Finish script disconnect 770252021
+20:11:14 [Disconnect]: DisconnectPlayerFinish 770252021
+20:11:14 [Disconnect]: Remove player info 770252021
+20:11:14 [Disconnect]: Player destroy 770252021 
+20:11:14 Player Berti477 disconnected.
+20:11:14 BattlEye Server: Player #18 Berti477 disconnected
+20:11:41 [CE][LootRespawner] (PRIDummy) :: Item [1] causing search overtime: "Mag_CZ61_20Rnd"
+20:11:52 Respawn: Add player kapci (1806549412) to respawn machine
+20:11:52 [StateMachine]: Player kapci (dpnid 1806549412 uid ) Entering GetCharacterRespawnState
+20:11:52 [StateMachine]: Player kapci (dpnid 1806549412 uid ) Entering PreloadCamRespawnState
+20:11:52 Player kapci dpid=1806549412 at pos (9198.7, 0.0, 1915.7) 
+20:11:52 [StateMachine]: Player kapci (dpnid 1806549412 uid ) Entering WaitPreloadCamRespawnState
+20:11:54 [StateMachine]: Player [BWA] Lazy (dpnid 177392436 uid h72nIc7JktTUZNZwfB5KqxWXfC2YmH7BAvpa8cmJz8g=) Entering GetLoadedCharLoginState
+20:11:54 <LOAD EXISTING CHAR>:
+    charID 753
+    playerID 753
+    dpnid 177392436
+    uid h72nIc7JktTUZNZwfB5KqxWXfC2YmH7BAvpa8cmJz8g=
+20:11:54 [StateMachine]: Player kapci (dpnid 1806549412 uid ) Entering GetNewCharRespawnState
+20:11:54 <RESPAWN NEW CHAR>:
+    charID 917
+    playerID 917
+    dpnid 1806549412
+    uid PKAvgADMoiDK0iZCTCXowSMw5h0OgtXYFRmRghuev94=
+20:11:54 [Disconnect]: Start script disconnect 27378181 (dbCharacterId 76 dbPlayerId 76) logoutTime 15
+20:11:56 [Login]: Adding player wigoor (24989860) to login queue at position 0
+20:11:56 [LoginMachine]: Add player wigoor (24989860)
+20:11:56 [StateMachine]: Player wigoor (dpnid 24989860 uid ) Entering AuthPlayerLoginState
+20:11:57 [Disconnect]: Client 27378181 disconnecting
+20:11:57 [Disconnect]: Client 27378181 early disconnect
+20:11:57 [Disconnect]: Start script disconnect 27378181 (dbCharacterId 76 dbPlayerId 76) logoutTime 15
+20:11:58 [Disconnect]: Start script disconnect 144057435 (dbCharacterId 610 dbPlayerId 610) logoutTime 15
+20:11:58 BattlEye Server: Player #62 wigoor (88.220.179.208:2304) connected
+20:11:58 Player wigoor connecting.
+20:11:58 [StateMachine]: Player wigoor (dpnid 24989860 uid ) Entering WaitAuthPlayerLoginState
+20:11:59 BattlEye Server: Player #62 wigoor - BE GUID: c4fb85db6770a9da7f20931578fa8eeb
+20:12:00 BattlEye Server: Verified GUID (c4fb85db6770a9da7f20931578fa8eeb) of player #62 wigoor
+20:12:00 Player wigoor connected (id=b7yYHyxPSt7b5iRQ7Oxu7UQNMf4j77-WmK6SwVQAZ5I=).
+20:12:00 Player "wigoor" is connected (steamID=76561198118543695)
+20:12:00 [Disconnect]: Client 144057435 disconnecting
+20:12:00 [Disconnect]: Client 144057435 early disconnect
+20:12:00 [Disconnect]: Start script disconnect 144057435 (dbCharacterId 610 dbPlayerId 610) logoutTime 15
+20:12:00 [StateMachine]: Player wigoor (dpnid 24989860 uid b7yYHyxPSt7b5iRQ7Oxu7UQNMf4j77-WmK6SwVQAZ5I=) Entering DBGetLoginTimeLoginState
+20:12:00 [StateMachine]: Player wigoor (dpnid 24989860 uid b7yYHyxPSt7b5iRQ7Oxu7UQNMf4j77-WmK6SwVQAZ5I=) Entering DBWaitLoginTimeLoginState
+20:12:07 Respawn: Add player Amikaze (171572614) to respawn machine
+20:12:07 [StateMachine]: Player Amikaze (dpnid 171572614 uid ) Entering GetCharacterRespawnState
+20:12:07 [StateMachine]: Player Amikaze (dpnid 171572614 uid ) Entering PreloadCamRespawnState
+20:12:07 Player Amikaze dpid=171572614 at pos (6213.8, 0.0, 2128.4) 
+20:12:07 [StateMachine]: Player Amikaze (dpnid 171572614 uid ) Entering WaitPreloadCamRespawnState
+20:12:07 [Disconnect]: No packets from 27378181
+20:12:07 [Disconnect]: Already in progress 27378181 
+20:12:08 BattlEye Server: RCon admin #1 (159.69.65.244:42021) logged in
+20:12:09 [CE][LootRespawner] (PRIDummy) :: Item [2] causing search overtime: "Truck_01_WheelDouble"
+20:12:09 [Disconnect]: Finish script disconnect 27378181
+20:12:09 [Disconnect]: DisconnectPlayerFinish 27378181
+20:12:09 [Disconnect]: Remove player info 27378181
+20:12:09 [Disconnect]: Player destroy 27378181 
+20:12:09 Player PikkuMika disconnected.
+20:12:09 BattlEye Server: Player #24 PikkuMika disconnected
+20:12:10 [Disconnect]: Start script disconnect 1631521522 (dbCharacterId 742 dbPlayerId 742) logoutTime 15
+20:12:10 [Disconnect]: No packets from 144057435
+20:12:10 [Disconnect]: Already in progress 144057435 
+20:12:13 [Disconnect]: Finish script disconnect 144057435
+20:12:13 [Disconnect]: DisconnectPlayerFinish 144057435
+20:12:13 [Disconnect]: Remove player info 144057435
+20:12:13 [Disconnect]: Player destroy 144057435 
+20:12:13 Player EddY Eddson disconnected.
+20:12:13 BattlEye Server: Player #54 EddY Eddson disconnected
+20:12:15 BattlEye Server: RCon admin #0: (To [BWA] Lazy) [BWA] Lazy, welcome to Terminus! Enjoy your stay. 
+20:12:15 [StateMachine]: Player wigoor (dpnid 24989860 uid b7yYHyxPSt7b5iRQ7Oxu7UQNMf4j77-WmK6SwVQAZ5I=) Entering DBGetCharacterLoginState
+20:12:15 [StateMachine]: Player wigoor (dpnid 24989860 uid b7yYHyxPSt7b5iRQ7Oxu7UQNMf4j77-WmK6SwVQAZ5I=) Entering CreateNetObjectsLoginState
+20:12:15 Player wigoor dpid=24989860 at pos (4394.4, 190.1, 4145.2) 
+20:12:15 [StateMachine]: Player wigoor (dpnid 24989860 uid b7yYHyxPSt7b5iRQ7Oxu7UQNMf4j77-WmK6SwVQAZ5I=) Entering PreloadCamLoginState
+20:12:15 [StateMachine]: Player wigoor (dpnid 24989860 uid b7yYHyxPSt7b5iRQ7Oxu7UQNMf4j77-WmK6SwVQAZ5I=) Entering WaitPreloadCamLoginState
+20:12:16 BattlEye Server: (Global) Survivor: wd
+20:12:20 [Login]: Adding player Odin (21034360) to login queue at position 0
+20:12:20 [LoginMachine]: Add player Odin (21034360)
+20:12:20 [StateMachine]: Player Odin (dpnid 21034360 uid ) Entering AuthPlayerLoginState
+20:12:22 [StateMachine]: Player Amikaze (dpnid 171572614 uid ) Entering GetNewCharRespawnState
+20:12:22 <RESPAWN NEW CHAR>:
+    charID 475
+    playerID 475
+    dpnid 171572614
+    uid LYmgjGa-2_06yKdFqcuW8uhaTt5PdqDcx23-T8YU4Qc=
+20:12:22 BattlEye Server: Player #63 Odin (95.83.144.218:2304) connected
+20:12:22 Player Odin connecting.
+20:12:22 [StateMachine]: Player Odin (dpnid 21034360 uid ) Entering WaitAuthPlayerLoginState
+20:12:25 [Disconnect]: Finish script disconnect 1631521522
+20:12:25 [Disconnect]: DisconnectPlayerFinish 1631521522
+20:12:25 [Disconnect]: Remove player info 1631521522
+20:12:25 [Disconnect]: Player destroy 1631521522 
+20:12:25 Player Manjarno disconnected.
+20:12:25 BattlEye Server: Player #22 Manjarno disconnected
+20:12:31 BattlEye Server: (Global) EnvyBby: How can i add my friend to a team?
+20:12:32 BattlEye Server: Player #63 Odin - BE GUID: 326f93403f6b60574f2752408a8d9161
+20:12:32 BattlEye Server: Verified GUID (326f93403f6b60574f2752408a8d9161) of player #63 Odin
+20:12:32 Player Odin connected (id=Q0zz3UTXmV4R7dyXYO3RFrYZ0LVD94uMH3fbrcXEeLM=).
+20:12:32 Player "Odin" is connected (steamID=76561198037788265)
+20:12:33 [StateMachine]: Player Odin (dpnid 21034360 uid Q0zz3UTXmV4R7dyXYO3RFrYZ0LVD94uMH3fbrcXEeLM=) Entering DBGetLoginTimeLoginState
+20:12:33 [StateMachine]: Player Odin (dpnid 21034360 uid Q0zz3UTXmV4R7dyXYO3RFrYZ0LVD94uMH3fbrcXEeLM=) Entering DBWaitLoginTimeLoginState
+20:12:34 [Disconnect]: Start script disconnect 1152201041 (dbCharacterId 914 dbPlayerId 914) logoutTime 15
+20:12:35 [Disconnect]: Start script disconnect 239193938 (dbCharacterId 853 dbPlayerId 853) logoutTime 15
+20:12:36 [Disconnect]: Client 239193938 disconnecting
+20:12:36 [Disconnect]: Client 239193938 early disconnect
+20:12:36 [Disconnect]: Start script disconnect 239193938 (dbCharacterId 853 dbPlayerId 853) logoutTime 15
+20:12:37 [Disconnect]: Client 1152201041 disconnecting
+20:12:37 [Disconnect]: Client 1152201041 early disconnect
+20:12:37 [Disconnect]: Start script disconnect 1152201041 (dbCharacterId 914 dbPlayerId 914) logoutTime 15
+20:12:38 [StateMachine]: Player wigoor (dpnid 24989860 uid b7yYHyxPSt7b5iRQ7Oxu7UQNMf4j77-WmK6SwVQAZ5I=) Entering GetLoadedCharLoginState
+20:12:38 <LOAD EXISTING CHAR>:
+    charID 194
+    playerID 194
+    dpnid 24989860
+    uid b7yYHyxPSt7b5iRQ7Oxu7UQNMf4j77-WmK6SwVQAZ5I=
+20:12:40 [Disconnect]: Start script disconnect 145508643 (dbCharacterId 851 dbPlayerId 851) logoutTime 15
+20:12:41 [Disconnect]: Client 145508643 disconnecting
+20:12:41 [Disconnect]: Client 145508643 early disconnect
+20:12:41 [Disconnect]: Start script disconnect 145508643 (dbCharacterId 851 dbPlayerId 851) logoutTime 15
+20:12:41 [Disconnect]: Start script disconnect 1574057254 (dbCharacterId 743 dbPlayerId 743) logoutTime 15
+20:12:42 [Disconnect]: Start script disconnect 1935168659 (dbCharacterId 852 dbPlayerId 852) logoutTime 15
+20:12:45 BattlEye Server: RCon admin #0: (To wigoor) wigoor, welcome to Terminus! Enjoy your stay. 
+20:12:47 [Disconnect]: No packets from 1152201041
+20:12:47 [Disconnect]: Already in progress 1152201041 
+20:12:47 [Disconnect]: No packets from 239193938
+20:12:47 [Disconnect]: Already in progress 239193938 
+20:12:48 [StateMachine]: Player Odin (dpnid 21034360 uid Q0zz3UTXmV4R7dyXYO3RFrYZ0LVD94uMH3fbrcXEeLM=) Entering DBGetCharacterLoginState
+20:12:48 [StateMachine]: Player Odin (dpnid 21034360 uid Q0zz3UTXmV4R7dyXYO3RFrYZ0LVD94uMH3fbrcXEeLM=) Entering CreateNetObjectsLoginState
+20:12:48 Player Odin dpid=21034360 at pos (11019.7, 107.6, 10268.5) 
+20:12:48 [StateMachine]: Player Odin (dpnid 21034360 uid Q0zz3UTXmV4R7dyXYO3RFrYZ0LVD94uMH3fbrcXEeLM=) Entering PreloadCamLoginState
+20:12:48 [StateMachine]: Player Odin (dpnid 21034360 uid Q0zz3UTXmV4R7dyXYO3RFrYZ0LVD94uMH3fbrcXEeLM=) Entering WaitPreloadCamLoginState
+20:12:49 [Disconnect]: Finish script disconnect 1152201041
+20:12:49 [Disconnect]: DisconnectPlayerFinish 1152201041
+20:12:49 [Disconnect]: Remove player info 1152201041
+20:12:49 [Disconnect]: Player destroy 1152201041 
+20:12:49 Player Bullebengt disconnected.
+20:12:49 BattlEye Server: Player #15 Bullebengt disconnected
+20:12:50 [Disconnect]: Finish script disconnect 239193938
+20:12:50 [Disconnect]: DisconnectPlayerFinish 239193938
+20:12:50 [Disconnect]: Remove player info 239193938
+20:12:50 [Disconnect]: Player destroy 239193938 
+20:12:50 Player Spexed disconnected.
+20:12:50 BattlEye Server: Player #1 Spexed disconnected
+20:12:51 [Disconnect]: No packets from 145508643
+20:12:51 [Disconnect]: Already in progress 145508643 
+20:12:55 [Disconnect]: Finish script disconnect 145508643
+20:12:55 [Disconnect]: DisconnectPlayerFinish 145508643
+20:12:55 [Disconnect]: Remove player info 145508643
+20:12:55 [Disconnect]: Player destroy 145508643 
+20:12:55 Player Kukifix disconnected.
+20:12:55 BattlEye Server: Player #5 Kukifix disconnected
+20:12:56 [Disconnect]: Finish script disconnect 1574057254
+20:12:56 [Disconnect]: DisconnectPlayerFinish 1574057254
+20:12:56 [Disconnect]: Remove player info 1574057254
+20:12:56 [Disconnect]: Player destroy 1574057254 
+20:12:56 Player McNugget disconnected.
+20:12:56 BattlEye Server: Player #13 McNugget disconnected
+20:12:57 [Disconnect]: Finish script disconnect 1935168659
+20:12:57 [Disconnect]: DisconnectPlayerFinish 1935168659
+20:12:57 [Disconnect]: Remove player info 1935168659
+20:12:57 [Disconnect]: Player destroy 1935168659 
+20:12:57 Player Chicken__Wing disconnected.
+20:12:57 BattlEye Server: Player #17 Chicken__Wing disconnected
+20:13:01 Player Muty (1582169015) kicked from server: 198 (Ticket has been canceled.)
+20:13:01 [Disconnect]: Client 1582169015 early disconnect
+20:13:01 [Disconnect]: Start script disconnect 1582169015 (dbCharacterId 90 dbPlayerId 90) logoutTime 15
+20:13:01 [CE][LootRespawner] (PRIDummy) :: Item [4] is hard to place, performance drops: "PolicePants"
+20:13:01 [Disconnect]: Remove player info 1582169015
+20:13:01 [Disconnect]: Player destroy 1582169015 
+20:13:01 Player Muty disconnected.
+20:13:01 BattlEye Server: Player #29 Muty disconnected
+20:13:08 [StateMachine]: Player Odin (dpnid 21034360 uid Q0zz3UTXmV4R7dyXYO3RFrYZ0LVD94uMH3fbrcXEeLM=) Entering GetLoadedCharLoginState
+20:13:08 <LOAD EXISTING CHAR>:
+    charID 686
+    playerID 686
+    dpnid 21034360
+    uid Q0zz3UTXmV4R7dyXYO3RFrYZ0LVD94uMH3fbrcXEeLM=
+20:13:15 BattlEye Server: RCon admin #0: (To Odin) Odin, welcome to Terminus! Enjoy your stay. 
+20:13:16 [Disconnect]: Finish script disconnect -1
+20:13:16 Player (UKSF)Liggy117 kicked off by BattlEye: Admin Kick (Rollback incoming. Sorry for the inconvience)
+20:13:16 Player (UKSF)Liggy117 (1729163709) kicked from server: 240 ( (Admin Kick (Rollback incoming. Sorry for the inconvience)))
+20:13:16 [Disconnect]: Client 1729163709 early disconnect
+20:13:16 [Disconnect]: Start script disconnect 1729163709 (dbCharacterId 58 dbPlayerId 58) logoutTime 15
+20:13:16 Player Survivor kicked off by BattlEye: Admin Kick (Rollback incoming. Sorry for the inconvience)
+20:13:16 Player Survivor (1124798131) kicked from server: 240 ( (Admin Kick (Rollback incoming. Sorry for the inconvience)))
+20:13:16 [Disconnect]: Client 1124798131 early disconnect
+20:13:16 [Disconnect]: Start script disconnect 1124798131 (dbCharacterId 242 dbPlayerId 242) logoutTime 15
+20:13:16 Player |BWA| DieHappy* kicked off by BattlEye: Admin Kick (Rollback incoming. Sorry for the inconvience)
+20:13:16 Player |BWA| DieHappy* (1689326781) kicked from server: 240 ( (Admin Kick (Rollback incoming. Sorry for the inconvience)))
+20:13:16 [Disconnect]: Client 1689326781 early disconnect
+20:13:16 [Disconnect]: Start script disconnect 1689326781 (dbCharacterId 738 dbPlayerId 738) logoutTime 15
+20:13:16 Player imhyprr kicked off by BattlEye: Admin Kick (Rollback incoming. Sorry for the inconvience)
+20:13:16 Player imhyprr (67377475) kicked from server: 240 ( (Admin Kick (Rollback incoming. Sorry for the inconvience)))
+20:13:16 [Disconnect]: Client 67377475 early disconnect
+20:13:16 [Disconnect]: Start script disconnect 67377475 (dbCharacterId 353 dbPlayerId 353) logoutTime 15
+20:13:16 Player AndyLT kicked off by BattlEye: Admin Kick (Rollback incoming. Sorry for the inconvience)
+20:13:16 Player AndyLT (820906156) kicked from server: 240 ( (Admin Kick (Rollback incoming. Sorry for the inconvience)))
+20:13:16 [Disconnect]: Client 820906156 early disconnect
+20:13:16 [Disconnect]: Start script disconnect 820906156 (dbCharacterId 395 dbPlayerId 395) logoutTime 15
+20:13:16 Player |BWA| SoSoO kicked off by BattlEye: Admin Kick (Rollback incoming. Sorry for the inconvience)
+20:13:16 Player |BWA| SoSoO (124539722) kicked from server: 240 ( (Admin Kick (Rollback incoming. Sorry for the inconvience)))
+20:13:16 [Disconnect]: Client 124539722 early disconnect
+20:13:16 [Disconnect]: Start script disconnect 124539722 (dbCharacterId 747 dbPlayerId 747) logoutTime 15
+20:13:16 Player Rhino Ket kicked off by BattlEye: Admin Kick (Rollback incoming. Sorry for the inconvience)
+20:13:16 Player Rhino Ket (1494052746) kicked from server: 240 ( (Admin Kick (Rollback incoming. Sorry for the inconvience)))
+20:13:16 [Disconnect]: Client 1494052746 early disconnect
+20:13:16 [Disconnect]: Start script disconnect 1494052746 (dbCharacterId 396 dbPlayerId 396) logoutTime 15
+20:13:16 Player Amikaze kicked off by BattlEye: Admin Kick (Rollback incoming. Sorry for the inconvience)
+20:13:16 Player Amikaze (171572614) kicked from server: 240 ( (Admin Kick (Rollback incoming. Sorry for the inconvience)))
+20:13:16 [Disconnect]: Client 171572614 early disconnect
+20:13:16 [Disconnect]: Start script disconnect 171572614 (dbCharacterId 475 dbPlayerId 475) logoutTime 15
+20:13:16 Player Mermaider kicked off by BattlEye: Admin Kick (Rollback incoming. Sorry for the inconvience)
+20:13:16 Player Mermaider (60209249) kicked from server: 240 ( (Admin Kick (Rollback incoming. Sorry for the inconvience)))
+20:13:16 [Disconnect]: Client 60209249 early disconnect
+20:13:16 [Disconnect]: Start script disconnect 60209249 (dbCharacterId 381 dbPlayerId 381) logoutTime 15
+20:13:16 Player |BWA|bekeka kicked off by BattlEye: Admin Kick (Rollback incoming. Sorry for the inconvience)
+20:13:16 Player |BWA|bekeka (656130962) kicked from server: 240 ( (Admin Kick (Rollback incoming. Sorry for the inconvience)))
+20:13:16 [Disconnect]: Client 656130962 early disconnect
+20:13:16 [Disconnect]: Start script disconnect 656130962 (dbCharacterId 745 dbPlayerId 745) logoutTime 15
+20:13:16 Player Jared kicked off by BattlEye: Admin Kick (Rollback incoming. Sorry for the inconvience)
+20:13:16 Player Jared (1438395202) kicked from server: 240 ( (Admin Kick (Rollback incoming. Sorry for the inconvience)))
+20:13:16 [Disconnect]: Client 1438395202 early disconnect
+20:13:16 [Disconnect]: Start script disconnect 1438395202 (dbCharacterId 858 dbPlayerId 858) logoutTime 15
+20:13:16 Player RPR Bert kicked off by BattlEye: Admin Kick (Rollback incoming. Sorry for the inconvience)
+20:13:16 Player RPR Bert (1305097590) kicked from server: 240 ( (Admin Kick (Rollback incoming. Sorry for the inconvience)))
+20:13:16 [Disconnect]: Client 1305097590 early disconnect
+20:13:16 [Disconnect]: Start script disconnect 1305097590 (dbCharacterId 884 dbPlayerId 884) logoutTime 15
+20:13:16 Player |BWA| Dudu kicked off by BattlEye: Admin Kick (Rollback incoming. Sorry for the inconvience)
+20:13:16 Player |BWA| Dudu (845407147) kicked from server: 240 ( (Admin Kick (Rollback incoming. Sorry for the inconvience)))
+20:13:16 [Disconnect]: Client 845407147 early disconnect
+20:13:16 [Disconnect]: Start script disconnect 845407147 (dbCharacterId 841 dbPlayerId 841) logoutTime 15
+20:13:16 Player Kalamuchta kicked off by BattlEye: Admin Kick (Rollback incoming. Sorry for the inconvience)
+20:13:16 Player Kalamuchta (774533766) kicked from server: 240 ( (Admin Kick (Rollback incoming. Sorry for the inconvience)))
+20:13:16 [Disconnect]: Client 774533766 early disconnect
+20:13:16 [Disconnect]: Start script disconnect 774533766 (dbCharacterId 42 dbPlayerId 42) logoutTime 15
+20:13:16 Player Frenz kicked off by BattlEye: Admin Kick (Rollback incoming. Sorry for the inconvience)
+20:13:16 Player Frenz (30091404) kicked from server: 240 ( (Admin Kick (Rollback incoming. Sorry for the inconvience)))
+20:13:16 [Disconnect]: Client 30091404 early disconnect
+20:13:16 [Disconnect]: Start script disconnect 30091404 (dbCharacterId 378 dbPlayerId 378) logoutTime 15
+20:13:16 [Disconnect]: Remove player info 820906156
+20:13:16 [Disconnect]: Remove player info 774533766
+20:13:16 [Disconnect]: Remove player info 845407147
+20:13:16 [Disconnect]: Remove player info 1124798131
+20:13:16 [Disconnect]: Remove player info 30091404
+20:13:16 [Disconnect]: Remove player info 1729163709
+20:13:16 [Disconnect]: Remove player info 67377475
+20:13:16 [Disconnect]: Remove player info 171572614
+20:13:16 [Disconnect]: Remove player info 1438395202
+20:13:16 [Disconnect]: Remove player info 656130962
+20:13:16 [Disconnect]: Remove player info 60209249
+20:13:16 [Disconnect]: Remove player info 1689326781
+20:13:16 [Disconnect]: Remove player info 124539722
+20:13:16 [Disconnect]: Remove player info 1494052746
+20:13:16 [Disconnect]: Remove player info 1305097590
+20:13:17 [Disconnect]: Player destroy 820906156 
+20:13:17 [Disconnect]: Player destroy 1124798131 
+20:13:17 Player Survivor disconnected.
+20:13:17 [Disconnect]: Player destroy 30091404 
+20:13:17 Player Frenz disconnected.
+20:13:17 [Disconnect]: Player destroy 1729163709 
+20:13:17 Player (UKSF)Liggy117 disconnected.
+20:13:17 [Disconnect]: Player destroy 67377475 
+20:13:17 Player imhyprr disconnected.
+20:13:17 [Disconnect]: Player destroy 171572614 
+20:13:17 Player Amikaze disconnected.
+20:13:17 [Disconnect]: Player destroy 1438395202 
+20:13:17 [Disconnect]: Player destroy 60209249 
+20:13:17 Player Mermaider disconnected.
+20:13:17 [Disconnect]: Player destroy 1689326781 
+20:13:17 Player |BWA| DieHappy* disconnected.
+20:13:17 [Disconnect]: Player destroy 124539722 
+20:13:17 [Disconnect]: Start script disconnect 29286677 (dbCharacterId 929 dbPlayerId 929) logoutTime 15
+20:13:17 [Disconnect]: Start script disconnect 15148455 (dbCharacterId 883 dbPlayerId 883) logoutTime 15
+20:13:17 [Disconnect]: Start script disconnect 45542583 (dbCharacterId 926 dbPlayerId 926) logoutTime 15
+20:13:17 [Disconnect]: Start script disconnect 1995147696 (dbCharacterId 48 dbPlayerId 48) logoutTime 15
+20:13:17 [Disconnect]: Start script disconnect 163379156 (dbCharacterId 377 dbPlayerId 377) logoutTime 15
+20:13:17 [Disconnect]: Start script disconnect 1330331871 (dbCharacterId 397 dbPlayerId 397) logoutTime 15
+20:13:17 [Disconnect]: Start script disconnect 1720958115 (dbCharacterId 289 dbPlayerId 289) logoutTime 15
+20:13:17 [Disconnect]: Start script disconnect 28860711 (dbCharacterId 893 dbPlayerId 893) logoutTime 15
+20:13:17 [Disconnect]: Start script disconnect 18193563 (dbCharacterId 730 dbPlayerId 730) logoutTime 15
+20:13:17 [Disconnect]: Start script disconnect 1552457536 (dbCharacterId 81 dbPlayerId 81) logoutTime 15
+20:13:17 [Disconnect]: Start script disconnect 1511267517 (dbCharacterId 918 dbPlayerId 918) logoutTime 15
+20:13:17 Player Danny kicked off by BattlEye: Admin Kick (Rollback incoming. Sorry for the inconvience)
+20:13:17 Player TRixiNO kicked off by BattlEye: Admin Kick (Rollback incoming. Sorry for the inconvience)
+20:13:17 Player TRixiNO (2116425073) kicked from server: 240 ( (Admin Kick (Rollback incoming. Sorry for the inconvience)))
+20:13:17 [Disconnect]: Client 2116425073 early disconnect
+20:13:17 [Disconnect]: Start script disconnect 2116425073 (dbCharacterId 734 dbPlayerId 734) logoutTime 15
+20:13:17 Player Jamie kicked off by BattlEye: Admin Kick (Rollback incoming. Sorry for the inconvience)
+20:13:17 Player Jamie (23274329) kicked from server: 240 ( (Admin Kick (Rollback incoming. Sorry for the inconvience)))
+20:13:17 [Disconnect]: Client 23274329 early disconnect
+20:13:17 [Disconnect]: Start script disconnect 23274329 (dbCharacterId 916 dbPlayerId 916) logoutTime 15
+20:13:17 Player Mixxa kicked off by BattlEye: Admin Kick (Rollback incoming. Sorry for the inconvience)
+20:13:17 Player Mixxa (30987004) kicked from server: 240 ( (Admin Kick (Rollback incoming. Sorry for the inconvience)))
+20:13:17 [Disconnect]: Client 30987004 early disconnect
+20:13:17 [Disconnect]: Start script disconnect 30987004 (dbCharacterId 47 dbPlayerId 47) logoutTime 15
+20:13:17 Player wigoor kicked off by BattlEye: Admin Kick (Rollback incoming. Sorry for the inconvience)
+20:13:17 Player wigoor (24989860) kicked from server: 240 ( (Admin Kick (Rollback incoming. Sorry for the inconvience)))
+20:13:17 [Disconnect]: Client 24989860 early disconnect
+20:13:17 [Disconnect]: Start script disconnect 24989860 (dbCharacterId 194 dbPlayerId 194) logoutTime 15
+20:13:17 Player Odin kicked off by BattlEye: Admin Kick (Rollback incoming. Sorry for the inconvience)
+20:13:17 Player Odin (21034360) kicked from server: 240 ( (Admin Kick (Rollback incoming. Sorry for the inconvience)))
+20:13:17 [Disconnect]: Client 21034360 early disconnect
+20:13:17 [Disconnect]: Start script disconnect 21034360 (dbCharacterId 686 dbPlayerId 686) logoutTime 15
+20:13:17 [Disconnect]: Remove player info 19649568
+20:13:17 [Disconnect]: Remove player info 45542583
+20:13:17 [Disconnect]: Remove player info 163379156
+20:13:17 [Disconnect]: Remove player info 1552457536
+20:13:17 [Disconnect]: Remove player info 1330331871
+20:13:17 [Disconnect]: Remove player info 891269885
+20:13:17 [Disconnect]: Remove player info 30987004
+20:13:17 [Disconnect]: Remove player info 15148455
+20:13:17 [Disconnect]: Remove player info 15592323
+20:13:17 [Disconnect]: Remove player info 1511267517
+20:13:17 [Disconnect]: Remove player info 79655961
+20:13:17 [Disconnect]: Remove player info 1720958115
+20:13:17 [Disconnect]: Remove player info 2116425073
+20:13:17 [Disconnect]: Remove player info 1995147696
+20:13:17 [Disconnect]: Remove player info 24444500
+20:13:17 [Disconnect]: Remove player info 18193563
+20:13:17 [Disconnect]: Remove player info 23274329
+20:13:17 [Disconnect]: Remove player info 25081423
+20:13:17 [Disconnect]: Remove player info 1806549412
+20:13:17 [Disconnect]: Remove player info 1526530544
+20:13:17 [Disconnect]: Remove player info 24989860
+20:13:17 [Disconnect]: Remove player info 22718353
+20:13:17 [Disconnect]: Remove player info 28860711
+20:13:17 [Disconnect]: Remove player info 29286677
+20:13:17 [Disconnect]: Remove player info 3425289
+20:13:17 [Disconnect]: Remove player info 43067199
+20:13:17 [Disconnect]: Remove player info 177392436
+20:13:17 [Disconnect]: Remove player info 21034360
+20:13:17 [Disconnect]: Remove player info 43182399
+20:13:17 [Disconnect]: Player destroy 19649568 
+20:13:17 Player AlexSK disconnected.
+20:13:18 [Disconnect]: Player destroy 45542583 
+20:13:18 Player Flux disconnected.
+20:13:18 [Disconnect]: Player destroy 163379156 
+20:13:18 Player JuicyApple disconnected.
+20:13:18 [Disconnect]: Player destroy 1552457536 
+20:13:18 Player Celerity disconnected.
+20:13:18 [Disconnect]: Player destroy 1330331871 
+20:13:18 Player starberry disconnected.
+20:13:18 [Disconnect]: Player destroy 891269885 
+20:13:18 Player Yarden disconnected.
+20:13:18 [Disconnect]: Player destroy 30987004 
+20:13:18 Player Mixxa disconnected.
+20:13:18 [Disconnect]: Player destroy 15148455 
+20:13:18 Player RPR Robby disconnected.
+20:13:18 [Disconnect]: Player destroy 15592323 
+20:13:18 Player riczi disconnected.
+20:13:18 [Disconnect]: Player destroy 1511267517 
+20:13:18 Player Ward disconnected.
+20:13:18 [Disconnect]: Player destroy 79655961 
+20:13:18 Player EnvyBby disconnected.
+20:13:18 [Disconnect]: Player destroy 1720958115 
+20:13:18 Player Jeffery disconnected.
+20:13:18 [Disconnect]: Player destroy 2116425073 
+20:13:18 Player TRixiNO disconnected.
+20:13:18 [Disconnect]: Player destroy 1995147696 
+20:13:18 Player wyrafinowana suczka disconnected.
+20:13:18 [Disconnect]: Player destroy 24444500 
+20:13:18 Player MayneKeen disconnected.
+20:13:18 [Disconnect]: Player destroy 18193563 
+20:13:18 Player Show it disconnected.
+20:13:18 [Disconnect]: Player destroy 23274329 
+20:13:18 Player Jamie disconnected.
+20:13:18 [Disconnect]: Player destroy 25081423 

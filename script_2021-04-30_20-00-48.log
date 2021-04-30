@@ -1,0 +1,2208 @@
+---------------------------------------------
+Log C:\DayZ\OmegaManager\servers\Terminus\profiles\script_2021-04-30_20-00-48.log started at 30.04. 20:00:48
+
+SCRIPT       : Registered 302 temporary action enum(s), UAN==302
+SCRIPT    (W): @"Vehicle3PP/Scripts/3_Game/vehicle3ppconfig.c,44": Missing ';' at the end of line
+SCRIPT       : CF_CreateGame()
+SCRIPT       : ... Backlit Effects Enabled
+SCRIPT    (W): @"SalineBagPlus/4_World/classes\playermodifiers\modifiers\saline.c,30": Missing ';' at the end of line
+SCRIPT    (W): @"Food\scripts\4_World/mremains.c,325": Missing ';' at the end of line
+SCRIPT    (W): @"Food\scripts\4_World/mremains.c,377": Missing ';' at the end of line
+SCRIPT    (W): @"Food\scripts\4_World/mremains.c,427": Missing ';' at the end of line
+SCRIPT    (W): @"Food\scripts\4_World/mremains.c,477": Missing ';' at the end of line
+SCRIPT    (W): @"WRDG/Notes/Scripts/4_World/classes\writtennotedata.c,93": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT    (W): @"CFTools/4_World/playerbase.c,99": Unsafe down-casting, use 'EntityAI.Cast' for safe down-casting
+SCRIPT    (W): @"CFTools/4_World/actiondeploy.c,47": No need to use 'Cast' for up-casting
+SCRIPT       : [ExpansionAirdropSettings] Loading settings
+SCRIPT       : [ExpansionBookSettings] Loading settings
+SCRIPT       : [ExpansionGeneralSettings] Loading settings
+SCRIPT       : [ExpansionMapSettings] Loading settings
+SCRIPT       : [ExpansionMissionSettings] Loading settings
+SCRIPT       : [ExpansionMissionSettings] Saving settings
+SCRIPT       : [ExpansionNotificationSettings] Loading settings
+SCRIPT       : [ExpansionPartySettings] Loading settings
+SCRIPT       : [ExpansionSafeZoneSettings] Loading settings
+SCRIPT       : [ExpansionSpawnSettings] Loading settings
+SCRIPT       : [ExpansionPlayerListSettings] Loading settings
+SCRIPT       : [ExpansionVehicleSettings] Loading settings
+SCRIPT       : 20:00:57.289 [EXPANSION DEBUG]: ExpansionSettingBase::Update - Warning: ExpansionVehicleSettings<1453c750> is trying to copy from itself. This may be unintended.
+SCRIPT       : [ExpansionVehicleSettings] Saving settings
+SCRIPT       : [ExpansionDebugSettings] Loading settings
+SCRIPT    (W): @"CFTools/5_Mission/reporter.c,161": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT       : CraftWoodenPlank<bf06de40>
+SCRIPT       : NULL
+SCRIPT       : Creating ModuleManager
+SCRIPT       : CF_CreateWorld()
+SCRIPT       : Inserted Module (HOST): ExpansionGlobalChatModule
+SCRIPT       : Inserted Module (HOST): ExpansionNotificationModule
+SCRIPT       : Inserted Module (HOST): ExpansionSafeZoneModule
+SCRIPT       : Deleted Module: ExpansionLocatorModule
+SCRIPT       : Inserted Module (HOST): ExpansionPartyModule
+SCRIPT       : Inserted Module (HOST): ExpansionMarkerModule
+SCRIPT       : Inserted Module (HOST): ExpansionMissionModule
+SCRIPT       : Inserted Module (HOST): ExpansionTerritoryModule
+SCRIPT       : Inserted Module (HOST): ExpansionInteriorBuildingModule
+SCRIPT       : Inserted Module (HOST): ExpansionWorldMappingModule
+SCRIPT       : Inserted Module (HOST): ExpansionAutorunModule
+SCRIPT       : Inserted Module (HOST): ExpansionMonitorModule
+SCRIPT       : Inserted Module (HOST): ExpansionKillFeedModule
+SCRIPT       : Inserted Module (HOST): ExpansionESPModificationModule
+SCRIPT       : Inserted Module (HOST): ExpansionCOTVehiclesModule
+SCRIPT       : Inserted Module (HOST): ExpansionCOTDebugModule
+SCRIPT       : Inserted Module (HOST): ExpansionCOTTerritoriesModule
+SCRIPT       : Inserted Module (HOST): ExpansionCOTAirdropModule
+SCRIPT       : Inserted Module (HOST): ExpansionCOTBaseBuildingModule
+SCRIPT       : Inserted Module (HOST): ExpansionCOTBookModule
+SCRIPT       : Inserted Module (HOST): ExpansionCOTGeneralModule
+SCRIPT       : Inserted Module (HOST): ExpansionCOTMapModule
+SCRIPT       : Inserted Module (HOST): ExpansionCOTNotificationModule
+SCRIPT       : Inserted Module (HOST): ExpansionCOTPartyModule
+SCRIPT       : Inserted Module (HOST): ExpansionCOTRaidModule
+SCRIPT       : Inserted Module (HOST): ExpansionCOTSpawningModule
+SCRIPT       : Inserted Module (HOST): ExpansionCOTVehicleModule
+SCRIPT       : Inserted Module (HOST): ExpansionGameMissionSelecterModule
+SCRIPT       : Deleted Module: ExpansionClientSettingsModule
+SCRIPT       : Inserted Module (HOST): ExpansionRespawnHandlerModule
+SCRIPT       : Inserted Module (HOST): ExpansionSkinModule
+SCRIPT       : Inserted Module (HOST): COTModule
+SCRIPT       : Inserted Module (HOST): JMWebhookModule
+SCRIPT       : Inserted Module (HOST): JMPlayerModule
+SCRIPT       : Inserted Module (HOST): JMObjectSpawnerModule
+SCRIPT       : Inserted Module (HOST): JMESPModule
+SCRIPT       : Inserted Module (HOST): JMTeleportModule
+SCRIPT       : Inserted Module (HOST): JMCameraModule
+SCRIPT       : Inserted Module (HOST): JMVehicleSpawnerModule
+SCRIPT       : Inserted Module (HOST): JMItemSetSpawnerModule
+SCRIPT       : Inserted Module (HOST): JMWeatherOldModule
+SCRIPT       : Inserted Module (HOST): JMMapModule
+SCRIPT       : Inserted Module (HOST): JMCommandModule
+SCRIPT       : Modules Loaded
+SCRIPT       : 0 -> ExpansionGlobalChatModule
+SCRIPT       : 1 -> ExpansionNotificationModule
+SCRIPT       : 2 -> ExpansionSafeZoneModule
+SCRIPT       : 3 -> ExpansionPartyModule
+SCRIPT       : 4 -> ExpansionMarkerModule
+SCRIPT       : 5 -> ExpansionMissionModule
+SCRIPT       : 6 -> ExpansionTerritoryModule
+SCRIPT       : 7 -> ExpansionInteriorBuildingModule
+SCRIPT       : 8 -> ExpansionWorldMappingModule
+SCRIPT       : 9 -> ExpansionAutorunModule
+SCRIPT       : 10 -> ExpansionMonitorModule
+SCRIPT       : 11 -> ExpansionKillFeedModule
+SCRIPT       : 12 -> ExpansionESPModificationModule
+SCRIPT       : 13 -> ExpansionCOTVehiclesModule
+SCRIPT       : 14 -> ExpansionCOTDebugModule
+SCRIPT       : 15 -> ExpansionCOTTerritoriesModule
+SCRIPT       : 16 -> ExpansionCOTAirdropModule
+SCRIPT       : 17 -> ExpansionCOTBaseBuildingModule
+SCRIPT       : 18 -> ExpansionCOTBookModule
+SCRIPT       : 19 -> ExpansionCOTGeneralModule
+SCRIPT       : 20 -> ExpansionCOTMapModule
+SCRIPT       : 21 -> ExpansionCOTNotificationModule
+SCRIPT       : 22 -> ExpansionCOTPartyModule
+SCRIPT       : 23 -> ExpansionCOTRaidModule
+SCRIPT       : 24 -> ExpansionCOTSpawningModule
+SCRIPT       : 25 -> ExpansionCOTVehicleModule
+SCRIPT       : 26 -> ExpansionGameMissionSelecterModule
+SCRIPT       : 27 -> ExpansionRespawnHandlerModule
+SCRIPT       : 28 -> ExpansionSkinModule
+SCRIPT       : 29 -> COTModule
+SCRIPT       : 30 -> JMWebhookModule
+SCRIPT       : 31 -> JMPlayerModule
+SCRIPT       : 32 -> JMObjectSpawnerModule
+SCRIPT       : 33 -> JMESPModule
+SCRIPT       : 34 -> JMTeleportModule
+SCRIPT       : 35 -> JMCameraModule
+SCRIPT       : 36 -> JMVehicleSpawnerModule
+SCRIPT       : 37 -> JMItemSetSpawnerModule
+SCRIPT       : 38 -> JMWeatherOldModule
+SCRIPT       : 39 -> JMMapModule
+SCRIPT       : 40 -> JMCommandModule
+SCRIPT       : Expansion version: 1.5.1240
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=0
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=0
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=0
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=0
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=0
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=0
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=0
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=0
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=0
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=0
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=0
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=0
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=0
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=0
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=0
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=0
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=0
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=0
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=0
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=0
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=0
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=0
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=0
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=0
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=0
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=0
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=0
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=0
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=0
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=0
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=0
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=0
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=0
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=0
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=0
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=0
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=0
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=0
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=0
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=0
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=0
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=0
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=0
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=0
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "greathelmet_generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gasmask_generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Motohelmet_generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gag_generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : ********* LoadStats loading version: 115
+SCRIPT       : LOAD checksum:-1825047751
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : ExpansionMonitorModule::OnInvokeConnect player : SurvivorBase<4a59f070>
+SCRIPT       : ********* LoadStats loading version: 115
+SCRIPT       : LOAD checksum:-1825047751
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : ExpansionMonitorModule::OnInvokeConnect player : SurvivorBase<4a5bd0f0>
+SCRIPT       : ********* LoadStats loading version: 115
+SCRIPT       : LOAD value:8388944
+SCRIPT       : LOAD id:21
+SCRIPT       : LOAD id_bit_offset:4
+SCRIPT       : LOAD food_stage:0
+SCRIPT       : LOAD value:15269904
+SCRIPT       : LOAD id:1
+SCRIPT       : LOAD id_bit_offset:4
+SCRIPT       : LOAD food_stage:0
+SCRIPT       : LOAD checksum:-1825047751
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : ExpansionMonitorModule::OnInvokeConnect player : SurvivorBase<4a5a2c80>
+SCRIPT       : ********* LoadStats loading version: 115
+SCRIPT       : LOAD checksum:-1825047751
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : ExpansionMonitorModule::OnInvokeConnect player : SurvivorBase<4a5c0d00>
+SCRIPT       : ********* LoadStats loading version: 115
+SCRIPT       : LOAD checksum:-1825047751
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : ExpansionMonitorModule::OnInvokeConnect player : SurvivorBase<4a5a6890>
+SCRIPT       : ********* LoadStats loading version: 115
+SCRIPT       : LOAD checksum:-1825047751
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : ExpansionMonitorModule::OnInvokeConnect player : SurvivorBase<4a5c4910>
+SCRIPT       : ********* LoadStats loading version: 115
+SCRIPT       : LOAD checksum:-1825047751
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : ExpansionMonitorModule::OnInvokeConnect player : SurvivorBase<4a5d3950>
+SCRIPT       : ********* LoadStats loading version: 115
+SCRIPT       : LOAD checksum:-1825047751
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : ExpansionMonitorModule::OnInvokeConnect player : SurvivorBase<4a5db170>
+SCRIPT       : ********* LoadStats loading version: 115
+SCRIPT       : LOAD checksum:-1825047751
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : ExpansionMonitorModule::OnInvokeConnect player : SurvivorBase<4a5c8520>
+SCRIPT       : ********* LoadStats loading version: 115
+SCRIPT       : LOAD checksum:-1825047751
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : ExpansionMonitorModule::OnInvokeConnect player : SurvivorBase<4a5cc130>
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=SpaghettiCan:045661 parent=SurvivorM_Oliver:08 }
+SCRIPT       : ********* LoadStats loading version: 115
+SCRIPT       : LOAD checksum:-1825047751
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : ExpansionMonitorModule::OnInvokeConnect player : SurvivorBase<7655d5d0>
+SCRIPT       : ********* LoadStats loading version: 115
+SCRIPT       : LOAD checksum:-1825047751
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : ExpansionMonitorModule::OnInvokeConnect player : SurvivorBase<76555db0>
+SCRIPT       : ********* LoadStats loading version: 115
+SCRIPT       : LOAD checksum:-1825047751
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : ExpansionMonitorModule::OnInvokeConnect player : SurvivorBase<76564df0>
+SCRIPT       : [Logout]: New player 8lg1r66OdEIEjrYmWM_1EyxHiMIwTPZ78JYNWIiGZxg= with logout time 15
+SCRIPT       : ********* LoadStats loading version: 115
+SCRIPT       : LOAD checksum:-1825047751
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : ExpansionMonitorModule::OnInvokeConnect player : SurvivorBase<7654a980>
+SCRIPT       : ********* LoadStats loading version: 115
+SCRIPT       : LOAD checksum:-1825047751
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : ExpansionMonitorModule::OnInvokeConnect player : SurvivorBase<7656c610>
+SCRIPT       : 0.1605
+SCRIPT       : 0.1605
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE id:1
+SCRIPT       : SAVE id_bit_offset:4
+SCRIPT       : SAVE write_result:6684688
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE id:21
+SCRIPT       : SAVE id_bit_offset:4
+SCRIPT       : SAVE write_result:19792208
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : 0.161
+SCRIPT       : 0.161
+SCRIPT       : [Logout]: Player 8lg1r66OdEIEjrYmWM_1EyxHiMIwTPZ78JYNWIiGZxg= finished
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : 0.1615
+SCRIPT       : 0.1615
+SCRIPT       : 0.162
+SCRIPT       : 0.162
+SCRIPT       : 0.1625
+SCRIPT       : 0.1625
+SCRIPT       : ********* LoadStats loading version: 115
+SCRIPT       : LOAD checksum:-1825047751
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : ExpansionMonitorModule::OnInvokeConnect player : SurvivorBase<76555db0>
+SCRIPT       : 0.1625
+SCRIPT       : ********* LoadStats loading version: 115
+SCRIPT       : LOAD checksum:-1825047751
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : ExpansionMonitorModule::OnInvokeConnect player : SurvivorBase<76573e30>
+SCRIPT       : 0.163
+SCRIPT       : ********* LoadStats loading version: 115
+SCRIPT       : LOAD checksum:-1825047751
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : ExpansionMonitorModule::OnInvokeConnect player : SurvivorBase<7657b650>
+SCRIPT       : 0.163
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=TacticalBaconCan:035383 parent=SurvivorF_Irena:06 }
+SCRIPT       : 0.1635
+SCRIPT       : 0.1635
+SCRIPT       : ********* LoadStats loading version: 115
+SCRIPT       : LOAD checksum:-1825047751
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : ExpansionMonitorModule::OnInvokeConnect player : SurvivorBase<76582e70>
+SCRIPT       : 0.164
+SCRIPT       : ********* LoadStats loading version: 115
+SCRIPT       : LOAD value:21169010
+SCRIPT       : LOAD id:55
+SCRIPT       : LOAD id_bit_offset:4
+SCRIPT       : LOAD food_stage:2
+SCRIPT       : LOAD checksum:-1825047751
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : ExpansionMonitorModule::OnInvokeConnect player : SurvivorBase<76577a40>
+SCRIPT       : 0.164
+SCRIPT       : 0.1645
+SCRIPT       : 0.1645
+SCRIPT       : 0.165
+SCRIPT       : 0.165
+SCRIPT       : 0.165
+SCRIPT       : 0.1655
+SCRIPT       : 0.1655
+SCRIPT       : ********* LoadStats loading version: 115
+SCRIPT       : LOAD checksum:-1825047751
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=0
+SCRIPT       : ExpansionMonitorModule::OnInvokeConnect player : SurvivorBase<774b4ca0>
+SCRIPT       : 0.166
+SCRIPT       : 0.166
+SCRIPT       : 0.1665
+SCRIPT       : ********* LoadStats loading version: 115
+SCRIPT       : LOAD checksum:-1825047751
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : ExpansionMonitorModule::OnInvokeConnect player : SurvivorBase<774b1090>
+SCRIPT       : 0.1665
+SCRIPT       : ********* LoadStats loading version: 115
+SCRIPT       : LOAD checksum:-1825047751
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : ExpansionMonitorModule::OnInvokeConnect player : SurvivorBase<774d2d20>
+SCRIPT       : ********* LoadStats loading version: 115
+SCRIPT       : LOAD value:19661682
+SCRIPT       : LOAD id:55
+SCRIPT       : LOAD id_bit_offset:4
+SCRIPT       : LOAD food_stage:2
+SCRIPT       : LOAD checksum:-1825047751
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : ExpansionMonitorModule::OnInvokeConnect player : SurvivorBase<774c00d0>
+SCRIPT       : ********* LoadStats loading version: 115
+SCRIPT       : LOAD checksum:-1825047751
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : ExpansionMonitorModule::OnInvokeConnect player : SurvivorBase<774b88b0>
+SCRIPT       : 20:04:57.695 [EXPANSION DEBUG]: ItemBase::SendKnownUIDs ExpansionCodeLock<f0231b60> (parent=ExpansionWallBase<ed8933c0>)
+SCRIPT       : 0.167
+SCRIPT       : 0.167
+SCRIPT       : 0.167
+SCRIPT       : 0.1675
+SCRIPT       : 0.1675
+SCRIPT       : 0.168
+SCRIPT       : 0.168
+SCRIPT       : 20:05:18.257 [EXPANSION DEBUG]: ItemBase::SendKnownUIDs ExpansionCodeLock<f0241d60> (parent=ExpansionWallBase<ed897c40>)
+SCRIPT       : 0.1685
+SCRIPT       : 20:05:22.609 [EXPANSION DEBUG]: ItemBase::SendKnownUIDs ExpansionCodeLock<f0869b80> (parent=ExpansionWallBase<f04ecda0>)
+SCRIPT       : 0.1685
+SCRIPT       : 0.169
+SCRIPT       : ********* LoadStats loading version: 115
+SCRIPT       : LOAD checksum:-1825047751
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : ExpansionMonitorModule::OnInvokeConnect player : SurvivorBase<774cb500>
+SCRIPT       : 20:05:28.343 [EXPANSION DEBUG]: ItemBase::SendKnownUIDs ExpansionCodeLock<f2b32840> (parent=ExpansionWallBase<f25cbcf0>)
+SCRIPT       : 0.169
+SCRIPT       : ********* LoadStats loading version: 115
+SCRIPT       : LOAD checksum:-1825047751
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : ExpansionMonitorModule::OnInvokeConnect player : SurvivorBase<774d6930>
+SCRIPT       : 0.1695
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=AmmoBox_762x54_20Rnd:035923 parent=SurvivorF_Linda:019 }
+SCRIPT       : UnboxLambda::SetupNewMagazine new_item=Ammo_762x54<81df4440> count=20
+SCRIPT       : 0.1695
+SCRIPT       : 0.1695
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=SpaghettiCan:044921 parent=SurvivorM_Niki:02 }
+SCRIPT       : 0.17
+SCRIPT       : ********* LoadStats loading version: 115
+SCRIPT       : LOAD checksum:-1825047751
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : ExpansionMonitorModule::OnInvokeConnect player : SurvivorBase<774de150>
+SCRIPT       : ********* LoadStats loading version: 115
+SCRIPT       : LOAD value:8061922
+SCRIPT       : LOAD id:62
+SCRIPT       : LOAD id_bit_offset:4
+SCRIPT       : LOAD food_stage:2
+SCRIPT       : LOAD checksum:-1825047751
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : ExpansionMonitorModule::OnInvokeConnect player : SurvivorBase<774da540>
+SCRIPT       : [Logout]: New player nHKsTmLT8V4NPmrdRohimsKJA301SEwdt_Ejf5JhB4k= with logout time 15
+SCRIPT       : 0.17
+SCRIPT       : 0.1705
+SCRIPT       : 0.1705
+SCRIPT       : string s =    'OnUnconsciousStart'
+SCRIPT       : 0.171
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE id:21
+SCRIPT       : SAVE id_bit_offset:4
+SCRIPT       : SAVE write_result:17039696
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE id:20
+SCRIPT       : SAVE id_bit_offset:4
+SCRIPT       : SAVE write_result:4194624
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE id:21
+SCRIPT       : SAVE id_bit_offset:4
+SCRIPT       : SAVE write_result:8520016
+SCRIPT       : SAVE id:1
+SCRIPT       : SAVE id_bit_offset:4
+SCRIPT       : SAVE write_result:11665424
+SCRIPT       : SAVE id:103
+SCRIPT       : SAVE id_bit_offset:4
+SCRIPT       : SAVE write_result:3671664
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE id:55
+SCRIPT       : SAVE id_bit_offset:4
+SCRIPT       : SAVE write_result:3998578
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE id:55
+SCRIPT       : SAVE id_bit_offset:4
+SCRIPT       : SAVE write_result:10486642
+SCRIPT       : SAVE id:62
+SCRIPT       : SAVE id_bit_offset:4
+SCRIPT       : SAVE write_result:4522978
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE id:62
+SCRIPT       : SAVE id_bit_offset:4
+SCRIPT       : SAVE write_result:6226914
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : 0.171
+SCRIPT       : 20:05:56.968 [EXPANSION DEBUG]: ItemBase::SendKnownUIDs ExpansionCodeLock<e526bad0> (parent=ExpansionWallBase<e3bcac00>)
+SCRIPT       : [Logout]: Player nHKsTmLT8V4NPmrdRohimsKJA301SEwdt_Ejf5JhB4k= finished
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : 0.1715
+SCRIPT       : 20:05:59.195 [EXPANSION DEBUG]: ItemBase::SendKnownUIDs ExpansionCodeLock<e9cbad80> (parent=ExpansionWallBase<e90d3450>)
+SCRIPT       : 0.1715
+SCRIPT       : SurvivorM_Rolf:01 STS=7143 event EEKilled, player has died at STS=7143
+SCRIPT       : EEKilled - processing corpse
+SCRIPT       : string s =    'OnUnconsciousStop'
+SCRIPT       : 0.1715
+SCRIPT       : 0.172
+SCRIPT       : 0.172
+SCRIPT       : ExpansionRespawnHandlerModule::ShowSpawnSelection - Start
+SCRIPT       : ExpansionRespawnHandlerModule::ShowSpawnSelection - End
+SCRIPT       : ExpansionMonitorModule::OnInvokeConnect player : SurvivorBase<774e9580>
+SCRIPT       : ********* LoadStats loading version: 115
+SCRIPT       : LOAD checksum:-1825047751
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : ExpansionMonitorModule::OnInvokeConnect player : SurvivorBase<774ed190>
+SCRIPT       : 20:06:11.750 [EXPANSION DEBUG]: ItemBase::SendKnownUIDs ExpansionCodeLock<f0253790> (parent=ExpansionWallBase<f04e1860>)
+SCRIPT       : 0.1725
+SCRIPT       : 0.1725
+SCRIPT       : 20:06:17.812 [EXPANSION DEBUG]: ItemBase::SendKnownUIDs ExpansionCodeLock<edf90a50> (parent=ExpansionWallBase<ed876ea0>)
+SCRIPT       : 20:06:18.875 [EXPANSION DEBUG]: ItemBase::SendKnownUIDs ExpansionCodeLock<f11529d0> (parent=ExpansionWallBase<f04edfc0>)
+SCRIPT       : 0.173
+SCRIPT       : 20:06:20.250 [EXPANSION DEBUG]: ItemBase::SendKnownUIDs ExpansionCodeLock<f1af63f0> (parent=ExpansionWallBase<f050db40>)
+SCRIPT       : ********* LoadStats loading version: 115
+SCRIPT       : LOAD checksum:-1825047751
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : ExpansionMonitorModule::OnInvokeConnect player : SurvivorBase<774cf110>
+SCRIPT       : 0.173
+SCRIPT       : 20:06:23.414 [EXPANSION DEBUG]: ItemBase::SendKnownUIDs ExpansionCodeLock<f1b08e40> (parent=ExpansionWallBase<f25b1c10>)
+SCRIPT       : 0.1735
+SCRIPT       : ********* LoadStats loading version: 115
+SCRIPT       : LOAD checksum:-1825047751
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : ExpansionMonitorModule::OnInvokeConnect player : SurvivorBase<774c3ce0>
+SCRIPT       : ExpansionRespawnHandlerModule::ShowSpawnSelection - Start
+SCRIPT       : ExpansionRespawnHandlerModule::ShowSpawnSelection - End
+SCRIPT       : ExpansionMonitorModule::OnInvokeConnect player : SurvivorBase<774e5970>
+SCRIPT       : 0.1735
+SCRIPT       : ExpansionRespawnHandlerModule::RPC_SelectSpawn - Start
+SCRIPT       : ExpansionRespawnHandlerModule::Exec_SelectSpawn - Start
+SCRIPT       : ExpansionRespawnHandlerModule::CloseSpawnMenu - Start
+SCRIPT       : ExpansionRespawnHandlerModule::CloseSpawnMenu - End
+SCRIPT       : ExpansionRespawnHandlerModule::Exec_SelectSpawn - End
+SCRIPT       : ExpansionRespawnHandlerModule::RPC_SelectSpawn - End
+SCRIPT       : 20:06:29.953 [EXPANSION DEBUG]: ItemBase::SendKnownUIDs ExpansionCodeLock<ed2abba0> (parent=ExpansionWallBase<ed85bba0>)
+SCRIPT       : ********* LoadStats loading version: 115
+SCRIPT       : LOAD checksum:-1825047751
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : ExpansionMonitorModule::OnInvokeConnect player : SurvivorBase<88401f10>
+SCRIPT       : 20:06:30.812 [EXPANSION DEBUG]: ItemBase::SendKnownUIDs ExpansionCodeLock<cb99b7d0> (parent=ExpansionWallBase<cb5e9c80>)
+SCRIPT       : 0.174
+SCRIPT       : 20:06:34.156 [EXPANSION DEBUG]: ItemBase::SendKnownUIDs ExpansionCodeLock<ce55cbc0> (parent=LargeTent<cd8ec740>)
+SCRIPT       : 0.174
+SCRIPT       : 20:06:36.867 [EXPANSION DEBUG]: ItemBase::SendKnownUIDs ExpansionCodeLock<ccb5e7f0> (parent=ExpansionWallBase<cb5ef720>)
+SCRIPT       : 0.174
+SCRIPT       : 20:06:38.984 [EXPANSION DEBUG]: ItemBase::AddUser ExpansionCodeLock<f2b32840> (parent=ExpansionWallBase<f25cbcf0>) Q6MFSYfEtitQtnu9Iq0OcwAqGt7pSanel1C63dFeg2E=
+SCRIPT       : 20:06:38.984 [EXPANSION DEBUG]: ItemBase::SendKnownUIDs ExpansionCodeLock<f2b32840> (parent=ExpansionWallBase<f25cbcf0>)
+SCRIPT       : 20:06:39.171 [EXPANSION DEBUG]: ItemBase::SendKnownUIDs ExpansionCodeLock<c9a7bca0> (parent=ExpansionWallBase<c7df6410>)
+SCRIPT       : 0.1745
+SCRIPT       : 20:06:42.718 [EXPANSION DEBUG]: ItemBase::SendKnownUIDs ExpansionCodeLock<cb99d810> (parent=ExpansionWallBase<cb5e5400>)
+SCRIPT       : 0.1745
+SCRIPT       : 0.175
+SCRIPT       : 0.175
+SCRIPT       : ********* LoadStats loading version: 115
+SCRIPT       : LOAD value:13632370
+SCRIPT       : LOAD id:55
+SCRIPT       : LOAD id_bit_offset:4
+SCRIPT       : LOAD food_stage:2
+SCRIPT       : LOAD value:22414196
+SCRIPT       : LOAD id:55
+SCRIPT       : LOAD id_bit_offset:4
+SCRIPT       : LOAD food_stage:4
+SCRIPT       : LOAD checksum:-1825047751
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : ExpansionMonitorModule::OnInvokeConnect player : SurvivorBase<883fa6f0>
+SCRIPT       : ********* LoadStats loading version: 115
+SCRIPT       : LOAD checksum:-1825047751
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : ExpansionMonitorModule::OnInvokeConnect player : SurvivorBase<88405b20>
+SCRIPT       : 0.1755
+SCRIPT       : 0.1755
+SCRIPT       : 0.176
+SCRIPT       : 0.176
+SCRIPT       : ********* LoadStats loading version: 115
+SCRIPT       : LOAD checksum:-1825047751
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : ExpansionMonitorModule::OnInvokeConnect player : SurvivorBase<88409730>
+SCRIPT       : 20:07:04.695 [EXPANSION DEBUG]: ItemBase::SendKnownUIDs ExpansionCodeLock<c388d3b0> (parent=ExpansionWallBase<c32ed9d0>)
+SCRIPT       : 0.176
+SCRIPT       : ExpansionRespawnHandlerModule::RPC_SelectSpawn - Start
+SCRIPT       : ExpansionRespawnHandlerModule::Exec_SelectSpawn - Start
+SCRIPT       : ExpansionRespawnHandlerModule::CloseSpawnMenu - Start
+SCRIPT       : ExpansionRespawnHandlerModule::CloseSpawnMenu - End
+SCRIPT       : ExpansionRespawnHandlerModule::Exec_SelectSpawn - End
+SCRIPT       : ExpansionRespawnHandlerModule::RPC_SelectSpawn - End
+SCRIPT       : [Logout]: New player fYEA1U9Nn53QK6SPMKzYvTjYqPaBE8vAmDBkm4JUJn0= with logout time 15
+SCRIPT       : [emote] SurvivorM_Seth:029 play emote id=14 IH=null
+SCRIPT       : 0.1765
+SCRIPT       : 20:07:09.890 [EXPANSION DEBUG]: ItemBase::SendKnownUIDs ExpansionSafeLarge<f2aa8c20> (parent=NULL)
+SCRIPT       : 0.1765
+SCRIPT       : 20:07:10.953 [EXPANSION DEBUG]: ItemBase::SendKnownUIDs ExpansionCodeLock<cb99d000> (parent=ExpansionWallBase<cb5e6620>)
+SCRIPT       : 20:07:13.484 [EXPANSION DEBUG]: ItemBase::SendKnownUIDs ExpansionCodeLock<cd480140> (parent=ExpansionWallBase<cb602b40>)
+SCRIPT       : 0.177
+SCRIPT       : SurvivorM_Quinn:010 STS=7924 event EEKilled, player has died at STS=7924
+SCRIPT       : EEKilled - processing corpse
+SCRIPT       : 0.177
+SCRIPT       : 0.1775
+SCRIPT       : [Logout]: Player fYEA1U9Nn53QK6SPMKzYvTjYqPaBE8vAmDBkm4JUJn0= finished
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : 0.1775
+SCRIPT       : ********* LoadStats loading version: 115
+SCRIPT       : LOAD checksum:-1825047751
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : ExpansionMonitorModule::OnInvokeConnect player : SurvivorBase<883f2ed0>
+SCRIPT       : 0.178
+SCRIPT       : ********* LoadStats loading version: 115
+SCRIPT       : LOAD checksum:-1825047751
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : ExpansionMonitorModule::OnInvokeConnect player : SurvivorBase<8841c380>
+SCRIPT       : 0.178
+SCRIPT       : ********* LoadStats loading version: 115
+SCRIPT       : LOAD checksum:-1825047751
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : ExpansionMonitorModule::OnInvokeConnect player : SurvivorBase<8841ff90>
+SCRIPT       : 0.1785
+SCRIPT       : 0.1785
+SCRIPT       : 0.1785
+SCRIPT       : ********* LoadStats loading version: 115
+SCRIPT       : LOAD checksum:-1825047751
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : ExpansionMonitorModule::OnInvokeConnect player : SurvivorBase<88410f50>
+SCRIPT       : 0.179
+SCRIPT       : ********* LoadStats loading version: 115
+SCRIPT       : LOAD checksum:-1825047751
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : ExpansionMonitorModule::OnInvokeConnect player : SurvivorBase<88418770>
+SCRIPT       : 0.179
+SCRIPT       : 0.1795
+SCRIPT       : 0.1795
+SCRIPT       : 0.18
+SCRIPT       : 20:07:55.554 [EXPANSION DEBUG]: ItemBase::SendKnownUIDs ExpansionCodeLock<cb2dbb00> (parent=ExpansionWallBase<c7e19f00>)
+SCRIPT       : 0.18
+SCRIPT       : 0.1805
+SCRIPT       : ExpansionRespawnHandlerModule::ShowSpawnSelection - Start
+SCRIPT       : ExpansionRespawnHandlerModule::ShowSpawnSelection - End
+SCRIPT       : ExpansionMonitorModule::OnInvokeConnect player : SurvivorBase<884277b0>
+SCRIPT       : 0.1805
+SCRIPT       : 0.1805
+SCRIPT       : ********* LoadStats loading version: 115
+SCRIPT       : LOAD checksum:-1825047751
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=0
+SCRIPT       : ExpansionMonitorModule::OnInvokeConnect player : SurvivorBase<8842b3c0>
+SCRIPT       : 0.181
+SCRIPT       : ********* LoadStats loading version: 115
+SCRIPT       : LOAD checksum:-1825047751
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : ExpansionMonitorModule::OnInvokeConnect player : SurvivorBase<8842efd0>
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=LoopedChamberingEjectLast<85da22e0> closes stable state=PumpShotgunEmpty<85663e60> id=1
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE id:55
+SCRIPT       : SAVE id_bit_offset:4
+SCRIPT       : SAVE write_result:6488946
+SCRIPT       : SAVE id:55
+SCRIPT       : SAVE id_bit_offset:4
+SCRIPT       : SAVE write_result:15270772
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponChargingInnerMag<820417b0> closes stable state=BARIMLoadedCharged<88c3a0a0> id=2
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : 0.181
+SCRIPT       : ExpansionRespawnHandlerModule::RPC_SelectSpawn - Start
+SCRIPT       : ExpansionRespawnHandlerModule::Exec_SelectSpawn - Start
+SCRIPT       : ExpansionRespawnHandlerModule::CloseSpawnMenu - Start
+SCRIPT       : ExpansionRespawnHandlerModule::CloseSpawnMenu - End
+SCRIPT       : ExpansionRespawnHandlerModule::Exec_SelectSpawn - End
+SCRIPT       : ExpansionRespawnHandlerModule::RPC_SelectSpawn - End
+SCRIPT       : ********* LoadStats loading version: 115
+SCRIPT       : LOAD checksum:-1825047751
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : ExpansionMonitorModule::OnInvokeConnect player : SurvivorBase<774e1d60>
+SCRIPT       : 0.1815
+SCRIPT       : ********* LoadStats loading version: 115
+SCRIPT       : LOAD checksum:-1825047751
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : ExpansionMonitorModule::OnInvokeConnect player : SurvivorBase<774d6930>
+SCRIPT       : [Logout]: New player 7MwFfIp7YhMHoiPmAqD0-UB9QUmEAyB5mwCcbRzlL6Q= with logout time 15
+SCRIPT       : [emote] SurvivorF_Naomi:042 play emote id=14 IH=AKM:046655
+SCRIPT       : ********* LoadStats loading version: 115
+SCRIPT       : LOAD checksum:-1825047751
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : ExpansionMonitorModule::OnInvokeConnect player : SurvivorBase<76586a80>
+SCRIPT       : 0.1815
+SCRIPT       : [Logout]: New player nHKsTmLT8V4NPmrdRohimsKJA301SEwdt_Ejf5JhB4k= with logout time 15
+SCRIPT       : 0.182
+SCRIPT       : 0.125
+SCRIPT       : 0.182
+SCRIPT       : 20:08:23.312 [EXPANSION DEBUG]: ItemBase::SendKnownUIDs ExpansionCodeLock<ea69cbb0> (parent=ExpansionWallBase<e90b9c80>)
+SCRIPT       : 0.125
+SCRIPT       : 0.1825
+SCRIPT       : 0.1255
+SCRIPT       : 0.1825
+SCRIPT       : 0.1255
+SCRIPT       : [Logout]: Player 7MwFfIp7YhMHoiPmAqD0-UB9QUmEAyB5mwCcbRzlL6Q= finished
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : 0.183
+SCRIPT       : 0.126
+SCRIPT       : [Logout]: Player nHKsTmLT8V4NPmrdRohimsKJA301SEwdt_Ejf5JhB4k= finished
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : 0.183
+SCRIPT       : 0.183
+SCRIPT       : 0.1835
+SCRIPT       : ********* LoadStats loading version: 115
+SCRIPT       : LOAD checksum:-1825047751
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : ExpansionMonitorModule::OnInvokeConnect player : SurvivorBase<76570220>
+SCRIPT       : 0.1835
+SCRIPT       : 20:08:45.992 [EXPANSION DEBUG]: ItemBase::SendKnownUIDs ExpansionCodeLock<b2218030> (parent=ExpansionWallBase<afdd4ce0>)
+SCRIPT       : 0.184
+SCRIPT       : 0.184
+SCRIPT       : ********* LoadStats loading version: 115
+SCRIPT       : LOAD checksum:-1825047751
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : ExpansionMonitorModule::OnInvokeConnect player : SurvivorBase<774d6930>
+SCRIPT       : 0.1845
+SCRIPT       : ********* LoadStats loading version: 115
+SCRIPT       : LOAD value:5636240
+SCRIPT       : LOAD id:9
+SCRIPT       : LOAD id_bit_offset:4
+SCRIPT       : LOAD food_stage:0
+SCRIPT       : LOAD checksum:-1825047751
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : ExpansionMonitorModule::OnInvokeConnect player : SurvivorBase<93a48330>
+SCRIPT       : 0.1845
+SCRIPT       : ********* LoadStats loading version: 115
+SCRIPT       : LOAD checksum:-1825047751
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : ExpansionMonitorModule::OnInvokeConnect player : SurvivorBase<93a53760>
+SCRIPT       : 0.185
+SCRIPT       : ********* LoadStats loading version: 115
+SCRIPT       : LOAD checksum:-1825047751
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : ExpansionMonitorModule::OnInvokeConnect player : SurvivorBase<93a4bf40>
+SCRIPT       : [Logout]: New player E26YqVBUc4-BgscX8pDFhvv8mR1aUzK4rDTppguh1wI= with logout time 15
+SCRIPT       : [emote] SurvivorM_Hassan:037 play emote id=14 IH=AK74:045698
+SCRIPT       : 0.185
+SCRIPT       : 0.185
+SCRIPT       : 0.1855
+SCRIPT       : 0.1855
+SCRIPT       : 0.186
+SCRIPT       : [Logout]: Player E26YqVBUc4-BgscX8pDFhvv8mR1aUzK4rDTppguh1wI= finished
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : 0.186
+SCRIPT       : 0.1865
+SCRIPT       : 20:09:21.875 [EXPANSION DEBUG]: ItemBase::SendKnownUIDs ExpansionCodeLock<e8dd1f30> (parent=ExpansionWallBase<e90cb570>)
+SCRIPT       : 0.1865
+SCRIPT       : ********* LoadStats loading version: 115
+SCRIPT       : LOAD checksum:-1825047751
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : ExpansionMonitorModule::OnInvokeConnect player : SurvivorBase<93a44720>
+SCRIPT       : 0.187
+SCRIPT       : ********* LoadStats loading version: 115
+SCRIPT       : LOAD checksum:-1825047751
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : ExpansionMonitorModule::OnInvokeConnect player : SurvivorBase<93a4fb50>
+SCRIPT       : 0.187
+SCRIPT       : [Logout]: New player aNFc1OKQoOOfiL7qW9ZL6y5NyWTXBDszE23X5EwGj1A= with logout time 15
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=SpaghettiCan:045691 parent=SurvivorM_Cyril:09 }
+SCRIPT       : 0.126
+SCRIPT       : 0.1875
+SCRIPT       : 20:09:32.695 [EXPANSION DEBUG]: ItemBase::SendKnownUIDs ExpansionCodeLock<bb90c070> (parent=ExpansionWallBase<b8c44430>)
+SCRIPT       : 0.126
+SCRIPT       : 0.1875
+SCRIPT       : 20:09:35.593 [EXPANSION DEBUG]: ItemBase::SendKnownUIDs ExpansionCodeLock<bb905fb0> (parent=ExpansionWallBase<b8c3e990>)
+SCRIPT       : 0.1265
+SCRIPT       : 0.1875
+SCRIPT       : 20:09:38.117 [EXPANSION DEBUG]: ItemBase::SendKnownUIDs ExpansionCodeLock<b05afc70> (parent=ExpansionWallBase<afe0c500>)
+SCRIPT       : 0.1265
+SCRIPT       : 0.188
+SCRIPT       : 0.127
+SCRIPT       : 0.188
+SCRIPT       : [Logout]: Player aNFc1OKQoOOfiL7qW9ZL6y5NyWTXBDszE23X5EwGj1A= finished
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : 0.127
+SCRIPT       : 0.1885
+SCRIPT       : 0.1275
+SCRIPT       : 0.1885
+SCRIPT       : 0.1275
+SCRIPT       : 0.189
+SCRIPT       : 0.128
+SCRIPT       : 0.189
+SCRIPT       : 20:09:57.953 [EXPANSION DEBUG]: ItemBase::SendKnownUIDs ExpansionCodeLock<b05af460> (parent=ExpansionWallBase<afe04620>)
+SCRIPT       : 0.128
+SCRIPT       : 0.1895
+SCRIPT       : 0.128
+SCRIPT       : 0.1895
+SCRIPT       : 0.1285
+SCRIPT       : 0.1895
+SCRIPT       : 0.1285
+SCRIPT       : 0.19
+SCRIPT       : 0.129
+SCRIPT       : 0.19
+SCRIPT       : ********* LoadStats loading version: 115
+SCRIPT       : LOAD checksum:-1825047751
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : ExpansionMonitorModule::OnInvokeConnect player : SurvivorBase<93a6dbd0>
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=TacticalBaconCan:044882 parent=SurvivorF_Frida:022 }
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=PeachesCan:044959 parent=SurvivorM_Seth:04 }
+SCRIPT       : ExpansionRespawnHandlerModule::ShowSpawnSelection - Start
+SCRIPT       : ExpansionRespawnHandlerModule::ShowSpawnSelection - End
+SCRIPT       : ExpansionMonitorModule::OnInvokeConnect player : SurvivorBase<93a753f0>
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=AmmoBox_380_35rnd:028039 parent=SurvivorM_Boris:045 }
+SCRIPT       : UnboxLambda::SetupNewMagazine new_item=Ammo_380<992e6970> count=35
+SCRIPT       : 0.129
+SCRIPT       : 0.1905
+SCRIPT       : 0.1295
+SCRIPT       : 0.1905
+SCRIPT       : [Logout]: New player INX-qeJ2ikqEcrOoUZa8opXP6TFtZpXGicdg-GHp-fg= with logout time 15
+SCRIPT       : string s =    'OnUnconsciousStart'
+SCRIPT       : string s =    'OnUnconsciousStop'
+SCRIPT       : string s =    'OnUnconsciousStart'
+SCRIPT       : 0.1295
+SCRIPT       : 0.191
+SCRIPT       : 0.13
+SCRIPT       : 0.191
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE id:19
+SCRIPT       : SAVE id_bit_offset:4
+SCRIPT       : SAVE write_result:10223920
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE id:21
+SCRIPT       : SAVE id_bit_offset:4
+SCRIPT       : SAVE write_result:13042000
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE id:20
+SCRIPT       : SAVE id_bit_offset:4
+SCRIPT       : SAVE write_result:7536960
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponReplacingMagAndChamberNext<6f0a3310> closes stable state=RBL_CLO_BU1_MA1<84fea5c0> id=3
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : 0.13
+SCRIPT       : 0.1915
+SCRIPT       : ********* LoadStats loading version: 115
+SCRIPT       : LOAD checksum:-1825047751
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : ExpansionMonitorModule::OnInvokeConnect player : SurvivorBase<93a5eb90>
+SCRIPT       : 20:10:27.039 [EXPANSION DEBUG]: ExpansionMissionModule::FindNewMission - selected Random_NWAF - weight: 54
+SCRIPT       : 20:10:27.039 [EXPANSION DEBUG]: [ExpansionMissionEventAirdrop] Adjusted container weights:
+SCRIPT       : 20:10:27.039 [EXPANSION DEBUG]: ExpansionAirdropContainer 150
+SCRIPT       : 20:10:27.039 [EXPANSION DEBUG]: ExpansionAirdropContainer_Medical 25
+SCRIPT       : 20:10:27.039 [EXPANSION DEBUG]: ExpansionAirdropContainer_Basebuilding 150
+SCRIPT       : 20:10:27.039 [EXPANSION DEBUG]: ExpansionAirdropContainer_Military 150
+SCRIPT       : 20:10:27.039 [EXPANSION DEBUG]: ExpansionAirdropContainer_Grey 25
+SCRIPT       : 20:10:27.039 [EXPANSION DEBUG]: [ExpansionMissionEventAirdrop] Random_NWAF - selected container: ExpansionAirdropContainer_Basebuilding
+SCRIPT       : 20:10:27.039 [EXPANSION DEBUG]: ExpansionAirdropPlane::GetSpawnPoint - map is ChernarusPlusGloom - size 15360
+SCRIPT       : 20:10:27.039 [EXPANSION DEBUG]: ExpansionAirdropPlane::GetSpawnPoint - selected spawn point <0.000000, 908.414063, 12920.082031>
+SCRIPT       : 0.1305
+SCRIPT       : 0.1915
+SCRIPT       : 0.1305
+SCRIPT       : 0.192
+SCRIPT       : [Logout]: Player INX-qeJ2ikqEcrOoUZa8opXP6TFtZpXGicdg-GHp-fg= finished
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : 0.1305
+SCRIPT       : 0.192
+SCRIPT       : 0.131
+SCRIPT       : 0.192
+SCRIPT       : string s =    'OnUnconsciousStop'
+SCRIPT       : 0.131
+SCRIPT       : 0.1925
+SCRIPT       : [Logout]: New player E26YqVBUc4-BgscX8pDFhvv8mR1aUzK4rDTppguh1wI= with logout time 15
+SCRIPT       : 0.1315
+SCRIPT       : 0.1925
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=AmmoBox_00buck_10rnd:048828 parent=SurvivorM_Seth:050 }
+SCRIPT       : UnboxLambda::SetupNewMagazine new_item=Ammo_12gaPellets<9961fa60> count=10
+SCRIPT       : 0.1315
+SCRIPT       : 0.193
+SCRIPT       : 0.132
+SCRIPT       : 0.193
+SCRIPT       : 0.132
+SCRIPT       : 0.1935
+SCRIPT       : 0.1325
+SCRIPT       : [Logout]: Player E26YqVBUc4-BgscX8pDFhvv8mR1aUzK4rDTppguh1wI= finished
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : 0.1935
+SCRIPT       : ********* LoadStats loading version: 115
+SCRIPT       : LOAD checksum:-1825047751
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : ExpansionMonitorModule::OnInvokeConnect player : SurvivorBase<8842efd0>
+SCRIPT       : ********* LoadStats loading version: 115
+SCRIPT       : LOAD checksum:-1825047751
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : ExpansionMonitorModule::OnInvokeConnect player : SurvivorBase<8841c380>
+SCRIPT       : ********* LoadStats loading version: 115
+SCRIPT       : LOAD checksum:-1825047751
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : ExpansionMonitorModule::OnInvokeConnect player : SurvivorBase<76586a80>
+SCRIPT       : 0.1325
+SCRIPT       : 0.194
+SCRIPT       : 0.1325
+SCRIPT       : 0.194
+SCRIPT       : [emote] SurvivorF_Linda:019 play emote id=10 IH=MassB52:039505
+SCRIPT       : 0.133
+SCRIPT       : 0.1945
+SCRIPT       : [emote] SurvivorF_Linda:019 play emote id=11 IH=MassB52:039505
+SCRIPT       : 0.133
+SCRIPT       : 0.1945
+SCRIPT       : 0.1335
+SCRIPT       : 0.1945
+SCRIPT    (E): 
+[wpnfsm] SurvivorM_Cyril:034 warning - pending event already posted, curr_event={ WpnEv id=LOAD1_BULLET pl=SurvivorM_Cyril:034 mag=Ammo_12gaPellets:048098 } new_event={ WpnEv id=LOAD1_BULLET pl=SurvivorM_Cyril:034 mag=Ammo_12gaPellets:048098 }
+Class:      'DayZPlayerInventory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:44
+scripts/4_World/systems\inventory\dayzplayerinventory.c:245
+scripts/4_World/classes\weapons\weaponmanager.c:743
+scripts/4_World/classes\weapons\weaponmanager.c:683
+scripts/4_World/classes\weapons\weaponmanager.c:356
+scripts/4_World/classes\useractionscomponent\actions\weapons\firearmactionloadmultibullet.c:166
+scripts/4_World/classes\useractionscomponent\actionmanagerserver.c:320
+scripts/4_World/entities\manbase\playerbase.c:2430
+SCRIPT    (E): 
+[wpnfsm] SurvivorM_Cyril:034 failed to perform weaponevent { WpnEv id=LOAD1_BULLET pl=SurvivorM_Cyril:034 mag=Ammo_12gaPellets:048098 } on SawedoffIzh43Shotgun:048101 which is in state DoubleBarrelLoadedLoaded<88c35a20> with physical state: J: false | Chamber_0: B(true) F(true) E(false) | Magazine_0: NULL | Chamber_1: B(true) F(true) E(false) | Magazine_1: NULL
+Class:      'DayZPlayerInventory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:44
+scripts/4_World/systems\inventory\dayzplayerinventory.c:269
+scripts/3_Game/tools\tools.c:600
+scripts/3_Game/tools\tools.c:289
+scripts/3_Game/tools\tools.c:404
+scripts/3_Game/dayzgame.c:2420
+CFTools/3_Game/game.c:72
+DayZExpansion/Core/3_Game/dayzexpansion_core\dayzgame.c:220
+SCRIPT       : ExpansionRespawnHandlerModule::RPC_SelectSpawn - Start
+SCRIPT       : ExpansionRespawnHandlerModule::Exec_SelectSpawn - Start
+SCRIPT       : ExpansionRespawnHandlerModule::CloseSpawnMenu - Start
+SCRIPT       : ExpansionRespawnHandlerModule::CloseSpawnMenu - End
+SCRIPT       : ExpansionRespawnHandlerModule::Exec_SelectSpawn - End
+SCRIPT       : ExpansionRespawnHandlerModule::RPC_SelectSpawn - End
+SCRIPT       : SurvivorF_Linda:019 STS=12383 event EEKilled, player has died at STS=12383
+SCRIPT       : EEKilled - processing corpse
+SCRIPT    (E): 
+[wpnfsm] SurvivorM_Cyril:034 warning - pending event already posted, curr_event={ WpnEv id=LOAD1_BULLET pl=SurvivorM_Cyril:034 mag=Ammo_12gaPellets:048098 } new_event={ WpnEv id=MECHANISM pl=SurvivorM_Cyril:034 mag=null }
+Class:      'DayZPlayerInventory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:44
+scripts/4_World/systems\inventory\dayzplayerinventory.c:245
+scripts/4_World/classes\weapons\weaponmanager.c:758
+scripts/4_World/classes\weapons\weaponmanager.c:683
+scripts/4_World/classes\weapons\weaponmanager.c:393
+scripts/4_World/classes\useractionscomponent\actions\weapons\firearmactionmechanicmanipulate.c:42
+scripts/4_World/classes\useractionscomponent\actionmanagerserver.c:320
+scripts/4_World/entities\manbase\playerbase.c:2430
+SCRIPT       : 0.1335
+SCRIPT    (E): 
+[wpnfsm] SurvivorM_Cyril:034 warning - pending event already posted, curr_event={ WpnEv id=LOAD1_BULLET pl=SurvivorM_Cyril:034 mag=Ammo_12gaPellets:048098 } new_event={ WpnEv id=MECHANISM pl=SurvivorM_Cyril:034 mag=null }
+Class:      'DayZPlayerInventory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:44
+scripts/4_World/systems\inventory\dayzplayerinventory.c:245
+scripts/4_World/classes\weapons\weaponmanager.c:758
+scripts/4_World/classes\weapons\weaponmanager.c:683
+scripts/4_World/classes\weapons\weaponmanager.c:393
+scripts/4_World/classes\useractionscomponent\actions\weapons\firearmactionmechanicmanipulate.c:42
+scripts/4_World/classes\useractionscomponent\actionmanagerserver.c:320
+scripts/4_World/entities\manbase\playerbase.c:2430
+SCRIPT       : 0.195
+SCRIPT    (E): 
+[wpnfsm] SurvivorM_Cyril:034 warning - pending event already posted, curr_event={ WpnEv id=LOAD1_BULLET pl=SurvivorM_Cyril:034 mag=Ammo_12gaPellets:048098 } new_event={ WpnEv id=MECHANISM pl=SurvivorM_Cyril:034 mag=null }
+Class:      'DayZPlayerInventory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:44
+scripts/4_World/systems\inventory\dayzplayerinventory.c:245
+scripts/4_World/classes\weapons\weaponmanager.c:758
+scripts/4_World/classes\weapons\weaponmanager.c:683
+scripts/4_World/classes\weapons\weaponmanager.c:393
+scripts/4_World/classes\useractionscomponent\actions\weapons\firearmactionmechanicmanipulate.c:42
+scripts/4_World/classes\useractionscomponent\actionmanagerserver.c:320
+scripts/4_World/entities\manbase\playerbase.c:2430
+SCRIPT    (E): 
+[wpnfsm] SurvivorM_Cyril:034 warning - pending event already posted, curr_event={ WpnEv id=LOAD1_BULLET pl=SurvivorM_Cyril:034 mag=Ammo_12gaPellets:048098 } new_event={ WpnEv id=MECHANISM pl=SurvivorM_Cyril:034 mag=null }
+Class:      'DayZPlayerInventory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:44
+scripts/4_World/systems\inventory\dayzplayerinventory.c:245
+scripts/4_World/classes\weapons\weaponmanager.c:758
+scripts/4_World/classes\weapons\weaponmanager.c:683
+scripts/4_World/classes\weapons\weaponmanager.c:393
+scripts/4_World/classes\useractionscomponent\actions\weapons\firearmactionmechanicmanipulate.c:42
+scripts/4_World/classes\useractionscomponent\actionmanagerserver.c:320
+scripts/4_World/entities\manbase\playerbase.c:2430
+SCRIPT    (E): 
+[wpnfsm] SurvivorM_Cyril:034 failed to perform weaponevent { WpnEv id=LOAD1_BULLET pl=SurvivorM_Cyril:034 mag=Ammo_12gaPellets:048098 } on SawedoffIzh43Shotgun:048101 which is in state DoubleBarrelLoadedLoaded<88c35a20> with physical state: J: false | Chamber_0: B(true) F(true) E(false) | Magazine_0: NULL | Chamber_1: B(true) F(true) E(false) | Magazine_1: NULL
+Class:      'DayZPlayerInventory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:44
+scripts/4_World/systems\inventory\dayzplayerinventory.c:269
+scripts/3_Game/tools\tools.c:600
+scripts/3_Game/tools\tools.c:289
+scripts/3_Game/tools\tools.c:404
+scripts/3_Game/dayzgame.c:2420
+CFTools/3_Game/game.c:72
+DayZExpansion/Core/3_Game/dayzexpansion_core\dayzgame.c:220
+SCRIPT       : 0.134
+SCRIPT       : 0.195
+SCRIPT    (E): 
+[wpnfsm] SurvivorM_Cyril:034 warning - pending event already posted, curr_event={ WpnEv id=LOAD1_BULLET pl=SurvivorM_Cyril:034 mag=Ammo_12gaPellets:048098 } new_event={ WpnEv id=LOAD1_BULLET pl=SurvivorM_Cyril:034 mag=Ammo_12gaPellets:048098 }
+Class:      'DayZPlayerInventory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:44
+scripts/4_World/systems\inventory\dayzplayerinventory.c:245
+scripts/4_World/classes\weapons\weaponmanager.c:743
+scripts/4_World/classes\weapons\weaponmanager.c:683
+scripts/4_World/classes\weapons\weaponmanager.c:356
+scripts/4_World/classes\useractionscomponent\actions\weapons\firearmactionloadmultibullet.c:166
+scripts/4_World/classes\useractionscomponent\actionmanagerserver.c:320
+scripts/4_World/entities\manbase\playerbase.c:2430
+SCRIPT       : [Logout]: New player Q6MFSYfEtitQtnu9Iq0OcwAqGt7pSanel1C63dFeg2E= with instant logout
+SCRIPT       : [Logout]: Player Q6MFSYfEtitQtnu9Iq0OcwAqGt7pSanel1C63dFeg2E= finished
+SCRIPT       : ==============================================WARNING=======================================================
+SCRIPT       : [WARNING 2021-04-30 20:11:14] ASSERTION NULL
+SCRIPT       : Do you see this message? Unless the time is within a second of the crash than this was not the cause.
+SCRIPT    (E):    -- Stack trace --
+SCRIPT    (E):    Assert_Log() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 289
+SCRIPT    (E):    Assert_Null() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 315
+SCRIPT    (E):    OnClientLogout() JM/COT/Scripts/4_World/communityonlinetools\classes\cotmodule.c : 343
+SCRIPT    (E):    OnClientLogout() JM/CF/Scripts/4_World/communityframework\module\jmmodulemanager.c : 478
+SCRIPT    (E):    OnClientDisconnectedEvent() JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c : 110
+SCRIPT    (E):    OnEvent() scripts/5_Mission/mission\missionserver.c : 209
+SCRIPT    (E):    OnEvent() JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c : 18
+SCRIPT    (E):    OnEvent() scripts/3_Game/dayzgame.c : 1355
+SCRIPT    (E):    -----------------
+SCRIPT       : ============================================================================================================
+SCRIPT       : 0.134
+SCRIPT       : 0.1955
+SCRIPT       : ==============================================WARNING=======================================================
+SCRIPT       : [WARNING 2021-04-30 20:11:18] ASSERTION NULL: Player has no identity or improperly programmed AI mod
+SCRIPT       : Do you see this message? Unless the time is within a second of the crash than this was not the cause.
+SCRIPT    (E):    -- Stack trace --
+SCRIPT    (E):    Assert_Log() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 289
+SCRIPT    (E):    Assert_Null() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 315
+SCRIPT    (E):    FormatSteamWebhook() JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c : 199
+SCRIPT    (E):    PlayerHitBy() JM/COT/Scripts/4_World/communityonlinetools\plugins\pluginadminlog.c : 114
+SCRIPT    (E):    EEHitBy() scripts/4_World/entities\manbase\playerbase.c : 665
+SCRIPT    (E):    EEHitBy() CFTools/4_World/playerbase.c : 108
+SCRIPT    (E):    EEHitBy() DayZExpansion/Scripts/4_World/dayzexpansion\entities\manbase\playerbase.c : 131
+SCRIPT    (E):    -----------------
+SCRIPT       : ============================================================================================================
+SCRIPT       : ==============================================WARNING=======================================================
+SCRIPT       : [WARNING 2021-04-30 20:11:18] ASSERTION NULL: Player has no identity or improperly programmed AI mod
+SCRIPT       : Do you see this message? Unless the time is within a second of the crash than this was not the cause.
+SCRIPT    (E):    -- Stack trace --
+SCRIPT    (E):    Assert_Log() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 289
+SCRIPT    (E):    Assert_Null() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 315
+SCRIPT    (E):    FormatSteamWebhook() JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c : 199
+SCRIPT    (E):    PlayerHitBy() JM/COT/Scripts/4_World/communityonlinetools\plugins\pluginadminlog.c : 114
+SCRIPT    (E):    EEHitBy() scripts/4_World/entities\manbase\playerbase.c : 665
+SCRIPT    (E):    EEHitBy() CFTools/4_World/playerbase.c : 108
+SCRIPT    (E):    EEHitBy() DayZExpansion/Scripts/4_World/dayzexpansion\entities\manbase\playerbase.c : 131
+SCRIPT    (E):    -----------------
+SCRIPT       : ============================================================================================================
+SCRIPT       : ==============================================WARNING=======================================================
+SCRIPT       : [WARNING 2021-04-30 20:11:18] ASSERTION NULL: Player has no identity or improperly programmed AI mod
+SCRIPT       : Do you see this message? Unless the time is within a second of the crash than this was not the cause.
+SCRIPT    (E):    -- Stack trace --
+SCRIPT    (E):    Assert_Log() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 289
+SCRIPT    (E):    Assert_Null() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 315
+SCRIPT    (E):    FormatSteamWebhook() JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c : 199
+SCRIPT    (E):    PlayerHitBy() JM/COT/Scripts/4_World/communityonlinetools\plugins\pluginadminlog.c : 114
+SCRIPT    (E):    EEHitBy() scripts/4_World/entities\manbase\playerbase.c : 665
+SCRIPT    (E):    EEHitBy() CFTools/4_World/playerbase.c : 108
+SCRIPT    (E):    EEHitBy() DayZExpansion/Scripts/4_World/dayzexpansion\entities\manbase\playerbase.c : 131
+SCRIPT    (E):    -----------------
+SCRIPT       : ============================================================================================================
+SCRIPT       : ==============================================WARNING=======================================================
+SCRIPT       : [WARNING 2021-04-30 20:11:18] ASSERTION NULL: Player has no identity or improperly programmed AI mod
+SCRIPT       : Do you see this message? Unless the time is within a second of the crash than this was not the cause.
+SCRIPT    (E):    -- Stack trace --
+SCRIPT    (E):    Assert_Log() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 289
+SCRIPT    (E):    Assert_Null() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 315
+SCRIPT    (E):    FormatSteamWebhook() JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c : 199
+SCRIPT    (E):    PlayerHitBy() JM/COT/Scripts/4_World/communityonlinetools\plugins\pluginadminlog.c : 114
+SCRIPT    (E):    EEHitBy() scripts/4_World/entities\manbase\playerbase.c : 665
+SCRIPT    (E):    EEHitBy() CFTools/4_World/playerbase.c : 108
+SCRIPT    (E):    EEHitBy() DayZExpansion/Scripts/4_World/dayzexpansion\entities\manbase\playerbase.c : 131
+SCRIPT    (E):    -----------------
+SCRIPT       : ============================================================================================================
+SCRIPT       : 20:11:21.757 [EXPANSION DEBUG]: ItemBase::SendKnownUIDs ExpansionCodeLock<aff7ab60> (parent=ExpansionWallBase<afdfeb80>)
+SCRIPT       : ==============================================WARNING=======================================================
+SCRIPT       : [WARNING 2021-04-30 20:11:18] ASSERTION NULL: Player has no identity or improperly programmed AI mod
+SCRIPT       : Do you see this message? Unless the time is within a second of the crash than this was not the cause.
+SCRIPT    (E):    -- Stack trace --
+SCRIPT    (E):    Assert_Log() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 289
+SCRIPT    (E):    Assert_Null() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 315
+SCRIPT    (E):    FormatSteamWebhook() JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c : 199
+SCRIPT    (E):    PlayerHitBy() JM/COT/Scripts/4_World/communityonlinetools\plugins\pluginadminlog.c : 114
+SCRIPT    (E):    EEHitBy() scripts/4_World/entities\manbase\playerbase.c : 665
+SCRIPT    (E):    EEHitBy() CFTools/4_World/playerbase.c : 108
+SCRIPT    (E):    EEHitBy() DayZExpansion/Scripts/4_World/dayzexpansion\entities\manbase\playerbase.c : 131
+SCRIPT    (E):    -----------------
+SCRIPT       : ============================================================================================================
+SCRIPT       : ==============================================WARNING=======================================================
+SCRIPT       : [WARNING 2021-04-30 20:11:18] ASSERTION NULL: Player has no identity or improperly programmed AI mod
+SCRIPT       : Do you see this message? Unless the time is within a second of the crash than this was not the cause.
+SCRIPT    (E):    -- Stack trace --
+SCRIPT    (E):    Assert_Log() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 289
+SCRIPT    (E):    Assert_Null() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 315
+SCRIPT    (E):    FormatSteamWebhook() JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c : 199
+SCRIPT    (E):    PlayerHitBy() JM/COT/Scripts/4_World/communityonlinetools\plugins\pluginadminlog.c : 114
+SCRIPT    (E):    EEHitBy() scripts/4_World/entities\manbase\playerbase.c : 665
+SCRIPT    (E):    EEHitBy() CFTools/4_World/playerbase.c : 108
+SCRIPT    (E):    EEHitBy() DayZExpansion/Scripts/4_World/dayzexpansion\entities\manbase\playerbase.c : 131
+SCRIPT    (E):    -----------------
+SCRIPT       : ============================================================================================================
+SCRIPT       : ==============================================WARNING=======================================================
+SCRIPT       : [WARNING 2021-04-30 20:11:19] ASSERTION NULL: Player has no identity or improperly programmed AI mod
+SCRIPT       : Do you see this message? Unless the time is within a second of the crash than this was not the cause.
+SCRIPT    (E):    -- Stack trace --
+SCRIPT    (E):    Assert_Log() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 289
+SCRIPT    (E):    Assert_Null() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 315
+SCRIPT    (E):    FormatSteamWebhook() JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c : 199
+SCRIPT    (E):    PlayerHitBy() JM/COT/Scripts/4_World/communityonlinetools\plugins\pluginadminlog.c : 114
+SCRIPT    (E):    EEHitBy() scripts/4_World/entities\manbase\playerbase.c : 665
+SCRIPT    (E):    EEHitBy() CFTools/4_World/playerbase.c : 108
+SCRIPT    (E):    EEHitBy() DayZExpansion/Scripts/4_World/dayzexpansion\entities\manbase\playerbase.c : 131
+SCRIPT    (E):    -----------------
+SCRIPT       : ============================================================================================================
+SCRIPT       : ==============================================WARNING=======================================================
+SCRIPT       : [WARNING 2021-04-30 20:11:19] ASSERTION NULL: Player has no identity or improperly programmed AI mod
+SCRIPT       : Do you see this message? Unless the time is within a second of the crash than this was not the cause.
+SCRIPT    (E):    -- Stack trace --
+SCRIPT    (E):    Assert_Log() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 289
+SCRIPT    (E):    Assert_Null() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 315
+SCRIPT    (E):    FormatSteamWebhook() JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c : 199
+SCRIPT    (E):    PlayerHitBy() JM/COT/Scripts/4_World/communityonlinetools\plugins\pluginadminlog.c : 114
+SCRIPT    (E):    EEHitBy() scripts/4_World/entities\manbase\playerbase.c : 665
+SCRIPT    (E):    EEHitBy() CFTools/4_World/playerbase.c : 108
+SCRIPT    (E):    EEHitBy() DayZExpansion/Scripts/4_World/dayzexpansion\entities\manbase\playerbase.c : 131
+SCRIPT    (E):    -----------------
+SCRIPT       : ============================================================================================================
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=AmmoBox_9x19_25rnd:044838 parent=SurvivorM_Mirek:036 }
+SCRIPT       : UnboxLambda::SetupNewMagazine new_item=Ammo_9x19<9c504500> count=25
+SCRIPT       : 0.1345
+SCRIPT       : ==============================================WARNING=======================================================
+SCRIPT       : [WARNING 2021-04-30 20:11:19] ASSERTION NULL: Player has no identity or improperly programmed AI mod
+SCRIPT       : Do you see this message? Unless the time is within a second of the crash than this was not the cause.
+SCRIPT    (E):    -- Stack trace --
+SCRIPT    (E):    Assert_Log() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 289
+SCRIPT    (E):    Assert_Null() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 315
+SCRIPT    (E):    FormatSteamWebhook() JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c : 199
+SCRIPT    (E):    PlayerHitBy() JM/COT/Scripts/4_World/communityonlinetools\plugins\pluginadminlog.c : 114
+SCRIPT    (E):    EEHitBy() scripts/4_World/entities\manbase\playerbase.c : 665
+SCRIPT    (E):    EEHitBy() CFTools/4_World/playerbase.c : 108
+SCRIPT    (E):    EEHitBy() DayZExpansion/Scripts/4_World/dayzexpansion\entities\manbase\playerbase.c : 131
+SCRIPT    (E):    -----------------
+SCRIPT       : ============================================================================================================
+SCRIPT       : ==============================================WARNING=======================================================
+SCRIPT       : [WARNING 2021-04-30 20:11:19] ASSERTION NULL: Player has no identity or improperly programmed AI mod
+SCRIPT       : Do you see this message? Unless the time is within a second of the crash than this was not the cause.
+SCRIPT    (E):    -- Stack trace --
+SCRIPT    (E):    Assert_Log() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 289
+SCRIPT    (E):    Assert_Null() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 315
+SCRIPT    (E):    FormatSteamWebhook() JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c : 199
+SCRIPT    (E):    PlayerHitBy() JM/COT/Scripts/4_World/communityonlinetools\plugins\pluginadminlog.c : 114
+SCRIPT    (E):    EEHitBy() scripts/4_World/entities\manbase\playerbase.c : 665
+SCRIPT    (E):    EEHitBy() CFTools/4_World/playerbase.c : 108
+SCRIPT    (E):    EEHitBy() DayZExpansion/Scripts/4_World/dayzexpansion\entities\manbase\playerbase.c : 131
+SCRIPT    (E):    -----------------
+SCRIPT       : ============================================================================================================
+SCRIPT       : 0.1955
+SCRIPT       : ==============================================WARNING=======================================================
+SCRIPT       : [WARNING 2021-04-30 20:11:19] ASSERTION NULL: Player has no identity or improperly programmed AI mod
+SCRIPT       : Do you see this message? Unless the time is within a second of the crash than this was not the cause.
+SCRIPT    (E):    -- Stack trace --
+SCRIPT    (E):    Assert_Log() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 289
+SCRIPT    (E):    Assert_Null() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 315
+SCRIPT    (E):    FormatSteamWebhook() JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c : 199
+SCRIPT    (E):    PlayerHitBy() JM/COT/Scripts/4_World/communityonlinetools\plugins\pluginadminlog.c : 114
+SCRIPT    (E):    EEHitBy() scripts/4_World/entities\manbase\playerbase.c : 665
+SCRIPT    (E):    EEHitBy() CFTools/4_World/playerbase.c : 108
+SCRIPT    (E):    EEHitBy() DayZExpansion/Scripts/4_World/dayzexpansion\entities\manbase\playerbase.c : 131
+SCRIPT    (E):    -----------------
+SCRIPT       : ============================================================================================================
+SCRIPT       : ==============================================WARNING=======================================================
+SCRIPT       : [WARNING 2021-04-30 20:11:19] ASSERTION NULL: Player has no identity or improperly programmed AI mod
+SCRIPT       : Do you see this message? Unless the time is within a second of the crash than this was not the cause.
+SCRIPT    (E):    -- Stack trace --
+SCRIPT    (E):    Assert_Log() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 289
+SCRIPT    (E):    Assert_Null() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 315
+SCRIPT    (E):    FormatSteamWebhook() JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c : 199
+SCRIPT    (E):    PlayerHitBy() JM/COT/Scripts/4_World/communityonlinetools\plugins\pluginadminlog.c : 114
+SCRIPT    (E):    EEHitBy() scripts/4_World/entities\manbase\playerbase.c : 665
+SCRIPT    (E):    EEHitBy() CFTools/4_World/playerbase.c : 108
+SCRIPT    (E):    EEHitBy() DayZExpansion/Scripts/4_World/dayzexpansion\entities\manbase\playerbase.c : 131
+SCRIPT    (E):    -----------------
+SCRIPT       : ============================================================================================================
+SCRIPT       : ==============================================WARNING=======================================================
+SCRIPT       : [WARNING 2021-04-30 20:11:20] ASSERTION NULL: Player has no identity or improperly programmed AI mod
+SCRIPT       : Do you see this message? Unless the time is within a second of the crash than this was not the cause.
+SCRIPT    (E):    -- Stack trace --
+SCRIPT    (E):    Assert_Log() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 289
+SCRIPT    (E):    Assert_Null() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 315
+SCRIPT    (E):    FormatSteamWebhook() JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c : 199
+SCRIPT    (E):    PlayerHitBy() JM/COT/Scripts/4_World/communityonlinetools\plugins\pluginadminlog.c : 114
+SCRIPT    (E):    EEHitBy() scripts/4_World/entities\manbase\playerbase.c : 665
+SCRIPT    (E):    EEHitBy() CFTools/4_World/playerbase.c : 108
+SCRIPT    (E):    EEHitBy() DayZExpansion/Scripts/4_World/dayzexpansion\entities\manbase\playerbase.c : 131
+SCRIPT    (E):    -----------------
+SCRIPT       : ============================================================================================================
+SCRIPT       : ==============================================WARNING=======================================================
+SCRIPT       : [WARNING 2021-04-30 20:11:21] ASSERTION NULL: Player has no identity or improperly programmed AI mod
+SCRIPT       : Do you see this message? Unless the time is within a second of the crash than this was not the cause.
+SCRIPT    (E):    -- Stack trace --
+SCRIPT    (E):    Assert_Log() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 289
+SCRIPT    (E):    Assert_Null() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 315
+SCRIPT    (E):    FormatSteamWebhook() JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c : 199
+SCRIPT    (E):    PlayerHitBy() JM/COT/Scripts/4_World/communityonlinetools\plugins\pluginadminlog.c : 114
+SCRIPT    (E):    EEHitBy() scripts/4_World/entities\manbase\playerbase.c : 665
+SCRIPT    (E):    EEHitBy() CFTools/4_World/playerbase.c : 108
+SCRIPT    (E):    EEHitBy() DayZExpansion/Scripts/4_World/dayzexpansion\entities\manbase\playerbase.c : 131
+SCRIPT    (E):    -----------------
+SCRIPT       : ============================================================================================================
+SCRIPT       : ==============================================WARNING=======================================================
+SCRIPT       : [WARNING 2021-04-30 20:11:21] ASSERTION NULL: Player has no identity or improperly programmed AI mod
+SCRIPT       : Do you see this message? Unless the time is within a second of the crash than this was not the cause.
+SCRIPT    (E):    -- Stack trace --
+SCRIPT    (E):    Assert_Log() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 289
+SCRIPT    (E):    Assert_Null() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 315
+SCRIPT    (E):    FormatSteamWebhook() JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c : 199
+SCRIPT    (E):    PlayerHitBy() JM/COT/Scripts/4_World/communityonlinetools\plugins\pluginadminlog.c : 114
+SCRIPT    (E):    EEHitBy() scripts/4_World/entities\manbase\playerbase.c : 665
+SCRIPT    (E):    EEHitBy() CFTools/4_World/playerbase.c : 108
+SCRIPT    (E):    EEHitBy() DayZExpansion/Scripts/4_World/dayzexpansion\entities\manbase\playerbase.c : 131
+SCRIPT    (E):    -----------------
+SCRIPT       : ============================================================================================================
+SCRIPT       : ==============================================WARNING=======================================================
+SCRIPT       : [WARNING 2021-04-30 20:11:21] ASSERTION NULL: Player has no identity or improperly programmed AI mod
+SCRIPT       : Do you see this message? Unless the time is within a second of the crash than this was not the cause.
+SCRIPT    (E):    -- Stack trace --
+SCRIPT    (E):    Assert_Log() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 289
+SCRIPT    (E):    Assert_Null() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 315
+SCRIPT    (E):    FormatSteamWebhook() JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c : 199
+SCRIPT    (E):    PlayerHitBy() JM/COT/Scripts/4_World/communityonlinetools\plugins\pluginadminlog.c : 114
+SCRIPT    (E):    EEHitBy() scripts/4_World/entities\manbase\playerbase.c : 665
+SCRIPT    (E):    EEHitBy() CFTools/4_World/playerbase.c : 108
+SCRIPT    (E):    EEHitBy() DayZExpansion/Scripts/4_World/dayzexpansion\entities\manbase\playerbase.c : 131
+SCRIPT    (E):    -----------------
+SCRIPT       : ============================================================================================================
+SCRIPT       : ==============================================WARNING=======================================================
+SCRIPT       : [WARNING 2021-04-30 20:11:21] ASSERTION NULL: Player has no identity or improperly programmed AI mod
+SCRIPT       : Do you see this message? Unless the time is within a second of the crash than this was not the cause.
+SCRIPT    (E):    -- Stack trace --
+SCRIPT    (E):    Assert_Log() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 289
+SCRIPT    (E):    Assert_Null() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 315
+SCRIPT    (E):    FormatSteamWebhook() JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c : 199
+SCRIPT    (E):    PlayerHitBy() JM/COT/Scripts/4_World/communityonlinetools\plugins\pluginadminlog.c : 114
+SCRIPT    (E):    EEHitBy() scripts/4_World/entities\manbase\playerbase.c : 665
+SCRIPT    (E):    EEHitBy() CFTools/4_World/playerbase.c : 108
+SCRIPT    (E):    EEHitBy() DayZExpansion/Scripts/4_World/dayzexpansion\entities\manbase\playerbase.c : 131
+SCRIPT    (E):    -----------------
+SCRIPT       : ============================================================================================================
+SCRIPT       : ==============================================WARNING=======================================================
+SCRIPT       : [WARNING 2021-04-30 20:11:22] ASSERTION NULL: Player has no identity or improperly programmed AI mod
+SCRIPT       : Do you see this message? Unless the time is within a second of the crash than this was not the cause.
+SCRIPT    (E):    -- Stack trace --
+SCRIPT    (E):    Assert_Log() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 289
+SCRIPT    (E):    Assert_Null() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 315
+SCRIPT    (E):    FormatSteamWebhook() JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c : 199
+SCRIPT    (E):    PlayerHitBy() JM/COT/Scripts/4_World/communityonlinetools\plugins\pluginadminlog.c : 114
+SCRIPT    (E):    EEHitBy() scripts/4_World/entities\manbase\playerbase.c : 665
+SCRIPT    (E):    EEHitBy() CFTools/4_World/playerbase.c : 108
+SCRIPT    (E):    EEHitBy() DayZExpansion/Scripts/4_World/dayzexpansion\entities\manbase\playerbase.c : 131
+SCRIPT    (E):    -----------------
+SCRIPT       : ============================================================================================================
+SCRIPT       : ==============================================WARNING=======================================================
+SCRIPT       : [WARNING 2021-04-30 20:11:22] ASSERTION NULL: Player has no identity or improperly programmed AI mod
+SCRIPT       : Do you see this message? Unless the time is within a second of the crash than this was not the cause.
+SCRIPT    (E):    -- Stack trace --
+SCRIPT    (E):    Assert_Log() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 289
+SCRIPT    (E):    Assert_Null() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 315
+SCRIPT    (E):    FormatSteamWebhook() JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c : 199
+SCRIPT    (E):    PlayerHitBy() JM/COT/Scripts/4_World/communityonlinetools\plugins\pluginadminlog.c : 114
+SCRIPT    (E):    EEHitBy() scripts/4_World/entities\manbase\playerbase.c : 665
+SCRIPT    (E):    EEHitBy() CFTools/4_World/playerbase.c : 108
+SCRIPT    (E):    EEHitBy() DayZExpansion/Scripts/4_World/dayzexpansion\entities\manbase\playerbase.c : 131
+SCRIPT    (E):    -----------------
+SCRIPT       : ============================================================================================================
+SCRIPT       : ==============================================WARNING=======================================================
+SCRIPT       : [WARNING 2021-04-30 20:11:22] ASSERTION NULL: Player has no identity or improperly programmed AI mod
+SCRIPT       : Do you see this message? Unless the time is within a second of the crash than this was not the cause.
+SCRIPT    (E):    -- Stack trace --
+SCRIPT    (E):    Assert_Log() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 289
+SCRIPT    (E):    Assert_Null() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 315
+SCRIPT    (E):    FormatSteamWebhook() JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c : 199
+SCRIPT    (E):    PlayerHitBy() JM/COT/Scripts/4_World/communityonlinetools\plugins\pluginadminlog.c : 114
+SCRIPT    (E):    EEHitBy() scripts/4_World/entities\manbase\playerbase.c : 665
+SCRIPT    (E):    EEHitBy() CFTools/4_World/playerbase.c : 108
+SCRIPT    (E):    EEHitBy() DayZExpansion/Scripts/4_World/dayzexpansion\entities\manbase\playerbase.c : 131
+SCRIPT    (E):    -----------------
+SCRIPT       : ============================================================================================================
+SCRIPT       : ==============================================WARNING=======================================================
+SCRIPT       : [WARNING 2021-04-30 20:11:22] ASSERTION NULL: Player has no identity or improperly programmed AI mod
+SCRIPT       : Do you see this message? Unless the time is within a second of the crash than this was not the cause.
+SCRIPT    (E):    -- Stack trace --
+SCRIPT    (E):    Assert_Log() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 289
+SCRIPT    (E):    Assert_Null() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 315
+SCRIPT    (E):    FormatSteamWebhook() JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c : 199
+SCRIPT    (E):    PlayerHitBy() JM/COT/Scripts/4_World/communityonlinetools\plugins\pluginadminlog.c : 114
+SCRIPT    (E):    EEHitBy() scripts/4_World/entities\manbase\playerbase.c : 665
+SCRIPT    (E):    EEHitBy() CFTools/4_World/playerbase.c : 108
+SCRIPT    (E):    EEHitBy() DayZExpansion/Scripts/4_World/dayzexpansion\entities\manbase\playerbase.c : 131
+SCRIPT    (E):    -----------------
+SCRIPT       : ============================================================================================================
+SCRIPT       : ==============================================WARNING=======================================================
+SCRIPT       : [WARNING 2021-04-30 20:11:22] ASSERTION NULL: Player has no identity or improperly programmed AI mod
+SCRIPT       : Do you see this message? Unless the time is within a second of the crash than this was not the cause.
+SCRIPT    (E):    -- Stack trace --
+SCRIPT    (E):    Assert_Log() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 289
+SCRIPT    (E):    Assert_Null() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 315
+SCRIPT    (E):    FormatSteamWebhook() JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c : 199
+SCRIPT    (E):    PlayerHitBy() JM/COT/Scripts/4_World/communityonlinetools\plugins\pluginadminlog.c : 114
+SCRIPT    (E):    EEHitBy() scripts/4_World/entities\manbase\playerbase.c : 665
+SCRIPT    (E):    EEHitBy() CFTools/4_World/playerbase.c : 108
+SCRIPT    (E):    EEHitBy() DayZExpansion/Scripts/4_World/dayzexpansion\entities\manbase\playerbase.c : 131
+SCRIPT    (E):    -----------------
+SCRIPT       : ============================================================================================================
+SCRIPT       : 0.1345
+SCRIPT       : ==============================================WARNING=======================================================
+SCRIPT       : [WARNING 2021-04-30 20:11:22] ASSERTION NULL: Player has no identity or improperly programmed AI mod
+SCRIPT       : Do you see this message? Unless the time is within a second of the crash than this was not the cause.
+SCRIPT    (E):    -- Stack trace --
+SCRIPT    (E):    Assert_Log() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 289
+SCRIPT    (E):    Assert_Null() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 315
+SCRIPT    (E):    FormatSteamWebhook() JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c : 199
+SCRIPT    (E):    PlayerHitBy() JM/COT/Scripts/4_World/communityonlinetools\plugins\pluginadminlog.c : 114
+SCRIPT    (E):    EEHitBy() scripts/4_World/entities\manbase\playerbase.c : 665
+SCRIPT    (E):    EEHitBy() CFTools/4_World/playerbase.c : 108
+SCRIPT    (E):    EEHitBy() DayZExpansion/Scripts/4_World/dayzexpansion\entities\manbase\playerbase.c : 131
+SCRIPT    (E):    -----------------
+SCRIPT       : ============================================================================================================
+SCRIPT       : ==============================================WARNING=======================================================
+SCRIPT       : [WARNING 2021-04-30 20:11:22] ASSERTION NULL: Player has no identity or improperly programmed AI mod
+SCRIPT       : Do you see this message? Unless the time is within a second of the crash than this was not the cause.
+SCRIPT    (E):    -- Stack trace --
+SCRIPT    (E):    Assert_Log() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 289
+SCRIPT    (E):    Assert_Null() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 315
+SCRIPT    (E):    FormatSteamWebhook() JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c : 199
+SCRIPT    (E):    PlayerHitBy() JM/COT/Scripts/4_World/communityonlinetools\plugins\pluginadminlog.c : 114
+SCRIPT    (E):    EEHitBy() scripts/4_World/entities\manbase\playerbase.c : 665
+SCRIPT    (E):    EEHitBy() CFTools/4_World/playerbase.c : 108
+SCRIPT    (E):    EEHitBy() DayZExpansion/Scripts/4_World/dayzexpansion\entities\manbase\playerbase.c : 131
+SCRIPT    (E):    -----------------
+SCRIPT       : ============================================================================================================
+SCRIPT       : 0.196
+SCRIPT       : ==============================================WARNING=======================================================
+SCRIPT       : [WARNING 2021-04-30 20:11:22] ASSERTION NULL: Player has no identity or improperly programmed AI mod
+SCRIPT       : Do you see this message? Unless the time is within a second of the crash than this was not the cause.
+SCRIPT    (E):    -- Stack trace --
+SCRIPT    (E):    Assert_Log() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 289
+SCRIPT    (E):    Assert_Null() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 315
+SCRIPT    (E):    FormatSteamWebhook() JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c : 199
+SCRIPT    (E):    PlayerHitBy() JM/COT/Scripts/4_World/communityonlinetools\plugins\pluginadminlog.c : 114
+SCRIPT    (E):    EEHitBy() scripts/4_World/entities\manbase\playerbase.c : 665
+SCRIPT    (E):    EEHitBy() CFTools/4_World/playerbase.c : 108
+SCRIPT    (E):    EEHitBy() DayZExpansion/Scripts/4_World/dayzexpansion\entities\manbase\playerbase.c : 131
+SCRIPT    (E):    -----------------
+SCRIPT       : ============================================================================================================
+SCRIPT       : ==============================================WARNING=======================================================
+SCRIPT       : [WARNING 2021-04-30 20:11:23] ASSERTION NULL: Player has no identity or improperly programmed AI mod
+SCRIPT       : Do you see this message? Unless the time is within a second of the crash than this was not the cause.
+SCRIPT    (E):    -- Stack trace --
+SCRIPT    (E):    Assert_Log() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 289
+SCRIPT    (E):    Assert_Null() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 315
+SCRIPT    (E):    FormatSteamWebhook() JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c : 199
+SCRIPT    (E):    PlayerHitBy() JM/COT/Scripts/4_World/communityonlinetools\plugins\pluginadminlog.c : 114
+SCRIPT    (E):    EEHitBy() scripts/4_World/entities\manbase\playerbase.c : 665
+SCRIPT    (E):    EEHitBy() CFTools/4_World/playerbase.c : 108
+SCRIPT    (E):    EEHitBy() DayZExpansion/Scripts/4_World/dayzexpansion\entities\manbase\playerbase.c : 131
+SCRIPT    (E):    -----------------
+SCRIPT       : ============================================================================================================
+SCRIPT       : ==============================================WARNING=======================================================
+SCRIPT       : [WARNING 2021-04-30 20:11:23] ASSERTION NULL: Player has no identity or improperly programmed AI mod
+SCRIPT       : Do you see this message? Unless the time is within a second of the crash than this was not the cause.
+SCRIPT    (E):    -- Stack trace --
+SCRIPT    (E):    Assert_Log() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 289
+SCRIPT    (E):    Assert_Null() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 315
+SCRIPT    (E):    FormatSteamWebhook() JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c : 199
+SCRIPT    (E):    PlayerHitBy() JM/COT/Scripts/4_World/communityonlinetools\plugins\pluginadminlog.c : 114
+SCRIPT    (E):    EEHitBy() scripts/4_World/entities\manbase\playerbase.c : 665
+SCRIPT    (E):    EEHitBy() CFTools/4_World/playerbase.c : 108
+SCRIPT    (E):    EEHitBy() DayZExpansion/Scripts/4_World/dayzexpansion\entities\manbase\playerbase.c : 131
+SCRIPT    (E):    -----------------
+SCRIPT       : ============================================================================================================
+SCRIPT       : ==============================================WARNING=======================================================
+SCRIPT       : [WARNING 2021-04-30 20:11:23] ASSERTION NULL: Player has no identity or improperly programmed AI mod
+SCRIPT       : Do you see this message? Unless the time is within a second of the crash than this was not the cause.
+SCRIPT    (E):    -- Stack trace --
+SCRIPT    (E):    Assert_Log() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 289
+SCRIPT    (E):    Assert_Null() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 315
+SCRIPT    (E):    FormatSteamWebhook() JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c : 199
+SCRIPT    (E):    PlayerHitBy() JM/COT/Scripts/4_World/communityonlinetools\plugins\pluginadminlog.c : 114
+SCRIPT    (E):    EEHitBy() scripts/4_World/entities\manbase\playerbase.c : 665
+SCRIPT    (E):    EEHitBy() CFTools/4_World/playerbase.c : 108
+SCRIPT    (E):    EEHitBy() DayZExpansion/Scripts/4_World/dayzexpansion\entities\manbase\playerbase.c : 131
+SCRIPT    (E):    -----------------
+SCRIPT       : ============================================================================================================
+SCRIPT       : ==============================================WARNING=======================================================
+SCRIPT       : [WARNING 2021-04-30 20:11:23] ASSERTION NULL: Player has no identity or improperly programmed AI mod
+SCRIPT       : Do you see this message? Unless the time is within a second of the crash than this was not the cause.
+SCRIPT    (E):    -- Stack trace --
+SCRIPT    (E):    Assert_Log() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 289
+SCRIPT    (E):    Assert_Null() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 315
+SCRIPT    (E):    FormatSteamWebhook() JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c : 199
+SCRIPT    (E):    PlayerHitBy() JM/COT/Scripts/4_World/communityonlinetools\plugins\pluginadminlog.c : 114
+SCRIPT    (E):    EEHitBy() scripts/4_World/entities\manbase\playerbase.c : 665
+SCRIPT    (E):    EEHitBy() CFTools/4_World/playerbase.c : 108
+SCRIPT    (E):    EEHitBy() DayZExpansion/Scripts/4_World/dayzexpansion\entities\manbase\playerbase.c : 131
+SCRIPT    (E):    -----------------
+SCRIPT       : ============================================================================================================
+SCRIPT       : ==============================================WARNING=======================================================
+SCRIPT       : [WARNING 2021-04-30 20:11:24] ASSERTION NULL: Player has no identity or improperly programmed AI mod
+SCRIPT       : Do you see this message? Unless the time is within a second of the crash than this was not the cause.
+SCRIPT    (E):    -- Stack trace --
+SCRIPT    (E):    Assert_Log() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 289
+SCRIPT    (E):    Assert_Null() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 315
+SCRIPT    (E):    FormatSteamWebhook() JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c : 199
+SCRIPT    (E):    PlayerHitBy() JM/COT/Scripts/4_World/communityonlinetools\plugins\pluginadminlog.c : 114
+SCRIPT    (E):    EEHitBy() scripts/4_World/entities\manbase\playerbase.c : 665
+SCRIPT    (E):    EEHitBy() CFTools/4_World/playerbase.c : 108
+SCRIPT    (E):    EEHitBy() DayZExpansion/Scripts/4_World/dayzexpansion\entities\manbase\playerbase.c : 131
+SCRIPT    (E):    -----------------
+SCRIPT       : ============================================================================================================
+SCRIPT       : ==============================================WARNING=======================================================
+SCRIPT       : [WARNING 2021-04-30 20:11:24] ASSERTION NULL: Player has no identity or improperly programmed AI mod
+SCRIPT       : Do you see this message? Unless the time is within a second of the crash than this was not the cause.
+SCRIPT    (E):    -- Stack trace --
+SCRIPT    (E):    Assert_Log() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 289
+SCRIPT    (E):    Assert_Null() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 315
+SCRIPT    (E):    FormatSteamWebhook() JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c : 199
+SCRIPT    (E):    PlayerHitBy() JM/COT/Scripts/4_World/communityonlinetools\plugins\pluginadminlog.c : 114
+SCRIPT    (E):    EEHitBy() scripts/4_World/entities\manbase\playerbase.c : 665
+SCRIPT    (E):    EEHitBy() CFTools/4_World/playerbase.c : 108
+SCRIPT    (E):    EEHitBy() DayZExpansion/Scripts/4_World/dayzexpansion\entities\manbase\playerbase.c : 131
+SCRIPT    (E):    -----------------
+SCRIPT       : ============================================================================================================
+SCRIPT       : 0.135
+SCRIPT       : 0.196
+SCRIPT       : 0.135
+SCRIPT       : 0.1965
+SCRIPT       : 0.135
+SCRIPT       : 0.1965
+SCRIPT       : 0.1355
+SCRIPT       : 20:11:38.015 [EXPANSION DEBUG]: ItemBase::SendKnownUIDs ExpansionCodeLock<ccb31a60> (parent=ExpansionWallBase<cb5f7f10>)
+SCRIPT       : 0.1965
+SCRIPT       : SurvivorF_Frida:035 STS=8570 event EEKilled, player has died at STS=8570
+SCRIPT       : EEKilled - processing corpse
+SCRIPT       : 0.1355
+SCRIPT       : 0.197
+SCRIPT       : 0.136
+SCRIPT       : 0.197
+SCRIPT       : 0.136
+SCRIPT       : 0.1975
+SCRIPT       : 20:11:49.562 [EXPANSION DEBUG]: ItemBase::SendKnownUIDs ExpansionCodeLock<e6f0bc70> (parent=ExpansionWallBase<e7266d80>)
+SCRIPT       : 0.1365
+SCRIPT       : 0.1975
+SCRIPT       : 0.1365
+SCRIPT       : 0.198
+SCRIPT       : 20:11:53.554 [EXPANSION DEBUG]: ItemBase::SendKnownUIDs ExpansionCodeLock<b57f1d10> (parent=ExpansionWallBase<afdeedc0>)
+SCRIPT       : 20:11:53.992 [EXPANSION DEBUG]: ItemBase::SendKnownUIDs ExpansionCodeLock<e9cc56d0> (parent=ExpansionWallBase<e90da110>)
+SCRIPT       : 0.137
+SCRIPT       : 0.198
+SCRIPT       : 20:11:56.351 [EXPANSION DEBUG]: ItemBase::SendKnownUIDs ExpansionCodeLock<e9cc46b0> (parent=ExpansionWallBase<e90d9800>)
+SCRIPT       : ********* LoadStats loading version: 115
+SCRIPT       : LOAD checksum:-1825047751
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : ExpansionMonitorModule::OnInvokeConnect player : SurvivorBase<9cb4d890>
+SCRIPT       : ExpansionRespawnHandlerModule::ShowSpawnSelection - Start
+SCRIPT       : ExpansionRespawnHandlerModule::ShowSpawnSelection - End
+SCRIPT       : ExpansionMonitorModule::OnInvokeConnect player : SurvivorBase<9cb5c8d0>
+SCRIPT       : [Logout]: New player ukD_k45i9WqrgrRFfzvAUrGdgMfaOgjGzngMe-204AE= with logout time 15
+SCRIPT       : ==============================================WARNING=======================================================
+SCRIPT       : [WARNING 2021-04-30 20:11:54] ASSERTION NULL: Player has no identity or improperly programmed AI mod
+SCRIPT       : Do you see this message? Unless the time is within a second of the crash than this was not the cause.
+SCRIPT    (E):    -- Stack trace --
+SCRIPT    (E):    Assert_Log() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 289
+SCRIPT    (E):    Assert_Null() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 315
+SCRIPT    (E):    FormatSteamWebhook() JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c : 199
+SCRIPT    (E):    PlayerHitBy() JM/COT/Scripts/4_World/communityonlinetools\plugins\pluginadminlog.c : 114
+SCRIPT    (E):    EEHitBy() scripts/4_World/entities\manbase\playerbase.c : 665
+SCRIPT    (E):    EEHitBy() CFTools/4_World/playerbase.c : 108
+SCRIPT    (E):    EEHitBy() DayZExpansion/Scripts/4_World/dayzexpansion\entities\manbase\playerbase.c : 131
+SCRIPT    (E):    -----------------
+SCRIPT       : ============================================================================================================
+SCRIPT       : ==============================================WARNING=======================================================
+SCRIPT       : [WARNING 2021-04-30 20:11:54] ASSERTION NULL: Player has no identity or improperly programmed AI mod
+SCRIPT       : Do you see this message? Unless the time is within a second of the crash than this was not the cause.
+SCRIPT    (E):    -- Stack trace --
+SCRIPT    (E):    Assert_Log() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 289
+SCRIPT    (E):    Assert_Null() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 315
+SCRIPT    (E):    FormatSteamWebhook() JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c : 199
+SCRIPT    (E):    PlayerHitBy() JM/COT/Scripts/4_World/communityonlinetools\plugins\pluginadminlog.c : 114
+SCRIPT    (E):    EEHitBy() scripts/4_World/entities\manbase\playerbase.c : 665
+SCRIPT    (E):    EEHitBy() CFTools/4_World/playerbase.c : 108
+SCRIPT    (E):    EEHitBy() DayZExpansion/Scripts/4_World/dayzexpansion\entities\manbase\playerbase.c : 131
+SCRIPT    (E):    -----------------
+SCRIPT       : ============================================================================================================
+SCRIPT       : [emote] SurvivorM_Jose:024 play emote id=14 IH=A2mk17:047102
+SCRIPT       : 20:11:58.726 [EXPANSION DEBUG]: ItemBase::SendKnownUIDs ExpansionCodeLock<ea159b50> (parent=ExpansionWallBase<e90d73c0>)
+SCRIPT       : ==============================================WARNING=======================================================
+SCRIPT       : [WARNING 2021-04-30 20:11:55] ASSERTION NULL: Player has no identity or improperly programmed AI mod
+SCRIPT       : Do you see this message? Unless the time is within a second of the crash than this was not the cause.
+SCRIPT    (E):    -- Stack trace --
+SCRIPT    (E):    Assert_Log() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 289
+SCRIPT    (E):    Assert_Null() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 315
+SCRIPT    (E):    FormatSteamWebhook() JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c : 199
+SCRIPT    (E):    PlayerHitBy() JM/COT/Scripts/4_World/communityonlinetools\plugins\pluginadminlog.c : 114
+SCRIPT    (E):    EEHitBy() scripts/4_World/entities\manbase\playerbase.c : 665
+SCRIPT    (E):    EEHitBy() CFTools/4_World/playerbase.c : 108
+SCRIPT    (E):    EEHitBy() DayZExpansion/Scripts/4_World/dayzexpansion\entities\manbase\playerbase.c : 131
+SCRIPT    (E):    -----------------
+SCRIPT       : ============================================================================================================
+SCRIPT       : 0.137
+SCRIPT       : 0.1985
+SCRIPT       : ==============================================WARNING=======================================================
+SCRIPT       : [WARNING 2021-04-30 20:11:56] ASSERTION NULL: Player has no identity or improperly programmed AI mod
+SCRIPT       : Do you see this message? Unless the time is within a second of the crash than this was not the cause.
+SCRIPT    (E):    -- Stack trace --
+SCRIPT    (E):    Assert_Log() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 289
+SCRIPT    (E):    Assert_Null() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 315
+SCRIPT    (E):    FormatSteamWebhook() JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c : 199
+SCRIPT    (E):    PlayerHitBy() JM/COT/Scripts/4_World/communityonlinetools\plugins\pluginadminlog.c : 114
+SCRIPT    (E):    EEHitBy() scripts/4_World/entities\manbase\playerbase.c : 665
+SCRIPT    (E):    EEHitBy() CFTools/4_World/playerbase.c : 108
+SCRIPT    (E):    EEHitBy() DayZExpansion/Scripts/4_World/dayzexpansion\entities\manbase\playerbase.c : 131
+SCRIPT    (E):    -----------------
+SCRIPT       : ============================================================================================================
+SCRIPT       : [Logout]: New player nHKsTmLT8V4NPmrdRohimsKJA301SEwdt_Ejf5JhB4k= with logout time 15
+SCRIPT       : [emote] SurvivorF_Eva:037 play emote id=14 IH=M4A1_Black:048783
+SCRIPT       : SurvivorM_Rolf:041 STS=7257 event EEKilled, player has died at STS=7257
+SCRIPT       : EEKilled - processing corpse
+SCRIPT       : 0.137
+SCRIPT       : 0.1985
+SCRIPT       : 0.1375
+SCRIPT       : 0.199
+SCRIPT       : 0.1375
+SCRIPT       : 0.199
+SCRIPT       : ExpansionRespawnHandlerModule::RPC_SelectSpawn - Start
+SCRIPT       : ExpansionRespawnHandlerModule::Exec_SelectSpawn - Start
+SCRIPT       : ExpansionRespawnHandlerModule::CloseSpawnMenu - Start
+SCRIPT       : ExpansionRespawnHandlerModule::CloseSpawnMenu - End
+SCRIPT       : ExpansionRespawnHandlerModule::Exec_SelectSpawn - End
+SCRIPT       : ExpansionRespawnHandlerModule::RPC_SelectSpawn - End
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=AmmoBox_308Win_20Rnd:044839 parent=SurvivorM_Mirek:036 }
+SCRIPT       : UnboxLambda::SetupNewMagazine new_item=Ammo_308Win<8fca1830> count=20
+SCRIPT       : 0.138
+SCRIPT       : 0.199
+SCRIPT       : [Logout]: Player ukD_k45i9WqrgrRFfzvAUrGdgMfaOgjGzngMe-204AE= finished
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : 0.138
+SCRIPT       : [Logout]: New player TjvNBpE-3PV8pWLY5BjihP5sWxOXGpNSLA2i3d_uPfk= with logout time 15
+SCRIPT       : 0.1995
+SCRIPT       : [emote] SurvivorM_Seth:020 play emote id=14 IH=null
+SCRIPT       : ==============================================WARNING=======================================================
+SCRIPT       : [WARNING 2021-04-30 20:12:12] ASSERTION NULL: Player has no identity or improperly programmed AI mod
+SCRIPT       : Do you see this message? Unless the time is within a second of the crash than this was not the cause.
+SCRIPT    (E):    -- Stack trace --
+SCRIPT    (E):    Assert_Log() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 289
+SCRIPT    (E):    Assert_Null() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 315
+SCRIPT    (E):    FormatSteamWebhook() JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c : 199
+SCRIPT    (E):    PlayerHitBy() JM/COT/Scripts/4_World/communityonlinetools\plugins\pluginadminlog.c : 114
+SCRIPT    (E):    EEHitBy() scripts/4_World/entities\manbase\playerbase.c : 665
+SCRIPT    (E):    EEHitBy() CFTools/4_World/playerbase.c : 108
+SCRIPT    (E):    EEHitBy() DayZExpansion/Scripts/4_World/dayzexpansion\entities\manbase\playerbase.c : 131
+SCRIPT    (E):    -----------------
+SCRIPT       : ============================================================================================================
+SCRIPT       : ==============================================WARNING=======================================================
+SCRIPT       : [WARNING 2021-04-30 20:12:12] ASSERTION NULL: Player has no identity or improperly programmed AI mod
+SCRIPT       : Do you see this message? Unless the time is within a second of the crash than this was not the cause.
+SCRIPT    (E):    -- Stack trace --
+SCRIPT    (E):    Assert_Log() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 289
+SCRIPT    (E):    Assert_Null() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 315
+SCRIPT    (E):    FormatSteamWebhook() JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c : 199
+SCRIPT    (E):    PlayerHitBy() JM/COT/Scripts/4_World/communityonlinetools\plugins\pluginadminlog.c : 114
+SCRIPT    (E):    EEHitBy() scripts/4_World/entities\manbase\playerbase.c : 665
+SCRIPT    (E):    EEHitBy() CFTools/4_World/playerbase.c : 108
+SCRIPT    (E):    EEHitBy() DayZExpansion/Scripts/4_World/dayzexpansion\entities\manbase\playerbase.c : 131
+SCRIPT    (E):    -----------------
+SCRIPT       : ============================================================================================================
+SCRIPT       : ==============================================WARNING=======================================================
+SCRIPT       : [WARNING 2021-04-30 20:12:13] ASSERTION NULL: Player has no identity or improperly programmed AI mod
+SCRIPT       : Do you see this message? Unless the time is within a second of the crash than this was not the cause.
+SCRIPT    (E):    -- Stack trace --
+SCRIPT    (E):    Assert_Log() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 289
+SCRIPT    (E):    Assert_Null() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 315
+SCRIPT    (E):    FormatSteamWebhook() JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c : 199
+SCRIPT    (E):    PlayerHitBy() JM/COT/Scripts/4_World/communityonlinetools\plugins\pluginadminlog.c : 114
+SCRIPT    (E):    EEHitBy() scripts/4_World/entities\manbase\playerbase.c : 665
+SCRIPT    (E):    EEHitBy() CFTools/4_World/playerbase.c : 108
+SCRIPT    (E):    EEHitBy() DayZExpansion/Scripts/4_World/dayzexpansion\entities\manbase\playerbase.c : 131
+SCRIPT    (E):    -----------------
+SCRIPT       : ============================================================================================================
+SCRIPT       : [Logout]: Player nHKsTmLT8V4NPmrdRohimsKJA301SEwdt_Ejf5JhB4k= finished
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : 0.1995
+SCRIPT       : ==============================================WARNING=======================================================
+SCRIPT       : [WARNING 2021-04-30 20:12:15] ASSERTION NULL: Player has no identity or improperly programmed AI mod
+SCRIPT       : Do you see this message? Unless the time is within a second of the crash than this was not the cause.
+SCRIPT    (E):    -- Stack trace --
+SCRIPT    (E):    Assert_Log() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 289
+SCRIPT    (E):    Assert_Null() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 315
+SCRIPT    (E):    FormatSteamWebhook() JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c : 199
+SCRIPT    (E):    PlayerHitBy() JM/COT/Scripts/4_World/communityonlinetools\plugins\pluginadminlog.c : 114
+SCRIPT    (E):    EEHitBy() scripts/4_World/entities\manbase\playerbase.c : 665
+SCRIPT    (E):    EEHitBy() CFTools/4_World/playerbase.c : 108
+SCRIPT    (E):    EEHitBy() DayZExpansion/Scripts/4_World/dayzexpansion\entities\manbase\playerbase.c : 131
+SCRIPT    (E):    -----------------
+SCRIPT       : ============================================================================================================
+SCRIPT       : 0.2
+SCRIPT       : 0.2
+SCRIPT       : ==============================================WARNING=======================================================
+SCRIPT       : [WARNING 2021-04-30 20:12:20] ASSERTION NULL: Player has no identity or improperly programmed AI mod
+SCRIPT       : Do you see this message? Unless the time is within a second of the crash than this was not the cause.
+SCRIPT    (E):    -- Stack trace --
+SCRIPT    (E):    Assert_Log() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 289
+SCRIPT    (E):    Assert_Null() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 315
+SCRIPT    (E):    FormatSteamWebhook() JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c : 199
+SCRIPT    (E):    PlayerHitBy() JM/COT/Scripts/4_World/communityonlinetools\plugins\pluginadminlog.c : 114
+SCRIPT    (E):    EEHitBy() scripts/4_World/entities\manbase\playerbase.c : 665
+SCRIPT    (E):    EEHitBy() CFTools/4_World/playerbase.c : 108
+SCRIPT    (E):    EEHitBy() DayZExpansion/Scripts/4_World/dayzexpansion\entities\manbase\playerbase.c : 131
+SCRIPT    (E):    -----------------
+SCRIPT       : ============================================================================================================
+SCRIPT       : ==============================================WARNING=======================================================
+SCRIPT       : [WARNING 2021-04-30 20:12:20] ASSERTION NULL: Player has no identity or improperly programmed AI mod
+SCRIPT       : Do you see this message? Unless the time is within a second of the crash than this was not the cause.
+SCRIPT    (E):    -- Stack trace --
+SCRIPT    (E):    Assert_Log() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 289
+SCRIPT    (E):    Assert_Null() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 315
+SCRIPT    (E):    FormatSteamWebhook() JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c : 199
+SCRIPT    (E):    PlayerHitBy() JM/COT/Scripts/4_World/communityonlinetools\plugins\pluginadminlog.c : 114
+SCRIPT    (E):    EEHitBy() scripts/4_World/entities\manbase\playerbase.c : 665
+SCRIPT    (E):    EEHitBy() CFTools/4_World/playerbase.c : 108
+SCRIPT    (E):    EEHitBy() DayZExpansion/Scripts/4_World/dayzexpansion\entities\manbase\playerbase.c : 131
+SCRIPT    (E):    -----------------
+SCRIPT       : ============================================================================================================
+SCRIPT       : ==============================================WARNING=======================================================
+SCRIPT       : [WARNING 2021-04-30 20:12:20] ASSERTION NULL: Player has no identity or improperly programmed AI mod
+SCRIPT       : Do you see this message? Unless the time is within a second of the crash than this was not the cause.
+SCRIPT    (E):    -- Stack trace --
+SCRIPT    (E):    Assert_Log() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 289
+SCRIPT    (E):    Assert_Null() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 315
+SCRIPT    (E):    FormatSteamWebhook() JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c : 199
+SCRIPT    (E):    PlayerHitBy() JM/COT/Scripts/4_World/communityonlinetools\plugins\pluginadminlog.c : 114
+SCRIPT    (E):    EEHitBy() scripts/4_World/entities\manbase\playerbase.c : 665
+SCRIPT    (E):    EEHitBy() CFTools/4_World/playerbase.c : 108
+SCRIPT    (E):    EEHitBy() DayZExpansion/Scripts/4_World/dayzexpansion\entities\manbase\playerbase.c : 131
+SCRIPT    (E):    -----------------
+SCRIPT       : ============================================================================================================
+SCRIPT       : ==============================================WARNING=======================================================
+SCRIPT       : [WARNING 2021-04-30 20:12:22] ASSERTION NULL: Player has no identity or improperly programmed AI mod
+SCRIPT       : Do you see this message? Unless the time is within a second of the crash than this was not the cause.
+SCRIPT    (E):    -- Stack trace --
+SCRIPT    (E):    Assert_Log() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 289
+SCRIPT    (E):    Assert_Null() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 315
+SCRIPT    (E):    FormatSteamWebhook() JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c : 199
+SCRIPT    (E):    PlayerHitBy() JM/COT/Scripts/4_World/communityonlinetools\plugins\pluginadminlog.c : 114
+SCRIPT    (E):    EEHitBy() scripts/4_World/entities\manbase\playerbase.c : 665
+SCRIPT    (E):    EEHitBy() CFTools/4_World/playerbase.c : 108
+SCRIPT    (E):    EEHitBy() DayZExpansion/Scripts/4_World/dayzexpansion\entities\manbase\playerbase.c : 131
+SCRIPT    (E):    -----------------
+SCRIPT       : ============================================================================================================
+SCRIPT       : ==============================================WARNING=======================================================
+SCRIPT       : [WARNING 2021-04-30 20:12:22] ASSERTION NULL: Player has no identity or improperly programmed AI mod
+SCRIPT       : Do you see this message? Unless the time is within a second of the crash than this was not the cause.
+SCRIPT    (E):    -- Stack trace --
+SCRIPT    (E):    Assert_Log() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 289
+SCRIPT    (E):    Assert_Null() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 315
+SCRIPT    (E):    FormatSteamWebhook() JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c : 199
+SCRIPT    (E):    PlayerHitBy() JM/COT/Scripts/4_World/communityonlinetools\plugins\pluginadminlog.c : 114
+SCRIPT    (E):    EEHitBy() scripts/4_World/entities\manbase\playerbase.c : 665
+SCRIPT    (E):    EEHitBy() CFTools/4_World/playerbase.c : 108
+SCRIPT    (E):    EEHitBy() DayZExpansion/Scripts/4_World/dayzexpansion\entities\manbase\playerbase.c : 131
+SCRIPT    (E):    -----------------
+SCRIPT       : ============================================================================================================
+SCRIPT       : ExpansionRespawnHandlerModule::ShowSpawnSelection - Start
+SCRIPT       : ExpansionRespawnHandlerModule::ShowSpawnSelection - End
+SCRIPT       : ExpansionMonitorModule::OnInvokeConnect player : SurvivorBase<9cb46070>
+SCRIPT       : 0.2005
+SCRIPT       : ==============================================WARNING=======================================================
+SCRIPT       : [WARNING 2021-04-30 20:12:24] ASSERTION NULL: Player has no identity or improperly programmed AI mod
+SCRIPT       : Do you see this message? Unless the time is within a second of the crash than this was not the cause.
+SCRIPT    (E):    -- Stack trace --
+SCRIPT    (E):    Assert_Log() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 289
+SCRIPT    (E):    Assert_Null() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 315
+SCRIPT    (E):    FormatSteamWebhook() JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c : 199
+SCRIPT    (E):    PlayerHitBy() JM/COT/Scripts/4_World/communityonlinetools\plugins\pluginadminlog.c : 114
+SCRIPT    (E):    EEHitBy() scripts/4_World/entities\manbase\playerbase.c : 665
+SCRIPT    (E):    EEHitBy() CFTools/4_World/playerbase.c : 108
+SCRIPT    (E):    EEHitBy() DayZExpansion/Scripts/4_World/dayzexpansion\entities\manbase\playerbase.c : 131
+SCRIPT    (E):    -----------------
+SCRIPT       : ============================================================================================================
+SCRIPT       : ==============================================WARNING=======================================================
+SCRIPT       : [WARNING 2021-04-30 20:12:24] ASSERTION NULL: Player has no identity or improperly programmed AI mod
+SCRIPT       : Do you see this message? Unless the time is within a second of the crash than this was not the cause.
+SCRIPT    (E):    -- Stack trace --
+SCRIPT    (E):    Assert_Log() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 289
+SCRIPT    (E):    Assert_Null() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 315
+SCRIPT    (E):    FormatSteamWebhook() JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c : 199
+SCRIPT    (E):    PlayerHitBy() JM/COT/Scripts/4_World/communityonlinetools\plugins\pluginadminlog.c : 114
+SCRIPT    (E):    EEHitBy() scripts/4_World/entities\manbase\playerbase.c : 665
+SCRIPT    (E):    EEHitBy() CFTools/4_World/playerbase.c : 108
+SCRIPT    (E):    EEHitBy() DayZExpansion/Scripts/4_World/dayzexpansion\entities\manbase\playerbase.c : 131
+SCRIPT    (E):    -----------------
+SCRIPT       : ============================================================================================================
+SCRIPT       : ==============================================WARNING=======================================================
+SCRIPT       : [WARNING 2021-04-30 20:12:24] ASSERTION NULL: Player has no identity or improperly programmed AI mod
+SCRIPT       : Do you see this message? Unless the time is within a second of the crash than this was not the cause.
+SCRIPT    (E):    -- Stack trace --
+SCRIPT    (E):    Assert_Log() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 289
+SCRIPT    (E):    Assert_Null() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 315
+SCRIPT    (E):    FormatSteamWebhook() JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c : 199
+SCRIPT    (E):    PlayerHitBy() JM/COT/Scripts/4_World/communityonlinetools\plugins\pluginadminlog.c : 114
+SCRIPT    (E):    EEHitBy() scripts/4_World/entities\manbase\playerbase.c : 665
+SCRIPT    (E):    EEHitBy() CFTools/4_World/playerbase.c : 108
+SCRIPT    (E):    EEHitBy() DayZExpansion/Scripts/4_World/dayzexpansion\entities\manbase\playerbase.c : 131
+SCRIPT    (E):    -----------------
+SCRIPT       : ============================================================================================================
+SCRIPT       : [Logout]: Player TjvNBpE-3PV8pWLY5BjihP5sWxOXGpNSLA2i3d_uPfk= finished
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : 0.2005
+SCRIPT       : 0.201
+SCRIPT       : ==============================================WARNING=======================================================
+SCRIPT       : [WARNING 2021-04-30 20:12:31] ASSERTION NULL: Player has no identity or improperly programmed AI mod
+SCRIPT       : Do you see this message? Unless the time is within a second of the crash than this was not the cause.
+SCRIPT    (E):    -- Stack trace --
+SCRIPT    (E):    Assert_Log() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 289
+SCRIPT    (E):    Assert_Null() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 315
+SCRIPT    (E):    FormatSteamWebhook() JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c : 199
+SCRIPT    (E):    PlayerHitBy() JM/COT/Scripts/4_World/communityonlinetools\plugins\pluginadminlog.c : 114
+SCRIPT    (E):    EEHitBy() scripts/4_World/entities\manbase\playerbase.c : 665
+SCRIPT    (E):    EEHitBy() CFTools/4_World/playerbase.c : 108
+SCRIPT    (E):    EEHitBy() DayZExpansion/Scripts/4_World/dayzexpansion\entities\manbase\playerbase.c : 131
+SCRIPT    (E):    -----------------
+SCRIPT       : ============================================================================================================
+SCRIPT       : ==============================================WARNING=======================================================
+SCRIPT       : [WARNING 2021-04-30 20:12:31] ASSERTION NULL: Player has no identity or improperly programmed AI mod
+SCRIPT       : Do you see this message? Unless the time is within a second of the crash than this was not the cause.
+SCRIPT    (E):    -- Stack trace --
+SCRIPT    (E):    Assert_Log() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 289
+SCRIPT    (E):    Assert_Null() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 315
+SCRIPT    (E):    FormatSteamWebhook() JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c : 199
+SCRIPT    (E):    PlayerHitBy() JM/COT/Scripts/4_World/communityonlinetools\plugins\pluginadminlog.c : 114
+SCRIPT    (E):    EEHitBy() scripts/4_World/entities\manbase\playerbase.c : 665
+SCRIPT    (E):    EEHitBy() CFTools/4_World/playerbase.c : 108
+SCRIPT    (E):    EEHitBy() DayZExpansion/Scripts/4_World/dayzexpansion\entities\manbase\playerbase.c : 131
+SCRIPT    (E):    -----------------
+SCRIPT       : ============================================================================================================
+SCRIPT       : ==============================================WARNING=======================================================
+SCRIPT       : [WARNING 2021-04-30 20:12:31] ASSERTION NULL: Player has no identity or improperly programmed AI mod
+SCRIPT       : Do you see this message? Unless the time is within a second of the crash than this was not the cause.
+SCRIPT    (E):    -- Stack trace --
+SCRIPT    (E):    Assert_Log() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 289
+SCRIPT    (E):    Assert_Null() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 315
+SCRIPT    (E):    FormatSteamWebhook() JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c : 199
+SCRIPT    (E):    PlayerHitBy() JM/COT/Scripts/4_World/communityonlinetools\plugins\pluginadminlog.c : 114
+SCRIPT    (E):    EEHitBy() scripts/4_World/entities\manbase\playerbase.c : 665
+SCRIPT    (E):    EEHitBy() CFTools/4_World/playerbase.c : 108
+SCRIPT    (E):    EEHitBy() DayZExpansion/Scripts/4_World/dayzexpansion\entities\manbase\playerbase.c : 131
+SCRIPT    (E):    -----------------
+SCRIPT       : ============================================================================================================
+SCRIPT       : ==============================================WARNING=======================================================
+SCRIPT       : [WARNING 2021-04-30 20:12:31] ASSERTION NULL: Player has no identity or improperly programmed AI mod
+SCRIPT       : Do you see this message? Unless the time is within a second of the crash than this was not the cause.
+SCRIPT    (E):    -- Stack trace --
+SCRIPT    (E):    Assert_Log() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 289
+SCRIPT    (E):    Assert_Null() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 315
+SCRIPT    (E):    FormatSteamWebhook() JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c : 199
+SCRIPT    (E):    PlayerHitBy() JM/COT/Scripts/4_World/communityonlinetools\plugins\pluginadminlog.c : 114
+SCRIPT    (E):    EEHitBy() scripts/4_World/entities\manbase\playerbase.c : 665
+SCRIPT    (E):    EEHitBy() CFTools/4_World/playerbase.c : 108
+SCRIPT    (E):    EEHitBy() DayZExpansion/Scripts/4_World/dayzexpansion\entities\manbase\playerbase.c : 131
+SCRIPT    (E):    -----------------
+SCRIPT       : ============================================================================================================
+SCRIPT       : 0.201
+SCRIPT       : material = Bark_Oak; quantity = 1
+SCRIPT       : [Logout]: New player GgXxc6zzCpzUzqB3hW29RepmgR5m0ag-d72Zc0VRxGY= with logout time 15
+SCRIPT       : [emote] SurvivorM_Quinn:012 play emote id=14 IH=A2LeeEnfield:029755
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE id:103
+SCRIPT       : SAVE id_bit_offset:4
+SCRIPT       : SAVE write_result:33687152
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE id:103
+SCRIPT       : SAVE id_bit_offset:4
+SCRIPT       : SAVE write_result:9111152
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : 0.201
+SCRIPT       : [Logout]: New player OUDxO02um_kuOJaRRzT0FmbHEtKZgjPJBptBu6L53wk= with logout time 15
+SCRIPT       : [emote] SurvivorM_Seth:04 play emote id=14 IH=Mosin9130:044957
+SCRIPT       : 20:12:39.015 [EXPANSION DEBUG]: ItemBase::SendKnownUIDs ExpansionCodeLock<b82175d0> (parent=ExpansionWallBase<b5e75980>)
+SCRIPT       : ==============================================WARNING=======================================================
+SCRIPT       : [WARNING 2021-04-30 20:12:36] ASSERTION NULL: Player has no identity or improperly programmed AI mod
+SCRIPT       : Do you see this message? Unless the time is within a second of the crash than this was not the cause.
+SCRIPT    (E):    -- Stack trace --
+SCRIPT    (E):    Assert_Log() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 289
+SCRIPT    (E):    Assert_Null() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 315
+SCRIPT    (E):    FormatSteamWebhook() JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c : 199
+SCRIPT    (E):    PlayerHitBy() JM/COT/Scripts/4_World/communityonlinetools\plugins\pluginadminlog.c : 114
+SCRIPT    (E):    EEHitBy() scripts/4_World/entities\manbase\playerbase.c : 665
+SCRIPT    (E):    EEHitBy() CFTools/4_World/playerbase.c : 108
+SCRIPT    (E):    EEHitBy() DayZExpansion/Scripts/4_World/dayzexpansion\entities\manbase\playerbase.c : 131
+SCRIPT    (E):    -----------------
+SCRIPT       : ============================================================================================================
+SCRIPT       : ==============================================WARNING=======================================================
+SCRIPT       : [WARNING 2021-04-30 20:12:36] ASSERTION NULL: Player has no identity or improperly programmed AI mod
+SCRIPT       : Do you see this message? Unless the time is within a second of the crash than this was not the cause.
+SCRIPT    (E):    -- Stack trace --
+SCRIPT    (E):    Assert_Log() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 289
+SCRIPT    (E):    Assert_Null() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 315
+SCRIPT    (E):    FormatSteamWebhook() JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c : 199
+SCRIPT    (E):    PlayerHitBy() JM/COT/Scripts/4_World/communityonlinetools\plugins\pluginadminlog.c : 114
+SCRIPT    (E):    EEHitBy() scripts/4_World/entities\manbase\playerbase.c : 665
+SCRIPT    (E):    EEHitBy() CFTools/4_World/playerbase.c : 108
+SCRIPT    (E):    EEHitBy() DayZExpansion/Scripts/4_World/dayzexpansion\entities\manbase\playerbase.c : 131
+SCRIPT    (E):    -----------------
+SCRIPT       : ============================================================================================================
+SCRIPT       : ==============================================WARNING=======================================================
+SCRIPT       : [WARNING 2021-04-30 20:12:36] ASSERTION NULL: Player has no identity or improperly programmed AI mod
+SCRIPT       : Do you see this message? Unless the time is within a second of the crash than this was not the cause.
+SCRIPT    (E):    -- Stack trace --
+SCRIPT    (E):    Assert_Log() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 289
+SCRIPT    (E):    Assert_Null() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 315
+SCRIPT    (E):    FormatSteamWebhook() JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c : 199
+SCRIPT    (E):    PlayerHitBy() JM/COT/Scripts/4_World/communityonlinetools\plugins\pluginadminlog.c : 114
+SCRIPT    (E):    EEHitBy() scripts/4_World/entities\manbase\playerbase.c : 665
+SCRIPT    (E):    EEHitBy() CFTools/4_World/playerbase.c : 108
+SCRIPT    (E):    EEHitBy() DayZExpansion/Scripts/4_World/dayzexpansion\entities\manbase\playerbase.c : 131
+SCRIPT    (E):    -----------------
+SCRIPT       : ============================================================================================================
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=AmmoBox_00buck_10rnd:048670 parent=SurvivorF_Judy:048 }
+SCRIPT       : UnboxLambda::SetupNewMagazine new_item=Ammo_12gaPellets<9f562be0> count=10
+SCRIPT       : ==============================================WARNING=======================================================
+SCRIPT       : [WARNING 2021-04-30 20:12:37] ASSERTION NULL: Player has no identity or improperly programmed AI mod
+SCRIPT       : Do you see this message? Unless the time is within a second of the crash than this was not the cause.
+SCRIPT    (E):    -- Stack trace --
+SCRIPT    (E):    Assert_Log() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 289
+SCRIPT    (E):    Assert_Null() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 315
+SCRIPT    (E):    FormatSteamWebhook() JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c : 199
+SCRIPT    (E):    PlayerHitBy() JM/COT/Scripts/4_World/communityonlinetools\plugins\pluginadminlog.c : 114
+SCRIPT    (E):    EEHitBy() scripts/4_World/entities\manbase\playerbase.c : 665
+SCRIPT    (E):    EEHitBy() CFTools/4_World/playerbase.c : 108
+SCRIPT    (E):    EEHitBy() DayZExpansion/Scripts/4_World/dayzexpansion\entities\manbase\playerbase.c : 131
+SCRIPT    (E):    -----------------
+SCRIPT       : ============================================================================================================
+SCRIPT       : 0.2015
+SCRIPT       : ********* LoadStats loading version: 115
+SCRIPT       : LOAD checksum:-1825047751
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : ExpansionMonitorModule::OnInvokeConnect player : SurvivorBase<9cb640f0>
+SCRIPT       : [Logout]: New player JZkjY6_Bx9U3-TFLWwEcYYgLhALZoeLA_fzJAN5QRHo= with logout time 15
+SCRIPT       : [emote] SurvivorF_Irena:06 play emote id=14 IH=Mosin9130_Camo:045382
+SCRIPT       : 0.2015
+SCRIPT       : ==============================================WARNING=======================================================
+SCRIPT       : [WARNING 2021-04-30 20:12:41] ASSERTION NULL: Player has no identity or improperly programmed AI mod
+SCRIPT       : Do you see this message? Unless the time is within a second of the crash than this was not the cause.
+SCRIPT    (E):    -- Stack trace --
+SCRIPT    (E):    Assert_Log() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 289
+SCRIPT    (E):    Assert_Null() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 315
+SCRIPT    (E):    FormatSteamWebhook() JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c : 199
+SCRIPT    (E):    PlayerHitBy() JM/COT/Scripts/4_World/communityonlinetools\plugins\pluginadminlog.c : 114
+SCRIPT    (E):    EEHitBy() scripts/4_World/entities\manbase\playerbase.c : 665
+SCRIPT    (E):    EEHitBy() CFTools/4_World/playerbase.c : 108
+SCRIPT    (E):    EEHitBy() DayZExpansion/Scripts/4_World/dayzexpansion\entities\manbase\playerbase.c : 131
+SCRIPT    (E):    -----------------
+SCRIPT       : ============================================================================================================
+SCRIPT       : ==============================================WARNING=======================================================
+SCRIPT       : [WARNING 2021-04-30 20:12:41] ASSERTION NULL: Player has no identity or improperly programmed AI mod
+SCRIPT       : Do you see this message? Unless the time is within a second of the crash than this was not the cause.
+SCRIPT    (E):    -- Stack trace --
+SCRIPT    (E):    Assert_Log() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 289
+SCRIPT    (E):    Assert_Null() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 315
+SCRIPT    (E):    FormatSteamWebhook() JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c : 199
+SCRIPT    (E):    PlayerHitBy() JM/COT/Scripts/4_World/communityonlinetools\plugins\pluginadminlog.c : 114
+SCRIPT    (E):    EEHitBy() scripts/4_World/entities\manbase\playerbase.c : 665
+SCRIPT    (E):    EEHitBy() CFTools/4_World/playerbase.c : 108
+SCRIPT    (E):    EEHitBy() DayZExpansion/Scripts/4_World/dayzexpansion\entities\manbase\playerbase.c : 131
+SCRIPT    (E):    -----------------
+SCRIPT       : ============================================================================================================
+SCRIPT       : [Logout]: New player NxUrm_UJ0n0CZMNjIxR_yvKrCzMz2vFzvnjFIGZ6QR8= with logout time 15
+SCRIPT       : [emote] SurvivorM_Elias:013 play emote id=14 IH=CombatKnife:046015
+SCRIPT       : ==============================================WARNING=======================================================
+SCRIPT       : [WARNING 2021-04-30 20:12:41] ASSERTION NULL: Player has no identity or improperly programmed AI mod
+SCRIPT       : Do you see this message? Unless the time is within a second of the crash than this was not the cause.
+SCRIPT    (E):    -- Stack trace --
+SCRIPT    (E):    Assert_Log() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 289
+SCRIPT    (E):    Assert_Null() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 315
+SCRIPT    (E):    FormatSteamWebhook() JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c : 199
+SCRIPT    (E):    PlayerHitBy() JM/COT/Scripts/4_World/communityonlinetools\plugins\pluginadminlog.c : 114
+SCRIPT    (E):    EEHitBy() scripts/4_World/entities\manbase\playerbase.c : 665
+SCRIPT    (E):    EEHitBy() CFTools/4_World/playerbase.c : 108
+SCRIPT    (E):    EEHitBy() DayZExpansion/Scripts/4_World/dayzexpansion\entities\manbase\playerbase.c : 131
+SCRIPT    (E):    -----------------
+SCRIPT       : ============================================================================================================
+SCRIPT       : ==============================================WARNING=======================================================
+SCRIPT       : [WARNING 2021-04-30 20:12:41] ASSERTION NULL: Player has no identity or improperly programmed AI mod
+SCRIPT       : Do you see this message? Unless the time is within a second of the crash than this was not the cause.
+SCRIPT    (E):    -- Stack trace --
+SCRIPT    (E):    Assert_Log() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 289
+SCRIPT    (E):    Assert_Null() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 315
+SCRIPT    (E):    FormatSteamWebhook() JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c : 199
+SCRIPT    (E):    PlayerHitBy() JM/COT/Scripts/4_World/communityonlinetools\plugins\pluginadminlog.c : 114
+SCRIPT    (E):    EEHitBy() scripts/4_World/entities\manbase\playerbase.c : 665
+SCRIPT    (E):    EEHitBy() CFTools/4_World/playerbase.c : 108
+SCRIPT    (E):    EEHitBy() DayZExpansion/Scripts/4_World/dayzexpansion\entities\manbase\playerbase.c : 131
+SCRIPT    (E):    -----------------
+SCRIPT       : ============================================================================================================
+SCRIPT       : [Logout]: New player E5UTtfn1dT7qHGK1eplot2pEGsCAbEtwEOeT_5xcta8= with logout time 15
+SCRIPT       : ==============================================WARNING=======================================================
+SCRIPT       : [WARNING 2021-04-30 20:12:42] ASSERTION NULL: Player has no identity or improperly programmed AI mod
+SCRIPT       : Do you see this message? Unless the time is within a second of the crash than this was not the cause.
+SCRIPT    (E):    -- Stack trace --
+SCRIPT    (E):    Assert_Log() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 289
+SCRIPT    (E):    Assert_Null() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 315
+SCRIPT    (E):    FormatSteamWebhook() JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c : 199
+SCRIPT    (E):    PlayerHitBy() JM/COT/Scripts/4_World/communityonlinetools\plugins\pluginadminlog.c : 114
+SCRIPT    (E):    EEHitBy() scripts/4_World/entities\manbase\playerbase.c : 665
+SCRIPT    (E):    EEHitBy() CFTools/4_World/playerbase.c : 108
+SCRIPT    (E):    EEHitBy() DayZExpansion/Scripts/4_World/dayzexpansion\entities\manbase\playerbase.c : 131
+SCRIPT    (E):    -----------------
+SCRIPT       : ============================================================================================================
+SCRIPT       : ==============================================WARNING=======================================================
+SCRIPT       : [WARNING 2021-04-30 20:12:42] ASSERTION NULL: Player has no identity or improperly programmed AI mod
+SCRIPT       : Do you see this message? Unless the time is within a second of the crash than this was not the cause.
+SCRIPT    (E):    -- Stack trace --
+SCRIPT    (E):    Assert_Log() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 289
+SCRIPT    (E):    Assert_Null() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 315
+SCRIPT    (E):    FormatSteamWebhook() JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c : 199
+SCRIPT    (E):    PlayerHitBy() JM/COT/Scripts/4_World/communityonlinetools\plugins\pluginadminlog.c : 114
+SCRIPT    (E):    EEHitBy() scripts/4_World/entities\manbase\playerbase.c : 665
+SCRIPT    (E):    EEHitBy() CFTools/4_World/playerbase.c : 108
+SCRIPT    (E):    EEHitBy() DayZExpansion/Scripts/4_World/dayzexpansion\entities\manbase\playerbase.c : 131
+SCRIPT    (E):    -----------------
+SCRIPT       : ============================================================================================================
+SCRIPT       : [emote] SurvivorF_Gabi:017 play emote id=14 IH=AK74:019408
+SCRIPT       : 0.202
+SCRIPT       : ==============================================WARNING=======================================================
+SCRIPT       : [WARNING 2021-04-30 20:12:46] ASSERTION NULL: Player has no identity or improperly programmed AI mod
+SCRIPT       : Do you see this message? Unless the time is within a second of the crash than this was not the cause.
+SCRIPT    (E):    -- Stack trace --
+SCRIPT    (E):    Assert_Log() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 289
+SCRIPT    (E):    Assert_Null() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 315
+SCRIPT    (E):    FormatSteamWebhook() JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c : 199
+SCRIPT    (E):    PlayerHitBy() JM/COT/Scripts/4_World/communityonlinetools\plugins\pluginadminlog.c : 114
+SCRIPT    (E):    EEHitBy() scripts/4_World/entities\manbase\playerbase.c : 665
+SCRIPT    (E):    EEHitBy() CFTools/4_World/playerbase.c : 108
+SCRIPT    (E):    EEHitBy() DayZExpansion/Scripts/4_World/dayzexpansion\entities\manbase\playerbase.c : 131
+SCRIPT    (E):    -----------------
+SCRIPT       : ============================================================================================================
+SCRIPT       : 0.202
+SCRIPT       : ==============================================WARNING=======================================================
+SCRIPT       : [WARNING 2021-04-30 20:12:46] ASSERTION NULL: Player has no identity or improperly programmed AI mod
+SCRIPT       : Do you see this message? Unless the time is within a second of the crash than this was not the cause.
+SCRIPT    (E):    -- Stack trace --
+SCRIPT    (E):    Assert_Log() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 289
+SCRIPT    (E):    Assert_Null() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 315
+SCRIPT    (E):    FormatSteamWebhook() JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c : 199
+SCRIPT    (E):    PlayerHitBy() JM/COT/Scripts/4_World/communityonlinetools\plugins\pluginadminlog.c : 114
+SCRIPT    (E):    EEHitBy() scripts/4_World/entities\manbase\playerbase.c : 665
+SCRIPT    (E):    EEHitBy() CFTools/4_World/playerbase.c : 108
+SCRIPT    (E):    EEHitBy() DayZExpansion/Scripts/4_World/dayzexpansion\entities\manbase\playerbase.c : 131
+SCRIPT    (E):    -----------------
+SCRIPT       : ============================================================================================================
+SCRIPT       : ==============================================WARNING=======================================================
+SCRIPT       : [WARNING 2021-04-30 20:12:47] ASSERTION NULL: Player has no identity or improperly programmed AI mod
+SCRIPT       : Do you see this message? Unless the time is within a second of the crash than this was not the cause.
+SCRIPT    (E):    -- Stack trace --
+SCRIPT    (E):    Assert_Log() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 289
+SCRIPT    (E):    Assert_Null() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 315
+SCRIPT    (E):    FormatSteamWebhook() JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c : 199
+SCRIPT    (E):    PlayerHitBy() JM/COT/Scripts/4_World/communityonlinetools\plugins\pluginadminlog.c : 114
+SCRIPT    (E):    EEHitBy() scripts/4_World/entities\manbase\playerbase.c : 665
+SCRIPT    (E):    EEHitBy() CFTools/4_World/playerbase.c : 108
+SCRIPT    (E):    EEHitBy() DayZExpansion/Scripts/4_World/dayzexpansion\entities\manbase\playerbase.c : 131
+SCRIPT    (E):    -----------------
+SCRIPT       : ============================================================================================================
+SCRIPT       : ==============================================WARNING=======================================================
+SCRIPT       : [WARNING 2021-04-30 20:12:47] ASSERTION NULL: Player has no identity or improperly programmed AI mod
+SCRIPT       : Do you see this message? Unless the time is within a second of the crash than this was not the cause.
+SCRIPT    (E):    -- Stack trace --
+SCRIPT    (E):    Assert_Log() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 289
+SCRIPT    (E):    Assert_Null() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 315
+SCRIPT    (E):    FormatSteamWebhook() JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c : 199
+SCRIPT    (E):    PlayerHitBy() JM/COT/Scripts/4_World/communityonlinetools\plugins\pluginadminlog.c : 114
+SCRIPT    (E):    EEHitBy() scripts/4_World/entities\manbase\playerbase.c : 665
+SCRIPT    (E):    EEHitBy() CFTools/4_World/playerbase.c : 108
+SCRIPT    (E):    EEHitBy() DayZExpansion/Scripts/4_World/dayzexpansion\entities\manbase\playerbase.c : 131
+SCRIPT    (E):    -----------------
+SCRIPT       : ============================================================================================================
+SCRIPT       : ==============================================WARNING=======================================================
+SCRIPT       : [WARNING 2021-04-30 20:12:47] ASSERTION NULL: Player has no identity or improperly programmed AI mod
+SCRIPT       : Do you see this message? Unless the time is within a second of the crash than this was not the cause.
+SCRIPT    (E):    -- Stack trace --
+SCRIPT    (E):    Assert_Log() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 289
+SCRIPT    (E):    Assert_Null() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 315
+SCRIPT    (E):    FormatSteamWebhook() JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c : 199
+SCRIPT    (E):    PlayerHitBy() JM/COT/Scripts/4_World/communityonlinetools\plugins\pluginadminlog.c : 114
+SCRIPT    (E):    EEHitBy() scripts/4_World/entities\manbase\playerbase.c : 665
+SCRIPT    (E):    EEHitBy() CFTools/4_World/playerbase.c : 108
+SCRIPT    (E):    EEHitBy() DayZExpansion/Scripts/4_World/dayzexpansion\entities\manbase\playerbase.c : 131
+SCRIPT    (E):    -----------------
+SCRIPT       : ============================================================================================================
+SCRIPT       : [Logout]: Player GgXxc6zzCpzUzqB3hW29RepmgR5m0ag-d72Zc0VRxGY= finished
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : 0.2025
+SCRIPT       : [Logout]: Player OUDxO02um_kuOJaRRzT0FmbHEtKZgjPJBptBu6L53wk= finished
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : ==============================================WARNING=======================================================
+SCRIPT       : [WARNING 2021-04-30 20:12:51] ASSERTION NULL: Player has no identity or improperly programmed AI mod
+SCRIPT       : Do you see this message? Unless the time is within a second of the crash than this was not the cause.
+SCRIPT    (E):    -- Stack trace --
+SCRIPT    (E):    Assert_Log() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 289
+SCRIPT    (E):    Assert_Null() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 315
+SCRIPT    (E):    FormatSteamWebhook() JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c : 199
+SCRIPT    (E):    PlayerHitBy() JM/COT/Scripts/4_World/communityonlinetools\plugins\pluginadminlog.c : 114
+SCRIPT    (E):    EEHitBy() scripts/4_World/entities\manbase\playerbase.c : 665
+SCRIPT    (E):    EEHitBy() CFTools/4_World/playerbase.c : 108
+SCRIPT    (E):    EEHitBy() DayZExpansion/Scripts/4_World/dayzexpansion\entities\manbase\playerbase.c : 131
+SCRIPT    (E):    -----------------
+SCRIPT       : ============================================================================================================
+SCRIPT       : ==============================================WARNING=======================================================
+SCRIPT       : [WARNING 2021-04-30 20:12:51] ASSERTION NULL: Player has no identity or improperly programmed AI mod
+SCRIPT       : Do you see this message? Unless the time is within a second of the crash than this was not the cause.
+SCRIPT    (E):    -- Stack trace --
+SCRIPT    (E):    Assert_Log() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 289
+SCRIPT    (E):    Assert_Null() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 315
+SCRIPT    (E):    FormatSteamWebhook() JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c : 199
+SCRIPT    (E):    PlayerHitBy() JM/COT/Scripts/4_World/communityonlinetools\plugins\pluginadminlog.c : 114
+SCRIPT    (E):    EEHitBy() scripts/4_World/entities\manbase\playerbase.c : 665
+SCRIPT    (E):    EEHitBy() CFTools/4_World/playerbase.c : 108
+SCRIPT    (E):    EEHitBy() DayZExpansion/Scripts/4_World/dayzexpansion\entities\manbase\playerbase.c : 131
+SCRIPT    (E):    -----------------
+SCRIPT       : ============================================================================================================
+SCRIPT       : ==============================================WARNING=======================================================
+SCRIPT       : [WARNING 2021-04-30 20:12:51] ASSERTION NULL: Player has no identity or improperly programmed AI mod
+SCRIPT       : Do you see this message? Unless the time is within a second of the crash than this was not the cause.
+SCRIPT    (E):    -- Stack trace --
+SCRIPT    (E):    Assert_Log() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 289
+SCRIPT    (E):    Assert_Null() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 315
+SCRIPT    (E):    FormatSteamWebhook() JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c : 199
+SCRIPT    (E):    PlayerHitBy() JM/COT/Scripts/4_World/communityonlinetools\plugins\pluginadminlog.c : 114
+SCRIPT    (E):    EEHitBy() scripts/4_World/entities\manbase\playerbase.c : 665
+SCRIPT    (E):    EEHitBy() CFTools/4_World/playerbase.c : 108
+SCRIPT    (E):    EEHitBy() DayZExpansion/Scripts/4_World/dayzexpansion\entities\manbase\playerbase.c : 131
+SCRIPT    (E):    -----------------
+SCRIPT       : ============================================================================================================
+SCRIPT       : ExpansionRespawnHandlerModule::RPC_SelectSpawn - Start
+SCRIPT       : ExpansionRespawnHandlerModule::Exec_SelectSpawn - Start
+SCRIPT       : ExpansionRespawnHandlerModule::CloseSpawnMenu - Start
+SCRIPT       : ExpansionRespawnHandlerModule::CloseSpawnMenu - End
+SCRIPT       : ExpansionRespawnHandlerModule::Exec_SelectSpawn - End
+SCRIPT       : ExpansionRespawnHandlerModule::RPC_SelectSpawn - End
+SCRIPT       : 0.2025
+SCRIPT       : [Logout]: Player JZkjY6_Bx9U3-TFLWwEcYYgLhALZoeLA_fzJAN5QRHo= finished
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : 0.203
+SCRIPT       : 20:12:59.484 [EXPANSION DEBUG]: ItemBase::SendKnownUIDs ExpansionCodeLock<ca438f30> (parent=ExpansionWallBase<c7e13b50>)
+SCRIPT       : [Logout]: Player NxUrm_UJ0n0CZMNjIxR_yvKrCzMz2vFzvnjFIGZ6QR8= finished
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : 20:13:00.273 [EXPANSION DEBUG]: ItemBase::SendKnownUIDs ExpansionCodeLock<b2a14b80> (parent=ExpansionWallBase<afddd4d0>)
+SCRIPT       : [Logout]: Player E5UTtfn1dT7qHGK1eplot2pEGsCAbEtwEOeT_5xcta8= finished
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : 20:13:01.359 [EXPANSION DEBUG]: ItemBase::SendKnownUIDs ExpansionCodeLock<f2b03260> (parent=ExpansionWallBase<f25c5030>)
+SCRIPT       : 20:13:03.953 [EXPANSION DEBUG]: ItemBase::SendKnownUIDs ExpansionCodeLock<ec034620> (parent=ExpansionWallBase<eb6ed400>)
+SCRIPT       : 20:13:03.960 [EXPANSION DEBUG]: ItemBase::SendKnownUIDs ExpansionCodeLock<d67f7b60> (parent=ExpansionWallBase<d65254a0>)
+SCRIPT       : [Logout]: New player b76oXEmUFV6AfI8L4ccXA1oeWplq5bAKHyfbjou6Gjc= with logout time 15
+SCRIPT       : 20:13:05.085 [EXPANSION DEBUG]: ItemBase::SendKnownUIDs ExpansionCodeLock<d430c330> (parent=ExpansionWallBase<d3b04e60>)
+SCRIPT       : ********* LoadStats loading version: 115
+SCRIPT       : LOAD checksum:-1825047751
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : ExpansionMonitorModule::OnInvokeConnect player : SurvivorBase<9cb514a0>
+SCRIPT       : [Logout]: Player b76oXEmUFV6AfI8L4ccXA1oeWplq5bAKHyfbjou6Gjc= finished
+SCRIPT       : SAVE CHECKSUM:-1825047751
+SCRIPT       : [Logout]: New player jB_bOEJyq9mvxR8JFgT_HcJvTp5Ia8yUrdy9ee9TBak= with logout time 15
+SCRIPT       : [Logout]: New player X36VI23vs-8vFWd46RFQixHQ06CgdyeM0Aodesa-I7Y= with logout time 15
+SCRIPT       : [Logout]: New player uEktker4HmGzb7oPb6kYDEdZanzgm_1F8HgLLGlJh6A= with logout time 15
+SCRIPT       : [Logout]: New player HAJJVBThGTHWWvl6Zq0-6FYwGZCEYK-XImVzxQY81pw= with logout time 15
+SCRIPT       : [Logout]: New player XNFrXPdJgzoHVgB8T4ArFJFZ-u3heBZdVFlNWdS1mrw= with logout time 15
+SCRIPT       : [Logout]: New player eT97_abyXtAOZQfqIWJU_7k9fWF0WHrg0aBUl-_ArTE= with logout time 15
+SCRIPT       : [Logout]: New player dt0IeWRNhlfG4Cm-_mUrzB2E-BMVva8PeXRDK3X8K3A= with logout time 15
+SCRIPT       : [Logout]: New player LYmgjGa-2_06yKdFqcuW8uhaTt5PdqDcx23-T8YU4Qc= with logout time 15
+SCRIPT       : [Logout]: New player ncI6qs60Kx1rQkocDjWbCuPnXO5lkCrDpbXV4-ciguc= with logout time 15
+SCRIPT       : [Logout]: New player wrbBr47_7QOlbknQTc7Tkt2xm0Orr_Olu_2sLt7OkXQ= with logout time 15
+SCRIPT       : [Logout]: New player k1v-TVzHZ_uGPS5-QJtps9IPopXsZ9JcYlgvYXiEbCw= with logout time 15
+SCRIPT       : [Logout]: New player 2p1gom4qX6Rpn2I4ZvG5G0zjCMC1SosKZnJZDNeqVdQ= with logout time 15
+SCRIPT       : [Logout]: New player hrS-MIh0L86lTMNh0wfO6pDymkh23kVaYuuYOKaicAs= with logout time 15
+SCRIPT       : [Logout]: New player JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw= with logout time 15
+SCRIPT       : [Logout]: New player 2pnnQXvny6a7Huh8Sv2gCj6bNUfVW-sHj7NFeMcv-Oo= with logout time 15
+SCRIPT       : [Logout]: New player im7U8A_9rfW201fZALD-FEzYOrQNQF6ALYKQ7T84itY= with logout time 15
+SCRIPT       : [Logout]: New player nQvnhzxYJOhiM10q8sKUYsXsJBVKYPIVKFK5WaYGuOE= with logout time 15
+SCRIPT       : [Logout]: New player LXOlA4G9UF2SzD-Z3l0ly4QOUurVoMHpR3nmO4EQkDM= with logout time 15
+SCRIPT       : [Logout]: New player dWPukiDepgxKiAsBH5RHnu_JT9C00w84OtYfLlZ53pw= with logout time 15
+SCRIPT       : [Logout]: New player 8lg1r66OdEIEjrYmWM_1EyxHiMIwTPZ78JYNWIiGZxg= with logout time 15
+SCRIPT       : [Logout]: New player U9Yblbhn6I5SjOGmPMYTzi_d4tUTrnxNye4IlecKRTo= with logout time 15
+SCRIPT       : [Logout]: New player 6Y3vQEXv5e5g-XmHLnIeP5QSbwlJf-00GYAMbxfcXqU= with logout time 15
+SCRIPT       : [Logout]: New player PKAvgADMoiDK0iZCTCXowSMw5h0OgtXYFRmRghuev94= with logout time 15
+SCRIPT       : [Logout]: New player ptM2eUX76QXDK9lOwUUTxnA-rhxyCuqTU6yiggBCKHo= with logout time 15
+SCRIPT       : [Logout]: New player h-sXG2lbLnhahv3UEgEdxGIPq6w0pZqwHKDvWooNGlw= with logout time 15
+SCRIPT       : [Logout]: New player bpjzcK1rblJfT43vXuPThs6k3G5SpN25Kv_Tg_RuDVg= with logout time 15
+SCRIPT       : [Logout]: New player eAgSpgok7k5hHt4ccZZ7DGr-TQEZCnaexb1qSNAsm2w= with logout time 15
+SCRIPT       : [Logout]: New player DJNf5F1nFw371JlwUajNJrkqjMAmH5vs7POosXwk8_w= with logout time 15
+SCRIPT       : [Logout]: New player 7YhJQi5h4yyJWEUUqBrgPDtbYT7QsPs3U7hhYiZsdrc= with logout time 15
+SCRIPT       : [Logout]: New player oxFQHPUc5RynAjyhBBFNXwLsHkEK7czqulPJXNLTH4E= with logout time 15
+SCRIPT       : [Logout]: New player eL1JK3NVsJhoo-n2dXh8Rp8wm94FvEnKFdzJwwQg9I4= with logout time 15
+SCRIPT       : [Logout]: New player dJYqnVS2wbUdDl6pu7418NoLYHDfgVJdrRnDopXespM= with logout time 15
+SCRIPT       : [Logout]: New player TK8cfnzoE0WIIsRgdGkxHDsSyI6QguXDqQNtJYfoxPs= with logout time 15
+SCRIPT       : [Logout]: New player Flt76r47hPTB1vQoQmann2ov29XrHuKlynbn9nbRUdU= with logout time 15
+SCRIPT       : [Logout]: New player uyHNLQr6QhNjys2C4h76v2t5JQXm2fX3COrZVXl4tcs= with logout time 15
+SCRIPT       : [Logout]: New player fYEA1U9Nn53QK6SPMKzYvTjYqPaBE8vAmDBkm4JUJn0= with logout time 15
+SCRIPT       : [Logout]: New player Co-jmbeHMOdqaEpeE_Pfm0JDRV4JwwmqJaOzb13rLNU= with logout time 15
+SCRIPT       : [Logout]: New player BxOBDwU7cxEYxPM1c2hDb3vPvaU3QLxMXOfPLm9lkPs= with logout time 15
+SCRIPT       : [Logout]: New player YoLURG6x_jA4CzYQv4Q-D51y8B44HF06yW7XUVw5dTU= with logout time 15
+SCRIPT       : [Logout]: New player h72nIc7JktTUZNZwfB5KqxWXfC2YmH7BAvpa8cmJz8g= with logout time 15
+SCRIPT       : [Logout]: New player aNFc1OKQoOOfiL7qW9ZL6y5NyWTXBDszE23X5EwGj1A= with logout time 15
+SCRIPT       : [Logout]: New player 0qp_4D1AATmzr2Y-HoRLYoluRexbq0-jk-sYgxiCl7I= with logout time 15
+SCRIPT       : [Logout]: New player b7yYHyxPSt7b5iRQ7Oxu7UQNMf4j77-WmK6SwVQAZ5I= with logout time 15
+SCRIPT       : [Logout]: New player Q0zz3UTXmV4R7dyXYO3RFrYZ0LVD94uMH3fbrcXEeLM= with logout time 15
+SCRIPT       : ~DayZGame()
+SCRIPT       : 20:13:21 [EXPANSION LOG]: [ExpansionAirdropPlane] Deconstructor start
+SCRIPT       : 20:13:21 [EXPANSION LOG]: [ExpansionAirdropPlane] Deconstructor end

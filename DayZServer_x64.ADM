@@ -1,0 +1,638 @@
+
+
+******************************************************************************
+AdminLog started on 2021-04-30 at 20:00:45
+20:01:00 | CFToolsServerPlugin.MissionServer.OnInit() Performing initial checks...
+20:01:00 | {"service_id":"60216863f3448ec620a047d4","service_api_key":"VEuH1u+sjwXAsoUeZns6Xp8kekNJkEGAXVm4dRKJX4I=","version":"1.1"}
+20:01:01 | CFToolsServerPlugin.MissionServer.OnInit() Initial checks succeeded. [ServiceID: 60216863f3448ec620a047d4]
+20:01:01 | CFDZAddIn Loaded: expansion_chat
+20:01:01 | CFDZAddIn.Expansion.OnInit()
+20:01:24 | Player "(UKSF)Liggy117" is connected (id=jB_bOEJyq9mvxR8JFgT_HcJvTp5Ia8yUrdy9ee9TBak=)
+20:01:24 | Player "Survivor" is connected (id=X36VI23vs-8vFWd46RFQixHQ06CgdyeM0Aodesa-I7Y=)
+20:01:24 | Player "Spexed" is connected (id=OUDxO02um_kuOJaRRzT0FmbHEtKZgjPJBptBu6L53wk=)
+20:01:24 | Player "imhyprr" is connected (id=HAJJVBThGTHWWvl6Zq0-6FYwGZCEYK-XImVzxQY81pw=)
+20:01:25 | Player "|BWA| DieHappy*" is connected (id=uEktker4HmGzb7oPb6kYDEdZanzgm_1F8HgLLGlJh6A=)
+20:02:04 | Player "Kukifix" is connected (id=JZkjY6_Bx9U3-TFLWwEcYYgLhALZoeLA_fzJAN5QRHo=)
+20:02:04 | Player "AndyLT" is connected (id=XNFrXPdJgzoHVgB8T4ArFJFZ-u3heBZdVFlNWdS1mrw=)
+20:02:06 | Player "|BWA| SoSoO" is connected (id=eT97_abyXtAOZQfqIWJU_7k9fWF0WHrg0aBUl-_ArTE=)
+20:02:07 | Player "Rhino Ket" is connected (id=dt0IeWRNhlfG4Cm-_mUrzB2E-BMVva8PeXRDK3X8K3A=)
+20:02:10 | Player "Amikaze" is connected (id=LYmgjGa-2_06yKdFqcuW8uhaTt5PdqDcx23-T8YU4Qc=)
+20:02:44 | Player "Mermaider" is connected (id=ncI6qs60Kx1rQkocDjWbCuPnXO5lkCrDpbXV4-ciguc=)
+20:02:45 | Player "|BWA|bekeka" is connected (id=wrbBr47_7QOlbknQTc7Tkt2xm0Orr_Olu_2sLt7OkXQ=)
+20:02:46 | Player "JuicyApple" is connected (id=8lg1r66OdEIEjrYmWM_1EyxHiMIwTPZ78JYNWIiGZxg=)
+20:02:48 | Player "McNugget" is connected (id=NxUrm_UJ0n0CZMNjIxR_yvKrCzMz2vFzvnjFIGZ6QR8=)
+20:02:51 | Player "Jared" is connected (id=k1v-TVzHZ_uGPS5-QJtps9IPopXsZ9JcYlgvYXiEbCw=)
+20:03:22 | Player "Bullebengt" is connected (id=GgXxc6zzCpzUzqB3hW29RepmgR5m0ag-d72Zc0VRxGY=)
+20:03:25 | Player "RPR Bert" is connected (id=2p1gom4qX6Rpn2I4ZvG5G0zjCMC1SosKZnJZDNeqVdQ=)
+20:03:28 | Player "Chicken__Wing" is connected (id=E5UTtfn1dT7qHGK1eplot2pEGsCAbEtwEOeT_5xcta8=)
+20:03:31 | Player "Berti477" is connected (id=Q6MFSYfEtitQtnu9Iq0OcwAqGt7pSanel1C63dFeg2E=)
+20:03:33 | Player "|BWA| Dudu" is connected (id=hrS-MIh0L86lTMNh0wfO6pDymkh23kVaYuuYOKaicAs=)
+20:03:40 | Player "JuicyApple"(id=8lg1r66OdEIEjrYmWM_1EyxHiMIwTPZ78JYNWIiGZxg=) has been disconnected
+20:04:03 | Player "Kalamuchta" is connected (id=JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw=)
+20:04:05 | Player "Frenz" is connected (id=2pnnQXvny6a7Huh8Sv2gCj6bNUfVW-sHj7NFeMcv-Oo=)
+20:04:08 | Player "Manjarno" is connected (id=TjvNBpE-3PV8pWLY5BjihP5sWxOXGpNSLA2i3d_uPfk=)
+20:04:16 | Player "RPR Robby" is connected (id=nQvnhzxYJOhiM10q8sKUYsXsJBVKYPIVKFK5WaYGuOE=)
+20:04:20 | Player "PikkuMika" is connected (id=ukD_k45i9WqrgrRFfzvAUrGdgMfaOgjGzngMe-204AE=)
+20:04:46 | Player "TerryFox" is connected (id=h-sXG2lbLnhahv3UEgEdxGIPq6w0pZqwHKDvWooNGlw=)
+20:04:55 | Player "Frank" is connected (id=ptM2eUX76QXDK9lOwUUTxnA-rhxyCuqTU6yiggBCKHo=)
+20:04:56 | Player "EddY Eddson" is connected (id=nHKsTmLT8V4NPmrdRohimsKJA301SEwdt_Ejf5JhB4k=)
+20:04:58 | Player "Flux" is connected (id=LXOlA4G9UF2SzD-Z3l0ly4QOUurVoMHpR3nmO4EQkDM=)
+20:04:58 | Player "Muty" is connected (id=b76oXEmUFV6AfI8L4ccXA1oeWplq5bAKHyfbjou6Gjc=)
+20:05:02 | Player "imhyprr" (id=HAJJVBThGTHWWvl6Zq0-6FYwGZCEYK-XImVzxQY81pw= pos=<8539.1, 13964.7, 202.4>)[HP: 95.468] hit by Infected into Torso(1) for 4.5 damage (MeleeZombie_Heavy)
+20:05:26 | Player "MayneKeen" is connected (id=fYEA1U9Nn53QK6SPMKzYvTjYqPaBE8vAmDBkm4JUJn0=)
+20:05:28 | Player "imhyprr" (id=HAJJVBThGTHWWvl6Zq0-6FYwGZCEYK-XImVzxQY81pw= pos=<8554.3, 13983.5, 202.5>)[HP: 94.6282] hit by Infected into LeftArm(18) for 5 damage (MeleeZombie)
+20:05:31 | Player "RPR DE_LICIOUS" is connected (id=im7U8A_9rfW201fZALD-FEzYOrQNQF6ALYKQ7T84itY=)
+20:05:40 | Player "The_13abyKnight" is connected (id=bpjzcK1rblJfT43vXuPThs6k3G5SpN25Kv_Tg_RuDVg=)
+20:05:41 | Player "starberry" is connected (id=U9Yblbhn6I5SjOGmPMYTzi_d4tUTrnxNye4IlecKRTo=)
+20:05:46 | Player "(UKSF)Liggy117" (id=jB_bOEJyq9mvxR8JFgT_HcJvTp5Ia8yUrdy9ee9TBak= pos=<4867.1, 10217.6, 339.1>)[HP: 88.5114] hit by Player "Frenz" (id=2pnnQXvny6a7Huh8Sv2gCj6bNUfVW-sHj7NFeMcv-Oo= pos=<4871.6, 10214, 339.1>) into RightHand(47) for 86.1164 damage (Bullet_556x45) with G36C from 5.85645 meters 
+20:05:47 | Player "(UKSF)Liggy117" (id=jB_bOEJyq9mvxR8JFgT_HcJvTp5Ia8yUrdy9ee9TBak= pos=<4867.5, 10215.1, 339.1>)[HP: 56.4944] hit by Player "Frenz" (id=2pnnQXvny6a7Huh8Sv2gCj6bNUfVW-sHj7NFeMcv-Oo= pos=<4868.5, 10213.1, 339.1>) into Torso(16) for 32.107 damage (Bullet_556x45) with G36C from 2.2158 meters 
+20:05:47 | Player "(UKSF)Liggy117" (id=jB_bOEJyq9mvxR8JFgT_HcJvTp5Ia8yUrdy9ee9TBak= pos=<4867.4, 10214.9, 339.1>)[HP: 45.8991] hit by Player "Frenz" (id=2pnnQXvny6a7Huh8Sv2gCj6bNUfVW-sHj7NFeMcv-Oo= pos=<4868.4, 10213, 339.1>) into LeftArm(18) for 32.107 damage (Bullet_556x45) with G36C from 2.12985 meters 
+20:05:48 | Player "Frenz" (id=2pnnQXvny6a7Huh8Sv2gCj6bNUfVW-sHj7NFeMcv-Oo= pos=<4868.3, 10213, 339.1>)[HP: 73.0523] hit by Player "(UKSF)Liggy117" (id=jB_bOEJyq9mvxR8JFgT_HcJvTp5Ia8yUrdy9ee9TBak= pos=<4867.2, 10214.7, 339.1>) into Torso(16) for 26.9416 damage (Bullet_762x39) with AKM from 2.01312 meters 
+20:05:48 | Player "(UKSF)Liggy117" (id=jB_bOEJyq9mvxR8JFgT_HcJvTp5Ia8yUrdy9ee9TBak= pos=<4867.0, 10214.6, 339.1>) is unconscious
+20:05:48 | Player "(UKSF)Liggy117" (id=jB_bOEJyq9mvxR8JFgT_HcJvTp5Ia8yUrdy9ee9TBak= pos=<4866.9, 10214.6, 339.1>)[HP: 13.7922] hit by Player "Frenz" (id=2pnnQXvny6a7Huh8Sv2gCj6bNUfVW-sHj7NFeMcv-Oo= pos=<4868.5, 10213.1, 339.1>) into Torso(15) for 32.107 damage (Bullet_556x45) with G36C from 2.24467 meters 
+20:05:49 | Player "RPR Bert" (id=2p1gom4qX6Rpn2I4ZvG5G0zjCMC1SosKZnJZDNeqVdQ= pos=<12448.5, 14861.9, 122.6>)[HP: 98.6844] hit by Infected into LeftLeg(8) for 5 damage (MeleeZombie)
+20:05:54 | Player "EddY Eddson"(id=nHKsTmLT8V4NPmrdRohimsKJA301SEwdt_Ejf5JhB4k=) has been disconnected
+20:06:00 | Player "(UKSF)Liggy117" (DEAD) (id=jB_bOEJyq9mvxR8JFgT_HcJvTp5Ia8yUrdy9ee9TBak= pos=<4866.3, 10215, 339.1>)[HP: 0] hit by Player "Frenz" (id=2pnnQXvny6a7Huh8Sv2gCj6bNUfVW-sHj7NFeMcv-Oo= pos=<4866.7, 10215.8, 339.1>) into Head(0) for 22.4513 damage (Bullet_762x39) with AKM from 0.92363 meters 
+20:06:00 | Player "(UKSF)Liggy117" (DEAD) (id=jB_bOEJyq9mvxR8JFgT_HcJvTp5Ia8yUrdy9ee9TBak= pos=<4866.3, 10215, 339.1>) killed by Player "Frenz" (id=2pnnQXvny6a7Huh8Sv2gCj6bNUfVW-sHj7NFeMcv-Oo= pos=<4866.7, 10215.8, 339.1>) with AKM from 0.92363 meters 
+20:06:11 | Player "Jeffery" is connected (id=6Y3vQEXv5e5g-XmHLnIeP5QSbwlJf-00GYAMbxfcXqU=)
+20:06:12 | Player "kapci" is connected (id=PKAvgADMoiDK0iZCTCXowSMw5h0OgtXYFRmRghuev94=)
+20:06:21 | Player "RPR Robby" (id=nQvnhzxYJOhiM10q8sKUYsXsJBVKYPIVKFK5WaYGuOE= pos=<12884.2, 15134.3, 63.6>)[HP: 85.007] hit by Infected into RightLeg(3) for 5 damage (MeleeZombie)
+20:06:22 | ##### PlayerList log: 31 players
+20:06:22 | Player "(UKSF)Liggy117" (DEAD) (id=jB_bOEJyq9mvxR8JFgT_HcJvTp5Ia8yUrdy9ee9TBak= pos=<4866.2, 10214.9, 339.1>)
+20:06:22 | Player "|BWA| DieHappy*" (id=uEktker4HmGzb7oPb6kYDEdZanzgm_1F8HgLLGlJh6A= pos=<1228.4, 12305, 374.0>)
+20:06:22 | Player "imhyprr" (id=HAJJVBThGTHWWvl6Zq0-6FYwGZCEYK-XImVzxQY81pw= pos=<8530, 13992.2, 203.3>)
+20:06:22 | Player "Survivor" (id=X36VI23vs-8vFWd46RFQixHQ06CgdyeM0Aodesa-I7Y= pos=<2135.0, 3384.6, 92.2>)
+20:06:22 | Player "Spexed" (id=OUDxO02um_kuOJaRRzT0FmbHEtKZgjPJBptBu6L53wk= pos=<4466.5, 8280.7, 314.3>)
+20:06:22 | Player "Kukifix" (id=JZkjY6_Bx9U3-TFLWwEcYYgLhALZoeLA_fzJAN5QRHo= pos=<4208.6, 11021.4, 338.4>)
+20:06:22 | Player "AndyLT" (id=XNFrXPdJgzoHVgB8T4ArFJFZ-u3heBZdVFlNWdS1mrw= pos=<1663.3, 3991.9, 145.8>)
+20:06:22 | Player "|BWA| SoSoO" (id=eT97_abyXtAOZQfqIWJU_7k9fWF0WHrg0aBUl-_ArTE= pos=<1505.3, 12008.3, 278.8>)
+20:06:22 | Player "Rhino Ket" (id=dt0IeWRNhlfG4Cm-_mUrzB2E-BMVva8PeXRDK3X8K3A= pos=<1667.7, 3843.8, 144.0>)
+20:06:22 | Player "Amikaze" (id=LYmgjGa-2_06yKdFqcuW8uhaTt5PdqDcx23-T8YU4Qc= pos=<774.4, 1885.3, 6.1>)
+20:06:22 | Player "Mermaider" (id=ncI6qs60Kx1rQkocDjWbCuPnXO5lkCrDpbXV4-ciguc= pos=<11447.1, 7484.5, 225.4>)
+20:06:22 | Player "|BWA|bekeka" (id=wrbBr47_7QOlbknQTc7Tkt2xm0Orr_Olu_2sLt7OkXQ= pos=<1562.3, 11958.7, 277.5>)
+20:06:22 | Player "McNugget" (id=NxUrm_UJ0n0CZMNjIxR_yvKrCzMz2vFzvnjFIGZ6QR8= pos=<3713.8, 5982.6, 405.1>)
+20:06:22 | Player "Jared" (id=k1v-TVzHZ_uGPS5-QJtps9IPopXsZ9JcYlgvYXiEbCw= pos=<11254.8, 4269.8, 313.3>)
+20:06:22 | Player "Bullebengt" (id=GgXxc6zzCpzUzqB3hW29RepmgR5m0ag-d72Zc0VRxGY= pos=<4136.4, 11058.1, 341.1>)
+20:06:22 | Player "RPR Bert" (id=2p1gom4qX6Rpn2I4ZvG5G0zjCMC1SosKZnJZDNeqVdQ= pos=<12335.3, 14865.3, 132.1>)
+20:06:22 | Player "Chicken__Wing" (id=E5UTtfn1dT7qHGK1eplot2pEGsCAbEtwEOeT_5xcta8= pos=<4140.0, 10622.4, 340.2>)
+20:06:22 | Player "Berti477" (id=Q6MFSYfEtitQtnu9Iq0OcwAqGt7pSanel1C63dFeg2E= pos=<12148.5, 9751.3, 15.3>)
+20:06:22 | Player "|BWA| Dudu" (id=hrS-MIh0L86lTMNh0wfO6pDymkh23kVaYuuYOKaicAs= pos=<1418.2, 11943.8, 287.1>)
+20:06:22 | Player "Kalamuchta" (id=JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw= pos=<12174.5, 9747.9, 11.5>)
+20:06:22 | Player "Frenz" (id=2pnnQXvny6a7Huh8Sv2gCj6bNUfVW-sHj7NFeMcv-Oo= pos=<4866.6, 10214.9, 339.1>)
+20:06:22 | Player "Manjarno" (id=TjvNBpE-3PV8pWLY5BjihP5sWxOXGpNSLA2i3d_uPfk= pos=<3708.0, 5991, 402.0>)
+20:06:22 | Player "RPR Robby" (id=nQvnhzxYJOhiM10q8sKUYsXsJBVKYPIVKFK5WaYGuOE= pos=<12886.7, 15137.9, 63.6>)
+20:06:22 | Player "PikkuMika" (id=ukD_k45i9WqrgrRFfzvAUrGdgMfaOgjGzngMe-204AE= pos=<13837.8, 15294.6, 156.1>)
+20:06:22 | Player "TerryFox" (id=h-sXG2lbLnhahv3UEgEdxGIPq6w0pZqwHKDvWooNGlw= pos=<2999.3, 7875.6, 313.4>)
+20:06:22 | Player "Frank" (id=ptM2eUX76QXDK9lOwUUTxnA-rhxyCuqTU6yiggBCKHo= pos=<12406, 14788.1, 116.9>)
+20:06:22 | Player "Flux" (id=LXOlA4G9UF2SzD-Z3l0ly4QOUurVoMHpR3nmO4EQkDM= pos=<753.3, 1862.9, 6.1>)
+20:06:22 | Player "Muty" (id=b76oXEmUFV6AfI8L4ccXA1oeWplq5bAKHyfbjou6Gjc= pos=<7028.9, 7680.0, 296.2>)
+20:06:22 | Player "MayneKeen" (id=fYEA1U9Nn53QK6SPMKzYvTjYqPaBE8vAmDBkm4JUJn0= pos=<11441.9, 7477.8, 225.4>)
+20:06:22 | Player "RPR DE_LICIOUS" (id=im7U8A_9rfW201fZALD-FEzYOrQNQF6ALYKQ7T84itY= pos=<12490.9, 3557.6, 6.7>)
+20:06:22 | Player "starberry" (id=U9Yblbhn6I5SjOGmPMYTzi_d4tUTrnxNye4IlecKRTo= pos=<2676.6, 5239.4, 203.9>)
+20:06:22 | #####
+20:06:25 | Player "JuicyApple" is connected (id=8lg1r66OdEIEjrYmWM_1EyxHiMIwTPZ78JYNWIiGZxg=)
+20:06:25 | Player "BigDog" is connected (id=E26YqVBUc4-BgscX8pDFhvv8mR1aUzK4rDTppguh1wI=)
+20:06:27 | Player "RPR Robby" (id=nQvnhzxYJOhiM10q8sKUYsXsJBVKYPIVKFK5WaYGuOE= pos=<12879.6, 15141, 63.8>)[HP: 83.4793] hit by Infected into RightArm(17) for 5 damage (MeleeZombie)
+20:06:30 | Player "wyrafinowana suczka" is connected (id=dWPukiDepgxKiAsBH5RHnu_JT9C00w84OtYfLlZ53pw=)
+20:06:31 | Player "RPR Bert" (id=2p1gom4qX6Rpn2I4ZvG5G0zjCMC1SosKZnJZDNeqVdQ= pos=<12329.1, 14856.9, 133.3>)[HP: 98.2948] hit by Infected into RightArm(17) for 5 damage (MeleeZombie)
+20:06:32 | Player "RPR Bert" (id=2p1gom4qX6Rpn2I4ZvG5G0zjCMC1SosKZnJZDNeqVdQ= pos=<12329.1, 14856.9, 133.2>)[HP: 97.1348] hit by Infected into LeftLeg(8) for 5 damage (MeleeZombie)
+20:06:44 | Player "Amikaze" (id=LYmgjGa-2_06yKdFqcuW8uhaTt5PdqDcx23-T8YU4Qc= pos=<762.3, 1888.9, 6.1>)[HP: 65.8543] hit by Player "Flux" (id=LXOlA4G9UF2SzD-Z3l0ly4QOUurVoMHpR3nmO4EQkDM= pos=<754.3, 1865.1, 6.1>) into Torso(24) for 34.1426 damage (Bullet_12GaugePellets) with Armsan RS-X1 from 25.0745 meters 
+20:06:51 | Player "Flux" (id=LXOlA4G9UF2SzD-Z3l0ly4QOUurVoMHpR3nmO4EQkDM= pos=<757.9, 1875.3, 6.1>)[HP: 67.6894] hit by Infected into Torso(1) for 5 damage (MeleeZombie)
+20:06:52 | Player "Richy"(id=Unknown) has been disconnected
+20:06:53 | Player "RUFUS THE GREAT" is connected (id=eAgSpgok7k5hHt4ccZZ7DGr-TQEZCnaexb1qSNAsm2w=)
+20:06:53 | Player "Flux" (id=LXOlA4G9UF2SzD-Z3l0ly4QOUurVoMHpR3nmO4EQkDM= pos=<759.9, 1876.0, 6.1>)[HP: 66.1294] hit by Infected into LeftArm(18) for 5 damage (MeleeZombie)
+20:06:54 | Player "Show it" is connected (id=DJNf5F1nFw371JlwUajNJrkqjMAmH5vs7POosXwk8_w=)
+20:06:56 | Player "Kukifix" (id=JZkjY6_Bx9U3-TFLWwEcYYgLhALZoeLA_fzJAN5QRHo= pos=<4183.5, 11077.8, 338.4>)[HP: 98.8063] hit by Infected into Torso(1) for 1.125 damage (MeleeZombie)
+20:07:02 | Player "Ward" is connected (id=oxFQHPUc5RynAjyhBBFNXwLsHkEK7czqulPJXNLTH4E=)
+20:07:04 | Player "Amikaze" (id=LYmgjGa-2_06yKdFqcuW8uhaTt5PdqDcx23-T8YU4Qc= pos=<771.6, 1875.9, 6.1>)[HP: 55.9439] hit by Player "Flux" (id=LXOlA4G9UF2SzD-Z3l0ly4QOUurVoMHpR3nmO4EQkDM= pos=<767.5, 1879.5, 6.1>) into LeftLeg(11) for 42 damage (Bullet_12GaugePellets) with Armsan RS-X1 from 5.38564 meters 
+20:07:05 | Player "Amikaze" (id=LYmgjGa-2_06yKdFqcuW8uhaTt5PdqDcx23-T8YU4Qc= pos=<769.9, 1874.8, 6.1>)[HP: 54.2939] hit by Infected into RightArm(17) for 5 damage (MeleeZombie_Heavy)
+20:07:07 | Player "Kukifix" (id=JZkjY6_Bx9U3-TFLWwEcYYgLhALZoeLA_fzJAN5QRHo= pos=<4174.5, 11079.1, 338.4>)[HP: 98.6641] hit by Infected into RightArm(17) for 1.25 damage (MeleeZombie)
+20:07:08 | Player "Kukifix" (id=JZkjY6_Bx9U3-TFLWwEcYYgLhALZoeLA_fzJAN5QRHo= pos=<4174.3, 11079, 338.4>)[HP: 97.4141] hit by Infected into LeftLeg(8) for 5 damage (MeleeZombie_Heavy)
+20:07:08 | Player "Kukifix" (id=JZkjY6_Bx9U3-TFLWwEcYYgLhALZoeLA_fzJAN5QRHo= pos=<4173.9, 11079.1, 338.4>)[HP: 97.0916] hit by Infected into LeftArm(18) for 1.25 damage (MeleeZombie)
+20:07:10 | Player "Kukifix" (id=JZkjY6_Bx9U3-TFLWwEcYYgLhALZoeLA_fzJAN5QRHo= pos=<4173.4, 11078.7, 338.4>)[HP: 95.8416] hit by Infected into RightLeg(3) for 5 damage (MeleeZombie_Heavy)
+20:07:10 | Player "Kukifix" (id=JZkjY6_Bx9U3-TFLWwEcYYgLhALZoeLA_fzJAN5QRHo= pos=<4173.3, 11078.5, 338.4>)[HP: 94.5916] hit by Infected into LeftLeg(8) for 5 damage (MeleeZombie_Heavy)
+20:07:11 | Player "Kukifix" (id=JZkjY6_Bx9U3-TFLWwEcYYgLhALZoeLA_fzJAN5QRHo= pos=<4173.4, 11078.5, 338.4>)[HP: 93.4666] hit by Infected into Torso(1) for 1.125 damage (MeleeZombie_Heavy)
+20:07:12 | Player "Kukifix" (id=JZkjY6_Bx9U3-TFLWwEcYYgLhALZoeLA_fzJAN5QRHo= pos=<4173.6, 11078.9, 338.4>)[HP: 93.142] hit by Infected into LeftArm(18) for 1.25 damage (MeleeZombie_Heavy)
+20:07:12 | Player "Kukifix" (id=JZkjY6_Bx9U3-TFLWwEcYYgLhALZoeLA_fzJAN5QRHo= pos=<4173.6, 11078.9, 338.4>)[HP: 92.7295] hit by Infected into LeftArm(18) for 1.25 damage (MeleeZombie)
+20:07:12 | Player "Kukifix" (id=JZkjY6_Bx9U3-TFLWwEcYYgLhALZoeLA_fzJAN5QRHo= pos=<4173.3, 11078.4, 339.8>)[HP: 92.317] hit by Infected into LeftArm(18) for 1.25 damage (MeleeZombie)
+20:07:13 | Player "Amikaze" (id=LYmgjGa-2_06yKdFqcuW8uhaTt5PdqDcx23-T8YU4Qc= pos=<782.2, 1879.7, 6.0>)[HP: 19.5167] hit by Player "Flux" (id=LXOlA4G9UF2SzD-Z3l0ly4QOUurVoMHpR3nmO4EQkDM= pos=<788.1, 1883.0, 6.0>) into Torso(24) for 35 damage (Bullet_12GaugePellets) with Armsan RS-X1 from 6.74238 meters 
+20:07:13 | Player "Amikaze" (DEAD) (id=LYmgjGa-2_06yKdFqcuW8uhaTt5PdqDcx23-T8YU4Qc= pos=<782.2, 1879.7, 6.0>)[HP: 0] hit by Player "Flux" (id=LXOlA4G9UF2SzD-Z3l0ly4QOUurVoMHpR3nmO4EQkDM= pos=<788.1, 1883.0, 6.0>) into Torso(24) for 35 damage (Bullet_12GaugePellets) with Armsan RS-X1 from 6.74238 meters 
+20:07:13 | Player "Amikaze" (DEAD) (id=LYmgjGa-2_06yKdFqcuW8uhaTt5PdqDcx23-T8YU4Qc= pos=<782.2, 1879.7, 6.0>) killed by Player "Flux" (id=LXOlA4G9UF2SzD-Z3l0ly4QOUurVoMHpR3nmO4EQkDM= pos=<788.1, 1883.0, 6.0>) with Armsan RS-X1 from 6.74238 meters 
+20:07:13 | Player "Amikaze" (DEAD) (id=LYmgjGa-2_06yKdFqcuW8uhaTt5PdqDcx23-T8YU4Qc= pos=<782.2, 1879.7, 6.0>)[HP: 0] hit by Player "Flux" (id=LXOlA4G9UF2SzD-Z3l0ly4QOUurVoMHpR3nmO4EQkDM= pos=<788.1, 1883.0, 6.0>) into RightArm(17) for 35 damage (Bullet_12GaugePellets) with Armsan RS-X1 from 6.74238 meters 
+20:07:13 | Player "Amikaze" (DEAD) (id=LYmgjGa-2_06yKdFqcuW8uhaTt5PdqDcx23-T8YU4Qc= pos=<782.2, 1879.7, 6.0>)[HP: 0] hit by Player "Flux" (id=LXOlA4G9UF2SzD-Z3l0ly4QOUurVoMHpR3nmO4EQkDM= pos=<788.1, 1883.0, 6.0>) into Torso(24) for 35 damage (Bullet_12GaugePellets) with Armsan RS-X1 from 6.74238 meters 
+20:07:13 | Player "Amikaze" (DEAD) (id=LYmgjGa-2_06yKdFqcuW8uhaTt5PdqDcx23-T8YU4Qc= pos=<781.0, 1879.7, 6.0>)[HP: 0] hit by Infected into RightLeg(3) for 4.5 damage (MeleeZombie)
+20:07:18 | Player "MayneKeen"(id=fYEA1U9Nn53QK6SPMKzYvTjYqPaBE8vAmDBkm4JUJn0=) has been disconnected
+20:07:22 | Player "Incredible " is connected (id=7MwFfIp7YhMHoiPmAqD0-UB9QUmEAyB5mwCcbRzlL6Q=)
+20:07:24 | Player "Bullebengt" (id=GgXxc6zzCpzUzqB3hW29RepmgR5m0ag-d72Zc0VRxGY= pos=<4177.6, 11066.6, 338.4>)[HP: 98.7348] hit by Infected into RightLeg(3) for 5 damage (MeleeZombie)
+20:07:25 | Player "Bullebengt" (id=GgXxc6zzCpzUzqB3hW29RepmgR5m0ag-d72Zc0VRxGY= pos=<4177.5, 11066.8, 338.4>)[HP: 98.4075] hit by Infected into RightArm(17) for 1.25 damage (MeleeZombie)
+20:07:25 | Player "Bullebengt" (id=GgXxc6zzCpzUzqB3hW29RepmgR5m0ag-d72Zc0VRxGY= pos=<4177.4, 11066.9, 338.4>)[HP: 97.345] hit by Infected into Torso(1) for 1.0625 damage (MeleeZombie)
+20:07:26 | Player "Survivor (2)" is connected (id=aNFc1OKQoOOfiL7qW9ZL6y5NyWTXBDszE23X5EwGj1A=)
+20:07:26 | Player "Bullebengt" (id=GgXxc6zzCpzUzqB3hW29RepmgR5m0ag-d72Zc0VRxGY= pos=<4177.2, 11067, 338.4>)[HP: 96.9325] hit by Infected into LeftArm(18) for 1.25 damage (MeleeZombie)
+20:07:27 | Player "Bullebengt" (id=GgXxc6zzCpzUzqB3hW29RepmgR5m0ag-d72Zc0VRxGY= pos=<4177.3, 11066.9, 338.4>)[HP: 96.52] hit by Infected into LeftArm(18) for 1.25 damage (MeleeZombie)
+20:07:27 | Player "Bullebengt" (id=GgXxc6zzCpzUzqB3hW29RepmgR5m0ag-d72Zc0VRxGY= pos=<4177.5, 11067.3, 338.4>)[HP: 95.27] hit by Infected into LeftLeg(8) for 5 damage (MeleeZombie)
+20:07:28 | Player "Bullebengt" (id=GgXxc6zzCpzUzqB3hW29RepmgR5m0ag-d72Zc0VRxGY= pos=<4177.6, 11067.3, 338.4>)[HP: 94.2915] hit by Infected into Torso(1) for 1.0625 damage (MeleeZombie)
+20:07:29 | Player "Bullebengt" (id=GgXxc6zzCpzUzqB3hW29RepmgR5m0ag-d72Zc0VRxGY= pos=<4177.6, 11067.4, 338.4>)[HP: 93.229] hit by Infected into Torso(1) for 1.0625 damage (MeleeZombie_Heavy)
+20:07:29 | Player "Celerity" is connected (id=7YhJQi5h4yyJWEUUqBrgPDtbYT7QsPs3U7hhYiZsdrc=)
+20:07:38 | Player "Flux" (id=LXOlA4G9UF2SzD-Z3l0ly4QOUurVoMHpR3nmO4EQkDM= pos=<782.6, 1880.3, 6.0>)[HP: 65.8302] hit by Infected into RightArm(17) for 5 damage (MeleeZombie)
+20:07:40 | Player "Mihaela" is connected (id=INX-qeJ2ikqEcrOoUZa8opXP6TFtZpXGicdg-GHp-fg=)
+20:07:40 | Player "EddY Eddson" is connected (id=nHKsTmLT8V4NPmrdRohimsKJA301SEwdt_Ejf5JhB4k=)
+20:07:40 | Chat[Admin]("The_13abyKnight"(id=bpjzcK1rblJfT43vXuPThs6k3G5SpN25Kv_Tg_RuDVg=)): zzz we need to do a rollback again
+20:07:40 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:07:47 | Chat[Admin]("The_13abyKnight"(id=bpjzcK1rblJfT43vXuPThs6k3G5SpN25Kv_Tg_RuDVg=)): all bases in severo are gone again
+20:07:47 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:07:56 | Player "Flux" (id=LXOlA4G9UF2SzD-Z3l0ly4QOUurVoMHpR3nmO4EQkDM= pos=<778.0, 1878.9, 6.0>)[HP: 64.7206] hit by Infected into LeftArm(18) for 5 damage (MeleeZombie)
+20:07:57 | Player "Flux" (id=LXOlA4G9UF2SzD-Z3l0ly4QOUurVoMHpR3nmO4EQkDM= pos=<778.2, 1879.2, 6.0>)[HP: 63.0706] hit by Infected into LeftArm(18) for 5 damage (MeleeZombie_Heavy)
+20:07:57 | Player "Flux" (id=LXOlA4G9UF2SzD-Z3l0ly4QOUurVoMHpR3nmO4EQkDM= pos=<778.3, 1879.2, 6.0>)[HP: 61.8206] hit by Infected into LeftLeg(8) for 5 damage (MeleeZombie_Heavy)
+20:07:59 | Chat[Global]("Survivor"(id=X36VI23vs-8vFWd46RFQixHQ06CgdyeM0Aodesa-I7Y=)): how long rollbacak
+20:07:59 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:08:06 | Player "Danny" is connected (id=eL1JK3NVsJhoo-n2dXh8Rp8wm94FvEnKFdzJwwQg9I4=)
+20:08:07 | Player "riczi" is connected (id=dJYqnVS2wbUdDl6pu7418NoLYHDfgVJdrRnDopXespM=)
+20:08:08 | Chat[Global]("Ward"(id=oxFQHPUc5RynAjyhBBFNXwLsHkEK7czqulPJXNLTH4E=)): wahts a rollback
+20:08:08 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:08:09 | Player "Flux" (id=LXOlA4G9UF2SzD-Z3l0ly4QOUurVoMHpR3nmO4EQkDM= pos=<750.0, 1866.7, 6.1>)[HP: 57.1744] hit by Infected into Torso(1) for 5 damage (MeleeZombie)
+20:08:11 | Player "Yarden" is connected (id=TK8cfnzoE0WIIsRgdGkxHDsSyI6QguXDqQNtJYfoxPs=)
+20:08:11 | Player "Flux" (id=LXOlA4G9UF2SzD-Z3l0ly4QOUurVoMHpR3nmO4EQkDM= pos=<741.3, 1864.0, 6.1>)[HP: 56.0101] hit by Infected into RightLeg(3) for 5 damage (MeleeZombie)
+20:08:12 | Player "Muty" (id=b76oXEmUFV6AfI8L4ccXA1oeWplq5bAKHyfbjou6Gjc= pos=<6942.0, 7677.0, 296.9>)[HP: 66.3998] hit by Player "Jeffery" (id=6Y3vQEXv5e5g-XmHLnIeP5QSbwlJf-00GYAMbxfcXqU= pos=<6976.7, 7744.1, 297.5>) into Torso(24) for 33.5483 damage (Bullet_762x54) with Mosin 91/30 from 75.5504 meters 
+20:08:15 | Player "TRixiNO" is connected (id=Flt76r47hPTB1vQoQmann2ov29XrHuKlynbn9nbRUdU=)
+20:08:15 | Player "AlexSK" is connected (id=uyHNLQr6QhNjys2C4h76v2t5JQXm2fX3COrZVXl4tcs=)
+20:08:17 | Chat[Global]("imhyprr"(id=HAJJVBThGTHWWvl6Zq0-6FYwGZCEYK-XImVzxQY81pw=)): rollback?
+20:08:17 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:08:19 | Chat[Global]("Jared"(id=k1v-TVzHZ_uGPS5-QJtps9IPopXsZ9JcYlgvYXiEbCw=)): rollback?
+20:08:19 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:08:24 | Chat[Global]("Celerity"(id=7YhJQi5h4yyJWEUUqBrgPDtbYT7QsPs3U7hhYiZsdrc=)): what avout a rollback
+20:08:24 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:08:27 | Chat[Global]("Survivor"(id=X36VI23vs-8vFWd46RFQixHQ06CgdyeM0Aodesa-I7Y=)): Server goes back to a savepoint a while back
+20:08:27 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:08:27 | Player "Incredible "(id=7MwFfIp7YhMHoiPmAqD0-UB9QUmEAyB5mwCcbRzlL6Q=) has been disconnected
+20:08:31 | Player "EddY Eddson"(id=nHKsTmLT8V4NPmrdRohimsKJA301SEwdt_Ejf5JhB4k=) has been disconnected
+20:08:31 | Chat[Admin]("The_13abyKnight"(id=bpjzcK1rblJfT43vXuPThs6k3G5SpN25Kv_Tg_RuDVg=)): We'll need to go back in time 1-2 hours,
+20:08:31 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:08:33 | Chat[Global]("imhyprr"(id=HAJJVBThGTHWWvl6Zq0-6FYwGZCEYK-XImVzxQY81pw=)): ward is that u 
+20:08:33 | Chat[Global]("Celerity"(id=7YhJQi5h4yyJWEUUqBrgPDtbYT7QsPs3U7hhYiZsdrc=)): from how longago
+20:08:33 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:08:34 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:08:35 | Chat[Global]("Ward"(id=oxFQHPUc5RynAjyhBBFNXwLsHkEK7czqulPJXNLTH4E=)): rip
+20:08:35 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:08:36 | Chat[Global]("Survivor"(id=X36VI23vs-8vFWd46RFQixHQ06CgdyeM0Aodesa-I7Y=)): basically your past hour or 2 is gone
+20:08:36 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:08:37 | Chat[Admin]("The_13abyKnight"(id=bpjzcK1rblJfT43vXuPThs6k3G5SpN25Kv_Tg_RuDVg=)): because some bases have disappeared
+20:08:37 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:08:37 | Chat[Global]("Berti477"(id=Q6MFSYfEtitQtnu9Iq0OcwAqGt7pSanel1C63dFeg2E=)): wtf
+20:08:37 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:08:38 | Player "Flux" (id=LXOlA4G9UF2SzD-Z3l0ly4QOUurVoMHpR3nmO4EQkDM= pos=<758.5, 1913.5, 6.1>)[HP: 55.0842] hit by Infected into LeftArm(18) for 5 damage (MeleeZombie)
+20:08:39 | Chat[Global]("Berti477"(id=Q6MFSYfEtitQtnu9Iq0OcwAqGt7pSanel1C63dFeg2E=)): WTF
+20:08:39 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:08:40 | Chat[Global]("Ward"(id=oxFQHPUc5RynAjyhBBFNXwLsHkEK7czqulPJXNLTH4E=)): Yea it is
+20:08:40 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:08:41 | Player "MayneKeen" is connected (id=fYEA1U9Nn53QK6SPMKzYvTjYqPaBE8vAmDBkm4JUJn0=)
+20:08:43 | Chat[Admin]("The_13abyKnight"(id=bpjzcK1rblJfT43vXuPThs6k3G5SpN25Kv_Tg_RuDVg=)): We thought DayZ fixed this with the hotfix
+20:08:43 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:08:45 | Chat[Global]("Rhino Ket"(id=dt0IeWRNhlfG4Cm-_mUrzB2E-BMVva8PeXRDK3X8K3A=)): I will have a roll and chips please
+20:08:45 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:08:46 | Chat[Admin]("The_13abyKnight"(id=bpjzcK1rblJfT43vXuPThs6k3G5SpN25Kv_Tg_RuDVg=)): Seems like not :|
+20:08:46 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:08:46 | Chat[Global]("Berti477"(id=Q6MFSYfEtitQtnu9Iq0OcwAqGt7pSanel1C63dFeg2E=)): 1-2 HOUERS
+20:08:46 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:08:46 | Player "candrei98"(id=Unknown) has been disconnected
+20:08:49 | Player "EddY Eddson" is connected (id=nHKsTmLT8V4NPmrdRohimsKJA301SEwdt_Ejf5JhB4k=)
+20:08:50 | Chat[Global]("Berti477"(id=Q6MFSYfEtitQtnu9Iq0OcwAqGt7pSanel1C63dFeg2E=)): JESUS
+20:08:51 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:08:51 | Chat[Global]("imhyprr"(id=HAJJVBThGTHWWvl6Zq0-6FYwGZCEYK-XImVzxQY81pw=)): ive missed u 
+20:08:51 | Chat("Bullebengt"(id=GgXxc6zzCpzUzqB3hW29RepmgR5m0ag-d72Zc0VRxGY=)): ss
+20:08:51 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:08:53 | Player "Frank" (id=ptM2eUX76QXDK9lOwUUTxnA-rhxyCuqTU6yiggBCKHo= pos=<12355.8, 14748.5, 130.9>)[HP: 97.5995] hit by Infected into LeftArm(18) for 5 damage (MeleeZombie)
+20:08:55 | Player "Crispy" is connected (id=Co-jmbeHMOdqaEpeE_Pfm0JDRV4JwwmqJaOzb13rLNU=)
+20:08:55 | Player "Frank" (id=ptM2eUX76QXDK9lOwUUTxnA-rhxyCuqTU6yiggBCKHo= pos=<12357.4, 14748, 130.4>)[HP: 96.4745] hit by Infected into RightLeg(3) for 4.5 damage (MeleeZombie)
+20:08:56 | Player "Frank" (id=ptM2eUX76QXDK9lOwUUTxnA-rhxyCuqTU6yiggBCKHo= pos=<12358.3, 14747.1, 130.1>)[HP: 91.5647] hit by Infected into Torso(1) for 5 damage (MeleeZombie_Heavy)
+20:08:57 | Chat[Global]("Ward"(id=oxFQHPUc5RynAjyhBBFNXwLsHkEK7czqulPJXNLTH4E=)): miss you too bb
+20:08:57 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:08:58 | Player "Frank" (id=ptM2eUX76QXDK9lOwUUTxnA-rhxyCuqTU6yiggBCKHo= pos=<12358.1, 14747, 130.4>)[HP: 90.4397] hit by Infected into RightLeg(3) for 4.5 damage (MeleeZombie_Heavy)
+20:08:59 | Chat[Global]("|BWA|bekeka"(id=wrbBr47_7QOlbknQTc7Tkt2xm0Orr_Olu_2sLt7OkXQ=)): will we lose loot?
+20:08:59 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:08:59 | Player "BigDog"(id=E26YqVBUc4-BgscX8pDFhvv8mR1aUzK4rDTppguh1wI=) has been disconnected
+20:09:04 | Chat[Global]("Survivor"(id=X36VI23vs-8vFWd46RFQixHQ06CgdyeM0Aodesa-I7Y=)): Yes
+20:09:04 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:09:07 | Chat[Global]("Bullebengt"(id=GgXxc6zzCpzUzqB3hW29RepmgR5m0ag-d72Zc0VRxGY=)): Fucking hell.
+20:09:07 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:09:09 | Chat[Global]("Jared"(id=k1v-TVzHZ_uGPS5-QJtps9IPopXsZ9JcYlgvYXiEbCw=)): will i loose my loot
+20:09:09 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:09:14 | Chat[Global]("Berti477"(id=Q6MFSYfEtitQtnu9Iq0OcwAqGt7pSanel1C63dFeg2E=)): YEP
+20:09:14 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:09:14 | Chat[Admin]("The_13abyKnight"(id=bpjzcK1rblJfT43vXuPThs6k3G5SpN25Kv_Tg_RuDVg=)): I'm so sorry everyone. Yeah all characters and bases will go back in time 1-2 hours
+20:09:14 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:09:14 | Chat[Global]("Bullebengt"(id=GgXxc6zzCpzUzqB3hW29RepmgR5m0ag-d72Zc0VRxGY=)): Great, all the progress we've done today
+20:09:14 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:09:15 | Chat[Global]("Bullebengt"(id=GgXxc6zzCpzUzqB3hW29RepmgR5m0ag-d72Zc0VRxGY=)): ez
+20:09:16 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:09:16 | Player "EnvyBby" is connected (id=BxOBDwU7cxEYxPM1c2hDb3vPvaU3QLxMXOfPLm9lkPs=)
+20:09:21 | Chat[Admin]("The_13abyKnight"(id=bpjzcK1rblJfT43vXuPThs6k3G5SpN25Kv_Tg_RuDVg=)): Depending on exactly when it happened
+20:09:21 | Chat[Global]("AndyLT"(id=XNFrXPdJgzoHVgB8T4ArFJFZ-u3heBZdVFlNWdS1mrw=)): yasssss
+20:09:22 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:09:22 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:09:29 | Player "Crusader" is connected (id=YoLURG6x_jA4CzYQv4Q-D51y8B44HF06yW7XUVw5dTU=)
+20:09:32 | Chat[Global]("AndyLT"(id=XNFrXPdJgzoHVgB8T4ArFJFZ-u3heBZdVFlNWdS1mrw=)): losing all my shit hahaha
+20:09:32 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:09:34 | Chat[Global]("Flux"(id=LXOlA4G9UF2SzD-Z3l0ly4QOUurVoMHpR3nmO4EQkDM=)): just save the guy i killed lol
+20:09:34 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:09:35 | Chat[Global]("AndyLT"(id=XNFrXPdJgzoHVgB8T4ArFJFZ-u3heBZdVFlNWdS1mrw=)): needs must 
+20:09:35 | Chat[Global]("Jared"(id=k1v-TVzHZ_uGPS5-QJtps9IPopXsZ9JcYlgvYXiEbCw=)): when will this happen
+20:09:35 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:09:35 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:09:40 | Player "Survivor (2)"(id=aNFc1OKQoOOfiL7qW9ZL6y5NyWTXBDszE23X5EwGj1A=) has been disconnected
+20:09:45 | Player "BigDog" is connected (id=E26YqVBUc4-BgscX8pDFhvv8mR1aUzK4rDTppguh1wI=)
+20:09:45 | Chat[Admin]("The_13abyKnight"(id=bpjzcK1rblJfT43vXuPThs6k3G5SpN25Kv_Tg_RuDVg=)): This is either someone doing something malicious, or a DayZ bug that started happening after the last big update
+20:09:45 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:09:47 | Chat[Global]("|BWA|bekeka"(id=wrbBr47_7QOlbknQTc7Tkt2xm0Orr_Olu_2sLt7OkXQ=)): andy whats up
+20:09:47 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:09:56 | Player "Survivor" (id=X36VI23vs-8vFWd46RFQixHQ06CgdyeM0Aodesa-I7Y= pos=<2198.4, 3378.2, 91.9>)[HP: 95.9196] hit by FallDamage
+20:10:01 | Chat[Admin]("The_13abyKnight"(id=bpjzcK1rblJfT43vXuPThs6k3G5SpN25Kv_Tg_RuDVg=)): It's out of our control but we're still trying our best to make sure it doesn't keep happening
+20:10:01 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:10:01 | Chat[Global]("AndyLT"(id=XNFrXPdJgzoHVgB8T4ArFJFZ-u3heBZdVFlNWdS1mrw=)): whats happening my beautiful friend
+20:10:01 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:10:05 | Chat[Global]("Jared"(id=k1v-TVzHZ_uGPS5-QJtps9IPopXsZ9JcYlgvYXiEbCw=)): so 2 hours ago i was in gunfight will i spawn in same spot
+20:10:05 | Player "[BWA] Lazy" is connected (id=h72nIc7JktTUZNZwfB5KqxWXfC2YmH7BAvpa8cmJz8g=)
+20:10:05 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:10:08 | Player "Survivor" (id=X36VI23vs-8vFWd46RFQixHQ06CgdyeM0Aodesa-I7Y= pos=<2208.6, 3369.8, 92.1>)[HP: 95.2451] hit by Infected into LeftLeg(8) for 4.5 damage (MeleeZombie)
+20:10:10 | Player "Jamie" is connected (id=aNFc1OKQoOOfiL7qW9ZL6y5NyWTXBDszE23X5EwGj1A=)
+20:10:12 | Player "Muty" (id=b76oXEmUFV6AfI8L4ccXA1oeWplq5bAKHyfbjou6Gjc= pos=<6928.6, 7770.3, 296.7>)[HP: 63.4811] hit by Player "Jeffery" (id=6Y3vQEXv5e5g-XmHLnIeP5QSbwlJf-00GYAMbxfcXqU= pos=<6956.1, 7733.3, 296.8>) into Torso(24) for 6.52231 damage (Bullet_12GaugePellets) with Sawed-off IZh-43 from 46.1073 meters 
+20:10:12 | Player "Muty" (id=b76oXEmUFV6AfI8L4ccXA1oeWplq5bAKHyfbjou6Gjc= pos=<6928.6, 7770.3, 296.7>)[HP: 56.9588] hit by Player "Jeffery" (id=6Y3vQEXv5e5g-XmHLnIeP5QSbwlJf-00GYAMbxfcXqU= pos=<6956.1, 7733.3, 296.8>) into RightLeg(3) for 26.0892 damage (Bullet_12GaugePellets) with Sawed-off IZh-43 from 46.1073 meters 
+20:10:14 | Player "Mixxa" is connected (id=0qp_4D1AATmzr2Y-HoRLYoluRexbq0-jk-sYgxiCl7I=)
+20:10:14 | Player "Jeffery" (id=6Y3vQEXv5e5g-XmHLnIeP5QSbwlJf-00GYAMbxfcXqU= pos=<6959.8, 7735.5, 296.8>)[HP: 69.2805] hit by Player "Muty" (id=b76oXEmUFV6AfI8L4ccXA1oeWplq5bAKHyfbjou6Gjc= pos=<6927.8, 7771.0, 296.7>) into Torso(15) for 27.3283 damage (Bullet_556x45) with M4A1 from 47.7611 meters 
+20:10:14 | Player "Jeffery" (id=6Y3vQEXv5e5g-XmHLnIeP5QSbwlJf-00GYAMbxfcXqU= pos=<6961.2, 7736.6, 296.9>)[HP: 65.338] hit by Player "Muty" (id=b76oXEmUFV6AfI8L4ccXA1oeWplq5bAKHyfbjou6Gjc= pos=<6927.8, 7771.0, 296.7>) into LeftArm(32) for 11.9468 damage (Bullet_556x45) with M4A1 from 47.9045 meters 
+20:10:14 | Player "Jeffery" (id=6Y3vQEXv5e5g-XmHLnIeP5QSbwlJf-00GYAMbxfcXqU= pos=<6961.9, 7737.2, 296.9>)[HP: 53.5406] hit by Player "Muty" (id=b76oXEmUFV6AfI8L4ccXA1oeWplq5bAKHyfbjou6Gjc= pos=<6927.8, 7771.0, 296.7>) into Torso(24) for 11.7974 damage (Bullet_556x45) with M4A1 from 47.9851 meters 
+20:10:15 | Player "Jeffery" (id=6Y3vQEXv5e5g-XmHLnIeP5QSbwlJf-00GYAMbxfcXqU= pos=<6964.6, 7739.0, 296.9>) is unconscious
+20:10:15 | Player "Jeffery" (id=6Y3vQEXv5e5g-XmHLnIeP5QSbwlJf-00GYAMbxfcXqU= pos=<6965.9, 7740.1, 297.1>) regained consciousness
+20:10:16 | Player "Jeffery" (id=6Y3vQEXv5e5g-XmHLnIeP5QSbwlJf-00GYAMbxfcXqU= pos=<6965.9, 7740.6, 297.1>) is unconscious
+20:10:22 | Chat("PikkuMika"(id=ukD_k45i9WqrgrRFfzvAUrGdgMfaOgjGzngMe-204AE=)): !kd
+20:10:23 | Chat[Global]("|BWA|bekeka"(id=wrbBr47_7QOlbknQTc7Tkt2xm0Orr_Olu_2sLt7OkXQ=)): all ur squad is here? :D
+20:10:23 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:10:29 | Player "Mihaela"(id=INX-qeJ2ikqEcrOoUZa8opXP6TFtZpXGicdg-GHp-fg=) has been disconnected
+20:10:34 | Chat[Global]("|BWA|bekeka"(id=wrbBr47_7QOlbknQTc7Tkt2xm0Orr_Olu_2sLt7OkXQ=)): or only dutch
+20:10:34 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:10:37 | Player "Jeffery" (id=6Y3vQEXv5e5g-XmHLnIeP5QSbwlJf-00GYAMbxfcXqU= pos=<6965.7, 7741.3, 296.9>) regained consciousness
+20:10:37 | Player "BigDog"(id=E26YqVBUc4-BgscX8pDFhvv8mR1aUzK4rDTppguh1wI=) has been disconnected
+20:10:38 | Chat[Global]("AndyLT"(id=XNFrXPdJgzoHVgB8T4ArFJFZ-u3heBZdVFlNWdS1mrw=)): me rhino and star 
+20:10:38 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:10:41 | Chat[Global]("|BWA|bekeka"(id=wrbBr47_7QOlbknQTc7Tkt2xm0Orr_Olu_2sLt7OkXQ=)): aa
+20:10:42 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:10:54 | Player "(UKSF)Liggy117" (id=jB_bOEJyq9mvxR8JFgT_HcJvTp5Ia8yUrdy9ee9TBak= pos=<2148.2, 3380.6, 92.2>)[HP: 67.9003] hit by Infected into LeftLeg(8) for 4.5 damage (MeleeZombie)
+20:10:58 | Player "(UKSF)Liggy117" (id=jB_bOEJyq9mvxR8JFgT_HcJvTp5Ia8yUrdy9ee9TBak= pos=<2138.9, 3383.4, 92.2>)[HP: 66.3404] hit by Infected into RightArm(17) for 5 damage (MeleeZombie)
+20:10:59 | Player "(UKSF)Liggy117" (id=jB_bOEJyq9mvxR8JFgT_HcJvTp5Ia8yUrdy9ee9TBak= pos=<2139.2, 3384.9, 92.2>)[HP: 61.4304] hit by Infected into Torso(1) for 5 damage (MeleeZombie)
+20:11:02 | Player "Jeffery" (id=6Y3vQEXv5e5g-XmHLnIeP5QSbwlJf-00GYAMbxfcXqU= pos=<6962.8, 7740.2, 296.9>)[HP: 25.9899] hit by Player "Muty" (id=b76oXEmUFV6AfI8L4ccXA1oeWplq5bAKHyfbjou6Gjc= pos=<6961.2, 7740.6, 296.9>) into Torso(16) for 28.9709 damage (Bullet_556x45) with M4A1 from 1.67603 meters 
+20:11:02 | Player "(UKSF)Liggy117" (id=jB_bOEJyq9mvxR8JFgT_HcJvTp5Ia8yUrdy9ee9TBak= pos=<2139.7, 3384.4, 92.2>)[HP: 56.5206] hit by Infected into Torso(1) for 5 damage (MeleeZombie_Heavy)
+20:11:02 | Player "Rhino Ket" (id=dt0IeWRNhlfG4Cm-_mUrzB2E-BMVva8PeXRDK3X8K3A= pos=<2518.8, 5062.3, 194.0>)[HP: 98.3241] hit by Infected into LeftArm(18) for 5 damage (MeleeZombie)
+20:11:08 | Chat[Global]("PikkuMika"(id=ukD_k45i9WqrgrRFfzvAUrGdgMfaOgjGzngMe-204AE=)): well when is the rollback gonna be
+20:11:08 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:11:10 | Player "Berti477" (id=Q6MFSYfEtitQtnu9Iq0OcwAqGt7pSanel1C63dFeg2E= pos=<12155.5, 9759.9, 11.3>) committed suicide
+20:11:10 | Player "Berti477" (DEAD) (id=Q6MFSYfEtitQtnu9Iq0OcwAqGt7pSanel1C63dFeg2E= pos=<12155.5, 9759.9, 11.3>) died. Stats> Water: 1853.12 Energy: 3320.12 Bleed sources: 0
+20:11:14 | Player "Berti477"(id=Q6MFSYfEtitQtnu9Iq0OcwAqGt7pSanel1C63dFeg2E=) has been disconnected
+20:11:18 | Player "Unknown/Dead Entity" (id=Unknown pos=<12155.5, 9759.9, 11.3>)[HP: 0] hit by Player "Kalamuchta" (id=JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw= pos=<12155.1, 9760.9, 11.3>) into Head(0) for 89.8052 damage (Bullet_762x39Tracer) with AKM from 1.08558 meters 
+20:11:18 | Player "Unknown/Dead Entity" (id=Unknown pos=<12155.5, 9759.9, 11.3>)[HP: 0] hit by Player "Kalamuchta" (id=JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw= pos=<12155.1, 9760.9, 11.3>) into Head(0) for 89.8052 damage (Bullet_762x39Tracer) with AKM from 1.08558 meters 
+20:11:18 | Player "Unknown/Dead Entity" (id=Unknown pos=<12155.5, 9759.9, 11.3>)[HP: 0] hit by Player "Kalamuchta" (id=JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw= pos=<12155.1, 9760.9, 11.3>) into Torso(39) for 89.8052 damage (Bullet_762x39Tracer) with AKM from 1.08558 meters 
+20:11:18 | Player "Unknown/Dead Entity" (id=Unknown pos=<12155.5, 9759.9, 11.3>)[HP: 0] hit by Player "Kalamuchta" (id=JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw= pos=<12155.1, 9760.9, 11.3>) into Brain(37) for 89.8052 damage (Bullet_762x39Tracer) with AKM from 1.08558 meters 
+20:11:18 | Player "imhyprr" (id=HAJJVBThGTHWWvl6Zq0-6FYwGZCEYK-XImVzxQY81pw= pos=<7924.5, 14639.4, 338.4>)[HP: 95.4413] hit by Infected into Torso(1) for 4.5 damage (MeleeZombie)
+20:11:18 | Player "Unknown/Dead Entity" (id=Unknown pos=<12155.5, 9759.9, 11.3>)[HP: 0] hit by Player "Kalamuchta" (id=JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw= pos=<12155.1, 9760.9, 11.3>) into Head(0) for 89.8052 damage (Bullet_762x39Tracer) with AKM from 1.08558 meters 
+20:11:18 | Player "Unknown/Dead Entity" (id=Unknown pos=<12155.5, 9759.9, 11.3>)[HP: 0] hit by Player "Kalamuchta" (id=JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw= pos=<12155.1, 9760.9, 11.3>) into Head(0) for 89.8052 damage (Bullet_762x39Tracer) with AKM from 1.08558 meters 
+20:11:19 | Player "Unknown/Dead Entity" (id=Unknown pos=<12155.5, 9759.9, 11.3>)[HP: 0] hit by Player "Kalamuchta" (id=JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw= pos=<12155.1, 9760.9, 11.3>) into Torso(16) for 89.8052 damage (Bullet_762x39Tracer) with AKM from 1.08558 meters 
+20:11:19 | Player "Unknown/Dead Entity" (id=Unknown pos=<12155.5, 9759.9, 11.3>)[HP: 0] hit by Player "Kalamuchta" (id=JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw= pos=<12155.1, 9760.9, 11.3>) into Torso(15) for 89.8052 damage (Bullet_762x39Tracer) with AKM from 1.08558 meters 
+20:11:19 | Player "Unknown/Dead Entity" (id=Unknown pos=<12155.5, 9759.9, 11.3>)[HP: 0] hit by Player "Kalamuchta" (id=JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw= pos=<12155.1, 9760.9, 11.3>) into LeftLeg(11) for 107.766 damage (Bullet_762x39) with AKM from 1.08558 meters 
+20:11:19 | Player "Unknown/Dead Entity" (id=Unknown pos=<12155.5, 9759.9, 11.3>)[HP: 0] hit by Player "Kalamuchta" (id=JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw= pos=<12155.1, 9760.9, 11.3>) into Torso(34) for 89.8052 damage (Bullet_762x39) with AKM from 1.08558 meters 
+20:11:19 | Player "Unknown/Dead Entity" (id=Unknown pos=<12155.5, 9759.9, 11.3>)[HP: 0] hit by Player "Kalamuchta" (id=JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw= pos=<12155.1, 9760.9, 11.3>) into LeftLeg(8) for 107.766 damage (Bullet_762x39) with AKM from 1.08558 meters 
+20:11:19 | Player "Unknown/Dead Entity" (id=Unknown pos=<12155.5, 9759.9, 11.3>)[HP: 0] hit by Player "Kalamuchta" (id=JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw= pos=<12155.1, 9760.9, 11.3>) into RightLeg(3) for 94.0903 damage (Bullet_762x39) with AKM from 1.08558 meters 
+20:11:20 | Player "Unknown/Dead Entity" (id=Unknown pos=<12155.5, 9759.9, 11.3>)[HP: 0] hit by Player "Kalamuchta" (id=JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw= pos=<12155.1, 9760.9, 11.3>) into LeftLeg(8) for 107.766 damage (Bullet_762x39) with AKM from 1.08558 meters 
+20:11:21 | Player "Unknown/Dead Entity" (id=Unknown pos=<12155.5, 9759.9, 11.3>)[HP: 0] hit by Player "Kalamuchta" (id=JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw= pos=<12155.1, 9760.9, 11.3>) into LeftFoot(13) for 107.766 damage (Bullet_762x39) with AKM from 1.08558 meters 
+20:11:21 | Player "Unknown/Dead Entity" (id=Unknown pos=<12155.5, 9759.9, 11.3>)[HP: 0] hit by Player "Kalamuchta" (id=JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw= pos=<12155.1, 9760.9, 11.3>) into LeftLeg(8) for 107.766 damage (Bullet_762x39) with AKM from 1.08558 meters 
+20:11:21 | ##### PlayerList log: 50 players
+20:11:21 | Player "(UKSF)Liggy117" (id=jB_bOEJyq9mvxR8JFgT_HcJvTp5Ia8yUrdy9ee9TBak= pos=<2166.3, 3397.7, 92.4>)
+20:11:21 | Player "|BWA| DieHappy*" (id=uEktker4HmGzb7oPb6kYDEdZanzgm_1F8HgLLGlJh6A= pos=<1228.4, 12305, 374.0>)
+20:11:21 | Player "imhyprr" (id=HAJJVBThGTHWWvl6Zq0-6FYwGZCEYK-XImVzxQY81pw= pos=<7940.2, 14647, 338.7>)
+20:11:21 | Player "Survivor" (id=X36VI23vs-8vFWd46RFQixHQ06CgdyeM0Aodesa-I7Y= pos=<2194.5, 3380.2, 92.1>)
+20:11:21 | Player "Spexed" (id=OUDxO02um_kuOJaRRzT0FmbHEtKZgjPJBptBu6L53wk= pos=<3957.3, 8644.6, 309.3>)
+20:11:21 | Player "Kukifix" (id=JZkjY6_Bx9U3-TFLWwEcYYgLhALZoeLA_fzJAN5QRHo= pos=<4089.5, 11093.2, 339.8>)
+20:11:21 | Player "AndyLT" (id=XNFrXPdJgzoHVgB8T4ArFJFZ-u3heBZdVFlNWdS1mrw= pos=<2500.9, 5083.0, 193.4>)
+20:11:21 | Player "|BWA| SoSoO" (id=eT97_abyXtAOZQfqIWJU_7k9fWF0WHrg0aBUl-_ArTE= pos=<1505.3, 12008.3, 278.8>)
+20:11:21 | Player "Rhino Ket" (id=dt0IeWRNhlfG4Cm-_mUrzB2E-BMVva8PeXRDK3X8K3A= pos=<2540.2, 5074.2, 193.9>)
+20:11:21 | Player "Amikaze" (id=LYmgjGa-2_06yKdFqcuW8uhaTt5PdqDcx23-T8YU4Qc= pos=<861.5, 1896.6, 6.5>)
+20:11:21 | Player "Mermaider" (id=ncI6qs60Kx1rQkocDjWbCuPnXO5lkCrDpbXV4-ciguc= pos=<11467.1, 7473.9, 225.4>)
+20:11:21 | Player "|BWA|bekeka" (id=wrbBr47_7QOlbknQTc7Tkt2xm0Orr_Olu_2sLt7OkXQ= pos=<1562.3, 11959.3, 277.5>)
+20:11:21 | Player "McNugget" (id=NxUrm_UJ0n0CZMNjIxR_yvKrCzMz2vFzvnjFIGZ6QR8= pos=<3688.5, 6101.2, 391.3>)
+20:11:21 | Player "Jared" (id=k1v-TVzHZ_uGPS5-QJtps9IPopXsZ9JcYlgvYXiEbCw= pos=<11250.2, 4271.9, 305.2>)
+20:11:21 | Player "Bullebengt" (id=GgXxc6zzCpzUzqB3hW29RepmgR5m0ag-d72Zc0VRxGY= pos=<4072.6, 11103.6, 340.0>)
+20:11:21 | Player "RPR Bert" (id=2p1gom4qX6Rpn2I4ZvG5G0zjCMC1SosKZnJZDNeqVdQ= pos=<12235.1, 14615.3, 117.2>)
+20:11:21 | Player "Chicken__Wing" (id=E5UTtfn1dT7qHGK1eplot2pEGsCAbEtwEOeT_5xcta8= pos=<4102.0, 11124.5, 338.4>)
+20:11:21 | Player "|BWA| Dudu" (id=hrS-MIh0L86lTMNh0wfO6pDymkh23kVaYuuYOKaicAs= pos=<1416.1, 11943.9, 287.1>)
+20:11:21 | Player "Kalamuchta" (id=JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw= pos=<12155.1, 9760.9, 11.3>)
+20:11:21 | Player "Frenz" (id=2pnnQXvny6a7Huh8Sv2gCj6bNUfVW-sHj7NFeMcv-Oo= pos=<4869.9, 10219.3, 339.1>)
+20:11:21 | Player "Manjarno" (id=TjvNBpE-3PV8pWLY5BjihP5sWxOXGpNSLA2i3d_uPfk= pos=<3690.1, 6097.1, 392.2>)
+20:11:21 | Player "RPR Robby" (id=nQvnhzxYJOhiM10q8sKUYsXsJBVKYPIVKFK5WaYGuOE= pos=<12253.8, 14639, 129.4>)
+20:11:21 | Player "PikkuMika" (id=ukD_k45i9WqrgrRFfzvAUrGdgMfaOgjGzngMe-204AE= pos=<13150.7, 15131.3, 102.9>)
+20:11:21 | Player "TerryFox" (id=h-sXG2lbLnhahv3UEgEdxGIPq6w0pZqwHKDvWooNGlw= pos=<3021.7, 7876.7, 312.1>)
+20:11:21 | Player "Frank" (id=ptM2eUX76QXDK9lOwUUTxnA-rhxyCuqTU6yiggBCKHo= pos=<12234.6, 14616.2, 117.5>)
+20:11:21 | Player "Flux" (id=LXOlA4G9UF2SzD-Z3l0ly4QOUurVoMHpR3nmO4EQkDM= pos=<760.9, 1860.0, 6.0>)
+20:11:21 | Player "Muty" (id=b76oXEmUFV6AfI8L4ccXA1oeWplq5bAKHyfbjou6Gjc= pos=<7034.7, 7707.3, 296.0>)
+20:11:21 | Player "RPR DE_LICIOUS" (id=im7U8A_9rfW201fZALD-FEzYOrQNQF6ALYKQ7T84itY= pos=<14020.5, 13221.2, 13.3>)
+20:11:21 | Player "The_13abyKnight" (id=bpjzcK1rblJfT43vXuPThs6k3G5SpN25Kv_Tg_RuDVg= pos=<3771.3, 8849.1, 317.3>)
+20:11:21 | Player "starberry" (id=U9Yblbhn6I5SjOGmPMYTzi_d4tUTrnxNye4IlecKRTo= pos=<2677.1, 5236.8, 203.9>)
+20:11:21 | Player "Jeffery" (id=6Y3vQEXv5e5g-XmHLnIeP5QSbwlJf-00GYAMbxfcXqU= pos=<6965.6, 7730.9, 296.8>)
+20:11:21 | Player "kapci" (id=PKAvgADMoiDK0iZCTCXowSMw5h0OgtXYFRmRghuev94= pos=<10160.6, 1962.0, 21.9>)
+20:11:21 | Player "JuicyApple" (id=8lg1r66OdEIEjrYmWM_1EyxHiMIwTPZ78JYNWIiGZxg= pos=<4871.3, 10219, 339.1>)
+20:11:21 | Player "wyrafinowana suczka" (id=dWPukiDepgxKiAsBH5RHnu_JT9C00w84OtYfLlZ53pw= pos=<8661.5, 12786.9, 105.1>)
+20:11:21 | Player "RUFUS THE GREAT" (id=eAgSpgok7k5hHt4ccZZ7DGr-TQEZCnaexb1qSNAsm2w= pos=<2478.1, 5098.5, 193.2>)
+20:11:21 | Player "Show it" (id=DJNf5F1nFw371JlwUajNJrkqjMAmH5vs7POosXwk8_w= pos=<5859.3, 4840.1, 133.6>)
+20:11:21 | Player "Ward" (id=oxFQHPUc5RynAjyhBBFNXwLsHkEK7czqulPJXNLTH4E= pos=<13119.3, 13120.8, 115.0>)
+20:11:21 | Player "Celerity" (id=7YhJQi5h4yyJWEUUqBrgPDtbYT7QsPs3U7hhYiZsdrc= pos=<11299.8, 4216.4, 270.4>)
+20:11:21 | Player "Danny" (id=eL1JK3NVsJhoo-n2dXh8Rp8wm94FvEnKFdzJwwQg9I4= pos=<13117.1, 13120.7, 114.5>)
+20:11:21 | Player "riczi" (id=dJYqnVS2wbUdDl6pu7418NoLYHDfgVJdrRnDopXespM= pos=<282.3, 6595.0, 186.9>)
+20:11:21 | Player "Yarden" (id=TK8cfnzoE0WIIsRgdGkxHDsSyI6QguXDqQNtJYfoxPs= pos=<974.6, 2949.2, 17.5>)
+20:11:21 | Player "TRixiNO" (id=Flt76r47hPTB1vQoQmann2ov29XrHuKlynbn9nbRUdU= pos=<5847.8, 4872.2, 133.2>)
+20:11:21 | Player "AlexSK" (id=uyHNLQr6QhNjys2C4h76v2t5JQXm2fX3COrZVXl4tcs= pos=<5848.7, 4878.1, 133.0>)
+20:11:21 | Player "MayneKeen" (id=fYEA1U9Nn53QK6SPMKzYvTjYqPaBE8vAmDBkm4JUJn0= pos=<11441.9, 7477.5, 225.4>)
+20:11:21 | Player "EddY Eddson" (id=nHKsTmLT8V4NPmrdRohimsKJA301SEwdt_Ejf5JhB4k= pos=<3684.3, 6114.3, 388.3>)
+20:11:21 | Player "Crispy" (id=Co-jmbeHMOdqaEpeE_Pfm0JDRV4JwwmqJaOzb13rLNU= pos=<13116.1, 10205.4, 6.0>)
+20:11:21 | Player "EnvyBby" (id=BxOBDwU7cxEYxPM1c2hDb3vPvaU3QLxMXOfPLm9lkPs= pos=<12979.7, 9738.0, 5.5>)
+20:11:21 | Player "Crusader" (id=YoLURG6x_jA4CzYQv4Q-D51y8B44HF06yW7XUVw5dTU= pos=<3048.0, 7802.7, 315.0>)
+20:11:21 | Player "Jamie" (id=aNFc1OKQoOOfiL7qW9ZL6y5NyWTXBDszE23X5EwGj1A= pos=<11617.2, 14954.9, 93.6>)
+20:11:21 | Player "Mixxa" (id=0qp_4D1AATmzr2Y-HoRLYoluRexbq0-jk-sYgxiCl7I= pos=<1231.6, 8716.0, 279.3>)
+20:11:21 | #####
+20:11:21 | Player "Unknown/Dead Entity" (id=Unknown pos=<12155.5, 9759.9, 11.3>)[HP: 0] hit by Player "Kalamuchta" (id=JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw= pos=<12155.1, 9760.9, 11.3>) into LeftLeg(10) for 107.766 damage (Bullet_762x39) with AKM from 1.08558 meters 
+20:11:21 | Player "Unknown/Dead Entity" (id=Unknown pos=<12155.5, 9759.9, 11.3>)[HP: 0] hit by Player "Kalamuchta" (id=JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw= pos=<12155.1, 9760.9, 11.3>) into RightLeg(3) for 46.4981 damage (Bullet_762x39) with AKM from 1.08558 meters 
+20:11:22 | Player "Unknown/Dead Entity" (id=Unknown pos=<12155.5, 9759.9, 11.3>)[HP: 0] hit by Player "Kalamuchta" (id=JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw= pos=<12155.1, 9760.9, 11.3>) into Torso(12) for 89.8052 damage (Bullet_762x39) with AKM from 1.08558 meters 
+20:11:22 | Player "Unknown/Dead Entity" (id=Unknown pos=<12155.5, 9759.9, 11.3>)[HP: 0] hit by Player "Kalamuchta" (id=JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw= pos=<12155.1, 9760.9, 11.3>) into LeftLeg(11) for 107.766 damage (Bullet_762x39) with AKM from 1.08558 meters 
+20:11:22 | Player "Unknown/Dead Entity" (id=Unknown pos=<12155.5, 9759.9, 11.3>)[HP: 0] hit by Player "Kalamuchta" (id=JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw= pos=<12155.1, 9760.9, 11.3>) into Torso(7) for 19.6022 damage (Bullet_762x39) with AKM from 1.08558 meters 
+20:11:22 | Player "Unknown/Dead Entity" (id=Unknown pos=<12155.5, 9759.9, 11.3>)[HP: 0] hit by Player "Kalamuchta" (id=JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw= pos=<12155.1, 9760.9, 11.3>) into Torso(24) for 89.8052 damage (Bullet_762x39) with AKM from 1.08558 meters 
+20:11:22 | Player "Unknown/Dead Entity" (id=Unknown pos=<12155.5, 9759.9, 11.3>)[HP: 0] hit by Player "Kalamuchta" (id=JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw= pos=<12155.1, 9760.9, 11.3>) into Torso(25) for 89.8052 damage (Bullet_762x39) with AKM from 1.08558 meters 
+20:11:22 | Player "Unknown/Dead Entity" (id=Unknown pos=<12155.5, 9759.9, 11.3>)[HP: 0] hit by Player "Kalamuchta" (id=JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw= pos=<12155.1, 9760.9, 11.3>) into Head(0) for 89.8052 damage (Bullet_762x39) with AKM from 1.08558 meters 
+20:11:22 | Player "Unknown/Dead Entity" (id=Unknown pos=<12155.5, 9759.9, 11.3>)[HP: 0] hit by Player "Kalamuchta" (id=JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw= pos=<12155.1, 9760.9, 11.3>) into Brain(37) for 89.8052 damage (Bullet_762x39) with AKM from 1.08558 meters 
+20:11:22 | Player "Unknown/Dead Entity" (id=Unknown pos=<12155.5, 9759.9, 11.3>)[HP: 0] hit by Player "Kalamuchta" (id=JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw= pos=<12155.1, 9760.9, 11.3>) into Head(0) for 89.8052 damage (Bullet_762x39) with AKM from 1.08558 meters 
+20:11:23 | Player "Unknown/Dead Entity" (id=Unknown pos=<12155.5, 9759.9, 11.3>)[HP: 0] hit by Player "Kalamuchta" (id=JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw= pos=<12155.1, 9760.9, 11.3>) into Head(0) for 89.8052 damage (Bullet_762x39) with AKM from 1.08558 meters 
+20:11:23 | Player "Unknown/Dead Entity" (id=Unknown pos=<12155.5, 9759.9, 11.3>)[HP: 0] hit by Player "Kalamuchta" (id=JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw= pos=<12155.1, 9760.9, 11.3>) into Torso(23) for 89.8052 damage (Bullet_762x39) with AKM from 1.08558 meters 
+20:11:23 | Player "Unknown/Dead Entity" (id=Unknown pos=<12155.5, 9759.9, 11.3>)[HP: 0] hit by Player "Kalamuchta" (id=JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw= pos=<12155.1, 9760.9, 11.3>) into Torso(24) for 89.8052 damage (Bullet_762x39) with AKM from 1.08558 meters 
+20:11:23 | Player "Unknown/Dead Entity" (id=Unknown pos=<12155.5, 9759.9, 11.3>)[HP: 0] hit by Player "Kalamuchta" (id=JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw= pos=<12155.1, 9760.9, 11.3>) into Torso(16) for 89.8052 damage (Bullet_762x39) with AKM from 1.08558 meters 
+20:11:23 | Chat[Admin]("The_13abyKnight"(id=bpjzcK1rblJfT43vXuPThs6k3G5SpN25Kv_Tg_RuDVg=)): We'll be rolling back in a few minutes, hang tight
+20:11:24 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:11:24 | Player "Unknown/Dead Entity" (id=Unknown pos=<12155.5, 9759.9, 11.3>)[HP: 0] hit by Player "Kalamuchta" (id=JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw= pos=<12155.1, 9760.9, 11.3>) into Torso(16) for 89.8052 damage (Bullet_762x39Tracer) with AKM from 1.08558 meters 
+20:11:24 | Player "Unknown/Dead Entity" (id=Unknown pos=<12155.5, 9759.9, 11.3>)[HP: 0] hit by Player "Kalamuchta" (id=JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw= pos=<12155.1, 9760.9, 11.3>) into Torso(15) for 89.8052 damage (Bullet_762x39Tracer) with AKM from 1.08558 meters 
+20:11:28 | Player "Muty" (id=b76oXEmUFV6AfI8L4ccXA1oeWplq5bAKHyfbjou6Gjc= pos=<7051.5, 7712.4, 297.1>)[HP: 45.0257] hit by Player "Jeffery" (id=6Y3vQEXv5e5g-XmHLnIeP5QSbwlJf-00GYAMbxfcXqU= pos=<6971.5, 7734.1, 296.8>) into RightArm(17) for 42.0297 damage (Bullet_762x54) with Mosin 91/30 from 82.9517 meters 
+20:11:28 | Chat[Admin]("The_13abyKnight"(id=bpjzcK1rblJfT43vXuPThs6k3G5SpN25Kv_Tg_RuDVg=)): Server shutting down for 5-10 minutes
+20:11:28 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:11:32 | Chat[Global]("Jamie"(id=aNFc1OKQoOOfiL7qW9ZL6y5NyWTXBDszE23X5EwGj1A=)): o7
+20:11:32 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:11:33 | Chat[Admin]("The_13abyKnight"(id=bpjzcK1rblJfT43vXuPThs6k3G5SpN25Kv_Tg_RuDVg=)): Sorry everyone
+20:11:33 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:11:33 | Player "kapci" (id=PKAvgADMoiDK0iZCTCXowSMw5h0OgtXYFRmRghuev94= pos=<10155.1, 1964.1, 16.5>)[HP: 27.571] hit by FallDamage
+20:11:35 | Player "kapci" (DEAD) (id=PKAvgADMoiDK0iZCTCXowSMw5h0OgtXYFRmRghuev94= pos=<10147.1, 1965.6, 6.0>)[HP: 0] hit by FallDamage
+20:11:35 | Player "kapci" (DEAD) (id=PKAvgADMoiDK0iZCTCXowSMw5h0OgtXYFRmRghuev94= pos=<10147.1, 1965.6, 6.0>) died. Stats> Water: 453.218 Energy: 417.115 Bleed sources: 0
+20:11:36 | Chat[Global]("JuicyApple"(id=8lg1r66OdEIEjrYmWM_1EyxHiMIwTPZ78JYNWIiGZxg=)): are we gonna lose our stuff?
+20:11:36 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:11:37 | Chat[Global]("Ward"(id=oxFQHPUc5RynAjyhBBFNXwLsHkEK7czqulPJXNLTH4E=)): damn, ive only been playing a couple hours
+20:11:37 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:11:39 | Chat[Global]("riczi"(id=dJYqnVS2wbUdDl6pu7418NoLYHDfgVJdrRnDopXespM=)): roll back to what point ?
+20:11:39 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:11:41 | Chat[Global]("Ward"(id=oxFQHPUc5RynAjyhBBFNXwLsHkEK7czqulPJXNLTH4E=)): will i lose everything
+20:11:41 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:11:43 | Player "Amikaze" (id=LYmgjGa-2_06yKdFqcuW8uhaTt5PdqDcx23-T8YU4Qc= pos=<778.8, 1878.8, 6.0>)[HP: 59.6543] hit by Player "Flux" (id=LXOlA4G9UF2SzD-Z3l0ly4QOUurVoMHpR3nmO4EQkDM= pos=<769.3, 1871.6, 6.0>) into RightArm(17) for 93.9764 damage (Bullet_12GaugeSlug) with Benelli M4 from 11.9385 meters 
+20:11:44 | Chat[Global]("Bullebengt"(id=GgXxc6zzCpzUzqB3hW29RepmgR5m0ag-d72Zc0VRxGY=)): yep
+20:11:44 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:11:45 | Player "Jamie" (id=aNFc1OKQoOOfiL7qW9ZL6y5NyWTXBDszE23X5EwGj1A= pos=<11633.2, 14898.8, 77.1>)[HP: 90.6071] hit by FallDamage
+20:11:45 | Player "Frank" (id=ptM2eUX76QXDK9lOwUUTxnA-rhxyCuqTU6yiggBCKHo= pos=<12207.7, 14577.1, 98.0>)[HP: 83.8079] hit by FallDamage
+20:11:47 | Chat[Global]("Bullebengt"(id=GgXxc6zzCpzUzqB3hW29RepmgR5m0ag-d72Zc0VRxGY=)): well lose everything
+20:11:47 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:11:50 | Chat[Global]("Bullebengt"(id=GgXxc6zzCpzUzqB3hW29RepmgR5m0ag-d72Zc0VRxGY=)): from last 2 hours
+20:11:50 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:11:53 | Player "Jamie" (id=aNFc1OKQoOOfiL7qW9ZL6y5NyWTXBDszE23X5EwGj1A= pos=<11639, 14880.7, 69.0>)[HP: 90.3355] hit by FallDamage
+20:11:54 | Player "Unknown/Dead Entity" (id=Unknown pos=<12155.5, 9759.9, 11.3>)[HP: 0] hit by Player "Kalamuchta" (id=JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw= pos=<12156.4, 9758.3, 11.3>) into Head(0) for 99.8342 damage (Bullet_762x39) with B52 from 1.81826 meters 
+20:11:54 | Player "Unknown/Dead Entity" (id=Unknown pos=<12155.5, 9759.9, 11.3>)[HP: 0] hit by Player "Kalamuchta" (id=JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw= pos=<12156.4, 9758.3, 11.3>) into Brain(37) for 99.8342 damage (Bullet_762x39) with B52 from 1.81826 meters 
+20:11:55 | Player "Unknown/Dead Entity" (id=Unknown pos=<12155.5, 9759.9, 11.3>)[HP: 0] hit by Player "Kalamuchta" (id=JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw= pos=<12156.4, 9758.3, 11.3>) into Torso(36) for 99.8342 damage (Bullet_762x39) with B52 from 1.81826 meters 
+20:11:55 | Chat[Global]("riczi"(id=dJYqnVS2wbUdDl6pu7418NoLYHDfgVJdrRnDopXespM=)): thanks
+20:11:56 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:11:56 | Player "Unknown/Dead Entity" (id=Unknown pos=<12155.5, 9759.9, 11.3>)[HP: 0] hit by Player "Kalamuchta" (id=JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw= pos=<12156.4, 9758.3, 11.3>) into LeftLeg(10) for 119.801 damage (Bullet_762x39) with B52 from 1.81826 meters 
+20:11:58 | Player "Amikaze" (DEAD) (id=LYmgjGa-2_06yKdFqcuW8uhaTt5PdqDcx23-T8YU4Qc= pos=<768.0, 1898.2, 6.1>)[HP: 0] hit by Player "Flux" (id=LXOlA4G9UF2SzD-Z3l0ly4QOUurVoMHpR3nmO4EQkDM= pos=<770.9, 1897.4, 6.1>) into Torso(1) for 97.874 damage (Bullet_12GaugeSlug) with Benelli M4 from 2.99285 meters 
+20:11:58 | Player "Amikaze" (DEAD) (id=LYmgjGa-2_06yKdFqcuW8uhaTt5PdqDcx23-T8YU4Qc= pos=<768.0, 1898.2, 6.1>) killed by Player "Flux" (id=LXOlA4G9UF2SzD-Z3l0ly4QOUurVoMHpR3nmO4EQkDM= pos=<770.9, 1897.4, 6.1>) with Benelli M4 from 2.99285 meters 
+20:12:00 | Player "wigoor" is connected (id=b7yYHyxPSt7b5iRQ7Oxu7UQNMf4j77-WmK6SwVQAZ5I=)
+20:12:06 | Chat[Global]("Bullebengt"(id=GgXxc6zzCpzUzqB3hW29RepmgR5m0ag-d72Zc0VRxGY=)): 10/10 game
+20:12:06 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:12:09 | Player "PikkuMika"(id=ukD_k45i9WqrgrRFfzvAUrGdgMfaOgjGzngMe-204AE=) has been disconnected
+20:12:10 | Chat[Global]("Bullebengt"(id=GgXxc6zzCpzUzqB3hW29RepmgR5m0ag-d72Zc0VRxGY=)): I love running anyways
+20:12:11 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:12:12 | Player "Unknown/Dead Entity" (id=Unknown pos=<12155.5, 9759.9, 11.3>)[HP: 0] hit by Player "Kalamuchta" (id=JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw= pos=<12156.4, 9758.3, 11.3>) into Head(0) for 99.8342 damage (Bullet_762x39) with B52 from 1.81826 meters 
+20:12:12 | Player "Unknown/Dead Entity" (id=Unknown pos=<12155.5, 9759.9, 11.3>)[HP: 0] hit by Player "Kalamuchta" (id=JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw= pos=<12156.4, 9758.3, 11.3>) into Brain(37) for 99.8342 damage (Bullet_762x39) with B52 from 1.81826 meters 
+20:12:13 | Player "Unknown/Dead Entity" (id=Unknown pos=<12155.5, 9759.9, 11.3>)[HP: 0] hit by Player "Kalamuchta" (id=JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw= pos=<12156.4, 9758.3, 11.3>) into Torso(15) for 99.8342 damage (Bullet_762x39) with B52 from 1.81826 meters 
+20:12:13 | Player "EddY Eddson"(id=nHKsTmLT8V4NPmrdRohimsKJA301SEwdt_Ejf5JhB4k=) has been disconnected
+20:12:15 | Player "Unknown/Dead Entity" (id=Unknown pos=<12155.5, 9759.9, 11.3>)[HP: 0] hit by Player "Kalamuchta" (id=JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw= pos=<12156.4, 9758.3, 11.3>) into LeftLeg(9) for 119.801 damage (Bullet_762x39) with B52 from 1.81826 meters 
+20:12:16 | Chat("Survivor"(id=X36VI23vs-8vFWd46RFQixHQ06CgdyeM0Aodesa-I7Y=)): wd
+20:12:18 | Chat[Admin]("The_13abyKnight"(id=bpjzcK1rblJfT43vXuPThs6k3G5SpN25Kv_Tg_RuDVg=)): You'll lose everything that you got recently ye, I think we've figured out when it happened
+20:12:18 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:12:18 | Player "Muty" (id=b76oXEmUFV6AfI8L4ccXA1oeWplq5bAKHyfbjou6Gjc= pos=<7029.7, 7700.1, 296.0>)[HP: 35.9929] hit by Player "Jeffery" (id=6Y3vQEXv5e5g-XmHLnIeP5QSbwlJf-00GYAMbxfcXqU= pos=<7029.1, 7699.5, 296.1>) into Head(0) for 5 damage (MeleeBeanBasher) with Plain Baseball Bat Red
+20:12:20 | Player "Unknown/Dead Entity" (id=Unknown pos=<12155.5, 9759.9, 11.3>)[HP: 0] hit by Player "Kalamuchta" (id=JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw= pos=<12152.8, 9759.1, 11.3>) into Torso(36) for 99.8342 damage (Bullet_762x39) with B52 from 2.7604 meters 
+20:12:20 | Player "Unknown/Dead Entity" (id=Unknown pos=<12155.5, 9759.9, 11.3>)[HP: 0] hit by Player "Kalamuchta" (id=JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw= pos=<12152.8, 9759.1, 11.3>) into LeftLeg(11) for 119.801 damage (Bullet_762x39) with B52 from 2.7604 meters 
+20:12:20 | Player "Unknown/Dead Entity" (id=Unknown pos=<12155.5, 9759.9, 11.3>)[HP: 0] hit by Player "Kalamuchta" (id=JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw= pos=<12152.8, 9759.1, 11.3>) into RightLeg(3) for 55.2507 damage (Bullet_762x39) with B52 from 2.7604 meters 
+20:12:21 | Player "Frank" (id=ptM2eUX76QXDK9lOwUUTxnA-rhxyCuqTU6yiggBCKHo= pos=<12162.2, 14511.9, 56.9>)[HP: 65.9567] hit by FallDamage
+20:12:21 | Player "Flux" (id=LXOlA4G9UF2SzD-Z3l0ly4QOUurVoMHpR3nmO4EQkDM= pos=<800.3, 1841.6, 6.0>)[HP: 58.6817] hit by Infected into LeftLeg(8) for 4.5 damage (MeleeZombie)
+20:12:22 | Player "Unknown/Dead Entity" (id=Unknown pos=<12155.5, 9759.9, 11.3>)[HP: 0] hit by Player "Kalamuchta" (id=JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw= pos=<12152.7, 9759.5, 11.3>) into RightLeg(6) for 119.801 damage (Bullet_762x39) with B52 from 2.74409 meters 
+20:12:22 | Player "Unknown/Dead Entity" (id=Unknown pos=<12155.5, 9759.9, 11.3>)[HP: 0] hit by Player "Kalamuchta" (id=JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw= pos=<12152.7, 9759.5, 11.3>) into RightLeg(5) for 119.801 damage (Bullet_762x39) with B52 from 2.74409 meters 
+20:12:24 | Player "Unknown/Dead Entity" (id=Unknown pos=<12155.5, 9759.9, 11.3>)[HP: 0] hit by Player "Kalamuchta" (id=JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw= pos=<12152.7, 9759.5, 11.3>) into Torso(12) for 99.8342 damage (Bullet_762x39) with B52 from 2.74409 meters 
+20:12:24 | Player "Unknown/Dead Entity" (id=Unknown pos=<12155.5, 9759.9, 11.3>)[HP: 0] hit by Player "Kalamuchta" (id=JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw= pos=<12152.7, 9759.5, 11.3>) into LeftLeg(11) for 115.425 damage (Bullet_762x39) with B52 from 2.74409 meters 
+20:12:24 | Player "Unknown/Dead Entity" (id=Unknown pos=<12155.5, 9759.9, 11.3>)[HP: 0] hit by Player "Kalamuchta" (id=JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw= pos=<12152.7, 9759.5, 11.3>) into RightLeg(3) for 94.6374 damage (Bullet_762x39) with B52 from 2.74409 meters 
+20:12:24 | Chat[Global]("|BWA| SoSoO"(id=eT97_abyXtAOZQfqIWJU_7k9fWF0WHrg0aBUl-_ArTE=)): u can't save characters and rollback ground and slots only?
+20:12:25 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:12:25 | Player "Manjarno"(id=TjvNBpE-3PV8pWLY5BjihP5sWxOXGpNSLA2i3d_uPfk=) has been disconnected
+20:12:26 | Player "Flux" (id=LXOlA4G9UF2SzD-Z3l0ly4QOUurVoMHpR3nmO4EQkDM= pos=<812.0, 1848.0, 6.0>)[HP: 57.683] hit by Infected into RightLeg(3) for 4.5 damage (MeleeZombie)
+20:12:26 | Chat[Admin]("The_13abyKnight"(id=bpjzcK1rblJfT43vXuPThs6k3G5SpN25Kv_Tg_RuDVg=)): 1½ hour ago
+20:12:26 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:12:28 | Chat[Global]("Bullebengt"(id=GgXxc6zzCpzUzqB3hW29RepmgR5m0ag-d72Zc0VRxGY=)): nope
+20:12:28 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:12:29 | Chat[Global]("Frenz"(id=2pnnQXvny6a7Huh8Sv2gCj6bNUfVW-sHj7NFeMcv-Oo=)): bruh
+20:12:29 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:12:31 | Player "Unknown/Dead Entity" (id=Unknown pos=<12155.5, 9759.9, 11.3>)[HP: 0] hit by Player "Kalamuchta" (id=JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw= pos=<12153.4, 9761.4, 11.3>) into Torso(25) for 99.8342 damage (Bullet_762x39) with B52 from 2.51273 meters 
+20:12:31 | Player "Unknown/Dead Entity" (id=Unknown pos=<12155.5, 9759.9, 11.3>)[HP: 0] hit by Player "Kalamuchta" (id=JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw= pos=<12153.4, 9761.4, 11.3>) into RightArm(30) for 88.4376 damage (Bullet_762x39) with B52 from 2.51273 meters 
+20:12:31 | Player "Unknown/Dead Entity" (id=Unknown pos=<12155.5, 9759.9, 11.3>)[HP: 0] hit by Player "Kalamuchta" (id=JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw= pos=<12153.4, 9761.4, 11.3>) into Torso(24) for 84.7907 damage (Bullet_762x39) with B52 from 2.51273 meters 
+20:12:31 | Chat("EnvyBby"(id=BxOBDwU7cxEYxPM1c2hDb3vPvaU3QLxMXOfPLm9lkPs=)): How can i add my friend to a team?
+20:12:31 | Player "Unknown/Dead Entity" (id=Unknown pos=<12155.5, 9759.9, 11.3>)[HP: 0] hit by Player "Kalamuchta" (id=JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw= pos=<12153.4, 9761.4, 11.3>) into RightArm(20) for 99.8342 damage (Bullet_762x39) with B52 from 2.51273 meters 
+20:12:32 | Player "Odin" is connected (id=Q0zz3UTXmV4R7dyXYO3RFrYZ0LVD94uMH3fbrcXEeLM=)
+20:12:34 | Chat[Global]("|BWA| SoSoO"(id=eT97_abyXtAOZQfqIWJU_7k9fWF0WHrg0aBUl-_ArTE=)): server crash time?
+20:12:34 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:12:36 | Player "Unknown/Dead Entity" (id=Unknown pos=<12155.5, 9759.9, 11.3>)[HP: 0] hit by Player "Kalamuchta" (id=JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw= pos=<12157, 9759.1, 11.3>) into Torso(23) for 99.8342 damage (Bullet_762x39) with B52 from 1.73521 meters 
+20:12:36 | Player "Unknown/Dead Entity" (id=Unknown pos=<12155.5, 9759.9, 11.3>)[HP: 0] hit by Player "Kalamuchta" (id=JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw= pos=<12157, 9759.1, 11.3>) into Head(0) for 99.8342 damage (Bullet_762x39) with B52 from 1.73521 meters 
+20:12:36 | Player "Unknown/Dead Entity" (id=Unknown pos=<12155.5, 9759.9, 11.3>)[HP: 0] hit by Player "Kalamuchta" (id=JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw= pos=<12157, 9759.1, 11.3>) into Brain(37) for 99.8342 damage (Bullet_762x39) with B52 from 1.73521 meters 
+20:12:37 | Player "Unknown/Dead Entity" (id=Unknown pos=<12155.5, 9759.9, 11.3>)[HP: 0] hit by Player "Kalamuchta" (id=JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw= pos=<12157, 9759.1, 11.3>) into Torso(24) for 99.8342 damage (Bullet_762x39) with B52 from 1.73521 meters 
+20:12:39 | Chat[Global]("|BWA|bekeka"(id=wrbBr47_7QOlbknQTc7Tkt2xm0Orr_Olu_2sLt7OkXQ=)): we killed 3 guy
+20:12:40 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:12:41 | Player "Unknown/Dead Entity" (id=Unknown pos=<12155.5, 9759.9, 11.3>)[HP: 0] hit by Player "Kalamuchta" (id=JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw= pos=<12155.7, 9762.3, 11.3>) into Torso(16) for 99.8342 damage (Bullet_762x39) with B52 from 2.47797 meters 
+20:12:41 | Player "Unknown/Dead Entity" (id=Unknown pos=<12155.5, 9759.9, 11.3>)[HP: 0] hit by Player "Kalamuchta" (id=JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw= pos=<12155.7, 9762.3, 11.3>) into Torso(16) for 99.8342 damage (Bullet_762x39) with B52 from 2.47797 meters 
+20:12:41 | Player "Unknown/Dead Entity" (id=Unknown pos=<12155.5, 9759.9, 11.3>)[HP: 0] hit by Player "Kalamuchta" (id=JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw= pos=<12155.7, 9762.3, 11.3>) into Torso(16) for 99.8342 damage (Bullet_762x39) with B52 from 2.47797 meters 
+20:12:41 | Player "Unknown/Dead Entity" (id=Unknown pos=<12155.5, 9759.9, 11.3>)[HP: 0] hit by Player "Kalamuchta" (id=JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw= pos=<12155.7, 9762.3, 11.3>) into RightArm(19) for 62.4534 damage (Bullet_762x39) with B52 from 2.47797 meters 
+20:12:42 | Player "Unknown/Dead Entity" (id=Unknown pos=<12155.5, 9759.9, 11.3>)[HP: 0] hit by Player "Kalamuchta" (id=JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw= pos=<12155.7, 9762.3, 11.3>) into Torso(16) for 99.8342 damage (Bullet_762x39) with B52 from 2.47797 meters 
+20:12:42 | Player "Unknown/Dead Entity" (id=Unknown pos=<12155.5, 9759.9, 11.3>)[HP: 0] hit by Player "Kalamuchta" (id=JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw= pos=<12155.7, 9762.3, 11.3>) into RightArm(19) for 71.1148 damage (Bullet_762x39) with B52 from 2.47797 meters 
+20:12:43 | Player "imhyprr" (id=HAJJVBThGTHWWvl6Zq0-6FYwGZCEYK-XImVzxQY81pw= pos=<7862, 14718.7, 343.6>)[HP: 96.9306] hit by Infected into RightLeg(3) for 4.5 damage (MeleeZombie)
+20:12:44 | Chat[Global]("|BWA|bekeka"(id=wrbBr47_7QOlbknQTc7Tkt2xm0Orr_Olu_2sLt7OkXQ=)): adn they will be alive right?
+20:12:44 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:12:46 | Player "Unknown/Dead Entity" (id=Unknown pos=<12155.5, 9759.9, 11.3>)[HP: 0] hit by Player "Kalamuchta" (id=JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw= pos=<12153.8, 9758.3, 11.4>) into Torso(26) for 99.8342 damage (Bullet_762x39) with B52 from 2.30114 meters 
+20:12:46 | Player "Unknown/Dead Entity" (id=Unknown pos=<12155.5, 9759.9, 11.3>)[HP: 0] hit by Player "Kalamuchta" (id=JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw= pos=<12153.8, 9758.3, 11.4>) into Torso(26) for 99.8342 damage (Bullet_762x39) with B52 from 2.30115 meters 
+20:12:47 | Player "Unknown/Dead Entity" (id=Unknown pos=<12155.5, 9759.9, 11.3>)[HP: 0] hit by Player "Kalamuchta" (id=JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw= pos=<12153.8, 9758.3, 11.4>) into Torso(12) for 99.8342 damage (Bullet_762x39) with B52 from 2.30114 meters 
+20:12:47 | Player "Unknown/Dead Entity" (id=Unknown pos=<12155.5, 9759.9, 11.3>)[HP: 0] hit by Player "Kalamuchta" (id=JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw= pos=<12153.8, 9758.3, 11.4>) into Torso(12) for 99.8342 damage (Bullet_762x39) with B52 from 2.30117 meters 
+20:12:47 | Player "Unknown/Dead Entity" (id=Unknown pos=<12155.5, 9759.9, 11.3>)[HP: 0] hit by Player "Kalamuchta" (id=JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw= pos=<12153.8, 9758.3, 11.4>) into LeftLeg(11) for 60.7211 damage (Bullet_762x39) with B52 from 2.30117 meters 
+20:12:49 | Player "Bullebengt"(id=GgXxc6zzCpzUzqB3hW29RepmgR5m0ag-d72Zc0VRxGY=) has been disconnected
+20:12:50 | Player "Spexed"(id=OUDxO02um_kuOJaRRzT0FmbHEtKZgjPJBptBu6L53wk=) has been disconnected
+20:12:50 | Chat[Global]("Survivor"(id=X36VI23vs-8vFWd46RFQixHQ06CgdyeM0Aodesa-I7Y=)): YES ILL BE BACK
+20:12:51 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:12:51 | Chat[Admin]("The_13abyKnight"(id=bpjzcK1rblJfT43vXuPThs6k3G5SpN25Kv_Tg_RuDVg=)): Shutting down server, be back in 5-10 min hang tight guys
+20:12:51 | Player "Unknown/Dead Entity" (id=Unknown pos=<12155.5, 9759.9, 11.3>)[HP: 0] hit by Player "Kalamuchta" (id=JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw= pos=<12152.9, 9759.8, 11.3>) into Head(0) for 99.8342 damage (Bullet_762x39) with B52 from 2.55308 meters 
+20:12:51 | Player "Unknown/Dead Entity" (id=Unknown pos=<12155.5, 9759.9, 11.3>)[HP: 0] hit by Player "Kalamuchta" (id=JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw= pos=<12152.9, 9759.8, 11.3>) into Brain(37) for 99.8342 damage (Bullet_762x39) with B52 from 2.55308 meters 
+20:12:51 | Player "Unknown/Dead Entity" (id=Unknown pos=<12155.5, 9759.9, 11.3>)[HP: 0] hit by Player "Kalamuchta" (id=JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw= pos=<12152.9, 9759.8, 11.3>) into Head(0) for 99.8342 damage (Bullet_762x39) with B52 from 2.55308 meters 
+20:12:51 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:12:51 | Chat[Global]("Survivor"(id=X36VI23vs-8vFWd46RFQixHQ06CgdyeM0Aodesa-I7Y=)): BEKEKE
+20:12:52 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:12:54 | Chat[Global]("Flux"(id=LXOlA4G9UF2SzD-Z3l0ly4QOUurVoMHpR3nmO4EQkDM=)): yup
+20:12:55 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:12:55 | Player "Kukifix"(id=JZkjY6_Bx9U3-TFLWwEcYYgLhALZoeLA_fzJAN5QRHo=) has been disconnected
+20:12:55 | Chat[Global]("|BWA|bekeka"(id=wrbBr47_7QOlbknQTc7Tkt2xm0Orr_Olu_2sLt7OkXQ=)): ?
+20:12:55 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:12:56 | Player "McNugget"(id=NxUrm_UJ0n0CZMNjIxR_yvKrCzMz2vFzvnjFIGZ6QR8=) has been disconnected
+20:12:57 | Player "Chicken__Wing"(id=E5UTtfn1dT7qHGK1eplot2pEGsCAbEtwEOeT_5xcta8=) has been disconnected
+20:12:59 | Chat[Global]("Survivor"(id=X36VI23vs-8vFWd46RFQixHQ06CgdyeM0Aodesa-I7Y=)): You killed me
+20:12:59 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:13:01 | Player "Muty"(id=b76oXEmUFV6AfI8L4ccXA1oeWplq5bAKHyfbjou6Gjc=) has been disconnected
+20:13:02 | Chat[Global]("Survivor"(id=X36VI23vs-8vFWd46RFQixHQ06CgdyeM0Aodesa-I7Y=)): ill be back for ya
+20:13:02 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:13:03 | Chat[Global]("|BWA|bekeka"(id=wrbBr47_7QOlbknQTc7Tkt2xm0Orr_Olu_2sLt7OkXQ=)): yep
+20:13:03 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:13:05 | Chat[Global]("Survivor"(id=X36VI23vs-8vFWd46RFQixHQ06CgdyeM0Aodesa-I7Y=)): LOL
+20:13:05 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:13:06 | Chat[Global]("riczi"(id=dJYqnVS2wbUdDl6pu7418NoLYHDfgVJdrRnDopXespM=)): i'v lost my dignity 2 hours ago so thats fine to me
+20:13:06 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:13:06 | Chat[Global]("Flux"(id=LXOlA4G9UF2SzD-Z3l0ly4QOUurVoMHpR3nmO4EQkDM=)): i just killed 2 guys and gonna lose stuff too
+20:13:06 | CFAPIChatExpansion => {"status":1,"validation":true}
+ (31)
+20:13:07 | ------------------------- Expansion BaseRaiding Damage Report -------------------------
+20:13:07 | BaseRaiding: Player "Kalamuchta" (ID = "JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw=" at <12140.389648, 11.312408, 9762.365234>) damaged a base part (ExpansionWall6x3) (30000 current health)
+20:13:07 | BaseRaiding: They dealt 89.3494 * 0 = 0 damage with a AKM at <12143.297852, 11.299973, 9758.203125>
+20:13:07 | Expansion BaseRaiding: Health after damage applied: 30000
+20:13:07 | ---------------------------------------------------------------------------------------
+20:13:09 | Player "Unknown/Dead Entity" (id=Unknown pos=<7075.1, 7675.7, 294.3>)[HP: 35.9255] hit by Mosin9130_Black into RightArm(31) for 2.5 damage (FirearmHit_Rifle)
+20:13:10 | Player "Unknown/Dead Entity" (id=Unknown pos=<7075.9, 7676.0, 294.3>)[HP: 35.1005] hit by Mosin9130_Black into RightArm(19) for 2.5 damage (FirearmHit_Rifle)
+20:13:12 | Player "Unknown/Dead Entity" (id=Unknown pos=<7076.7, 7676.4, 294.3>)[HP: 34.2755] hit by Mosin9130_Black into RightArm(30) for 2.5 damage (FirearmHit_Rifle)
+20:13:14 | Player "Unknown/Dead Entity" (id=Unknown pos=<7077.6, 7676.8, 294.3>)[HP: 31.7755] hit by Mosin9130_Black into Torso(24) for 2.5 damage (FirearmHit_Rifle)
+20:13:17 | Player "AndyLT"(id=XNFrXPdJgzoHVgB8T4ArFJFZ-u3heBZdVFlNWdS1mrw=) has been disconnected
+20:13:17 | Player "Kalamuchta"(id=JHK5USDkijfIqXembu3n5t73alktKhkdayWFLw-3Grw=) has been disconnected
+20:13:17 | Player "|BWA| Dudu"(id=hrS-MIh0L86lTMNh0wfO6pDymkh23kVaYuuYOKaicAs=) has been disconnected
+20:13:17 | Player "Survivor"(id=X36VI23vs-8vFWd46RFQixHQ06CgdyeM0Aodesa-I7Y=) has been disconnected
+20:13:17 | Player "Frenz"(id=2pnnQXvny6a7Huh8Sv2gCj6bNUfVW-sHj7NFeMcv-Oo=) has been disconnected
+20:13:17 | Player "(UKSF)Liggy117"(id=jB_bOEJyq9mvxR8JFgT_HcJvTp5Ia8yUrdy9ee9TBak=) has been disconnected
+20:13:17 | Player "imhyprr"(id=HAJJVBThGTHWWvl6Zq0-6FYwGZCEYK-XImVzxQY81pw=) has been disconnected
+20:13:17 | Player "Amikaze"(id=LYmgjGa-2_06yKdFqcuW8uhaTt5PdqDcx23-T8YU4Qc=) has been disconnected
+20:13:17 | Player "Jared"(id=k1v-TVzHZ_uGPS5-QJtps9IPopXsZ9JcYlgvYXiEbCw=) has been disconnected
+20:13:17 | Player "|BWA|bekeka"(id=wrbBr47_7QOlbknQTc7Tkt2xm0Orr_Olu_2sLt7OkXQ=) has been disconnected
+20:13:17 | Player "Mermaider"(id=ncI6qs60Kx1rQkocDjWbCuPnXO5lkCrDpbXV4-ciguc=) has been disconnected
+20:13:17 | Player "|BWA| DieHappy*"(id=uEktker4HmGzb7oPb6kYDEdZanzgm_1F8HgLLGlJh6A=) has been disconnected
+20:13:17 | Player "|BWA| SoSoO"(id=eT97_abyXtAOZQfqIWJU_7k9fWF0WHrg0aBUl-_ArTE=) has been disconnected
+20:13:17 | Player "Rhino Ket"(id=dt0IeWRNhlfG4Cm-_mUrzB2E-BMVva8PeXRDK3X8K3A=) has been disconnected
+20:13:17 | Player "RPR Bert"(id=2p1gom4qX6Rpn2I4ZvG5G0zjCMC1SosKZnJZDNeqVdQ=) has been disconnected
+20:13:17 | Player "AlexSK"(id=uyHNLQr6QhNjys2C4h76v2t5JQXm2fX3COrZVXl4tcs=) has been disconnected
+20:13:18 | Player "Flux"(id=LXOlA4G9UF2SzD-Z3l0ly4QOUurVoMHpR3nmO4EQkDM=) has been disconnected
+20:13:18 | Player "JuicyApple"(id=8lg1r66OdEIEjrYmWM_1EyxHiMIwTPZ78JYNWIiGZxg=) has been disconnected
+20:13:18 | Player "Celerity"(id=7YhJQi5h4yyJWEUUqBrgPDtbYT7QsPs3U7hhYiZsdrc=) has been disconnected
+20:13:18 | Player "starberry"(id=U9Yblbhn6I5SjOGmPMYTzi_d4tUTrnxNye4IlecKRTo=) has been disconnected
+20:13:18 | Player "Yarden"(id=TK8cfnzoE0WIIsRgdGkxHDsSyI6QguXDqQNtJYfoxPs=) has been disconnected
+20:13:18 | Player "Mixxa"(id=0qp_4D1AATmzr2Y-HoRLYoluRexbq0-jk-sYgxiCl7I=) has been disconnected
+20:13:18 | Player "RPR Robby"(id=nQvnhzxYJOhiM10q8sKUYsXsJBVKYPIVKFK5WaYGuOE=) has been disconnected
+20:13:18 | Player "riczi"(id=dJYqnVS2wbUdDl6pu7418NoLYHDfgVJdrRnDopXespM=) has been disconnected
+20:13:18 | Player "Ward"(id=oxFQHPUc5RynAjyhBBFNXwLsHkEK7czqulPJXNLTH4E=) has been disconnected
+20:13:18 | Player "EnvyBby"(id=BxOBDwU7cxEYxPM1c2hDb3vPvaU3QLxMXOfPLm9lkPs=) has been disconnected
+20:13:18 | Player "Jeffery"(id=6Y3vQEXv5e5g-XmHLnIeP5QSbwlJf-00GYAMbxfcXqU=) has been disconnected
+20:13:18 | Player "TRixiNO"(id=Flt76r47hPTB1vQoQmann2ov29XrHuKlynbn9nbRUdU=) has been disconnected
+20:13:18 | Player "wyrafinowana suczka"(id=dWPukiDepgxKiAsBH5RHnu_JT9C00w84OtYfLlZ53pw=) has been disconnected
+20:13:18 | Player "MayneKeen"(id=fYEA1U9Nn53QK6SPMKzYvTjYqPaBE8vAmDBkm4JUJn0=) has been disconnected
+20:13:18 | Player "Show it"(id=DJNf5F1nFw371JlwUajNJrkqjMAmH5vs7POosXwk8_w=) has been disconnected
+20:13:18 | Player "Jamie"(id=aNFc1OKQoOOfiL7qW9ZL6y5NyWTXBDszE23X5EwGj1A=) has been disconnected
+20:13:18 | Player "TerryFox"(id=h-sXG2lbLnhahv3UEgEdxGIPq6w0pZqwHKDvWooNGlw=) has been disconnected
+20:13:18 | Player "kapci"(id=PKAvgADMoiDK0iZCTCXowSMw5h0OgtXYFRmRghuev94=) has been disconnected
+20:13:18 | Player "Danny"(id=eL1JK3NVsJhoo-n2dXh8Rp8wm94FvEnKFdzJwwQg9I4=) has been disconnected
+20:13:18 | Player "wigoor"(id=b7yYHyxPSt7b5iRQ7Oxu7UQNMf4j77-WmK6SwVQAZ5I=) has been disconnected
+20:13:18 | Player "Frank"(id=ptM2eUX76QXDK9lOwUUTxnA-rhxyCuqTU6yiggBCKHo=) has been disconnected
+20:13:18 | Player "RUFUS THE GREAT"(id=eAgSpgok7k5hHt4ccZZ7DGr-TQEZCnaexb1qSNAsm2w=) has been disconnected
+20:13:18 | Player "RPR DE_LICIOUS"(id=im7U8A_9rfW201fZALD-FEzYOrQNQF6ALYKQ7T84itY=) has been disconnected
+20:13:18 | Player "Crusader"(id=YoLURG6x_jA4CzYQv4Q-D51y8B44HF06yW7XUVw5dTU=) has been disconnected
+20:13:18 | Player "Crispy"(id=Co-jmbeHMOdqaEpeE_Pfm0JDRV4JwwmqJaOzb13rLNU=) has been disconnected
+20:13:18 | Player "[BWA] Lazy"(id=h72nIc7JktTUZNZwfB5KqxWXfC2YmH7BAvpa8cmJz8g=) has been disconnected
+20:13:18 | Player "Odin"(id=Q0zz3UTXmV4R7dyXYO3RFrYZ0LVD94uMH3fbrcXEeLM=) has been disconnected
+20:13:18 | Player "The_13abyKnight"(id=bpjzcK1rblJfT43vXuPThs6k3G5SpN25Kv_Tg_RuDVg=) has been disconnected
