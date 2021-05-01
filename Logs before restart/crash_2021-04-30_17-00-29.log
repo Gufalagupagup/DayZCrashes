@@ -1,0 +1,216 @@
+---------------------------------------------
+Log C:\DayZ\OmegaManager\servers\Terminus\profiles\crash_2021-04-30_17-00-29.log started at 30.04. 17:28:24
+
+
+
+------------------------------------
+NS3190111, 30.04 2021 17:28:24
+NULL pointer to instance
+Class:      'ActionBuildPartCB'
+Function: 'SetCallbackDuration'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\classes\useractionscomponent\actions\continuous\actionbuildpart.c:18
+scripts/4_World/classes\useractionscomponent\actions\continuous\actionbuildpart.c:15
+scripts/4_World/classes\useractionscomponent\actions\actioncontinuousbase.c:75
+scripts/4_World/classes\useractionscomponent\animatedactionbase.c:266
+scripts/4_World/classes\useractionscomponent\animatedactionbase.c:282
+scripts/4_World/classes\useractionscomponent\actionmanagerserver.c:320
+scripts/4_World/entities\manbase\playerbase.c:2430
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @ArmA 2 ACR Weapon Pack;@RealNames;@Advanced Weapon Scopes;@[Remastered] Arma Weapon Pack;@DisableGardenPlots;@Vehicle3PP;@FlipTransport;@Cl0ud's Military Gear;@Notes;@NoMuffle;@WindstridesClothingPack;@GoreZ;@Mass'sManyItemOverhaul;@CleanChat;@DayZ-Expansion-Licensed;@DayZ-Expansion-Vehicles;@DayZ-Expansion-Core;@DayZ-Expansion;@Community-Online-Tools;@CF;@Unknown Ghillie Mod;@Saline Bag+;@Morphine Fixes Broken Legs;@MuchStuffPack;@Cheytac M200 from ArmA 2 Port;@[CrSk] BMW 525i E34;@Terminus GPlay Server Mod; serverMod @CFDZPlugin;@CFDZAddIn-Expansion; 
+
+
+------------------------------------
+NS3190111, 30.04 2021 17:32:17
+[DamageSystemData::GetMaxHealth] :: [Hatchback_02_Black] :: Could not find zone "Radiator"
+Class:      'Hatchback_02_Black'
+Entity id:3005963
+
+Function: 'EEItemDetached'
+Stack trace:
+scripts/4_World/entities\vehicles\carscript.c:449
+DayZExpansion/Vehicles/Scripts/4_World/dayzexpansion_vehicles\entities\vehicles\carscript.c:1509
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @ArmA 2 ACR Weapon Pack;@RealNames;@Advanced Weapon Scopes;@[Remastered] Arma Weapon Pack;@DisableGardenPlots;@Vehicle3PP;@FlipTransport;@Cl0ud's Military Gear;@Notes;@NoMuffle;@WindstridesClothingPack;@GoreZ;@Mass'sManyItemOverhaul;@CleanChat;@DayZ-Expansion-Licensed;@DayZ-Expansion-Vehicles;@DayZ-Expansion-Core;@DayZ-Expansion;@Community-Online-Tools;@CF;@Unknown Ghillie Mod;@Saline Bag+;@Morphine Fixes Broken Legs;@MuchStuffPack;@Cheytac M200 from ArmA 2 Port;@[CrSk] BMW 525i E34;@Terminus GPlay Server Mod; serverMod @CFDZPlugin;@CFDZAddIn-Expansion; 
+
+
+------------------------------------
+NS3190111, 30.04 2021 17:39:02
+NULL pointer to instance
+Class:      'ActionBuildPartCB'
+Function: 'SetCallbackDuration'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\classes\useractionscomponent\actions\continuous\actionbuildpart.c:18
+scripts/4_World/classes\useractionscomponent\actions\continuous\actionbuildpart.c:15
+scripts/4_World/classes\useractionscomponent\actions\actioncontinuousbase.c:75
+scripts/4_World/classes\useractionscomponent\animatedactionbase.c:266
+scripts/4_World/classes\useractionscomponent\animatedactionbase.c:282
+scripts/4_World/classes\useractionscomponent\actionmanagerserver.c:320
+scripts/4_World/entities\manbase\playerbase.c:2430
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @ArmA 2 ACR Weapon Pack;@RealNames;@Advanced Weapon Scopes;@[Remastered] Arma Weapon Pack;@DisableGardenPlots;@Vehicle3PP;@FlipTransport;@Cl0ud's Military Gear;@Notes;@NoMuffle;@WindstridesClothingPack;@GoreZ;@Mass'sManyItemOverhaul;@CleanChat;@DayZ-Expansion-Licensed;@DayZ-Expansion-Vehicles;@DayZ-Expansion-Core;@DayZ-Expansion;@Community-Online-Tools;@CF;@Unknown Ghillie Mod;@Saline Bag+;@Morphine Fixes Broken Legs;@MuchStuffPack;@Cheytac M200 from ArmA 2 Port;@[CrSk] BMW 525i E34;@Terminus GPlay Server Mod; serverMod @CFDZPlugin;@CFDZAddIn-Expansion; 
+
+
+------------------------------------
+NS3190111, 30.04 2021 17:48:15
+NULL pointer to instance
+Class:      'ActionBuildPartCB'
+Function: 'SetCallbackDuration'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\classes\useractionscomponent\actions\continuous\actionbuildpart.c:18
+scripts/4_World/classes\useractionscomponent\actions\continuous\actionbuildpart.c:15
+scripts/4_World/classes\useractionscomponent\actions\actioncontinuousbase.c:75
+scripts/4_World/classes\useractionscomponent\animatedactionbase.c:266
+scripts/4_World/classes\useractionscomponent\animatedactionbase.c:282
+scripts/4_World/classes\useractionscomponent\actionmanagerserver.c:320
+scripts/4_World/entities\manbase\playerbase.c:2430
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @ArmA 2 ACR Weapon Pack;@RealNames;@Advanced Weapon Scopes;@[Remastered] Arma Weapon Pack;@DisableGardenPlots;@Vehicle3PP;@FlipTransport;@Cl0ud's Military Gear;@Notes;@NoMuffle;@WindstridesClothingPack;@GoreZ;@Mass'sManyItemOverhaul;@CleanChat;@DayZ-Expansion-Licensed;@DayZ-Expansion-Vehicles;@DayZ-Expansion-Core;@DayZ-Expansion;@Community-Online-Tools;@CF;@Unknown Ghillie Mod;@Saline Bag+;@Morphine Fixes Broken Legs;@MuchStuffPack;@Cheytac M200 from ArmA 2 Port;@[CrSk] BMW 525i E34;@Terminus GPlay Server Mod; serverMod @CFDZPlugin;@CFDZAddIn-Expansion; 
+
+
+------------------------------------
+NS3190111, 30.04 2021 17:51:43
+
+[desync] HandleInputData man=SurvivorM_Mirek:075 CANNOT move cmd=SYNC_MOVE src={ type=ATTACHMENT item=MassMuzzle762:055757 parent=AKM:053070 slot=956435721 } dst={ type=CARGO item=MassMuzzle762:055757 parent=ShelterStick:021185 idx=0 row=3 col=9 f=false }
+Class:      'DayZPlayerInventory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:44
+scripts/4_World/systems\inventory\dayzplayerinventory.c:608
+scripts/4_World/systems\inventory\dayzplayerinventory.c:1102
+scripts/4_World/systems\inventory\dayzplayerinventory.c:482
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @ArmA 2 ACR Weapon Pack;@RealNames;@Advanced Weapon Scopes;@[Remastered] Arma Weapon Pack;@DisableGardenPlots;@Vehicle3PP;@FlipTransport;@Cl0ud's Military Gear;@Notes;@NoMuffle;@WindstridesClothingPack;@GoreZ;@Mass'sManyItemOverhaul;@CleanChat;@DayZ-Expansion-Licensed;@DayZ-Expansion-Vehicles;@DayZ-Expansion-Core;@DayZ-Expansion;@Community-Online-Tools;@CF;@Unknown Ghillie Mod;@Saline Bag+;@Morphine Fixes Broken Legs;@MuchStuffPack;@Cheytac M200 from ArmA 2 Port;@[CrSk] BMW 525i E34;@Terminus GPlay Server Mod; serverMod @CFDZPlugin;@CFDZAddIn-Expansion; 
+
+
+------------------------------------
+NS3190111, 30.04 2021 17:51:52
+
+[desync] HandleInputData man=SurvivorM_Mirek:075 CANNOT move cmd=SYNC_MOVE src={ type=GROUND item=SVD:056896 pos=(4346.05, 195.372, 4015.5) dir=(0.697002, 0.120043, -0.120073, 0.696666) } dst={ type=CARGO item=SVD:056896 parent=ShelterStick:021185 idx=0 row=3 col=0 f=false }
+Class:      'DayZPlayerInventory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:44
+scripts/4_World/systems\inventory\dayzplayerinventory.c:608
+scripts/4_World/systems\inventory\dayzplayerinventory.c:1102
+scripts/4_World/systems\inventory\dayzplayerinventory.c:482
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @ArmA 2 ACR Weapon Pack;@RealNames;@Advanced Weapon Scopes;@[Remastered] Arma Weapon Pack;@DisableGardenPlots;@Vehicle3PP;@FlipTransport;@Cl0ud's Military Gear;@Notes;@NoMuffle;@WindstridesClothingPack;@GoreZ;@Mass'sManyItemOverhaul;@CleanChat;@DayZ-Expansion-Licensed;@DayZ-Expansion-Vehicles;@DayZ-Expansion-Core;@DayZ-Expansion;@Community-Online-Tools;@CF;@Unknown Ghillie Mod;@Saline Bag+;@Morphine Fixes Broken Legs;@MuchStuffPack;@Cheytac M200 from ArmA 2 Port;@[CrSk] BMW 525i E34;@Terminus GPlay Server Mod; serverMod @CFDZPlugin;@CFDZAddIn-Expansion; 
+
+
+------------------------------------
+NS3190111, 30.04 2021 17:55:33
+NULL pointer to instance
+Class:      'ActionBuildPartCB'
+Function: 'SetCallbackDuration'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\classes\useractionscomponent\actions\continuous\actionbuildpart.c:18
+scripts/4_World/classes\useractionscomponent\actions\continuous\actionbuildpart.c:15
+scripts/4_World/classes\useractionscomponent\actions\actioncontinuousbase.c:75
+scripts/4_World/classes\useractionscomponent\animatedactionbase.c:266
+scripts/4_World/classes\useractionscomponent\animatedactionbase.c:282
+scripts/4_World/classes\useractionscomponent\actionmanagerserver.c:320
+scripts/4_World/entities\manbase\playerbase.c:2430
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @ArmA 2 ACR Weapon Pack;@RealNames;@Advanced Weapon Scopes;@[Remastered] Arma Weapon Pack;@DisableGardenPlots;@Vehicle3PP;@FlipTransport;@Cl0ud's Military Gear;@Notes;@NoMuffle;@WindstridesClothingPack;@GoreZ;@Mass'sManyItemOverhaul;@CleanChat;@DayZ-Expansion-Licensed;@DayZ-Expansion-Vehicles;@DayZ-Expansion-Core;@DayZ-Expansion;@Community-Online-Tools;@CF;@Unknown Ghillie Mod;@Saline Bag+;@Morphine Fixes Broken Legs;@MuchStuffPack;@Cheytac M200 from ArmA 2 Port;@[CrSk] BMW 525i E34;@Terminus GPlay Server Mod; serverMod @CFDZPlugin;@CFDZAddIn-Expansion; 
+
+
+------------------------------------
+NS3190111, 30.04 2021 18:04:30
+
+[desync] HandleInputData man=SurvivorM_Mirek:075 CANNOT move cmd=SYNC_MOVE src={ type=CARGO item=A2WM110_mag:056862 parent=TShirt_RedBlackStripes:019131 idx=0 row=0 col=1 f=false } dst={ type=CARGO item=A2WM110_mag:056862 parent=ShelterStick:021185 idx=0 row=1 col=9 f=false }
+Class:      'DayZPlayerInventory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:44
+scripts/4_World/systems\inventory\dayzplayerinventory.c:608
+scripts/4_World/systems\inventory\dayzplayerinventory.c:1102
+scripts/4_World/systems\inventory\dayzplayerinventory.c:482
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @ArmA 2 ACR Weapon Pack;@RealNames;@Advanced Weapon Scopes;@[Remastered] Arma Weapon Pack;@DisableGardenPlots;@Vehicle3PP;@FlipTransport;@Cl0ud's Military Gear;@Notes;@NoMuffle;@WindstridesClothingPack;@GoreZ;@Mass'sManyItemOverhaul;@CleanChat;@DayZ-Expansion-Licensed;@DayZ-Expansion-Vehicles;@DayZ-Expansion-Core;@DayZ-Expansion;@Community-Online-Tools;@CF;@Unknown Ghillie Mod;@Saline Bag+;@Morphine Fixes Broken Legs;@MuchStuffPack;@Cheytac M200 from ArmA 2 Port;@[CrSk] BMW 525i E34;@Terminus GPlay Server Mod; serverMod @CFDZPlugin;@CFDZAddIn-Expansion; 
+
+
+------------------------------------
+NS3190111, 30.04 2021 18:06:53
+NULL pointer to instance
+Class:      'ActionBuildPartCB'
+Function: 'SetCallbackDuration'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\classes\useractionscomponent\actions\continuous\actionbuildpart.c:18
+scripts/4_World/classes\useractionscomponent\actions\continuous\actionbuildpart.c:15
+scripts/4_World/classes\useractionscomponent\actions\actioncontinuousbase.c:75
+scripts/4_World/classes\useractionscomponent\animatedactionbase.c:266
+scripts/4_World/classes\useractionscomponent\animatedactionbase.c:282
+scripts/4_World/classes\useractionscomponent\actionmanagerserver.c:320
+scripts/4_World/entities\manbase\playerbase.c:2430
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @ArmA 2 ACR Weapon Pack;@RealNames;@Advanced Weapon Scopes;@[Remastered] Arma Weapon Pack;@DisableGardenPlots;@Vehicle3PP;@FlipTransport;@Cl0ud's Military Gear;@Notes;@NoMuffle;@WindstridesClothingPack;@GoreZ;@Mass'sManyItemOverhaul;@CleanChat;@DayZ-Expansion-Licensed;@DayZ-Expansion-Vehicles;@DayZ-Expansion-Core;@DayZ-Expansion;@Community-Online-Tools;@CF;@Unknown Ghillie Mod;@Saline Bag+;@Morphine Fixes Broken Legs;@MuchStuffPack;@Cheytac M200 from ArmA 2 Port;@[CrSk] BMW 525i E34;@Terminus GPlay Server Mod; serverMod @CFDZPlugin;@CFDZAddIn-Expansion; 
+
+
+------------------------------------
+NS3190111, 30.04 2021 18:25:50
+NULL pointer to instance
+Class:      'ActionBuildPartCB'
+Function: 'SetCallbackDuration'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\classes\useractionscomponent\actions\continuous\actionbuildpart.c:18
+scripts/4_World/classes\useractionscomponent\actions\continuous\actionbuildpart.c:15
+scripts/4_World/classes\useractionscomponent\actions\actioncontinuousbase.c:75
+scripts/4_World/classes\useractionscomponent\animatedactionbase.c:266
+scripts/4_World/classes\useractionscomponent\animatedactionbase.c:282
+scripts/4_World/classes\useractionscomponent\actionmanagerserver.c:320
+scripts/4_World/entities\manbase\playerbase.c:2430
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @ArmA 2 ACR Weapon Pack;@RealNames;@Advanced Weapon Scopes;@[Remastered] Arma Weapon Pack;@DisableGardenPlots;@Vehicle3PP;@FlipTransport;@Cl0ud's Military Gear;@Notes;@NoMuffle;@WindstridesClothingPack;@GoreZ;@Mass'sManyItemOverhaul;@CleanChat;@DayZ-Expansion-Licensed;@DayZ-Expansion-Vehicles;@DayZ-Expansion-Core;@DayZ-Expansion;@Community-Online-Tools;@CF;@Unknown Ghillie Mod;@Saline Bag+;@Morphine Fixes Broken Legs;@MuchStuffPack;@Cheytac M200 from ArmA 2 Port;@[CrSk] BMW 525i E34;@Terminus GPlay Server Mod; serverMod @CFDZPlugin;@CFDZAddIn-Expansion; 
+
+
+------------------------------------
+NS3190111, 30.04 2021 18:44:42
+
+failed to spawn entity WoodenStick , make sure the classname exists and item can be spawned
+Class:      'SplitFirewood'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:44
+scripts/4_World/classes\recipes\recipebase.c:215
+scripts/4_World/classes\recipes\recipebase.c:528
+scripts/4_World/plugins\pluginbase\pluginrecipesmanager.c:309
+scripts/4_World/classes\useractionscomponent\actions\continuous\actionworldcraft.c:139
+scripts/4_World/classes\useractionscomponent\actions\actioncontinuousbase.c:214
+DayZExpansion/Scripts/4_World/dayzexpansion\classes\useractionscomponent\actions\actioncontinuousbase.c:25
+scripts/4_World/classes\useractionscomponent\actioncomponents\cacontinuousbase.c:12
+scripts/4_World/classes\useractionscomponent\actioncomponents\cacontinuouscraft.c:52
+scripts/4_World/classes\useractionscomponent\animatedactionbase.c:66
+scripts/4_World/classes\useractionscomponent\animatedactionbase.c:363
+scripts/4_World/classes\useractionscomponent\actions\actioncontinuousbase.c:28
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @ArmA 2 ACR Weapon Pack;@RealNames;@Advanced Weapon Scopes;@[Remastered] Arma Weapon Pack;@DisableGardenPlots;@Vehicle3PP;@FlipTransport;@Cl0ud's Military Gear;@Notes;@NoMuffle;@WindstridesClothingPack;@GoreZ;@Mass'sManyItemOverhaul;@CleanChat;@DayZ-Expansion-Licensed;@DayZ-Expansion-Vehicles;@DayZ-Expansion-Core;@DayZ-Expansion;@Community-Online-Tools;@CF;@Unknown Ghillie Mod;@Saline Bag+;@Morphine Fixes Broken Legs;@MuchStuffPack;@Cheytac M200 from ArmA 2 Port;@[CrSk] BMW 525i E34;@Terminus GPlay Server Mod; serverMod @CFDZPlugin;@CFDZAddIn-Expansion; 
+
+
+------------------------------------
+NS3190111, 30.04 2021 18:52:56
+NULL pointer to instance
+Class:      'ActionBuildPartCB'
+Function: 'SetCallbackDuration'
+Stack trace:
+DayZExpansion/Scripts/4_World/dayzexpansion\classes\useractionscomponent\actions\continuous\actionbuildpart.c:18
+scripts/4_World/classes\useractionscomponent\actions\continuous\actionbuildpart.c:15
+scripts/4_World/classes\useractionscomponent\actions\actioncontinuousbase.c:75
+scripts/4_World/classes\useractionscomponent\animatedactionbase.c:266
+scripts/4_World/classes\useractionscomponent\animatedactionbase.c:282
+scripts/4_World/classes\useractionscomponent\actionmanagerserver.c:320
+scripts/4_World/entities\manbase\playerbase.c:2430
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @ArmA 2 ACR Weapon Pack;@RealNames;@Advanced Weapon Scopes;@[Remastered] Arma Weapon Pack;@DisableGardenPlots;@Vehicle3PP;@FlipTransport;@Cl0ud's Military Gear;@Notes;@NoMuffle;@WindstridesClothingPack;@GoreZ;@Mass'sManyItemOverhaul;@CleanChat;@DayZ-Expansion-Licensed;@DayZ-Expansion-Vehicles;@DayZ-Expansion-Core;@DayZ-Expansion;@Community-Online-Tools;@CF;@Unknown Ghillie Mod;@Saline Bag+;@Morphine Fixes Broken Legs;@MuchStuffPack;@Cheytac M200 from ArmA 2 Port;@[CrSk] BMW 525i E34;@Terminus GPlay Server Mod; serverMod @CFDZPlugin;@CFDZAddIn-Expansion; 
